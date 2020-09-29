@@ -14,7 +14,7 @@
       <li>root(priority=1,sitePart==ToxicSpewer)->독으로 지역을 뒤덮을 수 있는 (*Threat)유독성 살포장치(/Threat)</li>
       <li>root(priority=1,sitePart==RaidSource)->[mtbDays] 마다 습격을 하게 되는 (*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 군사구역</li>
       <li>root(priority=1,sitePart==Outpost)->(*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 전초기지</li>
-      <li>root(priority=1,sitePart==BanditCamp)->(*Threat)[enemiesLabel] [enemiesCount](/Threat)명이 지키고 있는 도적캠프</li>
+      <li>root(priority=1,sitePart==BanditCamp)->(*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 도적캠프</li>
       <li>root(priority=1,sitePart==Manhunters,count==1)->근처를 방황하는 (*Threat)식인 [kindLabel](/Threat)</li>
       <li>root(priority=1,sitePart==Manhunters,count>1)->근처를 방황하는 (*Threat)[count] 마리의 식인 [kindLabel](/Threat)</li>
       <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->근처에서 휴면 중인 (*Threat)메카노이드(/Threat)</li>

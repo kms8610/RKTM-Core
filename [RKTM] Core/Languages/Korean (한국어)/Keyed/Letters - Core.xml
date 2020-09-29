@@ -420,7 +420,7 @@
   <!-- EN: {0} blocked {1} on: {2}. -->
   <LetterDisease_Blocked>{0}(이)가 {1} 예방함: {2}.</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
-  <LetterLabelTraitDisease>질병 ({0})</LetterLabelTraitDisease>
+  <LetterLabelTraitDisease>질병: {0}</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>{PAWN_label}(은)는 {1}에 걸렸습니다.\n\n의사와 의료용 침대를 준비하십시오. {PAWN_pronoun}는 많은 휴식을 취하며 적절한 치료를 받아야 합니다.</LetterTraitDisease>
 

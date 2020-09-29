@@ -233,9 +233,9 @@
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>{0}에게 선물 제공 중.</CaravanOfferingGifts>
   <!-- EN: Trading with {0} -->
-  <CaravanTrading>{0}와 거래 중.</CaravanTrading>
+  <CaravanTrading>{0}(와)과 거래 중.</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>유품</WasWornByCorpse>
+  <WasWornByCorpse>시체에서 벗겼기 때문에 찝찝합니다.</WasWornByCorpse>
   <!-- EN: T -->
   <WornByCorpseChar>유품</WornByCorpseChar>
   <!-- EN: unroofed -->
@@ -1015,11 +1015,11 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>아직 준비되지 않음</ShipReportNotReady>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>샬론 화이트스톤은 우주선 원자로를 활성화할 준비를 마쳤습니다.\n\n모든 절차가 끝날 때까지는 15일이 소요되며, 이 과정에서 멀리 떨어진 곳까지도 에너지 흔적을 남길 수 있다고 경고합니다. 이는 치명적인 성간 습격자와 메카노이드 무리를 끌어들인다는 것을 의미합니다. 여태껏 한번도 경험해보지 못한 강력한 습격이 예상됩니다. 방어 태세를 점검하십시오.</HibernateWarning>
+  <HibernateWarning>(*Name)샬론 화이트스톤(/Name)은 우주선 원자로를 활성화할 준비를 마쳤습니다.\n\n모든 절차가 끝날 때까지는 15일이 소요되며, 이 과정에서 멀리 떨어진 곳까지도 에너지 흔적을 남길 수 있다고 경고합니다. 이는 치명적인 성간 습격자와 메카노이드 무리를 끌어들인다는 것을 의미합니다. 여태껏 한번도 경험해보지 못한 강력한 습격이 예상됩니다. 방어 태세를 점검하십시오.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarningStandalone>우주선 원자로를 활성화할 준비를 마쳤습니다.\n\n모든 절차가 끝날 때까지는 15일이 소요되며, 이 과정에서 멀리 떨어진 곳까지도 에너지 흔적을 나길 것입니다. 이는 치명적인 성간 습격자와 메카노이드 무리를 끌어들인다는 것을 의미합니다.\n\n여태껏 한번도 경험해보지 못한 강력한 습격이 예상됩니다. 방어 태세를 점검하십시오.</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>샬론 화이트스톤은 우주선 원자로를 활성화할 준비가 되었으며, 모든 절차가 끝날 때까지 15일이 필요하다고 경고합니다.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>(*Name)샬론 화이트스톤(/Name)은 우주선 원자로를 활성화할 준비가 되었으며, 모든 절차가 끝날 때까지 15일이 필요하다고 경고합니다.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
   <HibernateWarningStandalonePacifist>원자로 가동 준비를 마쳤습니다. 완전 예열까지는 15일이 걸립니다.</HibernateWarningStandalonePacifist>
 
@@ -1287,9 +1287,9 @@
   <!-- EN: Visitors' help -->
   <Reward_VisitorsHelp_Label>방문객의 도움</Reward_VisitorsHelp_Label>
   <!-- EN: New psylink level -->
-  <Reward_BestowingCeremony_Label>새로운 psylink 단계</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony_Label>새로운 정신력 증폭기 단계</Reward_BestowingCeremony_Label>
   <!-- EN: {PAWNNAME} gains psylink -->
-  <Reward_BestowingCeremony>{PAWNNAME}(이)가 psylink를 획득했습니다.</Reward_BestowingCeremony>
+  <Reward_BestowingCeremony>{PAWNNAME}(이)가 정신력 증폭기를 획득했습니다.</Reward_BestowingCeremony>
   <!-- EN: Shuttle loot -->
   <Reward_ShuttleLoot_Label>왕복선 전리품</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
