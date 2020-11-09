@@ -1293,7 +1293,7 @@
   <!-- EN: Shuttle loot -->
   <Reward_ShuttleLoot_Label>왕복선 전리품</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
-  <Reward_ShuttleLoot>왕복선을 분해하고 전리품을 얻을 수 있습니다.</Reward_ShuttleLoot>
+  <Reward_ShuttleLoot>왕복선을 분해하고 전리품을 얻을 수 있음</Reward_ShuttleLoot>
   <!-- EN: Possible future reward -->
   <Reward_PossibleFutureReward_Label>향후 보상</Reward_PossibleFutureReward_Label>
   <!-- EN: a reward possibly granted in the future -->
