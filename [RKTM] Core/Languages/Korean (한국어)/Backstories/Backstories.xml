@@ -3456,7 +3456,7 @@
     <!-- EN: scientist -->
     <titleShort>과학자</titleShort>
     <!-- EN: After finishing [PAWN_possessive] education, [PAWN_nameDef] was hired by the planet's leading genetic researcher. Later, [PAWN_pronoun] was caught running illegal, inhumane experiments.\n\nDespite [PAWN_possessive] family's influence, [PAWN_pronoun] was convicted and sentenced to hard labor on a penal colony. -->
-    <desc>{PAWN_possessive} 교육이 끝난 후, {PAWN_nameDef}(은)는 행성의 대표적인 유전학 연구원에게 고용되었습니다. 나중에, {PAWN_pronoun}는 불법적이고 비인륜적인 실험을 하다 적발되었습니다.\n\n[PAWN_pronous]는 가족의 영향력에도 불구하고, {PAWN_pronoun}는 유죄판결을 받고 형벌 식민지에서 중노동형을 선고받았습니다.</desc>
+    <desc>{PAWN_possessive} 교육이 끝난 후, {PAWN_nameDef}(은)는 행성의 대표적인 유전학 연구원에게 고용되었습니다. 나중에, {PAWN_pronoun}는 불법적이고 비인륜적인 실험을 하다 적발되었습니다.\n\n{PAWN_pronoun}는 가족의 영향력에도 불구하고, 유죄판결을 받고 형벌 식민지에서 중노동형을 선고받았습니다.</desc>
   </MadScientist31>
   
   <MadScientist47>
