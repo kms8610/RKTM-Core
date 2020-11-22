@@ -54,9 +54,9 @@
   -->
   <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
     <li>pawnKindsParagraph(raidCount==1)->[enemyFaction_pawnsPlural]의 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n[raid0/raidArrivalModeInfo]</li>
-    <li>pawnKindsParagraph(raidCount==2)->[enemyFaction_pawnsPlural]의 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n두 번째로 비슷한 규모의 무리가 곧 뒤따릅니다.</li>
-    <li>pawnKindsParagraph(raidCount==3)->[enemyFaction_pawnsPlural]의 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n비슷한 규모의 두 무리가 곧 뒤따릅니다.</li>
-    <li>pawnKindsParagraph(raidCount>=4)->[enemyFaction_pawnsPlural]의 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n비슷한 규모의 [raidCountMinusOne] 무리가 곧 뒤따릅니다.</li>
+    <li>pawnKindsParagraph(raidCount==2)->[enemyFaction_pawnsPlural]의 첫 번째 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n두 번째로 비슷한 규모의 무리가 곧 뒤따릅니다.</li>
+    <li>pawnKindsParagraph(raidCount==3)->[enemyFaction_pawnsPlural]의 첫 번째 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n비슷한 규모의 두 무리가 곧 뒤따릅니다.</li>
+    <li>pawnKindsParagraph(raidCount>=4)->[enemyFaction_pawnsPlural]의 첫 번째 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n비슷한 규모의 [raidCountMinusOne] 무리가 곧 뒤따릅니다.</li>
     <li>numGroupsOf(raidCount==1)-></li>
     <li>numGroupsOf(raidCount==2)->2 무리의</li>
     <li>numGroupsOf(raidCount==3)->3 무리의</li>

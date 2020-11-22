@@ -22,7 +22,7 @@
   <!-- EN: Protect the monument until {0} -->
   <BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>{0}까지 기념비 보호</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
   <!-- EN: Protect for {0} -->
-  <BuildMonumentWorker.ProtectMonument.slateRef>{0}의 보호</BuildMonumentWorker.ProtectMonument.slateRef>
+  <BuildMonumentWorker.ProtectMonument.slateRef>{0} 동안 보호</BuildMonumentWorker.ProtectMonument.slateRef>
   <!-- EN: New monument marker arrived -->
   <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>새로운 기념비 표지 도착</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
   <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
