@@ -507,7 +507,7 @@
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
   <LetterTechprintAppliedPartNotUnlockedYet>연구 시작에 필요한 기술청사진 요구조건이 아직 충족되지 않았습니다. 현재 {0}개의 기술청사진이 적용되었으며, 앞으로 {1}개가 더 필요합니다.</LetterTechprintAppliedPartNotUnlockedYet>
   <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
-  <LetterTechprintAppliedPartAlreadyUnlocked>기술청사진 요구조건은 이미 충족된 상태지만, 더 많은 기술청사진을 투입함으로서 {PROJECT_label}에 대한 추가적인 성과를 얻을 수 있었습니다. 남아있던 연구포인트 {0} 중 절반이 완료되었습니다.</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyUnlocked>기술청사진 요구조건은 이미 충족된 상태지만, 더 많은 기술청사진을 투입함으로써 {PROJECT_label}에 대한 추가적인 성과를 얻을 수 있었습니다. 남은 연구점수의 절반인 {0}점이 완료되었습니다.</LetterTechprintAppliedPartAlreadyUnlocked>
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
   <LetterTechprintAppliedPartAlreadyResearched>이 연구는 이미 완전히 연구된 상태이므로 투입된 기술청사진으로부터 어떤 추가적인 성과도 얻지 못했습니다.</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
