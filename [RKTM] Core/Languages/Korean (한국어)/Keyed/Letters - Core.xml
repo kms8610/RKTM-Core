@@ -24,7 +24,7 @@
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
   <LetterRelationsChange_NeutralFromHostile>{0} 세력과의 관계가 완화되어 더는 공격하지 않을 것입니다.</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>이 경우는 우호도({1})가 {2}보다 커졌기 때문에 발생했습니다. 우호도가 {3}보다 낮아지면, {0} 세력은 다시 공격할 것입니다. 우호도가 {4}이상이 되면, 동맹이 되어 함께 싸워줄 것입니다.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>이 경우는 현재 우호도({1})가 {2}보다 커졌기 때문에 발생했습니다. 우호도가 {3}보다 낮아지면, {0} 세력은 다시 공격할 것입니다. 우호도가 {4}이상이 되면, 동맹이 되어 함께 싸워줄 것입니다.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
   
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
   <LetterRelationsChange_NeutralFromAlly>{0} 세력과의 관계가 식어 중립이 됐습니다.</LetterRelationsChange_NeutralFromAlly>
@@ -161,7 +161,7 @@
   <LastEventsInLife>{PAWN_definite} 생애 마지막 사건</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
-  <LetterInspirationBeginThanksToHighMoodPart>[PAWN_nameIndef](은)는 기분이 좋아 영감을 받았습니다!</LetterInspirationBeginThanksToHighMoodPart>
+  <LetterInspirationBeginThanksToHighMoodPart>{PAWN_nameIndef}(은)는 기분이 좋아 영감을 받았습니다!</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->

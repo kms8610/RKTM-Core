@@ -89,7 +89,7 @@
   <!-- EN: \nResistance reduction: {0} -->
   <RecruitmentLastRecruiterResistanceReduceExplanationPart>\n저항심 감소: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart>
   <!-- EN: Relations gain on release -->
-  <PrisonerReleasePotentialRelationGains>석방시 얻을 우호도</PrisonerReleasePotentialRelationGains>
+  <PrisonerReleasePotentialRelationGains>석방 시 얻는 우호도</PrisonerReleasePotentialRelationGains>
   <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
   <PrisonerReleaseRelationGainsDesc>수감자를 석방하면 수감자가 소속된 세력과의 관계가 개선됩니다. 이것은 죄수의 건강과 정신 상태에 영향을 받습니다.</PrisonerReleaseRelationGainsDesc>
   <!-- EN: Prison break interval -->

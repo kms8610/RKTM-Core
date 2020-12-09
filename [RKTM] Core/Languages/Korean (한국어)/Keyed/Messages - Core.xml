@@ -136,7 +136,7 @@
   <MessageTooLowMedCare>수술에는 {0} 또는 그 이상이 필요하지만, {PAWN_labelShort}의 허용 단계는 "{2}"입니다.</MessageTooLowMedCare>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>{PAWN_labelShort}(이)가 사망했습니다. 이유: {1}.</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{PAWN_labelShort}(이)가 {1} 때문에 사망했습니다.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
   <PawnDied>{1_labelShort}(은)는 사망하였습니다.</PawnDied>
 
