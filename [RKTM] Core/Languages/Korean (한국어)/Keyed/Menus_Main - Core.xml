@@ -161,15 +161,15 @@
   <!-- EN: Workshop page -->
   <WorkshopPage>창작마당 항목</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>스팀 창작마당에 업로드</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>스팀 창작마당에 등록</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>스팀 창작마당에 업데이트</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>스팀 창작마당에 갱신</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>이미 업로드하는 중입니다.</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>이미 등록하는 중입니다.</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>창작마당에 올리지 못했습니다.\n\n사유: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>{0} 업로드에 성공했습니다.</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>{0} 등록에 성공했습니다.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
   <Downloading>내려받는 중</Downloading>
   <!-- EN: Display fulfilled requirements -->
@@ -227,7 +227,7 @@
   <!-- EN: Invalid version order: 'default' should be defined first. -->
   <ModLoadFolderOutOfOrderDefault>잘못된 버전 순서: 'default'를 먼저 정의해야 합니다.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>로드 폴더에서 더는 'default'가 사용되지 않습니다. &lt;v...> 태그를 사용하여 각 버전에 대한 폴더를 정의하세요.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated><![CDATA[로드 폴더에서 더는 'default'가 사용되지 않습니다. <v...> 태그를 사용하여 각 버전에 대한 폴더를 정의하세요.]]></ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
   <ModLoadFolderDefinesUnsupportedGameVersion>{0} 버전은 load folders에 정의되어 있지만, 모드의 About.xml의 'supportedVersions'에는 나열되어 있지 않습니다.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->

@@ -191,7 +191,7 @@
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>필요한 선행연구</ResearchPrerequisites>
   <!-- EN: Techprints required {0} / {1} -->
-  <ResearchTechprintRequirement>기술청사진 필요({0}/{1})</ResearchTechprintRequirement>
+  <ResearchTechprintRequirement>기술청사진 필요 ({0}/{1})</ResearchTechprintRequirement>
   <!-- EN: Insufficient techprints applied ({0} / {1}) -->
   <InsufficientTechprintsApplied>기술청사진 부족 ({0}/{1})</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
@@ -297,7 +297,7 @@
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
   <AcceptRoyalFavor>{FACTION_royalFavorLabel} 수여</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
-  <AcceptRoyalFavorDesc>{FACTION_name}으로부터 {FACTION_royalFavorLabel}(을)를 하사받겠습니까?\n\n거절한다면 {FACTION_name}(은)는 다른 형태의 적당한 보상을 제공할 것입니다.\n\n이 설정은 새로 도착한 임무만 영향을 미칩니다.</AcceptRoyalFavorDesc>
+  <AcceptRoyalFavorDesc>{FACTION_name}(으)로부터 {FACTION_royalFavorLabel}(을)를 하사받겠습니까?\n\n거절한다면 {FACTION_name}(은)는 다른 형태의 적당한 보상을 제공할 것입니다.\n\n이 설정은 새로 도착한 임무만 영향을 미칩니다.</AcceptRoyalFavorDesc>
   <!-- EN: Accept goodwill -->
   <AcceptGoodwill>우호도 받기</AcceptGoodwill>
   <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->

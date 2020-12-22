@@ -85,9 +85,9 @@
   <!-- EN: wanderer join -->
   <WandererJoin.label>방랑자 합류</WandererJoin.label>
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
-  <WandererJoin.letterLabel>방랑자 합류</WandererJoin.letterLabel>
+  <WandererJoin.letterLabel>방랑자 합류: {PAWN_nameDef}</WandererJoin.letterLabel>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
-  <WandererJoin.letterText>{PAWN_nameDef}(이)라는 이름의 방랑자 {PAWN_kind}(이)가 도착하여 정착지에 합류하려고 합니다. {PAWN_pronoun}는 {PAWN_title}입니다.\n\n{PAWN_pronoun}는 정착지에 기여할 생각이 있지만, 자발적으로 떠나지는 않을 것입니다. 만약 {PAWN_nameDef}(을)를 원하지 않는다면 {PAWN_objective} 추방하거나, 노예로 팔거나, 그냥 죽일수도 있습니다. 하지만 정착민 생각도 과연 그럴까요.</WandererJoin.letterText>
+  <WandererJoin.letterText>{PAWN_title}, {PAWN_nameDef}(이)라는 이름의 방랑자가 도착하여 정착지에 합류하려고 합니다.\n\n{PAWN_pronoun}는 정착지에 이바지할 생각이 있지만, 자발적으로 떠나지는 않을 것입니다. 만약 {PAWN_nameDef}(을)를 원하지 않는다면 {PAWN_objective} 추방하거나, 노예로 팔거나, 그냥 죽일 수도 있습니다. 하지만 정착민 생각도 과연 그럴까요.</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>방황하는 야생인간</WildManWandersIn.label>

@@ -292,7 +292,7 @@
   <MessagePermanentWoundHealed>{PAWN_labelShort}의 {2}(이)가 치료되었습니다. 원인: {0}</MessagePermanentWoundHealed>
   
   <!-- EN: [PAWN_nameDef] has recovered and decided to leave. -->
-  <MessageRescueeDidntJoin>회복된 [PAWN_nameDef](은)는 이곳을 떠나기로 결정했습니다.</MessageRescueeDidntJoin>
+  <MessageRescueeDidntJoin>회복된 {PAWN_nameDef}(은)는 이곳을 떠나기로 결정했습니다.</MessageRescueeDidntJoin>
   
   <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>일부 수송포드가 이륙할 수 없습니다.</MessageTransporterUnreachable>
@@ -563,7 +563,7 @@
   <MessagePermitCooldownFinished>{0_labelShort}(은)는 이제 "{1}"을 자유롭게 사용할 수 있습니다.</MessagePermitCooldownFinished>
 
   <!-- EN: {PREDATOR} is hunting {PREY_definite} ({PREY_kindBase}) for food! -->
-  <MessagePredatorHuntingPlayerAnimal>{PREDATOR}(은)는 먹이를 위해 {PREY_definite}(을)를 사냥하고 있습니다!</MessagePredatorHuntingPlayerAnimal>
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR}(은)는 먹이를 위해 {PREY_definite} ({PREY_kindBase})(을)를 사냥하고 있습니다!</MessagePredatorHuntingPlayerAnimal>
 
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
   <MessagePrisonerResistanceBroken>수감자 {PRISONER_labelShort}의 저항심이 {WARDEN_labelShort}에 의해 끝났습니다.</MessagePrisonerResistanceBroken>

@@ -190,7 +190,7 @@
   <!-- EN: relationship -->
   <RelationshipAppendedLetterSuffix>유대관계</RelationshipAppendedLetterSuffix>
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef}(은)는 {RELATIVE_labelShort}의 {1}입니다.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef}(은)는 정착민과 관계가 있습니다. {PAWN_pronoun}는 {RELATIVE_labelShort}의 {1}입니다.</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
   <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef}(은)는 수감자와 관계가 있습니다. {PAWN_pronoun}는 {RELATIVE_labelShort}의 {1}입니다.</RelationshipAppendedLetterTextPrisoner>
 
@@ -206,7 +206,7 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort}(와)과 {PAWN2_labelShort}(은)는 이제 아무 사이도 아닙니다.</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
-  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort}는 자신의 성을 원래대로 되돌립니다.</LetterNoLongerLovers_BackToBirthName>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort}(은)는 자신의 성을 원래대로 되돌립니다.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
   <LetterLabelBreakup>깨짐</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
@@ -382,7 +382,7 @@
   <!-- EN: Reactor ready -->
   <LetterLabelHibernateComplete>원자로 준비 완료</LetterLabelHibernateComplete>
   <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
-  <LetterHibernateComplete>샬론 화이트스톤은 원자로를 완전히 복구했고 이륙할 준비를 마쳤습니다.</LetterHibernateComplete>
+  <LetterHibernateComplete>(*Name)샬론 화이트스톤(/Name)은 원자로를 완전히 복구했고 이륙할 준비를 마쳤습니다.</LetterHibernateComplete>
   <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
   <LetterHibernateCompleteStandalone>원자로 전력이 완전히 복구되어 이륙할 준비가 끝났습니다.</LetterHibernateCompleteStandalone>
 
@@ -396,7 +396,7 @@
   <!-- EN: Faction base proximity -->
   <LetterLabelFactionBaseProximity>세력 거주지 근접도</LetterLabelFactionBaseProximity>
   <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
-  <LetterFactionBaseProximity>거리가 너무 가깝기 때문에 해당 세력이 영토를 침범 당했다고 느낍니다.\n\n지난 4분기동안 감소된 세력과의 관계도:</LetterFactionBaseProximity>
+  <LetterFactionBaseProximity>거리가 너무 가깝기 때문에 해당 세력이 영토를 침범 당했다고 느낍니다.\n\n지난 분기 동안 감소된 세력과의 관계도:</LetterFactionBaseProximity>
 
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
@@ -458,7 +458,7 @@
   <!-- EN: {PAWN_nameDef} joins -->
   <LetterLabelRefugeeJoins>{PAWN_nameDef} 합류</LetterLabelRefugeeJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
-  <LetterRefugeeJoins>{PAWN_title} {PAWN_nameDef}(이)가 정착지의 일원으로 합류했습니다.</LetterRefugeeJoins>
+  <LetterRefugeeJoins>{PAWN_title}, {PAWN_nameDef}(이)가 정착지의 일원으로 합류했습니다.</LetterRefugeeJoins>
   
   <!-- Rescuee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
@@ -543,6 +543,6 @@
   <!-- EN: Caravan detected -->
   <LetterLabelSiteCountdownStarted>상단 감지됨</LetterLabelSiteCountdownStarted>
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
-  <LetterTextSiteCountdownStarted>상단이 감지되었습니다. {0}에서 {2}의 증원군 {1}이 해당 지역에 도착합니다.\n\n{1}(을)를 피하기 위해 상단을 재구성하고 이동하세요. 이제 그들이 도착할 때까지 카운트다운하는 타이머가 표시됩니다.</LetterTextSiteCountdownStarted>
+  <LetterTextSiteCountdownStarted>상단이 감지되었습니다. {0}에서 {2}의 증원군 {1}(이)가 해당 지역에 도착합니다.\n\n{1}(을)를 피하기 위해 상단을 재구성하고 이동하세요. 이제 그들이 도착할 때까지 카운트다운하는 타이머가 표시됩니다.</LetterTextSiteCountdownStarted>
 
 </LanguageData>
