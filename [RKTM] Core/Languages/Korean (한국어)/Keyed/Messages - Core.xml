@@ -292,7 +292,7 @@
   <MessagePermanentWoundHealed>{PAWN_labelShort}의 {2}(이)가 치료되었습니다. 원인: {0}</MessagePermanentWoundHealed>
   
   <!-- EN: [PAWN_nameDef] has recovered and decided to leave. -->
-  <MessageRescueeDidntJoin>회복된 {PAWN_nameDef}(은)는 이곳을 떠나기로 결정했습니다.</MessageRescueeDidntJoin>
+  <MessageRescueeDidntJoin>회복된 [PAWN_nameDef](은)는 이곳을 떠나기로 결정했습니다.</MessageRescueeDidntJoin>
   
   <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>일부 수송포드가 이륙할 수 없습니다.</MessageTransporterUnreachable>

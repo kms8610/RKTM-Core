@@ -21,7 +21,7 @@
     <li>disease->독감</li>
     <li>disease->흑사병</li>
     <li>disease->말라리아</li>
-    <li>disease->전염병</li>
+    <li>disease->감염</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]의 [asker_royalTitleInCurrentFaction], [asker_nameFull](은)는 [dutyRoyalDescription](을)를 도와줄 사람이 필요하다고 합니다.\n\n[asker_pronoun]는 [colonistCountToLend]을 [lendForDays]일 동안 빌려달라고 요청합니다.\n\n[willSendShuttle]</li>
     <li>colonistCountToLend(colonistsToLendCount==1)->정착민 1명</li>
     <li>colonistCountToLend(colonistsToLendCount>1)->정착민 [colonistsToLendCount]명</li>
