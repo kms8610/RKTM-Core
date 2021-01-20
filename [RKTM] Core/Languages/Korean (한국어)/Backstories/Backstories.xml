@@ -1802,11 +1802,11 @@
   
   <Deserter65>
     <!-- EN: deserter -->
-    <title>버림받은 사람</title>
+    <title>탈영병</title>
     <!-- EN: deserter -->
-    <titleShort>버림받은 사람</titleShort>
+    <titleShort>탈영병</titleShort>
     <!-- EN: After countless battles for a cause [PAWN_pronoun] did not believe in, [PAWN_nameDef] threw down [PAWN_possessive] arms and deserted. [PAWN_nameDef] lived in isolation, hunted by those [PAWN_pronoun] had deserted. -->
-    <desc>{PAWN_pronoun}가 믿지 않은 이유로 인한 수많은 전투 이후, {PAWN_nameDef}(은)는 {PAWN_possessive} 내팽겨쳐져 버려졌습니다. {PAWN_nameDef}(은)는 고립 속에서, {PAWN_pronoun}가 버렸던 사람들에게 추적당하며 살았습니다.</desc>
+	<desc>{PAWN_pronoun}의 신념과 맞지 않는 수많은 전투 끝에, {PAWN_nameDef}(은)는 무장을 내팽개치고 도망쳤습니다. {PAWN_nameDef}(은)는 추격을 피해 고립 속에서 살았습니다.</desc>
   </Deserter65>
   
   <DesertRat47>

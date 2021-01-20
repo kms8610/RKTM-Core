@@ -9,7 +9,12 @@
   </supportedVersions>
   <url>https://discord.gg/5UPyCtz</url>
   <description>
-<![CDATA[최종 업데이트: <color=green>2021.01.14</color>
+<![CDATA[최종 업데이트: <color=green>2021.01.20</color>
+
+<color=red>경고!! 경고!! 경고!!
+steamapps\common\RimWorld\Data\Core\Languages
+해당 경로 내에 있는 Korean (한국어).tar 파일을 삭제하지 않는다면 
+타이난의 미흡한 업데이트 때문에 발생한 임무 번역 오류가 계속해서 생성됩니다.</color>
 
 ===============================================================
 이 모드는 바닐라와 DLC 번역 합본팩이며, "<color=orange>Korean (한국어)</color>" 만 사용 가능합니다.
