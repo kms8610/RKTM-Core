@@ -201,17 +201,17 @@
     <li>artstyle_adj->heartfelt</li>
   -->
   <ArtDescriptionUtility_Global.rulePack.rulesStrings>
-<!--<li>style_group->[artextra_clause]. [style_clause].</li>
+    <!--<li>style_group->[artextra_clause]. [style_clause].</li>
     <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
     <li>style_group->[style_clause].</li>
     <li>style_group->[artextra_clause].</li>
     <li>style_group-></li>-->
-    <li>style_group->[artextra_clause]. 그리고 [style_clause].</li>
+    <li>style_group->[artextra_clause]. [style_clause].</li>
     <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
     <li>style_group->[style_clause].</li>
     <li>style_group->[artextra_clause].</li>
     <li>style_group-></li>
-<!--<li>artconjunction(p=6)-></li>
+    <!--<li>artconjunction(p=6)-></li>
     <li>artconjunction->as an interesting contrast,</li>
     <li>artconjunction->rounding out the work,</li>
     <li>artconjunction->in addition to that,</li>
@@ -325,7 +325,7 @@
     <li>symbolizes->(을)를 보는 사람에게 생각하게 합니다</li>
     <li>symbolizes->(을)를 표현합니다</li>
     <li>symbolizes->의 개념을 제시합니다</li>
-<!--<li>depicts->depicts</li>
+    <!--<li>depicts->depicts</li>
     <li>depicts->shows</li>
     <li>depicts->portrays</li>
     <li>depicts->resembles</li>
@@ -345,7 +345,7 @@
     <li>depiction->묘사</li>
     <li>depiction->표현</li>
     <li>depiction->조각</li>
-<!--<li>composition->triangular</li>
+    <!--<li>composition->triangular</li>
     <li>composition->rectangular</li>
     <li>composition->square</li>
     <li>composition->unbalanced</li>
@@ -365,7 +365,7 @@
     <li>composition->수직적인</li>
     <li>composition->수평적인</li>
     <li>composition->집중된</li>
-<!--<li>artstyle_adj->unoriginal</li>
+    <!--<li>artstyle_adj->unoriginal</li>
     <li>artstyle_adj->simple</li>
     <li>artstyle_adj->complex and realistic</li>
     <li>artstyle_adj->surrealistic</li>

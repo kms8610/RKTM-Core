@@ -209,9 +209,9 @@
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>모드 버전이 현재 게임 버전과 맞지 않습니다. 문제가 발생할 수 있습니다.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion><![CDATA[모드는 About.xml에서 올바른 형식의 지원되는 버전 정보가 필요합니다. 예: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion>은 이제 사용되지 않습니다. 자세한 정보는 로그를 확인하십시오.]]></MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>모드는 About.xml에서 올바른 형식의 지원되는 버전 정보가 필요합니다. 예: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions> - &lt;targetVersion>은 이제 사용되지 않습니다. 자세한 정보는 로그를 확인하십시오.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId><![CDATA[모드의 About.xml에서 올바른 양식의 고유한 packageId가 필요합니다. 다음 요구사항을 확인해보세요:\n\n  - 영문, 숫자, . 만 사용가능\n  - 공백이 없어야 함\n  - 하나 이상의 .\n  - 연속으로 .이 반복되거나 .으로 시작하거나, .으로 끝나면 안됨\n  - 60자 이하\n  - "Ludeon"이라는 단어는 포함안됨\n\n예:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId>]]></MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>모드의 About.xml에서 올바른 양식의 고유한 packageId가 필요합니다. 다음 요구사항을 확인해보세요:\n\n  - 영문, 숫자, . 만 사용가능\n  - 공백이 없어야 함\n  - 하나 이상의 .\n  - 연속으로 .이 반복되거나 .으로 시작하거나, .으로 끝나면 안됨\n  - 60자 이하\n  - "Ludeon"이라는 단어는 포함안됨\n\n예:\n&lt;packageId>AuthorName.ModName&lt;/packageId>\n&lt;packageId>AuthorName.ModName.Specific&lt;/packageId></MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
   <ModHadLoadFolderIssues>이 모드의 LoadFolders.xml에 문제가 있으며, 업로드하기 전에 해결해야 합니다:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
@@ -227,7 +227,7 @@
   <!-- EN: Invalid version order: 'default' should be defined first. -->
   <ModLoadFolderOutOfOrderDefault>잘못된 버전 순서: 'default'를 먼저 정의해야 합니다.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated><![CDATA[로드 폴더에서 더는 'default'가 사용되지 않습니다. <v...> 태그를 사용하여 각 버전에 대한 폴더를 정의하세요.]]></ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>로드 폴더에서 더는 'default'가 사용되지 않습니다. &lt;v...> 태그를 사용하여 각 버전에 대한 폴더를 정의하세요.</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
   <ModLoadFolderDefinesUnsupportedGameVersion>{0} 버전은 load folders에 정의되어 있지만, 모드의 About.xml의 'supportedVersions'에는 나열되어 있지 않습니다.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->

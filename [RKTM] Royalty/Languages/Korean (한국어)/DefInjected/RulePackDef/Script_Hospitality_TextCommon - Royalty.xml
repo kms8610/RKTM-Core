@@ -93,7 +93,7 @@
     <li>areIs(lodgersCount>=2)-></li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>
     <li>remainingWillNowLeave(lodgersCount>=2)->남아 있던 [lodgersLabelPlural](이)가 떠납니다. </li>
-	<li>failLetterEndingQuest->'[resolvedQuestName]' 임무에 실패했습니다.</li>
+    <li>failLetterEndingQuest->'[resolvedQuestName]' 임무에 실패했습니다.</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
     <li>failLetterEndingCommon->[failLetterEndingQuest]\n\n[asker_faction_name](와)과의 관계가 [goodwillPenalty] 만큼 감소했습니다.</li>
   </QuestHospitalityCommon.rulePack.rulesStrings>
