@@ -341,7 +341,7 @@
   <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>동면장치 열기</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
-  <EnterShuttle>셔틀에 탑승</EnterShuttle>
+  <EnterShuttle>왕복선에 탑승</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->

@@ -37,7 +37,7 @@
   <!-- EN: flu -->
   <Flu.label>독감</Flu.label>
   <!-- EN: An infectious disease caused by the influenza virus. -->
-  <Flu.description>인플루엔자 바이러스로 인한 전엽병입니다.</Flu.description>
+  <Flu.description>인플루엔자 바이러스로 인한 전염병입니다.</Flu.description>
   <!-- EN: minor -->
   <Flu.stages.minor.label>가벼움</Flu.stages.minor.label>
   <!-- EN: major -->

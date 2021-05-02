@@ -96,7 +96,7 @@
   <!-- EN: smokepop -->
   <Smokepop.label>연막구름</Smokepop.label>
   <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and preventing turrets from locking on entirely. -->
-  <Smokepop.description>먼지 입자를 지표면에서 위로 끌어올려 두꺼운 구름을 형성합니다. 구름 사이를 통과하는 모든 사격의 정확성을 감소시키고, 터렛에게 완전히 조준되는 것을 방지합니다.</Smokepop.description>
+  <Smokepop.description>먼지 입자를 지표면에서 위로 끌어올려 두꺼운 구름을 형성합니다. 구름 사이를 통과하는 모든 사격의 정확성을 감소시키고, 포탑에 완전히 조준되는 것을 방지합니다.</Smokepop.description>
   
   <!-- EN: solar pinhole -->
   <SolarPinhole.label>태양구</SolarPinhole.label>
