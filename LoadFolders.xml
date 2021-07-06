@@ -5,5 +5,9 @@
     <li IfModActive="Ludeon.RimWorld">[RKTM] Core</li>
 	<li IfModActive="Ludeon.RimWorld.Royalty">[RKTM] Royalty</li>
   </v1.2>
+  <v1.3>
+    <li IfModActive="Ludeon.RimWorld">[RKTM] Core</li>
+	<li IfModActive="Ludeon.RimWorld.Royalty">[RKTM] Royalty</li>
+  </v1.3>
 
 </loadFolders>

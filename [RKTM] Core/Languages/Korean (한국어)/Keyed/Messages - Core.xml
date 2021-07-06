@@ -447,7 +447,7 @@
   <!-- EN: {0} cannot grow underneath a roof. -->
   <MessagePlantIncompatibleWithRoof>{0}(은)는 지붕 아래서 자라날 수 없습니다.</MessagePlantIncompatibleWithRoof>
   <!-- EN: Cannot build a roof over {0}. -->
-  <MessageRoofIncompatibleWithPlant>{0}(은)는 지붕 아래에 건설할 수 없습니다.</MessageRoofIncompatibleWithPlant>
+  <MessageRoofIncompatibleWithPlant>{0} 위에 지붕을 건설할 수 없습니다.</MessageRoofIncompatibleWithPlant>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>이 지역을 떠나려면, 세계 지도에서 '상단 재구성' 버튼을 사용하세요.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
