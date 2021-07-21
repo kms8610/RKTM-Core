@@ -33,5 +33,13 @@
   <Expectations.stages.royal_expectations.label>왕실의 기대감</Expectations.stages.royal_expectations.label>
   <!-- EN: My majesty... I can hardly believe it myself. A moment's discomfort is below me. -->
   <Expectations.stages.royal_expectations.description>폐하... 제가 이런 불편한 환경에 있다는 것이 믿을 수가 없습니다.</Expectations.stages.royal_expectations.description>
+  <!-- EN: elite expectations -->
+  <Expectations.stages.elite_expectations.label>정예의 기대감</Expectations.stages.elite_expectations.label>
+  <!-- EN: I shouldn't have to endure any inconveniences that distract me from my important role. -->
+  <Expectations.stages.elite_expectations.description>아니 내가... 이런 수모를 참아야 해? 그건 말도 안돼.</Expectations.stages.elite_expectations.description>
+  <!-- EN: supreme expectations -->
+  <Expectations.stages.supreme_expectations.label>지고자의 기대감</Expectations.stages.supreme_expectations.label>
+  <!-- EN: My importance here is uncontested, so my comfort must be a critical priority for my people. -->
+  <Expectations.stages.supreme_expectations.description>나의 중요성은 논란의 여지가 없어. 너희들 보다 내가 더 중요해. 날 보필해야 해.</Expectations.stages.supreme_expectations.description>
   
 </LanguageData>

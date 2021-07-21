@@ -6,9 +6,9 @@
   <!-- EN: An area-denial device which annihilates nearby plants without affecting animals.\n\nIn planetary wars, these weapons are scattered across farmlands or jungles to deny the enemy food or cover. They're usually associated with orbital-drop mechanoid swarms. -->
   <Defoliator.description>동물에겐 영향이 없지만, 인근 식물을 멸절시키는 독성을 내뿜는 장치입니다.\n\n성간 전쟁에서 이 무기는 적의 음식을 무용지물로 만드는 역할을 했습니다. 이것은 일반적으로 메카노이드 군단과 관련이 있습니다.</Defoliator.description>
   
-  <!-- EN: gloomlight -->
+  <!-- EN: mech node -->
   <Gloomlight.label>그늘조명</Gloomlight.label>
-  <!-- EN: A self-powered mechanoid light. Gloomlights can be deconstructed to yield valuable resources, or used as lights - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
+  <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
   <Gloomlight.description>자가동력 메카노이드 조명입니다. 그늘조명은 온전한 상태로 점유했을 때, 귀중한 자원을 얻기 위해 분해하거나 조명으로 사용할 수 있습니다. 내부의 극소 발전기는 장치가 큰 피해를 받았을 때 스스로 재료를 파괴하며 불꽃을 피웁니다.</Gloomlight.description>
   
   <!-- EN: unstable power cell -->

@@ -13,7 +13,7 @@
   <CannotUseNoPath>사용 불가 (경로 없음)</CannotUseNoPath>
   <!-- EN: Cannot use: Reserved -->
   <CannotUseReserved>사용 불가 (예약됨)</CannotUseReserved>
-  <!-- EN: Cannot use: full -->
+  <!-- EN: Cannot use: Full -->
   <CannotUseFull>사용 불가 (가득참)</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>대장 {1_labelShort}(이)가 움직일 수 없음</LeaderUnavailable>
@@ -35,6 +35,8 @@
   <IsIncapableOfViolenceLower>{1_labelShort}(은)는 싸울 수 없음</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>싸울 수 없음</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>{0_labelShort}(은)는 사격할 수 없음</IsIncapableOfShootingLower>
   <!-- EN: {1_labelShort} is not drafted -->
   <IsNotDraftedLower>{1_labelShort}(이)가 소집되지 않음</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
@@ -55,6 +57,8 @@
   <NoPath>경로 없음</NoPath>
   <!-- EN: burying -->
   <Burying>매장</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>{0} 지정됨</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>상호작용 금지됨</ForbiddenLower>
@@ -78,6 +82,8 @@
   <UnderAllowedSkill>허가 기술 {0} 이하</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
   <AboveAllowedSkill>허가 기술 {0} 이상</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>야외에 도달할 수 없음</NoReachableOutsideCell>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>부족한 기술 수준</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
@@ -96,6 +102,20 @@
   <CantInteractAnimalAsleep>잠든 동물</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>바쁜 동물</CantInteractAnimalBusy>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>상호작용 가능한 우리에 도달할 수 없음</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>완성된 우리 없음</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>상호작용 가능한 우리 없음</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>도달할 수 있는 우리 없음</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>도달할 수 없음</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>우리에 자리 없음</CantRopeAnimalNoSpace>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>이미 최적의 우리 안에 있음</CantRopeAnimalAlreadyInBestPen>
   <!-- EN: {0} skill too low -->
   <SkillTooLowForConstruction>{0} 기술 부족</SkillTooLowForConstruction>
   <!-- EN: need components -->
@@ -140,11 +160,13 @@
   <UpgradeImplant>{0}(을)를 {1}단계로 향상</UpgradeImplant>
   <!-- EN: violation of faction ally -->
   <SurgeryViolationFellowFactionMember>아군 세력의 위반</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>{0_labelShort}에 의해 옮겨지는 중</BeingCarriedBy>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>{1_labelShort} 섭취</ConsumeThing>
   
-  <!-- EN: Cannot go here: no path -->
+  <!-- EN: Cannot go here: No path -->
   <CannotGoNoPath>갈 수 없음 (경로 없음)</CannotGoNoPath>
   <!-- EN: Go here -->
   <GoHere>여기로 이동</GoHere>
@@ -155,6 +177,8 @@
   <TryToArrest>{1_label} 체포 시도 ({2} 확률)</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>체포 불가</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>체포 확률 {0}</ArrestChance>
 
   <!-- EN: Capture {1_label} -->
   <Capture>{1_label} 포획</Capture>
@@ -179,13 +203,15 @@
   <!-- EN: Temporary faction members not allowed. -->
   <CryptosleepCasketGuestsNotAllowed>임시 정착민은 동면시킬 수 없음</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
-  <CryptosleepCasketGuestPrisonersNotAllowed>수감된 죄수는 허용되지 않음</CryptosleepCasketGuestPrisonersNotAllowed>
+  <CryptosleepCasketGuestPrisonersNotAllowed>외부에서 받은 수감자는 불가능합니다.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>이미 사용 중</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
-  <NoPrisonerBed>사용 가능한 수감용 침대 없음</NoPrisonerBed>
+  <NoPrisonerBed>도달 가능하고, 사용 중이지 않고, 닫혀있는 안전한 온도의 수감용 침대 없음</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
-  <NoNonPrisonerBed>사용 가능한 침대 없음</NoNonPrisonerBed>
+  <NoNonPrisonerBed>도달 가능하고, 사용 중이지 않고, 안전한 온도의 침대 없음</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
-  <NoAnimalBed>사용 가능한 동물 침대 없음</NoAnimalBed>
+  <NoAnimalBed>도달 가능하고, 사용 중이지 않고, 안전한 온도의 동물 침대 없음</NoAnimalBed>
   <!-- EN: Reserved by someone else. -->
   <Reserved>누군가에게 예약됨</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
@@ -244,6 +270,10 @@
   <PickUpSome>약간의 {1_labelShort} 줍기</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>x{{0}}개 만큼 {1_labelShort} 줍기</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>{1_labelShort} 주울 수 없음</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>{0}개의 {1} 허용됨</MaxPickUpAllowed>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>짐꾼 동물에게 {1_label} 줄 수 없음</CannotGiveToPackAnimal>
@@ -274,9 +304,9 @@
   <OverweightLower>무게초과</OverweightLower>
 
   <!-- EN: Cannot carry {1_label} and leave the area -->
-  <CannotCarryToExit>{1_label} 가지고 나갈 수 없음</CannotCarryToExit>
+  <CannotCarryToExit>{1_label}(을)를 데리고 떠날 수 없음</CannotCarryToExit>
   <!-- EN: Carry {1_label} and leave the area -->
-  <CarryToExit>{1_label} 가지고 나가기</CarryToExit>
+  <CarryToExit>{1_label}(을)를 들쳐 메고 지역 떠나기</CarryToExit>
   <!-- EN: Capture {1_label} and leave the area -->
   <CarryToExitAndCapture>{1_label}(을)를 포획 후 지역 떠나기</CarryToExitAndCapture>
   
@@ -286,12 +316,21 @@
   <CannotStrip>{1_label} 벗기기 불가</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
   <CannotDrop>{1_label} 제거 불가</CannotDrop>
+  <!-- EN: Carry {0_label} -->
+  <Carry>{0_label} 들쳐 메기</Carry>
+  <!-- EN: Cannot carry {0_label} -->
+  <CannotCarry>{0_label}(을)를 들쳐 멜 수 없음</CannotCarry>
   <!-- EN: temporary faction member -->
   <QuestRelated>임시 정착민</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
   <QuestRelated_Outfit>임시 정착민의 의상은 변경할 수 없습니다.</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
-  <WouldReplaceLockedApparel>잠긴 의복 대채</WouldReplaceLockedApparel>
+  <WouldReplaceLockedApparel>잠긴 의복 대체</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>{0_label}(을)를 {1_label}에 넣을 수 없음</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>{0_label}(을)를 {1_label}에 넣기</PlaceIn>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>여기서 자폭</SelfDestructHere>
@@ -349,7 +388,7 @@
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>{0} 불가</CannotGenericWorkCustom>
 
-  <!-- EN: Cannot prioritize: incapable of {0} -->
+  <!-- EN: Cannot prioritize: Incapable of {0} -->
   <CannotMissingHealthActivities>우선시 불가 ({0} 불가능)</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
@@ -358,30 +397,34 @@
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>이미 {0} 중</CannotGenericAlreadyAmCustom>
 
-  <!-- EN: Cannot prioritize: will never do {0} -->
+  <!-- EN: Cannot prioritize: Will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>우선시 불가 ({0} 불가능)</CannotPrioritizeWorkTypeDisabled>
-  <!-- EN: Cannot trade: lacking necessary title -->
-  <CannotTradeMissingTitleAbility>거래 불가: 필요한 칭호 부족</CannotTradeMissingTitleAbility>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>필요 작위 부족</MissingTitleAbility>
 
-  <!-- EN: Cannot prioritize: will never {0} -->
+  <!-- EN: Cannot prioritize: Will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>우선시 불가 (절대 {0} 하지 않음)</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>{0} 불가</WillNever>
 
-  <!-- EN: Cannot prioritize: not assigned to {0} -->
+  <!-- EN: Cannot prioritize: Not assigned to {0} -->
   <CannotPrioritizeNotAssignedToWorkType>우선시 불가 ({0} 할당되지 않음)</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>할당되지 않음</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>{0}에 할당되지 않음</NotAssignedToWorkType>
 
-  <!-- EN: Cannot prioritize: research is a long-term task -->
+  <!-- EN: Cannot prioritize: Research is a long-term task -->
   <CannotPrioritizeResearch>우선시 불가 (연구 프로젝트)</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
   <CannotPrioritizeForbidden>우선시 불가 ({1_label}의 상호작용 금지됨)</CannotPrioritizeForbidden>
-  <!-- EN: Cannot prioritize: forbidden -->
+  <!-- EN: Cannot prioritize: Forbidden -->
   <CannotPrioritizeCellForbidden>우선시 불가 (상호작용 금지됨)</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>우선시 불가 (허가구역 외부)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>매장 우선시 불가</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
@@ -430,6 +473,8 @@
   <GiveToCaravan>{0}에게 주기</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
   <GiveGiftViaTransportPods>{0}에게 선물로 제공 ({1})</GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>발사 그룹에 속하지 않음</NotPartOfLaunchGroup>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
@@ -442,5 +487,32 @@
 
   <!-- EN: Too dangerous -->
   <EnterCooldownBlocksEntering>위험</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>연락 가능한 대상 없음</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>{0} 호출</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>{0} 호출 불가</CannotInvoke>
+  <!-- EN: power -->
+  <Power>전원</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>이미 호출함</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>{0} 치료</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>{0} 치료 불가</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>{0}(은)는 치료가 필요하지 않음</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>약품 없이</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>{0} 수리</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>{0} 수리 불가</CannotRepair>
   
 </LanguageData>

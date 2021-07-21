@@ -152,7 +152,7 @@
   <DoBillsFabricationBench.label>만들기</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>만들기</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricating things -->
+  <!-- EN: fabricate -->
   <DoBillsFabricationBench.verb>만들기</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
@@ -297,9 +297,9 @@
   
   <!-- EN: execute prisoners -->
   <DoExecution.label>수감자 처형</DoExecution.label>
-  <!-- EN: doing execution on -->
+  <!-- EN: executing -->
   <DoExecution.gerund>처형</DoExecution.gerund>
-  <!-- EN: do execution on -->
+  <!-- EN: execute -->
   <DoExecution.verb>처형</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
@@ -308,6 +308,20 @@
   <Drill.gerund>심층 채굴</Drill.gerund>
   <!-- EN: drill -->
   <Drill.verb>심층 채굴</Drill.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>빈 달걀 상자</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>비우기</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>빈</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>죄가 있는 정착민 처형</ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>집행 중</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>집행</ExecuteGuiltyColonist.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>수감자 밥 먹여주기</FeedPrisoner.label>
@@ -477,6 +491,13 @@
   <!-- EN: rearm -->
   <RearmTurrets.verb>장전</RearmTurrets.verb>
   
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>가축 조정</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>밧줄 질</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>밧줄</RebalanceAnimalsInPens.verb>
+  
   <!-- EN: refuel fuelable buildings -->
   <Refuel.label>연료 보충</Refuel.label>
   <!-- EN: refueling -->
@@ -490,6 +511,13 @@
   <ReleasePrisoner.gerund>석방</ReleasePrisoner.gerund>
   <!-- EN: release -->
   <ReleasePrisoner.verb>석방</ReleasePrisoner.verb>
+  
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>야생 방출</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>방출 중</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>방출</ReleaseToWild.verb>
   
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>지붕 해체</RemoveRoofs.label>
@@ -533,6 +561,13 @@
   <!-- EN: strip -->
   <Strip.verb>벗기기</Strip.verb>
   
+  <!-- EN: study -->
+  <StudyThing.label>연구</StudyThing.label>
+  <!-- EN: studying -->
+  <StudyThing.gerund>연구 중</StudyThing.gerund>
+  <!-- EN: research -->
+  <StudyThing.verb>연구</StudyThing.verb>
+  
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>발효통에서 맥주 꺼내기</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
@@ -547,12 +582,26 @@
   <!-- EN: take to bed -->
   <TakePrisonerToBed.verb>이송</TakePrisonerToBed.verb>
   
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>동물 밧줄로 견인</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>줄 질</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>밧줄</TakeRoamingAnimalsToPen.verb>
+  
   <!-- EN: take patients to bed for operations -->
   <TakeToBedToOperate.label>수술하기 위해 침대로 환자 이송</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
   <TakeToBedToOperate.gerund>이송</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
   <TakeToBedToOperate.verb>이송</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>묶인 동물</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>밧줄</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>밧줄</TakeToPen.verb>
   
   <!-- EN: tame animals -->
   <Tame.label>동물 길들이기</Tame.label>

@@ -152,6 +152,10 @@
   <ConfirmDeleteMod>정말 {0}의 모든 내용을 제거하길 원하십니까?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>모드 자동 정렬</ResolveModOrder>
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>{0}(을)를 이동할 수 없음: {1} 이후에 불러와야 합니다.</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>{0}(을)를 이동할 수 없음: {1} 이전에 불러와야 합니다.</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>구독 해제</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
@@ -175,7 +179,7 @@
   <!-- EN: Display fulfilled requirements -->
   <ModDisplayFulfilledRequirements>요구사항 표시</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>클릭하여 선택하십시오.</ModClickToSelect>
+  <ModClickToSelect>클릭해서 선택할 수 있습니다.</ModClickToSelect>
   <!-- EN: Click to go to website. -->
   <ModClickToGoToWebsite>클릭하여 웹사이트로 이동하십시오.</ModClickToGoToWebsite>
   <!-- EN: Source -->
@@ -289,7 +293,7 @@
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
   <ReloadAnytimeModeInfo>클래식 모드에서는 언제든 게임을 저장하거나 불러올 수 있습니다.\n\n게임을 배우는 중이거나 불안정한 외부 컨텐츠를 사용하는 경우에 적합합니다.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>철인 모드에서는 게임을 종료할 때만 저장이 가능합니다.\n\n림월드는 이야기 생성기이기 때문에, 한명을 제외하고 모두 잃는다고 해서 게임이 끝나는 것이 아닙니다. 이 게임은 손실 후 회복할 수 있도록 설계되었습니다. 모든 것은 이야기의 일부분일 뿐입니다.\n\n림월드에서 권장하는 플레이 방식으로, 매 순간 주어지는 희극과 비극을 온전히 경험할 수 있습니다.</PermadeathModeInfo>
+  <PermadeathModeInfo>철인 모드에서는 게임을 종료할 때만 저장이 가능합니다.\n\n림월드는 이야기 생성기이기 때문에, 한명을 제외한 모두를 잃더라도 게임이 끝나는 것이 아닙니다. 림월드는 손실을 겪은 후에 회복할 수 있도록 설계되었습니다. 모든 것은 이야기의 일부분일 뿐입니다.\n\n림월드에서 권장하는 플레이 방식으로, 매 순간 주어지는 희극과 비극을 온전히 경험할 수 있습니다.\n\n상실과 그 후의 회복이야말로 극적인 것입니다.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
   <CanChangeStorytellerSettingsDuringPlay>이야기꾼과 난이도는 언제든지 변경 가능합니다.</CanChangeStorytellerSettingsDuringPlay>
 
@@ -430,16 +434,20 @@
   <Difficulty_AllowMortars_Label>박격포 건설 가능</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
   <Difficulty_AllowMortars_Info>플레이어는 박격포를 만들 수 있습니다.\n\n이 설정을 비활성했더라도 박격포를 포획했다면 사용 가능합니다.</Difficulty_AllowMortars_Info>
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>기존 박격포</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>박격포의 건설과 재장전에 강화 포신이 필요하지 않은 대신, 그에 맞춰 밸런스가 조정됩니다.</Difficulty_ClassicMortars_Info>
   
   <!-- EN: Adaptation -->
   <DifficultyAdaptationSection>각색</DifficultyAdaptationSection>
-  <!-- EN: Damage adaptation growth -->
+  <!-- EN: Adaptation growth rate -->
   <Difficulty_AdaptationGrowthRateFactorOverZero_Label>피해 각색 성장</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
-  <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the rate of that challenge growth. -->
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
   <Difficulty_AdaptationGrowthRateFactorOverZero_Info>각색이란 손실을 당하지 않은채 시간이 지날수록 이야기꾼이 게임을 더 어렵게 만드는 것을 의미합니다. 이는 재산과 인구수의 이야기 효과와는 별개입니다.\n\n도전 성장률을 조정합니다.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
-  <!-- EN: Damage adaptation effect -->
+  <!-- EN: Adaptation impact -->
   <Difficulty_AdaptationEffectFactor_Label>피해 각색 효과</Difficulty_AdaptationEffectFactor_Label>
-  <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats. -->
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
   <Difficulty_AdaptationEffectFactor_Info>각색이란 손실을 당하지 않은채 시간이 지날수록 이야기꾼이 게임을 더 어렵게 만드는 것을 의미합니다. 이는 재산과 인구수의 이야기 효과와는 별개입니다.\n\n실제 위협에 대한 적응값의 효과를 조정합니다.</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Wealth-independent progress mode -->
   <Difficulty_FixedWealthMode_Label>재산 독립진행방식</Difficulty_FixedWealthMode_Label>
@@ -514,7 +522,7 @@
   <!-- EN: Average disease frequency -->
   <AverageDiseaseFrequency>평균 질병 빈도</AverageDiseaseFrequency>
   <!-- EN: per year -->
-  <PerYear>매 년</PerYear>
+  <PerYear>매년</PerYear>
   <!-- EN: Forageability -->
   <Forageability>수렵능력</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
@@ -546,7 +554,7 @@
   <!-- EN: Caused by backstory: {0} -->
   <IncapableOfTooltipBackstory>{0} 배경에 의해 발생</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>{0} 직업에 의해 발생</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>{0} 작위에 의해 발생</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait: {0} -->
   <IncapableOfTooltipTrait>{0} 특성에 의해 발생</IncapableOfTooltipTrait>
   <!-- EN: Caused by: {0} -->
@@ -555,8 +563,10 @@
   <IncapableOfTooltipWorkTypes>비활성화된 작업 유형:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by quest status: {0} -->
   <IncapableOfTooltipQuest>{0} 임무에 의해 발생</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role: {0} -->
+  <IncapableOfTooltipRole>{0} 역할에 의해 발생</IncapableOfTooltipRole>
   <!-- EN: Traits -->
-  <Traits>특징</Traits>
+  <Traits>특성</Traits>
   <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>영구적인 기분 영향</PermanentMoodEffect>
   <!-- EN: Skills -->
@@ -573,6 +583,8 @@
   <Male>남성</Male>
   <!-- EN: female -->
   <Female>여성</Female>
+  <!-- EN: male and female -->
+  <MaleAndFemale>남성과 여성</MaleAndFemale>
   <!-- EN: male -->
   <MaleAnimal>수컷</MaleAnimal>
   <!-- EN: female -->
@@ -589,6 +601,8 @@
   <StartingPawnsSelected>선택됨</StartingPawnsSelected>
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>남겨짐</StartingPawnsLeftBehind>
+  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
+  <GuiltyDesc>이 정착민은 유죄 판결을 받았습니다. 자유롭게 추방, 처형, 체포를 할 수 있으며, 다른 정착민도 신경 쓰지 않을 것입니다.\n\n유죄 판결 만료</GuiltyDesc>
   
   <!-- Misc -->
   <!-- EN: Start -->
@@ -628,5 +642,27 @@
   <ClickForMoreInfo>더 많은 정보가 필요하면 클릭</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>더 이상 정보가 없습니다.</NoMoreInfoAvailable>
+
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>세력</Factions>
+  <!-- EN: Gameplay problems can occur with more than {0} factions. -->
+  <RecommendedFactionCount>{0}개가 넘는 세력을 설정하면 게임 플레이에 문제가 생길 수 있습니다.</RecommendedFactionCount>
+  <!-- EN: Maximum {0} visible factions allowed. -->
+  <TotalFactionsAllowed>알려진 세력은 {0}개까지 설정할 수 있습니다.</TotalFactionsAllowed>
+  <!-- EN: There can be no more than {0} {1}. -->
+  <MaxFactionsForType>{1}(을)를 {0}개보다 많이 설정할 수 없습니다.</MaxFactionsForType>
+  <!-- EN: Restore defaults -->
+  <ResetFactionsToDefault>기본값 복원</ResetFactionsToDefault>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>세계의 세력을 선택하세요. {0}개까지 선택할 수 있습니다.</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>{0}(을)를 비활성화하면 퀘스트 다양성과 콘텐츠가 줄어듭니다.</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>{0}(을)를 비활성화하면 위협의 다양성이 줄어듭니다.</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>{0}(을)를 비활성화하면 퀘스트 다양성과 위협의 종류가 줄어듭니다.</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>다른 세력 없이는 습격, 거래, 임무가 정상적으로 발동하지 않습니다.</FactionsDisabledWarning>
 
 </LanguageData>

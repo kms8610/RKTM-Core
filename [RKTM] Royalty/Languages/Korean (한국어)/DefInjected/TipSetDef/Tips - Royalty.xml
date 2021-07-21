@@ -39,5 +39,7 @@
   <RoyaltyTips.MechClusterDormantTrigger>메카 전초기지와 싸울 때, 동력전지를 사용해보세요. 폭발할 때 주위 생명체와 구조물에 큰 피해를 입힐 수 있습니다.</RoyaltyTips.MechClusterDormantTrigger>
   <!-- EN: The psychic skip power works on self, allies, enemies, and even items. The tactical possibilities are endless. -->
   <RoyaltyTips.SkipPsycastsMultiuse>몇몇 메카 전초기지는 방해 받을 때까지 휴면 상태에 있습니다. 그 시간을 이용해 공격할 준비를 하세요.</RoyaltyTips.SkipPsycastsMultiuse>
+  <!-- EN: You can carry a downed ally while using the jump pack. Aerial rescues save lives. -->
+  <RoyaltyTips.JumpPackRescue>점프팩을 사용 중일 때도 쓰러진 아군을 들쳐 멜 수 있습니다. 공중 구조로 목숨을 살리세요.</RoyaltyTips.JumpPackRescue>
   
 </LanguageData>

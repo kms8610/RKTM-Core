@@ -28,6 +28,8 @@
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
   <ToCommaListAnd>{0} 그리고 {1}</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>{0} 또는 {1}</ToCommaListOr>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -38,6 +40,8 @@
   <New>새</New>
   <!-- EN: Gender -->
   <Gender>성별</Gender>
+  <!-- EN: Sex -->
+  <Sex>성별</Sex>
   <!-- EN: min -->
   <min>최소</min>
   <!-- EN: max -->
@@ -49,7 +53,7 @@
   <!-- EN: multiplier -->
   <multiplier>계수</multiplier>
   <!-- EN: damage -->
-  <damage>피해</damage>
+  <damage>피해량</damage>
   <!-- EN: radius -->
   <radius>범위</radius>
   <!-- EN: expired -->
@@ -84,6 +88,8 @@
   <Etc>기타</Etc>
   <!-- EN: ${0} -->
   <MoneyFormat>${0}</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>요인</Factors>
 
   <!-- Content generation-->
   
@@ -169,5 +175,9 @@
 
   <!-- EN: applying techprint ({0}) -->
   <ApplyingTechprint>({0})에 기술청사진 적용</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>원형</VariantOf>
   
 </LanguageData>

@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: anima tree linking -->
+  <AnimaTreeLinking.label>영혼나무 연결</AnimaTreeLinking.label>
+  <!-- EN: Start the anima tree linking ceremony. The linking person will meditate near the tree to gain a psylink level. Other psychically-sensitive colonists can also  help enhance the psychic link. More participants will accelerate the ceremony and cause some of the anima grass to re-grow as the ritual completes. -->
+  <AnimaTreeLinking.description>영혼나무와 연결 의식을 시작합니다. 연결 후엔 정신력 증폭기가 한 단계 향상됩니다. 다른 정신적으로 민감한 정착민도 연결 의식을 도와줄 수 있습니다. 참여자가 많아지면 의식에 필요한 시간이 짧아지며 일부 영혼잔디가 의식 후에 다시 자라납니다.</AnimaTreeLinking.description>
+  
   <!-- EN: beckon -->
   <Beckon.label>현혹</Beckon.label>
   <!-- EN: Psychically command the target to approach the caster. -->
@@ -78,9 +83,9 @@
   
   <!-- EN: neuroquake -->
   <Neuroquake.label>신경지진</Neuroquake.label>
-  <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature on the map outside of a safe circle near the caster will be driven violently insane. Casting this takes three hours of meditation, and afterwards, the caster will go into a three-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+  <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe, inner, circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
   <Neuroquake.description>정신장에서 불연속성을 찾아 펼쳐서 엄청난 정신 에너지의 양을 방출합니다. 시전자 근처의 안전한 원 밖에 있는 모든 생명체는 미쳐서 날뛰게 됩니다. 캐스팅을 하는 데 3시간의 명상이 걸리고, 그 후 시전자는 3일 간 초능력 혼수상태에 빠집니다. 불안정한 신경지진의 메아리는 주변 수킬로미터에 걸쳐 모든 사람들에게 고통을 주며, 모든 세력에게 외교적 불이익을 당할 것입니다.</Neuroquake.description>
-  <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes three hours to cast, and cannot be interrupted. The caster will also fall into a psychic coma for several days.\n\nEveryone on the map except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
+  <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
   <Neuroquake.confirmationDialogText>신경지진을 사용하면 이 지역의 모든 사람들이 신경지진 메아리를 느끼고, 적대적이지 않은 모든 세력과 우호도를 잃게 됩니다.\n\n신경지진을 시전하는데 3시간이 걸리며, 중단할 수 없습니다. 시전자 또한 며칠 간 초능력 혼수상태에 빠지게 됩니다.\n\n시전자 주변의 작은 원 안에 있는 사람들을 제외하고 지도의 모든 사람들이 영향받게 됩니다.\n\n정말 신경지진을 시전할까요?</Neuroquake.confirmationDialogText>
   
   <!-- EN: painblock -->
@@ -95,7 +100,7 @@
   
   <!-- EN: smokepop -->
   <Smokepop.label>연막구름</Smokepop.label>
-  <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and preventing turrets from locking on entirely. -->
+  <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
   <Smokepop.description>먼지 입자를 지표면에서 위로 끌어올려 두꺼운 구름을 형성합니다. 구름 사이를 통과하는 모든 사격의 정확성을 감소시키고, 포탑에 완전히 조준되는 것을 방지합니다.</Smokepop.description>
   
   <!-- EN: solar pinhole -->
@@ -106,11 +111,11 @@
   <!-- EN: throne speech -->
   <Speech.label>연설</Speech.label>
   <!-- EN: Initiate a speech from the throne. All colonists will come and listen. If it goes well, listeners will feel inspired, and gain respect for the speaker. If it goes poorly, the speech will do social damage. The outcome depends on the speaker's social abilities. -->
-  <Speech.description>왕좌에서 연설을 시작할 수 있습니다. 모든 정착민들이 와서 청취합니다. 결과가 좋다면 청취자들은 영감을 받을 수 있고 연설자에 대한 존경심이 높아집니다. 반대로 결과가 좋지 않으면 사교적 불이익이 생깁니다. 결과는 연설자의 사교 기술에 따라 달라집니다.</Speech.description>
+  <Speech.description>왕좌에서 연설을 시작합니다. 모든 정착민들이 와서 청취합니다. 결과가 좋다면 청취자들은 영감을 받을 수 있고 연설자에 대한 존경심이 높아집니다. 반대로 결과가 좋지 않으면 사교적 불이익이 생깁니다. 결과는 연설자의 사교 기술에 따라 달라집니다.</Speech.description>
   
   <!-- EN: stun -->
   <Stun.label>기절</Stun.label>
-  <!-- EN: Momentarily disrupt motor function in target's brain, preventing any movement. -->
+  <!-- EN: Momentarily disrupt motor function in the target's brain, preventing any movement. -->
   <Stun.description>대상의 뇌의 운동 기능을 일시적으로 중단 시켜 모든 움직임을 막아버립니다.</Stun.description>
   
   <!-- EN: vertigo pulse -->

@@ -28,10 +28,20 @@
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
   <AllowDeadmansApparel.description>시체에서 벗긴 옷을 허용합니다. 인간 대부분은 시체에서 벗긴 옷은 오염됐다고 생각하며, 상인은 받아들이지 않을 것입니다.</AllowDeadmansApparel.description>
   
+  <!-- EN: allow females -->
+  <AllowFemaleGender.label>여성 허용</AllowFemaleGender.label>
+  <!-- EN: Allow female individuals. -->
+  <AllowFemaleGender.description>여성이 사용 할 수 있습니다.</AllowFemaleGender.description>
+  
   <!-- EN: allow fresh -->
   <AllowFresh.label>신선한 유기물 허용</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>신선한 고기나 시체 등 유기물질을 허용합니다.</AllowFresh.description>
+  
+  <!-- EN: allow males -->
+  <AllowMaleGender.label>남성 허용</AllowMaleGender.label>
+  <!-- EN: Allow male individuals. -->
+  <AllowMaleGender.description>남성이 사용 할 수 있습니다.</AllowMaleGender.description>
   
   <!-- EN: allow non-biocoded apparel -->
   <AllowNonBiocodedApparel.label>비생체인증 의류 허용</AllowNonBiocodedApparel.label>

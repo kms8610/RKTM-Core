@@ -44,6 +44,8 @@
   <StatsReport_MarketValueFromStuffsAndWork>재료와 노동</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>품질 계수</StatsReport_QualityMultiplier>
+  <!-- EN: Quality offset -->
+  <StatsReport_QualityOffset>품질 영향</StatsReport_QualityOffset>
   <!-- EN: Max gain -->
   <StatsReport_MaxGain>최대 값</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
@@ -66,8 +68,8 @@
   <StatsReport_Facilities>보조시설</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>신체 크기 {0}에 대한 계수</StatsReport_BodySize>
-  <!-- EN: Carefully slaughtered without wounds -->
-  <StatsReport_HasHediffExplanation>전문적인 도축</StatsReport_HasHediffExplanation>
+  <!-- EN: Damaged -->
+  <StatsReport_HasHediffExplanation>피해</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>초당 피해량 = 근접 공격력 * 근접 명중률 / 근접 재사용 대기시간</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
@@ -78,6 +80,12 @@
   <StatsReport_MeleeHitChance>근접 명중률</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0}초</StatsReport_CooldownFormat>
+  <!-- EN: Blocked by fences -->
+  <StatsReport_BlockedByFences>울타리를 넘지 못함</StatsReport_BlockedByFences>
+  <!-- EN: Roam interval -->
+  <StatsReport_RoamInterval>배회 주기</StatsReport_RoamInterval>
+  <!-- EN: Caravan rideable age -->
+  <StatsReport_CaravanRideableAge>상단이 탑승 가능한 나이</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>기대 수명</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
@@ -106,6 +114,8 @@
   <StatsReport_JoyKind>오락 유형</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>해체 작업</StatsReport_WorkToUninstall>
+  <!-- EN: Fence -->
+  <StatsReport_Fence>울타리</StatsReport_Fence>
   <!-- EN: Multiplier for growth {0} -->
   <StatsReport_PlantGrowth>성장 {0}에 대한 계수</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
@@ -118,6 +128,10 @@
   <StatsReport_WildMan>야인</StatsReport_WildMan>
   <!-- EN: Attack -->
   <StatsReport_NonToolAttack>공격</StatsReport_NonToolAttack>
+  <!-- EN: Ideoligion -->
+  <StatsReport_Ideoligion>믿음관</StatsReport_Ideoligion>
+  <!-- EN: Multiplier for malnutrition {0} -->
+  <StatsReport_Malnutrition>영양실조 {0}에 대한 계수</StatsReport_Malnutrition>
   
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>가능한 오프셋</StatReport_PossibleOffsets>
@@ -166,6 +180,8 @@
   <Stat_HitPoints_Desc>대상이 파괴되기 전까지 받아낼 수 있는 피해량입니다.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
   <Stat_Thing_WorkToUninstall_Desc>대상을 해체하기 위해 필요한 작업량입니다.</Stat_Thing_WorkToUninstall_Desc>
+  <!-- EN: Whether this building is a type of fence. Fences block these animals -->
+  <Stat_Thing_Fence_Desc>이 건물이 울타리의 한 종류인지 나타냅니다. 울타리는 다음 동물의 길을 막을 수 있습니다</Stat_Thing_Fence_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
   <Stat_Thing_CreatedAt_Desc>대상을 생산하기 위해 필요한 시설입니다.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
@@ -174,6 +190,10 @@
   <Stat_Thing_Drug_MedicineXpGainFactor_Desc>이 약물로 환자를 치료할 때 의사가 얻게 되는 경험치의 계수입니다.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
   <Stat_Thing_Plant_Attributes_Desc>식물이 지닌 특성입니다.</Stat_Thing_Plant_Attributes_Desc>
+  <!-- EN: Clothing (for nudity) -->
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>의류 (나체주의자)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>나체주의자가 이 장비를 의류로 취급하는지 나타냅니다. 의류로 취급하지 않는 장비는 나체주의자가 입어도 기분이 나빠지지 않습니다.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
   <Stat_Thing_Apparel_Covers_Desc>장비가 가려주는 신체 범위입니다.\n\n해당하지 않는 신체 부위는 보호하지 못합니다.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
@@ -204,10 +224,16 @@
   <Stat_Race_Trainability_Desc>동물의 훈련 적합성을 나타냅니다. 지능과 집중력에 좌우되며, 훈련 가능한 작업의 종류를 결정합니다.</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
   <Stat_Race_LifeExpectancy_Desc>동물의 평균 수명입니다.</Stat_Race_LifeExpectancy_Desc>
+  <!-- EN: Whether this creature is blocked by fences and barricades. -->
+  <Stat_Race_BlockedByFences_Desc>이 동물이 울타리와 방어벽을 넘을 수 없는지 나타냅니다.</Stat_Race_BlockedByFences_Desc>
+  <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
+  <Stat_Race_RoamInterval_Desc>길들인 동물이 떠돌다가 지역 밖으로 나가는 주기입니다.\n\n동물은 지역 경계로 통하는 경로가 있어야 떠돌아다닐 수 있습니다. 울타리, 방어벽, 벽, 문을 사용해서 가둬놓으세요.\n\n배회 중인 동물은 조련사가 우리로 데려갑니다.</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>약품을 섭취할 때 채워지는 오락 수치를 나타냅니다.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
   <Stat_Race_BodySize_Desc>동물의 크기를 평균적인 성인 인간과 비교한 수치입니다.</Stat_Race_BodySize_Desc>
+  <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
+  <Stat_Race_Growth_Desc>성체에 얼마나 근접한지 나타냅니다\n\n성장에는 열량이 필요합니다. 배고픈 동물은 잘 먹은 동물보다 성장 속도가 느립니다.</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>이 무기를 사용하는 데 걸리는 시간 간격입니다.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
@@ -314,10 +340,14 @@
   <Stat_Thing_Biocoded_Name>생체인증</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
   <Stat_Thing_Biocoded_Desc>이 장비를 작동하기 위해서는 지정된 인물의 생체인증을 필요로 합니다.</Stat_Thing_Biocoded_Desc>
+  <!-- EN: Required apparel -->
+  <Stat_Pawn_RequiredApparel_Name>의복 종류 요구사항</Stat_Pawn_RequiredApparel_Name>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
   <Stat_Thing_Drug_Chemical_Desc>이 약의 활성 화학물질입니다.\n\n때에 따라 같은 화학물질이 여러 가지의 다른 약물에 존재합니다. 이러한 약물들은 다른 방법으로 같은 중독성을 만족할 수 있습니다.</Stat_Thing_Drug_Chemical_Desc>
+  <!-- EN: The category this drug belongs to. -->
+  <Stat_Thing_Drug_Category_Desc>이 약물이 속하는 약물 범주입니다.</Stat_Thing_Drug_Category_Desc>
   <!-- EN: The intensity of high gained per dose of this drug. -->
   <Stat_Thing_Drug_HighGainPerDose_Desc>이 약물의 복용당 획득량입니다.</Stat_Thing_Drug_HighGainPerDose_Desc>
   <!-- EN: How much this drug's high will decay each day. -->
@@ -351,4 +381,109 @@
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
   <Stat_Thing_Drug_AddictionCost_Desc>금단현상 없이 이 약물의 중독을 지원하기 위해 하루에 소비해야 하는 시장가치입니다.\n\n이 값은 중독자의 복용당 중독필요량, 중독필요 하락률, 약물의 시장가치로부터 계산됩니다.\n\n참고로 다른 비용으로 같은 화학물질을 얻는 방법이 있을 수도 있습니다.</Stat_Thing_Drug_AddictionCost_Desc>
 
+  <!-- EN: Style -->
+  <Stat_Thing_StyleLabel>스타일</Stat_Thing_StyleLabel>
+  <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
+  <Stat_Thing_StyleDesc>스타일은 물체의 외형을 결정하며 게임 플레이에는 영향을 주지 않습니다. 스타일은 서로 다른 믿음과 문화를 가진 사람들이 사용하는 각자의 건설 방식을 구성하곤 합니다.</Stat_Thing_StyleDesc>
+
+  <!-- EN: Gestation time -->
+  <Stat_Animal_GestationTime>생식 주기</Stat_Animal_GestationTime>
+  <!-- EN: The time this species takes to gestate its offspring or eggs. -->
+  <Stat_Animal_GestationTimeDesc>새끼나 알을 낳을 때까지 걸리는 시간입니다.</Stat_Animal_GestationTimeDesc>
+  <!-- EN: Litter size -->
+  <Stat_Animal_LitterSize>새끼 수</Stat_Animal_LitterSize>
+  <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
+  <Stat_Animal_LitterSizeDesc>매 출산 또는 부화에서 태어나는 새끼의 수입니다. 범위로 된 값일 경우 해당 범위 안의 무작위 수만큼 태어납니다.</Stat_Animal_LitterSizeDesc>
+  <!-- EN: Adult meat amount -->
+  <Stat_Animal_AdultMeatAmount>성체 고기량</Stat_Animal_AdultMeatAmount>
+  <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
+  <Stat_Animal_AdultMeatAmountDesc>이 동물종의 성체를 도축했을 때 얻을 수 있는 기본 고기량입니다. 실제로 얻는 고기의 양은 신체 피해량과 도축 기술 등의 영향을 받습니다.</Stat_Animal_AdultMeatAmountDesc>
+  <!-- EN: Growth time -->
+  <Stat_Animal_GrowthTime>성장에 필요한 기간</Stat_Animal_GrowthTime>
+  <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
+  <Stat_Animal_GrowthTimeDesc>동물이 성체가 되기까지 일반적으로 걸리는 시간입니다. 굶주린 동물이 성체가 되려면 더 오랜 시간이 필요합니다.</Stat_Animal_GrowthTimeDesc>
+  <!-- EN: Meat per day during growth -->
+  <Stat_Animal_MeatPerDayDuringGrowth>성장 중 일간 고기량</Stat_Animal_MeatPerDayDuringGrowth>
+  <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>동물이 성체가 되기까지 자라면서 매일 증가하는 고기의 양입니다.\n\n이 값은 고기량과 성장에 필요한 기간을 통해 계산합니다.</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <!-- EN: Grass to maintain -->
+  <Stat_Animal_GrassToMaintain>유지에 필요한 잡초</Stat_Animal_GrassToMaintain>
+  <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
+  <Stat_Animal_GrassToMaintainDesc>이 동물이 필요를 채우기 위해 일반적으로 섭취하는 잡초의 수입니다. 보통의 성장 속도를 가진 일반 잡초 기준이며 겨울은 고려하지 않습니다.</Stat_Animal_GrassToMaintainDesc>
+  <!-- EN: Egg type -->
+  <Stat_Animal_EggType>알 종류</Stat_Animal_EggType>
+  <!-- EN: The type of egg this creature lays. -->
+  <Stat_Animal_EggTypeDesc>이 동물이 낳는 알의 종류입니다.</Stat_Animal_EggTypeDesc>
+  <!-- EN: Eggs per year -->
+  <Stat_Animal_EggsPerYear>연간 알 생산량</Stat_Animal_EggsPerYear>
+  <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
+  <Stat_Animal_EggsPerYearDesc>이 동물이 연간 낳는 알의 양입니다. 어떤 동물은 수정을 해야 알을 낳을 수 있습니다. 동물이 굶주릴 경우 알을 더 느리게 낳습니다.</Stat_Animal_EggsPerYearDesc>
+  <!-- EN: Egg nutrition -->
+  <Stat_Animal_EggNutrition>알 열량</Stat_Animal_EggNutrition>
+  <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
+  <Stat_Animal_EggNutritionDesc>이 동물이 낳는 알의 개당 열량입니다.</Stat_Animal_EggNutritionDesc>
+  <!-- EN: Egg nutrition per year -->
+  <Stat_Animal_EggNutritionYearly>연간 알 열량</Stat_Animal_EggNutritionYearly>
+  <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
+  <Stat_Animal_EggNutritionYearlyDesc>이 동물이 연간 낳는 알의 총 열량입니다.\n\n이 값은 연간 알 생산량과 알 열량으로 계산합니다.</Stat_Animal_EggNutritionYearlyDesc>
+  <!-- EN: Egg market value -->
+  <Stat_Animal_EggMarketValue>알 시장 가치</Stat_Animal_EggMarketValue>
+  <!-- EN: The market value of a single laid egg. -->
+  <Stat_Animal_EggMarketValueDesc>이 동물이 낳는 알의 개당 시장 가치입니다.</Stat_Animal_EggMarketValueDesc>
+  <!-- EN: Egg value per year -->
+  <Stat_Animal_EggMarketValueYearly>연간 알 시장 가치</Stat_Animal_EggMarketValueYearly>
+  <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
+  <Stat_Animal_EggMarketValueYearlyDesc>이 동물이 연간 낳는 알의 총 시장 가치입니다.\n\n이 값은 연간 알 생산량과 알 시장 가치로 계산합니다.</Stat_Animal_EggMarketValueYearlyDesc>
+  <!-- EN: Milk type -->
+  <Stat_Animal_MilkType>젖 종류</Stat_Animal_MilkType>
+  <!-- EN: The type of milk this creature produces. -->
+  <Stat_Animal_MilkTypeDesc>이 동물이 생산하는 젖의 종류입니다.</Stat_Animal_MilkTypeDesc>
+  <!-- EN: Milk amount -->
+  <Stat_Animal_MilkAmount>유량</Stat_Animal_MilkAmount>
+  <!-- EN: The amount of milk this creature produces each time it is milked. -->
+  <Stat_Animal_MilkAmountDesc>이 동물이 매 착유마다 생산하는 젖의 양입니다.</Stat_Animal_MilkAmountDesc>
+  <!-- EN: Milking inteval -->
+  <Stat_Animal_MilkGrowthTime>착유 주기</Stat_Animal_MilkGrowthTime>
+  <!-- EN: The amount of time this creature needs between milkings. -->
+  <Stat_Animal_MilkGrowthTimeDesc>착유 후 다시 착유할 때까지 필요한 시간입니다.</Stat_Animal_MilkGrowthTimeDesc>
+  <!-- EN: Milk per year -->
+  <Stat_Animal_MilkPerYear>연간 젖 생산량</Stat_Animal_MilkPerYear>
+  <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
+  <Stat_Animal_MilkPerYearDesc>이 동물이 연간 생산하는 젖의 총량입니다.\n\n이 값은 유량과 착유 주기로 계산합니다.</Stat_Animal_MilkPerYearDesc>
+  <!-- EN: Milk market value -->
+  <Stat_Animal_MilkValue>젖 시장 가치</Stat_Animal_MilkValue>
+  <!-- EN: The value of one unit of this creature's milk. -->
+  <Stat_Animal_MilkValueDesc>이 동물이 생산하는 젖의 단위당 시장 가치입니다.</Stat_Animal_MilkValueDesc>
+  <!-- EN: Milk value per year -->
+  <Stat_Animal_MilkValuePerYear>연간 젖 시장 가치</Stat_Animal_MilkValuePerYear>
+  <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
+  <Stat_Animal_MilkValuePerYearDesc>이 동물이 연간 생산하는 젖의 총 시장 가치입니다. 동물이 굶주리지 않고, 매 착유 주기에 맞춰 즉시 착유했을 때를 가정한 값입니다.\n\n이 값은 연간 젖 생산량과 젖 시장 가치로 계산합니다.</Stat_Animal_MilkValuePerYearDesc>
+  <!-- EN: Wool type -->
+  <Stat_Animal_WoolType>털 종류</Stat_Animal_WoolType>
+  <!-- EN: The type of wool produced by this creature. -->
+  <Stat_Animal_WoolTypeDesc>이 동물이 생산하는 털의 종류입니다.</Stat_Animal_WoolTypeDesc>
+  <!-- EN: Wool amount -->
+  <Stat_Animal_WoolAmount>털 양</Stat_Animal_WoolAmount>
+  <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
+  <Stat_Animal_WoolAmountDesc>이 동물을 깎았을 때 얻을 수 있는 털의 양입니다.</Stat_Animal_WoolAmountDesc>
+  <!-- EN: Wool shearing interval -->
+  <Stat_Animal_WoolGrowthTime>전모 주기</Stat_Animal_WoolGrowthTime>
+  <!-- EN: The time after shearing before this creature can be shorn again. -->
+  <Stat_Animal_WoolGrowthTimeDesc>털을 다시 깎을 때까지 필요한 시간입니다.</Stat_Animal_WoolGrowthTimeDesc>
+  <!-- EN: Wool amount per year -->
+  <Stat_Animal_WoolPerYear>연간 털 생산량</Stat_Animal_WoolPerYear>
+  <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
+  <Stat_Animal_WoolPerYearDesc>이 동물이 연간 생산하는 털의 총량입니다.\n\n이 값은 털 양과 전모 주기로 계산합니다.</Stat_Animal_WoolPerYearDesc>
+  <!-- EN: Wool market value -->
+  <Stat_Animal_WoolValue>털 시장 가치</Stat_Animal_WoolValue>
+  <!-- EN: The market value of one unit of this creature's wool. -->
+  <Stat_Animal_WoolValueDesc>이 동물이 생산하는 털의 단위당 시장 가치입니다.</Stat_Animal_WoolValueDesc>
+  <!-- EN: Wool value per year -->
+  <Stat_Animal_WoolValuePerYear>연간 털 시장 가치</Stat_Animal_WoolValuePerYear>
+  <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
+  <Stat_Animal_WoolValuePerYearDesc>이 동물이 연간 생산하는 털의 총 시장 가치입니다.\n\n이 값은 연간 털 생산량과 털 시장 가치로 계산합니다.</Stat_Animal_WoolValuePerYearDesc>
+
+  <!-- EN: How much of the total possible study you have performed on this object. -->
+  <Stat_Studiable_Desc>이 물체에 수행할 수 있는 전체 연구 중 진행한 양입니다.</Stat_Studiable_Desc>
+  
 </LanguageData>

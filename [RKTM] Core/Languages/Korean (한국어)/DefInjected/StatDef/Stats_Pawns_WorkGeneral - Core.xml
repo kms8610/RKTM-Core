@@ -26,6 +26,11 @@
   <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
   <DeepDrillingSpeed.description>심층 채굴을 사용하여 지하 자원을 얻는 속도입니다.</DeepDrillingSpeed.description>
   
+  <!-- EN: drug crop harvest yield -->
+  <DrugHarvestYield.label>약초 수확량</DrugHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
+  <DrugHarvestYield.description>약초를 수확할 때 얻는 수확량입니다./n/n이 수치가 낮으면 수확물을 낭비할 가능성이 있습니다. 높은 수확량은 얻을 수 있는 량을 증가시켜 줍니다.</DrugHarvestYield.description>
+  
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>부품 교체 성공 확률</FixBrokenDownBuildingSuccessChance.label>
   <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->

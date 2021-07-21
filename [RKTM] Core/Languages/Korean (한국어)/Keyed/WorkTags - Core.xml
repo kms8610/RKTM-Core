@@ -11,6 +11,8 @@
   <WorkTagManualSkilled>숙련노동</WorkTagManualSkilled>
   <!-- EN: violent -->
   <WorkTagViolent>전투</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>사격</WorkTagShooting>
   <!-- EN: caring -->
   <WorkTagCaring>치료</WorkTagCaring>
   <!-- EN: social -->
@@ -35,6 +37,8 @@
   <WorkTagMining>채굴</WorkTagMining>
   <!-- EN: hunting -->
   <WorkTagHunting>사냥</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>건설</WorkTagConstructing>
   <!-- EN: commoner work -->
   <WorkTagCommoner>심부름</WorkTagCommoner>
   <!-- EN: all work -->

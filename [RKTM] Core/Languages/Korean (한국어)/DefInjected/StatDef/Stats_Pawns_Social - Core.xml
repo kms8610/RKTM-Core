@@ -6,6 +6,16 @@
   <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
   <ArrestSuccessChance.description>다른 사람을 체포하는데 얼마나 효과적인지 나타냅니다.\n\n체포 시도의 성공 확률에 영향을 미칩니다.</ArrestSuccessChance.description>
   
+  <!-- EN: bond chance factor -->
+  <BondAnimalChanceFactor.label>유대 확률</BondAnimalChanceFactor.label>
+  <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
+  <BondAnimalChanceFactor.description>동물과 상호작용할 때 유대감을 형성할 수 있는 확률입니다.</BondAnimalChanceFactor.description>
+  
+  <!-- EN: drug sell price improvement -->
+  <DrugSellPriceImprovement.label>약물 판매 가격 인상</DrugSellPriceImprovement.label>
+  <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
+  <DrugSellPriceImprovement.description>비 의료용 약물을 팔때 해당 퍼센트만큼 계산됩니다.</DrugSellPriceImprovement.description>
+  
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>외교 영향력</NegotiationAbility.label>
   <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->

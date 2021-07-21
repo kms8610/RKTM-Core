@@ -58,7 +58,7 @@
   
   <!-- EN: shields -->
   <ShieldBelt.label>보호막</ShieldBelt.label>
-  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundry. -->
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundary. -->
   <ShieldBelt.description>운동량 굴절장 기술을 활용해 원거리 투사체를 막는 착용 가능한 보호막을 만들 수 있습니다.</ShieldBelt.description>
   
   <!-- EN: transport pod -->

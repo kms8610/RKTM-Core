@@ -66,12 +66,12 @@
   <!-- EN: Forbid -->
   <DesignatorForbid>취급 금지</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
-  <DesignatorForbidDesc>정착민과의 상호작용이 금지된 물품입니다.</DesignatorForbidDesc>
+  <DesignatorForbidDesc>물품의 상호작용을 금지합니다.</DesignatorForbidDesc>
 
   <!-- EN: Allow -->
   <DesignatorUnforbid>취급 허용</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>정착민과의 상호작용이 허용된 물품입니다.</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>물품의 상호작용을 허용합니다.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
   <DesignatorAreaHomeExpand>주거구역 설정</DesignatorAreaHomeExpand>
@@ -116,6 +116,8 @@
   <DesignatorClearAreaAllowedDesc>선택된 칸을 허가구역에서 제외합니다.\n\n허가구역은 각 정착민들을 등록할 수 있는 구역입니다. 등록된 정착민들은 해당 구역 밖에서 일을 하거나 필요를 채우지 않습니다.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>구역 관리</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>자동 도축 관리...</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>정착민들이 식물을 재배할 수 있는 구역을 지정합니다.</DesignatorGrowingZoneDesc>
@@ -170,6 +172,16 @@
   <DesignatorTame>길들이기</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>야생동물을 길들입니다.</DesignatorTameDesc>
+
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>야생으로 돌려보내기</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>동물을 야생으로 돌려보냅니다.</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>연구</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>이 물체를 연구해서 더 많은 것을 알아냅니다.</DesignatorStudyDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->

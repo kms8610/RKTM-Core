@@ -99,6 +99,35 @@
   <!-- EN: rubbedpart->arm -->
   <Nuzzle.logRulesInitiator.rulesStrings.23>rubbedpart->팔</Nuzzle.logRulesInitiator.rulesStrings.23>
   
+  <!-- EN: release to the wild -->
+  <ReleaseToWild.label>야생 방출</ReleaseToWild.label>
+  <!-- EN:
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
+    <li>farewell->[INITIATOR_nameDef] said some warm words to [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] removed [RECIPIENT_nameDef]'s collar</li>
+    <li>farewell->[INITIATOR_nameDef] reminisced about the good time [INITIATOR_objective] had with [RECIPIENT_nameDef]</li>
+    <li>released->and released [RECIPIENT_objective] to the wild.</li>
+    <li>released->and set [RECIPIENT_objective] free.</li>
+    <li>released->and sent [RECIPIENT_objective] off.</li>
+    <li>released->and let [RECIPIENT_objective] go.</li>
+    <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
+    <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
+  -->
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef](은)는 마지막으로 [RECIPIENT_nameDef](을)를 쓰다듬습니다.</li>
+    <li>farewell->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 따듯한 말을 건넵니다.</li>
+    <li>farewell->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]의 목줄을 제거했습니다.</li>
+    <li>farewell->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](와)과 했던 [INITIATOR_objective]와의 추억을 생각합니다.</li>
+    <li>released->그리고 [RECIPIENT_objective](을)를 야생에 놓아줍니다.</li>
+    <li>released->그리고 [RECIPIENT_objective]에게 자유를 줍니다.</li>
+    <li>released->그리고 [RECIPIENT_objective]를 풀어줍니다.</li>
+    <li>released->그리고 [RECIPIENT_objective]의 곁을 떠납니다.</li>
+    <li>released->그리고 등을 돌리며 [RECIPIENT_objective](을)를 떠나 정착지로 홀로 돌아옵니다.</li>
+    <li>released->그리고 과거처럼 자유롭게 살길 바라며 [RECIPIENT_objective](을)를 놓아줍니다.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
+  
   <!-- EN: tame attempt -->
   <TameAttempt.label>조련 시도</TameAttempt.label>
   <!-- EN: r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef]. -->

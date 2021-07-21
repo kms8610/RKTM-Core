@@ -4,6 +4,9 @@
   <!-- EN: animal products -->
   <AnimalProductRaw.label>축산물</AnimalProductRaw.label>
   
+  <!-- EN: animals -->
+  <Animals.label>동물</Animals.label>
+  
   <!-- EN: apparel -->
   <Apparel.label>의류</Apparel.label>
   
@@ -118,6 +121,9 @@
   <!-- EN: headgear -->
   <HeadgearNoble.label>머리장비</HeadgearNoble.label>
   
+  <!-- EN: inert relics -->
+  <InertRelics.label>비활성 유물</InertRelics.label>
+  
   <!-- EN: items -->
   <Items.label>물건</Items.label>
   
@@ -146,10 +152,13 @@
   <NeurotrainersSkill.label>기술 훈련</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
-  <PlantFoodRaw.label>식물</PlantFoodRaw.label>
+  <PlantFoodRaw.label>채식재료</PlantFoodRaw.label>
   
   <!-- EN: plant matter -->
   <PlantMatter.label>식물 자재</PlantMatter.label>
+  
+  <!-- EN: plants -->
+  <Plants.label>식물</Plants.label>
   
   <!-- EN: raw resources -->
   <ResourcesRaw.label>원자재</ResourcesRaw.label>
@@ -183,5 +192,8 @@
   
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>원거리 무기</WeaponsRanged.label>
+  
+  <!-- EN: wools -->
+  <Wools.label>털</Wools.label>
   
 </LanguageData>

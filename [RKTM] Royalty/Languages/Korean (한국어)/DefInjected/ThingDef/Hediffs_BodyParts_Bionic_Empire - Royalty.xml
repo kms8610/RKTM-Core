@@ -68,7 +68,7 @@
   
   <!-- EN: nuclear stomach -->
   <NuclearStomach.label>핵융합 위</NuclearStomach.label>
-  <!-- EN: A micro-nuclear reactor combined with complex chemical synthesis replaces the body's need for food energy. Food is required only to replace matter lost from the body, reducing the user's intake needs significantly. This artifical stomach cannot get food poisoning. However, there is little room to shield the reactor, so the radiation increases the risk of cancer. -->
+  <!-- EN: A micro-nuclear reactor combined with complex chemical synthesis replaces the body's need for food energy. Food is required only to replace matter lost from the body, reducing the user's intake needs significantly. This artificial stomach cannot get food poisoning. However, there is little room to shield the reactor, so the radiation increases the risk of cancer. -->
   <NuclearStomach.description>복잡한 화학 합성으로 결합된 초미세 원자로는, 음식대신 신체에 에너지를 공급합니다. 음식은 신체가 잃어버린 물질을 대체하기 위해서만 필요하므로 사용자의 섭취량을 크게 줄입니다. 이 인공적인 위는 식중독에 걸리지 않습니다. 그러나 방사선을 차폐할 여지가 거의 없으므로, 암의 위험을 증가시킵니다.</NuclearStomach.description>
   
   <!-- EN: reprocessor stomach -->

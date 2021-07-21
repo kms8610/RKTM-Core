@@ -43,6 +43,8 @@
   <CommandToggleDraftDesc>정착민을 비상 소집합니다.\n\n소집된 정착민들은 평상시와는 달리 스스로 행동하지 않으며 오직 직접적인 이동 및 전투 명령만을 수행합니다.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort}(은)는 걷지 못합니다.</IsIncapped>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <ParticipatingInRitual>{0_labelShort}(은)는 {1}에 참여 중입니다.</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>사격 허용</CommandFireAtWillLabel>
@@ -98,6 +100,9 @@
   <TurningOffPrisonerBedWarning>정착민과 수감자는 같은 공간에서 잠을 잘 수 없기 때문에 정착민 전용 침대가 있는 방은 감옥으로 사용할 수 없습니다.\n\n침대의 소유권을 잃게 되는 수감자:</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>정말 실행하시겠습니까?</AreYouSure>
+  <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
+  <ChangingOwnerTypeBedWarning>수감자, 노예, 정착민이 같은 방에서 잘 수 없기 때문에 전용 침대 설정을 바꾸면 방 전체에 영향을 줍니다.\n\n침대의 소유권을 잃게 되는 사람:</ChangingOwnerTypeBedWarning>
+
 
   <!-- EN: Detonate -->
   <CommandDetonateLabel>폭파</CommandDetonateLabel>
@@ -133,8 +138,13 @@
 
   <!-- EN: Allow sowing -->
   <CommandAllowSow>재배 허용</CommandAllowSow>
-  <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
+  <!-- EN: When disabled, colonists will never sow new plants in this zone. They will still harvest. -->
   <CommandAllowSowDesc>비활성화된 경우 정착민들이 식물을 더 심지 않지만 수확은 가능합니다.</CommandAllowSowDesc>
+
+  <!-- EN: Allow cutting -->
+  <CommandAllowCut>제초 허용</CommandAllowCut>
+  <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest. -->
+  <CommandAllowCutDesc>비활성화하면 정착민이 이 구역 안의 식물을 제초하지 않습니다. 빈 공간에는 계속해서 새로운 식물을 심고 수확할 수 있습니다.</CommandAllowCutDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -229,7 +239,7 @@
   <CommandAutoRearmDesc>활성화된 경우 이 함정이 사용되었을 때 자동으로 재장전 지시가 내려집니다.</CommandAutoRearmDesc>
   
   <!-- Animal control -->
-  <!-- EN: Release animals -->
+  <!-- EN: Animals attack -->
   <CommandReleaseAnimalsLabel>동물 풀기</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>활성화된 경우 동물들이 자유롭게 적을 공격할 수 있습니다. 꺼진 경우 각자의 주인 곁에 머물며 경호합니다.</CommandReleaseAnimalsDesc>
@@ -408,7 +418,7 @@
   
   <!-- Launch group -->
   <!-- EN: Launch -->
-  <CommandLaunchGroup>그룹 발사 명령</CommandLaunchGroup>
+  <CommandLaunchGroup>발사</CommandLaunchGroup>
   <!-- EN: Take off and fly to a destination. -->
   <CommandLaunchGroupDesc>이륙해서 목적지로 날아갑니다.</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
@@ -535,11 +545,36 @@
   <CommandOpenLinkedQuest>관련 임무 확인</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
   <CommandOpenLinkedQuestDesc>임무 창에서 연결된 임무를 확인합니다.</CommandOpenLinkedQuestDesc>
+
+  <!-- Carry -->
+  <!-- EN: Drop {0_nameDef} -->
+  <CommandDropPawn>{0_nameDef} 내려놓기</CommandDropPawn>
+  <!-- EN: Drop the person being carried. -->
+  <CommandDropPawnDesc>들쳐 멘 사람을 내려놓습니다.</CommandDropPawnDesc>
   
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
   <TakeDrug>약물 복용...</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
   <TakeDrugDesc>소지품에서 즉시 복용할 약물을 선택하세요.</TakeDrugDesc>
+
+  <!-- Build X -->
+  <!-- EN: Build {0} -->
+  <BuildThing>{0} 건설</BuildThing>
+
+  <!-- Rituals -->
+  <!-- EN: Leave {RITUAL_label} -->
+  <CommandLeaveRitual>{RITUAL_label} 떠나기</CommandLeaveRitual>
+  <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
+  <CommandLeaveRitualDesc>{RITUAL_labelDef}에 참여하는 것을 그만둡니다. 한 명의 참여자라도 남아있으면 의식은 계속됩니다.</CommandLeaveRitualDesc>
+  <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
+  <CommandLeaveLastParticipant>{RITUAL_labelDef}의 마지막 참여자입니다.</CommandLeaveLastParticipant>
+
+  <!-- EN: Cancel {RITUAL_label} -->
+  <CommandCancelRitual>{RITUAL_label} 취소</CommandCancelRitual>
+  <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
+  <CommandCancelRitualDesc>{RITUAL_labelDef}(을)를 즉시 끝냅니다. 의식 의무는 남아 있습니다. 나중에 의식을 다시 시작할 수 있습니다.</CommandCancelRitualDesc>
+  <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
+  <CommandCancelRitualConfirm>정말 {RITUAL_labelDef}(을)를 취소하시겠습니까?</CommandCancelRitualConfirm>
   
 </LanguageData>

@@ -4,6 +4,9 @@
   <!-- EN: Ability -->
   <Ability.label>능력</Ability.label>
   
+  <!-- EN: animal productivity -->
+  <AnimalProductivity.label>동물 생산성</AnimalProductivity.label>
+  
   <!-- EN: Apparel -->
   <Apparel.label>의류</Apparel.label>
   
@@ -69,6 +72,9 @@
   
   <!-- EN: Surgical -->
   <Surgery.label>수술</Surgery.label>
+  
+  <!-- EN: terrain -->
+  <Terrain.label>지형</Terrain.label>
   
   <!-- EN: Weapon -->
   <Weapon.label>무기</Weapon.label>

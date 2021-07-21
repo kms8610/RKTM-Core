@@ -11,10 +11,30 @@
   <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
   <MealFine.description>다양한 재료로 변화를 주어 만든 다소 복잡한 요리입니다.</MealFine.description>
   
+  <!-- EN: carnivore fine meal -->
+  <MealFine_Meat.label>좋은 고기 식사</MealFine_Meat.label>
+  <!-- EN: A complex dish assembled with care from meat ingredients. -->
+  <MealFine_Meat.description>고기들을 이용해 변화를 주어 만든 다소 복잡한 요리입니다.</MealFine_Meat.description>
+  
+  <!-- EN: vegetarian fine meal -->
+  <MealFine_Veg.label>좋은 비건 식사</MealFine_Veg.label>
+  <!-- EN: A complex dish assembled with care from vegetarian ingredients. -->
+  <MealFine_Veg.description>채식식재를 이용해 변화를 주어 만든 다소 복잡한 요리입니다.</MealFine_Veg.description>
+  
   <!-- EN: lavish meal -->
   <MealLavish.label>호화로운 식사</MealLavish.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
   <MealLavish.description>걸작 중의 걸작입니다! 몸과 마음, 영혼에까지 충분한 영양분을 공급해줄 것입니다.</MealLavish.description>
+  
+  <!-- EN: carnivore lavish meal -->
+  <MealLavish_Meat.label>호화로운 고기 식사</MealLavish_Meat.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Meat.description>걸작 중의 걸작입니다! 몸과 마음, 영혼에까지 충분한 영양분을 공급해줄 것입니다.</MealLavish_Meat.description>
+  
+  <!-- EN: vegetarian lavish meal -->
+  <MealLavish_Veg.label>호화로운 비건 식사</MealLavish_Veg.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Veg.description>걸작 중의 걸작입니다! 몸과 마음, 영혼에까지 충분한 영양분을 공급해줄 것입니다.</MealLavish_Veg.description>
   
   <!-- EN: nutrient paste meal -->
   <MealNutrientPaste.label>영양죽</MealNutrientPaste.label>

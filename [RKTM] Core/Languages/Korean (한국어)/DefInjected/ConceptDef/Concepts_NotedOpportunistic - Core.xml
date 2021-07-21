@@ -46,6 +46,11 @@
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
   <DrugPolicies.helpText>정착민들이 약물을 지정된 일정에 따라 섭취하도록 할 수 있습니다. 예를 들어 말라리아 약을 주기적으로 먹게 하거나, 스트레스를 받았을 때 맥주를 마시도록 알려줄 수 있습니다.\n\n정책 창의 약물 정책 버튼을 클릭한 후 정책을 정착민들에게 지정할 수 있습니다.\n\n그러나 정착민들이 각자의 필요 욕구에 따라 정책에 포함되지 않은 약물을 섭취할 수도 있습니다. 말을 물가에 데려갈 수는 있어도 물까지 마시게 할 수는 없으니까요.</DrugPolicies.helpText>
   
+  <!-- EN: Positioning fighters -->
+  <GroupGotoHereDragging.label>전투 포지션</GroupGotoHereDragging.label>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpText>마우스 오른쪽 버튼을 누른 뒤 드래그하여, 소집된 폰을 정렬합니다. 뭉친 적들을 상대로 효과적입니다.</GroupGotoHereDragging.helpText>
+  
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>상인과 상호작용</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->

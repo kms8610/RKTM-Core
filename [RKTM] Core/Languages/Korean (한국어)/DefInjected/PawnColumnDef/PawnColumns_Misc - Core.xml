@@ -10,6 +10,9 @@
   <!-- EN: allowed area -->
   <AllowedAreaWide.label>허가구역</AllowedAreaWide.label>
   
+  <!-- EN: carry -->
+  <Carry.label>운반</Carry.label>
+  
   <!-- EN: drug policy -->
   <DrugPolicy.label>약물 정책</DrugPolicy.label>
   

@@ -37,8 +37,8 @@
   <ScenPart_PawnsHaveTrait>{0}(은)는 {1}의 확률로 다음 특성을 지닙니다: {2}</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
   <ScenPart_OnPawnDeathExplode>모든 캐릭터들이 사망 시 폭발합니다. ({0}, 범위 {1}).</ScenPart_OnPawnDeathExplode>
-  <!-- EN: {0} start naked. -->
-  <ScenPart_PawnsAreNaked>{0}(은)는 벌거벗은 상태로 시작합니다.</ScenPart_PawnsAreNaked>
+  <!-- EN: {0} have a {1} chance to start naked. -->
+  <ScenPart_PawnsAreNaked>{0}(은)는 {1} 확률로 벌거벗은 상태에서 시작합니다.</ScenPart_PawnsAreNaked>
   
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->

@@ -6,6 +6,11 @@
   <!-- EN: Burned-out carpet. -->
   <BurnedCarpet.description>불에 탄 양탄자입니다.</BurnedCarpet.description>
   
+  <!-- EN: burned straw matting -->
+  <BurnedStrawMatting.label>불탄 멍석</BurnedStrawMatting.label>
+  <!-- EN: Straw matting that has been burned in a fire. -->
+  <BurnedStrawMatting.description>불에 탄 멍석입니다.</BurnedStrawMatting.description>
+  
   <!-- EN: burned wood floor -->
   <BurnedWoodPlankFloor.label>불탄 나무바닥</BurnedWoodPlankFloor.label>
   <!-- EN: Burned-out wood plank flooring. -->

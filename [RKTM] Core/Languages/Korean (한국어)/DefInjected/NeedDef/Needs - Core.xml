@@ -21,6 +21,11 @@
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
   <Food.description>허기는 대상이 최근 섭취한 영양분의 양입니다. 만약 0에 도달한다면 영양부족에 시달리다 죽을 것입니다.</Food.description>
   
+  <!-- EN: indoors -->
+  <Indoors.label>실내</Indoors.label>
+  <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
+  <Indoors.description>실내 욕구는 벽 내부와 지붕 아래에 있어야 합니다. 옥외에서 시간을 보내거나, 지붕 아래에서 시간을 보내지 않으면 수치가 깍입니다. 이 욕구를 50%이상으로 유지하려면 지붕이 아닌 산 아래에 있어야 합니다.</Indoors.description>
+  
   <!-- EN: recreation -->
   <Joy.label>재미</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->

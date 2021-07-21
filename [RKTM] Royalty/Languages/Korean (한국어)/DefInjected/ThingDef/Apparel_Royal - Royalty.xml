@@ -31,11 +31,6 @@
   <!-- EN: A grand crown of metal with an elaborate, overbearing design. -->
   <Apparel_CrownStellic.description>정교하고 위압적인 디자인의 웅장한 금속 왕관입니다.</Apparel_CrownStellic.description>
   
-  <!-- EN: hood -->
-  <Apparel_HatHood.label>두건</Apparel_HatHood.label>
-  <!-- EN: A draped hood which covers the head and ears. -->
-  <Apparel_HatHood.description>머리와 귀를 덮을 수 있게 걸칠 수 있는 두건입니다.</Apparel_HatHood.description>
-  
   <!-- EN: ladies hat -->
   <Apparel_HatLadies.label>여성용 모자</Apparel_HatLadies.label>
   <!-- EN: A decorative traditional hat with complex embroidery. -->

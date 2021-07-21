@@ -12,11 +12,4 @@
   <!-- EN: Concert -->
   <Concert.letterTitle>음악회</Concert.letterTitle>
   
-  <!-- EN: ThroneSpeech -->
-  <ThroneSpeech.label>왕좌</ThroneSpeech.label>
-  <!-- EN: {ORGANIZER_labelShort} is giving a speech from the throne.\n\nIf all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <ThroneSpeech.letterText>{ORGANIZER_labelShort}가 왕좌에서 연설을 합니다. \n잘 이루어진다면, 청중들은 영감을 받을 것이고, {ORGANIZER_labelShort}을 더욱 존경하게 될 것입니다. 잘못된다면, 그 연설은 사회적인 타격을 줄 것입니다. 결과는 {ORGANIZER_labelShort}의 사교 능력치에 달려있습니다.</ThroneSpeech.letterText>
-  <!-- EN: Speech from the throne -->
-  <ThroneSpeech.letterTitle>왕의 연설</ThroneSpeech.letterTitle>
-  
 </LanguageData>

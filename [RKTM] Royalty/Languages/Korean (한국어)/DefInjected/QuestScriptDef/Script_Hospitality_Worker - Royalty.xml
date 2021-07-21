@@ -23,6 +23,10 @@
   <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>수감자 포섭: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
   <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>보호 임무를 맡은 {SUBJECT_definite}(이)가 포섭되었습니다. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>
+  <!-- EN: Prisoner enslaved: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.label.slateRef>수감자를 노예로 만듬: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.label.slateRef>
+  <!-- EN: You have enslaved {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.text.slateRef>보호 임무를 맡은 {SUBJECT_definite}(을)를 노예로 만들었습니다. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.text.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>불법시술: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon] -->

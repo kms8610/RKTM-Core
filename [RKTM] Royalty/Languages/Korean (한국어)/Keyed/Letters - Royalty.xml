@@ -119,7 +119,7 @@
   <LetterSpeechInspiration>{SPEAKER_nameIndef}의 놀라운 연설 덕분에 {PAWN_nameIndef}(은)는 영감을 받았습니다!</LetterSpeechInspiration>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
   <LetterSpeechInterrupted>연설이 {0}에서 중단되어 별 효과를 내지 못했습니다.</LetterSpeechInterrupted>
-  <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
   <LetterSpeechCancelled>{ORGANIZER_bestRoyalTitleDef}의 연설이 준비한 것의 반도 넘기지 못하고 취소되었습니다. 아무 효과도 없었습니다.</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
   <LetterLabelSpeechCancelled>연설 취소됨</LetterLabelSpeechCancelled>
@@ -146,7 +146,7 @@
   <!-- EN: Psylink gained -->
   <LetterLabelPsylinkLevelGained>정신력 증폭기 획득</LetterLabelPsylinkLevelGained>
   <!-- EN: {USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button. -->
-  <LetterPsylinkLevelGained_First>{USER_labelShort}(은)는 정신력 증폭기의 첫단계를 얻었습니다! {USER_pronoun}는 이제 초능력 시전자가 되었습니다.\n\n{USER_labelShort}(이)가 초능력을 시전하려면 명상을 통해 초집중을 축적해야 합니다. 명상을 하면서 특정 물체에 집중할 수 있다면 명상 효과는 높아집니다.\n\n각 사람들은 각 물체에 집중할 수 있습니다. 이는 개인의 배경, 특징, 작위에 따라 다릅니다. 예를 들어:\n\n- 왕실 작위를 가진 시전자는 왕좌에 명상할 수 있습니다.\n- 유년기 부족민인 시전자는 영혼나무와 성지에 명상할 수 있습니다.\n- 검소를 지닌 시전자는 빈 벽에 명상할 수 있습니다.\n- 사이코패스를 지닌 시전자는 무덤에서 명상하는 것을 좋아합니다.\n\n'i' 단추를 통해 누군가의 명상 유형을 확인할 수 있습니다.</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_First>{USER_labelShort}(이)가 정신력 증폭기의 첫단계를 얻었습니다! {USER_pronoun}는 이제 초능력 시전자가 되었습니다.\n\n{USER_labelShort}(이)가 초능력을 시전하려면 명상을 통해 초집중을 축적해야 합니다. 특정 물체에 집중하면서 명상을 하면 효과가 높아집니다.\n\n사람마다 집중할 수 있는 물체는 개인의 배경, 특성, 작위에 따라 다릅니다. 예를 들어:\n\n- 왕실 작위를 가진 시전자는 왕좌에서 명상합니다.\n- 부족민으로 유년기를 보낸 시전자는 영혼나무와 성지를 보고 명상합니다.\n- 검소한 시전자는 빈 벽만 보면서 명상할 수 있습니다.\n- 사이코패스 시전자는 무덤에서 명상하는 것을 좋아합니다.\n\n'i' 단추를 통해 그 사람의 명상 유형을 확인할 수 있습니다.</LetterPsylinkLevelGained_First>
   <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psychic powers of that higher level, but {USER_pronoun} needs to learn them first. -->
   <LetterPsylinkLevelGained_NotFirst>{USER_labelShort}(은)는 정신력 증폭기의 새로운 단계를 얻었습니다! {USER_pronoun}는 더 높은 단계의 주문을 사용할 수 있지만, 그전에 먼저 학습해야 합니다.</LetterPsylinkLevelGained_NotFirst>
   <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psychic powers: {2} -->
@@ -171,6 +171,18 @@
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
   <LetterTextBestowingCeremonyExpired>{TARGET_definite}(이)가 수여식에 나타나지 않았습니다. 수여식이 취소되었습니다.</LetterTextBestowingCeremonyExpired>
 
+  <!-- EN: {TARGET_definite}'s title changed -->
+  <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite}의 작위 변경됨</LetterLabelBestowingCeremonyTitleUpdated>
+  <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite}(이)가 수여식 일정이 정해진 이후에 다른 작위를 더 얻었습니다. 곧 새로운 작위의 수여식 일정이 다시 잡힐 것입니다.\n\n아직 받지 못한 모든 작위의 정신력 증폭기 또한 새로운 수여식에서 받을 수 있습니다.</LetterTextBestowingCeremonyTitleUpdated>
+  
+  <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort}(은)는 {3}명의 관전자를 모은 것에 대한 존경의 의미로 {FACTION_name}에서 {1}의 신임장을 추가로 받았습니다.</LetterPartBestowingExtraHonor>
+  <!-- EN: {PAWN_labelShort} received no extra honor since there weren't many spectators. -->
+  <LetterPartNoExtraHonor>{PAWN_labelShort}(은)는 관전자가 많지 않아서 신임장을 추가로 받지 못했습니다.</LetterPartNoExtraHonor>
+  <!-- EN: All viewers of the ceremony received a mood bonus. -->
+  <LetterPartMoodBonus>수여식을 구경한 모든 이들이 기분 보너스를 받았습니다.</LetterPartMoodBonus>
+
   <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
   <LetterTextHonorAward_BanditCamp>도적 캠프를 물리친 {0} 공로를 누구에게 수여하겠습니까?</LetterTextHonorAward_BanditCamp>
 
@@ -179,5 +191,11 @@
   <LetterLabelShuttleCrashed>왕복선 추락함</LetterLabelShuttleCrashed>
   <!-- EN: A shuttle has crashed nearby -->
   <LetterTextShuttleCrashed>왕복선이 근처에 추락했습니다.</LetterTextShuttleCrashed>
+
+  <!-- Wanderer joins -->
+  <!-- EN: Transport pod crash: {0_nameDef} -->
+  <LetterLabelWandererJoinsAbasia>{0_nameDef} 수송포드 추락</LetterLabelWandererJoinsAbasia>
+  <!-- EN: A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing. -->
+  <LetterTextWandererJoinsAbasia>{0_nameDef}(이)라는 {0_title}의 수송 포드가 근처에 추락했습니다.\n\n{0_nameDef}(은)는 {1_label}(을)를 앓고 있으며 걸을 수 없습니다.\n\n{0_pronoun}는 많은 시간이 흐르면 자연적으로 치유될 것입니다. 운이 좋으면 빠르게 회복할 수도 있습니다. 또한 많은 양의 번화계 약품을 사용해서 {1_label}(을)를 치료하는 방법도 있습니다.\n\n{0_pronoun}는 정착지에 이바지하고자 하지만, 자발적으로 떠나지는 않을 것입니다. 만약 {0_nameDef}(을)를 원하지 않는다면 {0_objective} 추방하거나, 노예로 팔거나, 방치해서 죽일 수도 있지만 정착민들이 불편해할 것입니다.</LetterTextWandererJoinsAbasia>
 
 </LanguageData>

@@ -45,9 +45,9 @@
   <Research.description>가능한 연구 목록을 확인하고 연구과제를 정합니다.</Research.description>
   
   <!-- EN: schedule -->
-  <Restrict.label>시간/구역</Restrict.label>
+  <Schedule.label>일정</Schedule.label>
   <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
-  <Restrict.description>정착민들의 특정 작업을 어느 시간에, 아니면 어느 장소에서만 하도록 제한합니다.</Restrict.description>
+  <Schedule.description>정착지 개척자들의 하루 일과 및 허용 지역을 설정합니다.</Schedule.description>
   
   <!-- EN: wildlife -->
   <Wildlife.label>생태계</Wildlife.label>

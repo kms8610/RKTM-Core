@@ -110,35 +110,35 @@
   <!-- EN: I feel much better at night. -->
   <NightOwlDuringTheNight.stages.night_owl_at_night.description>역시 밤이 훨씬 편해.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
   
-  <!-- EN: transhumanist pleased -->
-  <ProsthophileHappy.stages.transhumanist_pleased.label>인공신체를 지닌 초월주의자</ProsthophileHappy.stages.transhumanist_pleased.label>
+  <!-- EN: body modder pleased -->
+  <ProsthophileHappy.stages.body_modder_pleased.label>신체 개조 됨</ProsthophileHappy.stages.body_modder_pleased.label>
   <!-- EN: This artificial part is cool. I want more. -->
-  <ProsthophileHappy.stages.transhumanist_pleased.description>현대 기술의 산물이 여기 있다. 난 뭐든지 더 잘 할 수 있어.</ProsthophileHappy.stages.transhumanist_pleased.description>
-  <!-- EN: transhumanist quite pleased -->
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>기쁜 초월주의자</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
+  <ProsthophileHappy.stages.body_modder_pleased.description>이 개조된 부분이 멋져. 더 원해.</ProsthophileHappy.stages.body_modder_pleased.description>
+  <!-- EN: body modder quite pleased -->
+  <ProsthophileHappy.stages.body_modder_quite_pleased.label>기뻐하는 개조주의자</ProsthophileHappy.stages.body_modder_quite_pleased.label>
   <!-- EN: Two artificial parts are better than one. I wish I had more. -->
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>하나보다 두 개가 훨씬 나은 건 당연하지! 그리고 더 많은 인공신체를 원해.</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
-  <!-- EN: transhumanist delighted -->
-  <ProsthophileHappy.stages.transhumanist_delighted.label>행복한 초월주의자</ProsthophileHappy.stages.transhumanist_delighted.label>
+  <ProsthophileHappy.stages.body_modder_quite_pleased.description>역시 한 곳보다 두 곳을 개조한 게 좋아! 더 있었으면 좋겠어.</ProsthophileHappy.stages.body_modder_quite_pleased.description>
+  <!-- EN: body modder delighted -->
+  <ProsthophileHappy.stages.body_modder_delighted.label>행복한 개조주의자</ProsthophileHappy.stages.body_modder_delighted.label>
   <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
-  <ProsthophileHappy.stages.transhumanist_delighted.description>인공신체를 세 개나 설치한 덕에 약한 살덩이를 많이 몰아냈어. 하지만 난 아직도 더 발전하고 싶어.</ProsthophileHappy.stages.transhumanist_delighted.description>
-  <!-- EN: transhumanist enchanted -->
-  <ProsthophileHappy.stages.transhumanist_enchanted.label>고무된 초월주의자</ProsthophileHappy.stages.transhumanist_enchanted.label>
+  <ProsthophileHappy.stages.body_modder_delighted.description>세 부분을 개조했어. 하지만 약하고 물렁한 부분이 많아. 더, 좀더 많은 기계력이 필요해.</ProsthophileHappy.stages.body_modder_delighted.description>
+  <!-- EN: body modder enchanted -->
+  <ProsthophileHappy.stages.body_modder_enchanted.label>개조 중독자</ProsthophileHappy.stages.body_modder_enchanted.label>
   <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
-  <ProsthophileHappy.stages.transhumanist_enchanted.description>네 개째의 인공신체로 나는 인간을 넘어선 존재가 되었어. 하지만 여전히 대체할 육체가 조금 남아있어.</ProsthophileHappy.stages.transhumanist_enchanted.description>
-  <!-- EN: transhumanist overjoyed -->
-  <ProsthophileHappy.stages.transhumanist_overjoyed.label>인간 초월</ProsthophileHappy.stages.transhumanist_overjoyed.label>
+  <ProsthophileHappy.stages.body_modder_enchanted.description>네 부분의 개조로 인해 난 인간 이상이 되어가고 있어. 하지만, 아직 살덩어리들이 있어.</ProsthophileHappy.stages.body_modder_enchanted.description>
+  <!-- EN: body modder overjoyed -->
+  <ProsthophileHappy.stages.body_modder_overjoyed.label>신체 초월</ProsthophileHappy.stages.body_modder_overjoyed.label>
   <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
-  <ProsthophileHappy.stages.transhumanist_overjoyed.description>다섯 개째의 인공신체! 나처럼 우월한 존재가 어찌 슬퍼할 수 있을까?</ProsthophileHappy.stages.transhumanist_overjoyed.description>
+  <ProsthophileHappy.stages.body_modder_overjoyed.description>난 이제 인간을 넘어 섰어. 그런 내가 어떻게 슬픔을 느낄 수 있겠어?</ProsthophileHappy.stages.body_modder_overjoyed.description>
   <!-- EN: machine body is complete -->
   <ProsthophileHappy.stages.machine_body_is_complete.label>승천</ProsthophileHappy.stages.machine_body_is_complete.label>
   <!-- EN: I asked for this. -->
   <ProsthophileHappy.stages.machine_body_is_complete.description>이걸 원했지.</ProsthophileHappy.stages.machine_body_is_complete.description>
   
-  <!-- EN: transhumanist frustrated -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>인공신체가 없음 (개조광)</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
+  <!-- EN: body modder frustrated -->
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>신체 개조 원함</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>인간의 신체는 너무나 약해. 인공 신체를 하나 가지면 좋겠어.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>내 몸은 너무 약해. 좀 더 강한 몸이 필요해.</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
   
   <!-- EN: body purist squeamish -->
   <ProsthophobeUnhappy.stages.body_purist_squeamish.label>인공신체를 가진 순수주의자</ProsthophobeUnhappy.stages.body_purist_squeamish.label>

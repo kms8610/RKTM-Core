@@ -64,6 +64,12 @@
   <Turret_Mortar.label>박격포</Turret_Mortar.label>
   <!-- EN: A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
   <Turret_Mortar.description>모든 종류의 포탄을 발사하는 유인 박격포. 파괴적인 피해를 입힐 수 있지만, 박격포 고유의 부정확성은 전장의 적 집단보다 큰 요새를 공격하는데 더 유용합니다.</Turret_Mortar.description>
+  <!-- EN: Barrel durability -->
+  <Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>배럴 내구도</Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_Mortar.comps.CompRefuelable.fuelLabel>배럴이 변형될 때까지</Turret_Mortar.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new reinforced barrel -->
+  <Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>쏠 수 없음: 새 강화 배럴 필요</Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: uranium slug turret -->
   <Turret_Sniper.label>저격포</Turret_Sniper.label>

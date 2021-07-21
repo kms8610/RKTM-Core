@@ -23,7 +23,7 @@
   <ColonistNeedsRescue>구조가 필요한 정착민</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>구조가 필요한 정착민들</ColonistsNeedRescue>
-  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
+  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
   <ColonistsNeedRescueDesc>다음 정착민들이 행동 불능 상태가 되었습니다.\n\n{0}\n다른 정착민을 보내 구조하세요.\n\n(다른 정착민을 선택하고 행동 불능 상태가 된 정착민을 우클릭하여 구조 명령을 내릴 수 있습니다.)</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
@@ -111,7 +111,7 @@
   <!-- EN: Need recreation variety -->
   <NeedJoySource>오락 시설 필요</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>{1}에는 사용할 수 있는 오락시설이 {0}가지 있지만, 현재 기대수준({2})에서, 정착민들이 만족하려면 {3}가지의 오락시설이 필요합니다. 새롭고 다양한 오락시설을 제공 해주세요.\n\n{4}\n\n{5}\n\n참고: 'i' 버튼을 통해 접근 가능한 통계 화면에서 모든 항목의 오락시설을 확인할 수 있습니다.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>{1}에서 즐길 수 있는 오락 유형이 {0}가지 뿐이지만, 현재 기대수준({2})에서 정착민들이 만족하려면 {3}가지의 오락시설이 필요합니다. 새롭고 다양한 오락 유형을 제공 해주세요.\n\n{4}\n\n{5}\n\n참고: 'i' 버튼을 통해 접근 가능한 통계 화면에서 모든 물체의 오락 유형을 확인할 수 있습니다.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>가능한 오락 시설 유형</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
@@ -220,7 +220,7 @@
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>불쾌한 방문객</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>{0} 퀘스트를 수행하기 위해서는 방문객의 기분을 풀어줘야 합니다. 그를 달래기 위한 적당한 조치를 취하십시오.\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>{0} 임무를 완수하려면 방문객의 기분이 좋아야 합니다. 다음 방문객의 기분을 개선하기 위한 적당한 조치를 취하세요.\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
   <QuestPartShuttleLeaveDelay>{0} 후 왕복선 출발</QuestPartShuttleLeaveDelay>
@@ -254,4 +254,50 @@
   <QuestExpiresSoon>{0} 후 임무 만료됨</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
   <QuestExpiresSoonDesc>'{0}' 임무는 {1} 뒤 만료됩니다.</QuestExpiresSoonDesc>
+
+  <!-- EN: Animal filth -->
+  <AlertAnimalFilth>동물 오물</AlertAnimalFilth>
+  <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
+  <AlertAnimalFilthDesc>오물을 생성하는 동물이 실내의 깨끗한 바닥 위를 돌아다니고 있습니다.\n\n동물이 일반 바닥 위를 돌아다니면 많은 양의 오물이 생깁니다. 오물을 생성하는 동물이 실내로 들어오지 못하도록 제한하세요. 바닥에 짚을 깔아서 생성되는 오물의 양을 크게 줄일 수도 있습니다.\n\n동물의 오물 생성량은 'i' 버튼을 누르면 나타나는 통계 화면에서 확인할 수 있습니다.\n\n다음의 동물이 문제입니다:\n{0}</AlertAnimalFilthDesc>
+
+  <!-- EN: Pen needed -->
+  <AlertAnimalPenNeeded>동물 우리 필요</AlertAnimalPenNeeded>
+  <!-- EN: Some of your tame animals are roamers. If not kept in an animal pen, they will wander away. -->
+  <AlertAnimalPenNeededDesc>길들인 동물 중 일부가 떠돌이 동물입니다. 우리에 가두지 않으면 지역 밖으로 나갈 것입니다.</AlertAnimalPenNeededDesc>
+  <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
+  <AlertAnimalPenNeededNoHandlers>동물을 우리로 끌고 갈 조련사가 없습니다.\n\n정착민을 조련 작업에 할당하세요.</AlertAnimalPenNeededNoHandlers>
+  <!-- EN: None of your assigned handlers have the required animals skill needed to take the following animals to a pen. -->
+  <AlertAnimalPenNeededLowSkillHandlers>다음 동물을 우리로 데려가기 위해 필요한 조련 기술을 아무도 가지고 있지 않습니다.</AlertAnimalPenNeededLowSkillHandlers>
+  <!-- EN: needs {MINSKILL}, {HANDLER_labelShort} has {BESTSKILL} -->
+  <AlertAnimalPenNeededLowSkillHandlersDetail>{MINSKILL} 필요, {HANDLER_labelShort}(은)는 {BESTSKILL}</AlertAnimalPenNeededLowSkillHandlersDetail>
+  <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
+  <AlertAnimalPenNeededDescExplanation>울타리, 방어벽, 벽으로 둘러싸인 곳 안에 우리 표시를 설치해 동물 우리를 만드세요. 우리 표시를 선택하면 어떤 동물을 받을 수 있는지, 얼마나 많이 수용할 수 있는지 볼 수 있습니다.\n\n조련사가 동물을 할당한 우리로 끌고 갈 것입니다.\n\n우리 안에 동물을 넣으려면 문이나 울타리 문이 필요합니다.</AlertAnimalPenNeededDescExplanation>
+
+  <!-- EN: Pen not enclosed -->
+  <AlertAnimalPenNotEnclosed>뚫린 우리</AlertAnimalPenNotEnclosed>
+  <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
+  <AlertAnimalPenNotEnclosedDesc>완성하지 않은 동물 우리가 있습니다.\n\n우리 표시는 동물이 밖으로 나가지 못하도록 울타리, 울타리 문, 방어벽, 벽, 문으로 둘러싼 영역 안에 위치해야 합니다.\n\n미완성 우리만 있더라도 조련사가 배회하는 동물을 집으로 데려오기는 하지만, 동물이 밖으로 나갈 때마다 반복해서 끌고 와야 합니다.</AlertAnimalPenNotEnclosedDesc>
+
+  <!-- EN: Animal wandering away -->
+  <AlertAnimalIsRoaming>배회 중인 동물</AlertAnimalIsRoaming>
+  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
+  <AlertAnimalIsRoamingDesc>길들인 동물 일부가 떠돌이 동물로서 지금 배회 중입니다. 배회 중에 지역 경계에 도달하면 지역 밖으로 나갈 것입니다.\n\n완성한 우리가 있으면 조련사가 데려올 것입니다. 우리 안에 가둬놓은 동물은 배회하지 않습니다.\n\n다음 동물이 배회 중입니다.\n\n{0}</AlertAnimalIsRoamingDesc>
+
+  <!-- EN: Hungry pen animals -->
+  <AlertPennedAnimalHungry>우리 안의 동물이 배고픔</AlertPennedAnimalHungry>
+  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
+  <AlertPennedAnimalHungryDesc>우리 안의 동물이 배고픔을 느끼고 있습니다.\n\n우리 표시를 선택하고 먹이 탭을 열어 자세한 정보를 확인하세요.\n\n초식 동물이라면 더 많은 풀을 먹일 수 있는, 더 큰 우리가 필요할 수 있습니다. 다른 동물의 경우 우리 안에 저장 구역을 지정한 후, 건초 등 동물 먹이를 운반해야 할 수도 있습니다.\n\n배고픈 동물:\n\n{0}</AlertPennedAnimalHungryDesc>
+
+  <!-- EN: Raids arriving in {0} -->
+  <AlertTimedRaidsArrivingIn>습격까지 {0}</AlertTimedRaidsArrivingIn>
+  <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
+  <AlertTimedRaidsArrivingInDesc>다음의 지역으로 적이 접근하고 있습니다. 곧 적 병력이 도착할 것입니다.\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <!-- EN: Arriving at {0} in {1} -->
+  <AlertTimedRaidsArrivingAt>{0}에 {1} 후 도착</AlertTimedRaidsArrivingAt>
+
+  <!-- EN: Faction will become hostile if you stay -->
+  <FactionWillBecomeHostileIfNotLeavingWithin>계속 머무를 시 세력이 적대함</FactionWillBecomeHostileIfNotLeavingWithin>
+  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>다음 세력의 정착지나 전초기지에 계속 머무르면 적대하게 됩니다:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
 </LanguageData>

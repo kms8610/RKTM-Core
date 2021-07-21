@@ -10,7 +10,7 @@
   </supportedVersions>
   <url>https://discord.gg/5UPyCtz</url>
   <description>
-<![CDATA[최종 업데이트: <color=green>2021.07.05</color>
+<![CDATA[최종 업데이트: <color=green>2021.07.21</color>
 
 =====================================
 이 모드는 <color=orange>바닐라와 DLC 번역</color> 합본팩입니다.
@@ -40,7 +40,7 @@ RKTM 권장 모드배열
 만약 English나 Korean 이외에 아무것도 나오지 않는다면 RunTimeGC 옵션 때문이니 [설정 - 모드 옵션]에서 RunTimeGC를 찾아 번역관련 체크를 해제하셔야 다른 언어도 고를 수 있습니다.]]>
   </description>
   <incompatibleWith>
-    <li>AuthorName.KoreanTestMod.Specific</li>
+    <li>Milsu.Rimwaldo.Vanilla</li>
 	<li>AuthorName.KoreanTestMod2.Specific</li>
 	<li>DesTiNy.RKTM.DLC</li>
   </incompatibleWith>

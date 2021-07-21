@@ -26,13 +26,22 @@
   <CastAbilityOnWorldTile.reportString>뭔가 하는 중.</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>뭔가 하는 중</CastAbilityTouch.reportString>
+  
+  <!-- EN: Doing something. -->
   <CastJump.reportString>뭔가 하는 중.</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>눈 치우는 중.</ClearSnow.reportString>
   
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>TargetA 놓는 중.</DeliverToCell.reportString>
+  
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>TargetA 놓는 중.</DropEquipment.reportString>
+  
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>TargetA 배우는 중.</EmptyThingContainer.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>동면장치로 이동 중.</EnterCryptosleepCasket.reportString>
@@ -63,6 +72,9 @@
   
   <!-- EN: following TargetA. -->
   <FollowClose.reportString>TargetA 따르는 중.</FollowClose.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>TargetA 따르는 중.</FollowRoper.reportString>
   
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>TargetA 가져가는 중.</GiveToPackAnimal.reportString>
@@ -99,6 +111,12 @@
   
   <!-- EN: lying down. -->
   <LayDown.reportString>내려놓는 중.</LayDown.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>내려놓는 중.</LayDownAwake.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>내려놓는 중.</LayDownResting.reportString>
   
   <!-- EN: lovin'. -->
   <Lovin.reportString>사랑을 나누는 중.</Lovin.reportString>
@@ -141,6 +159,9 @@
   
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>TargetA에서 맥주 꺼내는 중.</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeCountToInventory.reportString>TargetA 소지품에 넣는 중.</TakeCountToInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>TargetA 소지품에 넣는 중.</TakeInventory.reportString>

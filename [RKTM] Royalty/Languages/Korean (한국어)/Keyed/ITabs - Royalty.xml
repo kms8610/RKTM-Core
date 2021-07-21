@@ -31,10 +31,8 @@
   <!-- EN: {0} total -->
   <RoyalTitleTooltipRoyalFavorTotal>총 {0}</RoyalTitleTooltipRoyalFavorTotal>
 
-  <!-- EN: Royal title offset -->
-  <RecruitmentValueOffsetRoyal>작위 값</RecruitmentValueOffsetRoyal>
-  <!-- EN: Royal title factor -->
-  <RecruitmentValueFactorRoyal>작위 요인</RecruitmentValueFactorRoyal>
+  <!-- EN: {0} title -->
+  <RecruitmentResistanceRoyalTitleOffset>{0} 작위</RecruitmentResistanceRoyalTitleOffset>
   
   <!-- Permits tab -->
   <!-- EN: Permits -->

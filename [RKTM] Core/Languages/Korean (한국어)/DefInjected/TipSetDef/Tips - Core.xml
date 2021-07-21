@@ -19,9 +19,9 @@
   <GameplayTips.WorkTabChangeAllColonists>작업 창에 있는 작업 유형의 이름을 Shift키를 이용하면 모든 정착민의 설정을 변경할 수 있습니다.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
   <GameplayTips.WorkTabDecreasePriority>작업 창의 중요도 수동조절에서 우클릭을 하면 우선순위가 낮아집니다.</GameplayTips.WorkTabDecreasePriority>
-  <!-- EN: In a gunfight, always be behind cover! -->
+  <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
   <GameplayTips.GunfightCover>총격전에서는 항상 엄폐물을 이용하세요!</GameplayTips.GunfightCover>
-  <!-- EN: In a gunfight, spread your colonists out! Bunched-up targets are easy to hit. -->
+  <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
   <GameplayTips.GunfightSpread>총격전에서는 정착민을 분산시켜 놓으세요! 뭉쳐진 표적은 맞기 쉽습니다.</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
   <GameplayTips.ShootingAccuracySmoke>연막은 포탑이 대상을 감지하지 못하도록 완전히 방해하지만, 사람은 여전히 낮은 정확도로 사격할 수 있습니다.</GameplayTips.ShootingAccuracySmoke>
@@ -57,14 +57,16 @@
   <GameplayTips.CaravanPackingSpot>상단 준비 장소를 설치하여 상단이 구성될 장소를 지정할 수 있습니다.</GameplayTips.CaravanPackingSpot>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
   <GameplayTips.CaravanSinglePerson>1인 상단은 특정 상황에서 매우 유용할 수도 있습니다.</GameplayTips.CaravanSinglePerson>
-  <!-- EN: Faster animals make faster caravans. -->
-  <GameplayTips.CaravanFasterAnimals>빠른 동물은 상단 속도를 더 빠르게 만듭니다.</GameplayTips.CaravanFasterAnimals>
-  <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
+  <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
+  <GameplayTips.CaravanRideableAnimals>상단은 말, 당나귀, 낙타와 같이 탈 수 있는 동물이 포함되면 더 빠르게 이동할 수 있습니다.</GameplayTips.CaravanRideableAnimals>
+  <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>규모가 작은 상단은 눈에 잘 띄지 않기 때문에 공격당할 빈도가 낮습니다.</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
   <GameplayTips.CaravanStockpileNearPackingSpot>상단 준비 장소 근처에 있는 저장구역에 보내려는 아이템을 수집하고 상단을 구성하게 된다면, 더 빠르게 준비를 마칠 수 있습니다.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>상단에 훈련을 받지 않은 동물이 있다면, 적을 공격하기 전에 별도의 상단으로 나눠서 전투에 참가하지 못하게 할 수 있습니다.</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: Don't forget to pack medicine on your caravans. -->
+  <GameplayTips.CaravanDontForgetMedicine>상단에 약품을 잊지 마세요.</GameplayTips.CaravanDontForgetMedicine>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
   <GameplayTips.StoryGenerator>림월드는 기량 시험이 아닌 이야기 생성기이며, 폐허가 된 정착지는 실패가 아니라 극적인 희극입니다.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
@@ -123,6 +125,12 @@
   <GameplayTips.ExtinguishFireArtillery>포탄이 폭발하게 되면 폭발반경만큼 화재를 진압할 수 있습니다. 이는 다른 선택지가 없을 때 화재를 진압하기 위해 포탄을 발사해 사용할 수 있습니다.</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
   <GameplayTips.BestStoriesFromDarkestSituations>좌절한 순간에 게임이 끝난다는 것은 아닙니다. 손실이 많은 전투를 하다보면 종종 어려움 속에서도 최고의 이야기가 진행될 수 있습니다.</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>무기와 폭탄같은 물품을 감옥 근처에 두지 마세요. 탈옥이 일어나면 총과 폭탄으로 인해 훨씬 위험해 질 태니까요.</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>동물을 길들일 때, 동물들이 먹을 수 있는 올바른 종류의 음식을 충분히 가지고 있는지 확인하세요.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>출임구에 석재나 암석 덩어리를 떨어뜨리면 강제로 열려있게 되어 적대적인 야생 동물이나 습격자에게 취약해집니다.</GameplayTips.DroppingChunksWillForceDoorsOpen>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>항균 타일이 있는 청결한 연구실은 연구속도를 증가시킵니다.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
@@ -133,5 +141,11 @@
   <GameplayTips.CombatDrugsFromInventory>마약 정책을 사용할 때 고주스 같은 전투용 약물을 소지하도록 사용할 수 있습니다. 이는 전투시 빠른 복용으로 전투를 유리하게 이끌 수 있습니다.</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
   <GameplayTips.SchedulesSetLong>여행시간을 최소화하기 위해 한 번의 행동으로 긴 일정을 설정하세요.</GameplayTips.SchedulesSetLong>
+  <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
+  <GameplayTips.StrawMatting>멍석은 더러워져도 상관 없습니다. 헛간 바닥으로 쓰세요.</GameplayTips.StrawMatting>
+  <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
+  <GameplayTips.AnimalFilth>특정 동물들은 오물을 더 많이 생산합니다. 코끼리나 소같은 대형 동물들은 집 밖에 두세요.</GameplayTips.AnimalFilth>
+  <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>포식자들은 울타리에 둘러싸인 동물들을 사냥할 가능성이 적습니다.</GameplayTips.PredatorsAndFences>
   
 </LanguageData>

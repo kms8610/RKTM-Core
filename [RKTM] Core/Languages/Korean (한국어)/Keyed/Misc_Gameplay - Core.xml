@@ -100,6 +100,12 @@
   <RenameColonist>개명</RenameColonist>
   <!-- EN: Renounce title -->
   <RenounceTitle>작위 포기</RenounceTitle>
+  <!-- EN: Execute -->
+  <Execute>처형</Execute>
+  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
+  <ExecuteColonist>유죄 정착민 처형\n\n활성화할 경우 간수가 이 사람을 처형할 것입니다.</ExecuteColonist> <!-- text_doto -->
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>{0_labelShort}의 처형을 지시했습니다. 활동 가능한 간수가 {0_objective} 처형할 것입니다.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{1}의 {0}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
@@ -126,6 +132,8 @@
   <Fertilized>유정</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>수정되기 전까지 진행하지 않음</ProgressStoppedUntilFertilized>
+  <!-- EN: Hatches in -->
+  <HatchesIn>부화</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>{0} {2}등급 필요, 현재 {1}등급</SkillTooLow>
   <!-- EN: Freezing -->
@@ -160,6 +168,8 @@
   <ConfiguredTargetFuelLevel>연료 목표치 {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
   <Enemies>적들</Enemies>
+  <!-- EN: people -->
+  <People>사람</People>
   <!-- EN: time passed -->
   <TimePassed>진행한 시간</TimePassed>
   <!-- EN: current radius -->
@@ -197,9 +207,9 @@
   <!-- EN: {0} animals -->
   <CaravanAnimalsCount>동물 {0}마리</CaravanAnimalsCount>
   <!-- EN: 1 prisoner -->
-  <CaravanPrisoner>죄수 1명</CaravanPrisoner>
+  <CaravanPrisoner>수감자 1명</CaravanPrisoner>
   <!-- EN: {0} prisoners -->
-  <CaravanPrisonersCount>죄수 {0}명</CaravanPrisonersCount>
+  <CaravanPrisonersCount>수감자 {0}명</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
   <CaravanPawnsInMentalState>{0} 정신 상태</CaravanPawnsInMentalState>
   <!-- EN: {0} downed -->
@@ -258,7 +268,7 @@
   <NoPower>전력 없음</NoPower>
   <!-- EN: Work speed penalty -->
   <WorkSpeedPenalty>작업 속도 페널티</WorkSpeedPenalty>
-  <!-- EN: DISABLED -->
+  <!-- EN: Disabled -->
   <DisabledCommand>사용 불가</DisabledCommand>
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>발사 준비됨.</ReadyForLaunch>
@@ -330,10 +340,16 @@
   <DownedLower>쓰러짐</DownedLower>
   <!-- EN: resting -->
   <Carried>운반됨</Carried>
-  <!-- EN: Avg. person move speed -->
-  <AverageCaravanMemberMoveSpeed>평균 이동 속도</AverageCaravanMemberMoveSpeed>
+  <!-- EN: Rideable animals / people -->
+  <RideableAnimalsPerPeople>탑승 가능한 동물 / 사람</RideableAnimalsPerPeople>
+  <!-- EN: Multiplier from ridden animals -->
+  <MultiplierFromRiddenAnimals>탑승한 동물로 인한 계수</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>운반 중량 계수: {0}</MultiplierForCarriedMass>
+  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
+  <RideableAnimalTip>탑승할 수 있는 동물입니다. 상단 구성원은 탑승할 수 있는 동물 중 가장 빠른 것에 탑승해서 상단의 전체 속도를 높입니다.</RideableAnimalTip>
+  <!-- EN: This caravan can't move because it carries too much. -->
+  <EncumberedCaravanTilesPerDayTip>짐이 너무 무거워서 움직일 수 없습니다.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>상단 구성원 속도</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -424,7 +440,7 @@
   <ViewHyperlink>{0} 보기</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>{0}일 후에 자폭</DetonationCountdown>
-  <!-- EN: Large explosion if damaged -->
+  <!-- EN: Large fire explosion if damaged -->
   <ExplosionOnDamageWarning>손상되면 대폭발을 일으킴</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>메카 전초기지</MechCluster>
@@ -468,10 +484,40 @@
   <DurationLeft>{0} 남음</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>아무거나</AnyOf>
+  <!-- EN: Requires {0} trait -->
+  <TraitRequired>{0} 특성 필요</TraitRequired>
   <!-- EN: Goodwill -->
   <Goodwill>우호도</Goodwill>
+  <!-- EN: Natural goodwill -->
+  <NaturalGoodwill>기준 우호도</NaturalGoodwill>
+  <!-- EN: Natural goodwill range -->
+  <NaturalGoodwillRange>기준 우호도 범위</NaturalGoodwillRange>
+  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
+  <NaturalGoodwillDescription>기준 우호도는 세력의 정체성과 믿음에 따라 다릅니다. 현재 우호도가 기준 우호도에서 멀리 벗어나 있다면, 시간이 지남에 따라 현재 우호도가 서서히 기준 범위를 향해 이동합니다.\n\n기준 우호도를 향하는 우호도 변경 효과는 모두 {0}의 추가 계수를 받습니다.</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>{0_nameIndef}의 저항심 감소 중</JobReport_ReduceResistance>
+  <!-- EN: Too large -->
+  <TooLargeForBed>너무 큼</TooLargeForBed>
+  <!-- EN: Warning -->
+  <Warning>경고</Warning>
+  <!-- EN: Has subquest -->
+  <HasSubquest>하위 임무 존재</HasSubquest>
+  <!-- EN: Subquest of -->
+  <SubquestOf>다음의 하위 임무</SubquestOf>
+  <!-- EN: Raid -->
+  <Raid>습격</Raid>
+  <!-- EN: Disabled by -->
+  <ApparelRequirementDisabledLabel>비활성화됨</ApparelRequirementDisabledLabel>
+  <!-- EN: Nudism -->
+  <Nudism>나체주의</Nudism>
+  <!-- EN: Study progress -->
+  <StudyProgress>연구 진행률</StudyProgress>
+  <!-- EN: completed -->
+  <StudyCompleted>완료</StudyCompleted>
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>공격해서 파괴하세요.</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>공격해서 제거하세요.</RemoveByAttackingTooltip>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -490,6 +536,8 @@
   <ContainsWort>맥아즙 {0} / {1}</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>맥주 {0} / {1}</ContainsBeer>
+  <!-- EN: Contains -->
+  <Contains>포함</Contains>
   <!-- EN: Fermented -->
   <Fermented>발효됨</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -516,8 +564,8 @@
   <TextMote_ResistanceReduced>저항심\n{0}에서 {1}로 낮아짐</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
   <TextMote_TameFail>조련 실패\n{0} 확률</TextMote_TameFail>
-  <!-- EN: Tamed!\n{0} chance -->
-  <TextMote_TameSuccess>길들임!\n{0} 확률</TextMote_TameSuccess>
+  <!-- EN: Tamed! -->
+  <TextMote_TameSuccess>길들임!</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>훈련 실패: {0}\n{1} 확률</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
@@ -557,6 +605,45 @@
   <!-- EN: Invert -->
   <InvertArea>반전</InvertArea>
 
+  <!-- Animal pens -->
+  <!-- EN: Unenclosed -->
+  <PenUnenclosedLabel>뚫림</PenUnenclosedLabel>
+  <!-- EN: open door -->
+  <PenOpenDoorLabel>문 열림</PenOpenDoorLabel>
+  <!-- EN: Rename pen -->
+  <RenameAnimalPen>우리 이름 변경</RenameAnimalPen>
+  <!-- EN: Pen marker {0} -->
+  <AnimalPenMarkerDefaultLabel>우리 표시 {0}</AnimalPenMarkerDefaultLabel>
+  <!-- EN: In pen -->
+  <InPen>우리에 들어감</InPen>
+  <!-- EN: not in a pen -->
+  <Unpenned>우리에 들어가지 않음</Unpenned>
+  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
+  <UnpennedTooltip>동물 우리는 울타리나 방어벽, 일반 벽, 문으로 둘러싸인 곳에 우리 표시를 설치해 만들 수 있습니다. 조련사가 동물을 적합한 우리로 끌고 갈 것입니다.</UnpennedTooltip>
+  <!-- EN: Roped by -->
+  <RopedByPawn>Roped by</RopedByPawn>
+  <!-- EN: Roped to -->
+  <RopedToThing>Roped to</RopedToThing>
+  <!-- EN: Roped to spot. -->
+  <RopedToSpot>Roped to spot.</RopedToSpot>
+  <!-- EN: Pen size -->
+  <PenSizeLabel>우리 크기</PenSizeLabel>
+  <!-- EN: Very small pen -->
+  <PenSizeDesc_VerySmall>아주 작은 우리</PenSizeDesc_VerySmall>
+  <!-- EN: Small pen -->
+  <PenSizeDesc_Small>작은 우리</PenSizeDesc_Small>
+  <!-- EN: Medium-sized pen -->
+  <PenSizeDesc_Medium>중형 우리</PenSizeDesc_Medium>
+  <!-- EN: Large pen -->
+  <PenSizeDesc_Large>대형 우리</PenSizeDesc_Large>
+  <!-- EN: Not enclosed - build fences -->
+  <PenSizeDesc_Unenclosed>뚫림 - 울타리 필요</PenSizeDesc_Unenclosed>
+  <!-- EN: {ANIMALDEF_label} capacity -->
+  <PenCapacityDesc>{ANIMALDEF_label} 수용량</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>예시 동물</PenExampleAnimals>
+
+
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>조종할 수 없는 대상에게 명령을 내릴 수 없습니다.</CannotOrderNonControlled>
@@ -566,6 +653,8 @@
   <IsIncapableOfViolenceShort>폭력적인 일 불가</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort}(은)는 소집되지 않았습니다.</IsNotDrafted>
+  <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
+  <ApparelPreventsShooting>{PAWN_nameDef}(이)가 착용한 {APPAREL_label}(으)로 인해 사격할 수 없습니다.</ApparelPreventsShooting>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -608,6 +697,8 @@
   <ReportSleeping>수면 중.</ReportSleeping>
   <!-- EN: resting. -->
   <ReportResting>쉬는 중.</ReportResting>
+  <!-- EN: laying down. -->
+  <ReportLayingDown>눕는 중.</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>일출 보는 중.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
@@ -756,8 +847,8 @@
   <StunLower>기절</StunLower>
 
   <!-- Inspector general stuff -->
-  <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>같은 칸의 다음 물건을 선택합니다.\n\n바로가기 키: {0}\n\n해당 칸을 천천히 여러 번 눌러도 같은 작업을 할 수 있습니다.</SelectNextInSquareTip>
+  <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTip>같은 칸의 다음 물건을 선택합니다.\n\n(*SectionTitle)바로가기 키:(/SectionTitle) {0}\n\n해당 칸을 천천히 여러 번 눌러도 같은 작업을 할 수 있습니다.</SelectNextInSquareTip>
   <!-- EN: View information. -->
   <DefInfoTip>상세 정보</DefInfoTip>
 
@@ -834,6 +925,8 @@
   <!-- Meal -->
   <!-- EN: Ingredients -->
   <Ingredients>성분</Ingredients>
+  <!-- EN: only stacks with similar meals -->
+  <OnlyStacksWithCompatibleMeals>유사한 음식만 겹칠 수 있음</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
@@ -868,6 +961,12 @@
   <Blighted>감염됨</Blighted>
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>빛으로 인해 죽어가는 중</DyingBecauseExposedToLight>
+  <!-- EN: Cut now -->
+  <AutoCutNow>지금 제초</AutoCutNow>
+  <!-- EN: harvesting -->
+  <HarvestGerund>수확</HarvestGerund>
+  <!-- EN: cutting -->
+  <CutGerund>제초</CutGerund>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -964,6 +1063,8 @@
   <WillGetWorkSpeedPenalty>{0}의 작업 속도가 느려짐</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>지붕 아래에 배치할 수 없습니다.</MustPlaceUnroofed>
+  <!-- EN: Must be placed under thick roof. -->
+  <MustPlaceUnderThickRoof>두꺼운 지붕 아래에 배치해야 합니다.</MustPlaceUnderThickRoof>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>앞 부분이 우주선 구조부에 붙어있어야 합니다.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
@@ -982,6 +1083,8 @@
   <MustPlaceOnDrillable>심층 채굴 가능한 자원에 배치해야 합니다.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>함정 옆에 배치할 수 없습니다.</CannotPlaceAdjacentTrap>
+  <!-- EN: Cannot be placed next to another building of the same type. -->
+  <CannotPlaceAdjacentSameDef>같은 유형의 건물 옆에 배치할 수 없습니다.</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -1054,6 +1157,8 @@
   <!-- Quality -->
   <!-- EN: Quality -->
   <Quality>품질</Quality>
+  <!-- EN: quality -->
+  <quality>품질</quality>
   <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>이 물건이 얼마나 잘 만들어졌는지를 나타냅니다.</QualityDescription>
   <!-- EN: Quality: {0} -->
@@ -1061,7 +1166,7 @@
 
   <!-- Mood descriptions -->
   <!-- EN: mental state -->
-  <Mood_MentalState>정신상태</Mood_MentalState>
+  <Mood_MentalState>정신 상태</Mood_MentalState>
   <!-- EN: about to break -->
   <Mood_AboutToBreak>정신이상 직전</Mood_AboutToBreak>
   <!-- EN: on edge -->
@@ -1102,6 +1207,10 @@
   <!-- Facilities -->
   <!-- EN: inactive -->
   <InactiveFacility>비활성</InactiveFacility>
+  <!-- EN: Links to -->
+  <FacilityPotentiallyLinkedTo>연결됨</FacilityPotentiallyLinkedTo>
+  <!-- EN: Not linked to a building -->
+  <FacilityNoPotentialLinks>건물에 연결되지 않음</FacilityNoPotentialLinks>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
@@ -1315,7 +1424,7 @@
   <!-- EN: (existing bond) -->
   <BladelinkAlreadyBonded>(현존 결속)</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog>한번에 하나의 영혼무기만 결속 가능합니다.\n\n{WEAPON_labelShort}(을)를 결속하고 장착하려면, 현재 {PAWN_nameDef}의 결속된 무기인 {BONDEDWEAPON_labelShort}(을)를 우선 파괴해야 합니다.</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>한 번에 하나의 영혼무기만 결속할 수 있습니다.\n\n{WEAPON_labelShort}(을)를 결속하고 장착하려면, 현재 {PAWN_nameDef}의 결속 무기인 {BONDEDWEAPON_labelShort}(을)를 먼저 파괴해야 합니다.</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
   <BladelinkAlreadyBondedMessage>{PAWN_nameDef}(은)는 이미 {BONDEDWEAPON_labelShort}(와)과 결속되어 있습니다.</BladelinkAlreadyBondedMessage>
 
@@ -1344,5 +1453,136 @@
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>{0}에 의해 발생</CausedByHediff>
+  
+  <!-- Healing -->
+  <!-- EN: {0_nameDef}'s {1} was cured. -->
+  <HealingCureHediff>{0_nameDef}의 {1}(이)가 치유됐습니다.</HealingCureHediff>
+  <!-- EN: {0_nameDef}'s {1} was restored. -->
+  <HealingRestoreBodyPart>{0_nameDef}의 {1}(이)가 복구됐습니다.</HealingRestoreBodyPart>
+
+  <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
+  <WarningBuildingCausesHostility>주의: 여기에 건물을 배치하면 {FACTION_name}(이)가 분노합니다!</WarningBuildingCausesHostility>
+
+  <!-- EN: Choose landing site -->
+  <ChooseLandingSite>착륙 지점 선택</ChooseLandingSite>
+  
+  <!-- Rituals -->
+  <!-- EN: ritual -->
+  <Ritual>의식</Ritual>
+
+  <!-- EN: Takes place at -->
+  <RitualTakesPlaceAt>장소</RitualTakesPlaceAt>
+  <!-- EN: Any {0} -->
+  <RitualTargetThingDefsInfo>아무 {0}</RitualTargetThingDefsInfo>
+  <!-- EN: Attending -->
+  <LordReportAttending>참석 중</LordReportAttending>
+  <!-- EN: {0} has been canceled. -->
+  <RitualCalledOff>{0}(이)가 취소됐습니다.</RitualCalledOff>
+  <!-- EN: {0} was not completed because of lack of attendance. -->
+  <RitualNobodyAttended>참석자가 없어서 {0}(이)가 취소됐습니다.</RitualNobodyAttended>
+  <!-- EN: {0} has been completed. -->
+  <RitualFinished>{0}(이)가 끝났습니다.</RitualFinished>
+  <!-- EN: ends in {0} -->
+  <RitualEndsIn>{0} 후 끝</RitualEndsIn>
+  <!-- EN: Organizers -->
+  <Organizers>주최자</Organizers>
+  <!-- EN: Quality factors -->
+  <QualityFactors>품질 요소</QualityFactors>
+  <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
+  <QualityFactorTooltipUncertain>잘 진행되면 이 조건을 만족할 수도 있습니다.\n\n만족할 경우 품질 보너스를 받을 수 있습니다.</QualityFactorTooltipUncertain>
+  <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
+  <QualityFactorTooltipNotFulfilled>이 조건을 만족하지 않습니다.\n\n품질 보너스를 받지 못합니다.</QualityFactorTooltipNotFulfilled>
+  <!-- EN: Spectators -->
+  <Spectators>관전자</Spectators>
+  <!-- EN: Not participating -->
+  <NotParticipating>참여 안함</NotParticipating>
+  <!-- EN: Drag and drop or left/right click to move people. -->
+  <DragPawnsToRolesInfo>사람을 드래그하거나 왼쪽/오른쪽 클릭을 사용해 이동하세요.</DragPawnsToRolesInfo>
+  <!-- EN: A slave. The human property of others. -->
+  <RitualBeginSlaveDesc>노예입니다. 다른 이의 재산입니다.</RitualBeginSlaveDesc>
+  <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>{0_labelShort}(이)가 자고 있습니다. 의식에 포함하면 일어나서 참여할 것입니다.</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
+  <RitualBeginSleepingWarning>선택한 참여자 중 일부가 자고 있습니다. 의식을 시작하면 깨어날 것입니다.</RitualBeginSleepingWarning>
+  <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
+  <RitualRoleRequiresSocialRole>이 위치는 {0}의 역할을 지닌 정착민이 적합합니다.\n\n{0}(이)가 아닌 사람이 이 위치를 맡을 경우 다음의 보너스를 받지 못합니다</RitualRoleRequiresSocialRole>
+  <!-- EN: No substitute available for the role of {0}. -->
+  <RitualRoleCantSubstitute>{0}(은)는 대체할 수 없는 역할입니다.</RitualRoleCantSubstitute>
+  <!-- EN: {0} progress -->
+  <RitualOutcomeProgress>{0} 진행도</RitualOutcomeProgress>
+  <!-- EN: {0} quality depends on -->
+  <RitualOutcomeQualityAbstract>{0} 품질에 영향을 주는 요소</RitualOutcomeQualityAbstract>
+  <!-- EN: {0} total quality was {1}, determined by these factors -->
+  <RitualOutcomeQualitySpecific>{0}의 총 품질은 {1}였습니다. 품질에 영향을 준 요소</RitualOutcomeQualitySpecific>
+  <!-- EN: Outcome chances at {0} quality -->
+  <RitualOutcomeChances>품질 {0}에서 나타날 수 있는 결과 확률</RitualOutcomeChances>
+  <!-- EN: Performed recently -->
+  <RitualOutcomePerformedRecently>최근에 실행함</RitualOutcomePerformedRecently>
+  <!-- EN: {0} expectations -->
+  <RitualQualityExpectations>{0} 기대치</RitualQualityExpectations>
+  <!-- EN: Ritual ambience sound -->
+  <RitualAmbienceSound>의식 배경음</RitualAmbienceSound>
+  <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
+  <RitualQualityLowWarning>{0}의 총 품질이 {1} 미만입니다. 이대로 진행하면 정착지에 부정적인 영향을 끼칠 확률이 높습니다.\n\n정말 계속 하시겠습니까?</RitualQualityLowWarning>
+  <!-- EN: No reachable appropriate place to speak. -->
+  <AbilitySpeechDisabledNoSpot>도달 가능하고 연설에 적합한 장소가 없습니다.</AbilitySpeechDisabledNoSpot>
+  <!-- EN: {0_labelShort} is incapable of talking. -->
+  <AbilitySpeechDisabledCantSpeak>{0_labelShort}(은)는 말을 할 수 없습니다.</AbilitySpeechDisabledCantSpeak>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>의식에 참여한 모든 사람의 기분이 {1}일간 {0}만큼 좋아집니다.</RitualOutcomeExtraDesc_Mood>
+  
+  <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
+  <ChooseParticipants>{RITUAL_labelDef}에 참여해야 하는 사람을 선택하세요.</ChooseParticipants>
+  <!-- EN: Begin -->
+  <Begin>시작</Begin>
+  <!-- EN: Begin {0} -->
+  <BeginRitual>{0} 시작</BeginRitual>
+  <!-- EN: Begin {0} for {1} -->
+  <BeginRitualFor>Begin {0} for {1}</BeginRitualFor>
+  <!-- EN: {0} (out of {1}) -->
+  <QualityOutOf>{0} (최대 {1})</QualityOutOf>
+  <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
+  <DateRitualNoObligation>{0}(은)는 특정 날짜에 시작해야 합니다. {2}의 {1}에 시작할 수 있을 것입니다.</DateRitualNoObligation>
+
+  <!-- EN: Replace with -->
+  <PreceptReplaceWith>대체</PreceptReplaceWith>
+  <!-- EN: Ritual seat of {IDEOS} -->
+  <RitualSeatOf>{IDEOS} 의식 좌석</RitualSeatOf>
+  <!-- EN: Expected quality -->
+  <ExpectedRitualQuality>예상 품질</ExpectedRitualQuality>
+  <!-- EN: Starting quality -->
+  <StartingQuality>시작 품질</StartingQuality>
+  <!-- EN: Expected duration -->
+  <ExpectedRitualDuration>예상 기간</ExpectedRitualDuration>
+  
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort}의 {1}</RitualPredictedOutcomeDescPawnStat>
+  <!-- EN: Room beauty -->
+  <RitualPredictedOutcomeDescRoomBeauty>방 미관</RitualPredictedOutcomeDescRoomBeauty>
+  <!-- EN: Participants -->
+  <RitualPredictedOutcomeDescParticipantCount>참여자</RitualPredictedOutcomeDescParticipantCount>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}의 기대치</RitualPredictedOutcomeDescPawnExpectations>
+
+  <!-- EN: Any of these -->
+  <RitualOutcomeLabelAnyOfThese>Any of these</RitualOutcomeLabelAnyOfThese>
+  <!-- EN: Replaces {PAWN_labelShort} -->
+  <RitualRoleReplaces>{PAWN_labelShort}(을)를 대체</RitualRoleReplaces>
+
+  <!-- EN: present -->
+  <Present>선물</Present>
+  <!-- EN: {0} used -->
+  <Used>{0} 사용</Used>
+  <!-- EN: {0} starting quality -->
+  <StartingRitualQuality>{0} 시작 품질</StartingRitualQuality>
+
+  <!-- EN: up to {0} quality -->
+  <OutcomeBonusDesc_Quality>최대 {0} 품질</OutcomeBonusDesc_Quality>
+  <!-- EN: {0} quality -->
+  <OutcomeBonusDesc_QualitySingleOffset>품질 {0}</OutcomeBonusDesc_QualitySingleOffset>
+  <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
+  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
+  <!-- EN: {0} max -->
+  <MaxValue>최대 {0}</MaxValue>
   
 </LanguageData>

@@ -71,6 +71,8 @@
   <PsychicLove.label>초능력 애정</PsychicLove.label>
   <!-- EN: Psychically-induced romantic desire. This increases an individual's opinion of someone else, and increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
   <PsychicLove.description>심리적으로 유도된 연애 욕망입니다. 다른 사람에 대한 개인의 의견을 높여주며, 이별할 확률을 낮출 수 있고, 연인이 될 가능성과 고백 제안의 가능성을 높여줍니다.</PsychicLove.description>
+  <!-- EN: for -->
+  <PsychicLove.targetPrefix>-></PsychicLove.targetPrefix>
   
   <!-- EN: psychic vertigo -->
   <PsychicVertigo.label>초능력 현기증</PsychicVertigo.label>

@@ -41,4 +41,11 @@
   <!-- EN: head -->
   <Mech_Scyther.tools.head.label>머리</Mech_Scyther.tools.head.label>
   
+  <!-- EN: termite -->
+  <Mech_Termite.label>터마이트</Mech_Termite.label>
+  <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
+  <Mech_Termite.description>중간 크기의 메카노이드입니다. 이 개체는 굴을 파고, 땅을 파며, 방어 시설을 뚫는 것을 전문으로 하고 있습니다. 이들이 나타난다면, 그들이 방어망을 뚫고 나타날때까지 기다리던가, 나타나는 곳으로 가서 먼저 파괴하던가 결정해야 합니다.</Mech_Termite.description>
+  <!-- EN: head -->
+  <Mech_Termite.tools.head.label>머리</Mech_Termite.tools.head.label>
+  
 </LanguageData>

@@ -14,32 +14,22 @@
   <RoyalTitleTooltipThroneroomRequirements>알현실 요구사항</RoyalTitleTooltipThroneroomRequirements>
   <!-- EN: Title privileges -->
   <RoyalTitleTooltipPermits>작위 특권</RoyalTitleTooltipPermits>
-  <!-- EN: room area: {0} tiles -->
-  <RoomRequirementArea>방 면적: {0} 타일</RoomRequirementArea>
-  <!-- EN: room impressiveness -->
-  <RoomRequirementImpressiveness>방 인상</RoomRequirementImpressiveness>
-  <!-- EN: all floored -->
-  <RoomRequirementAllFloored>모든 바닥재</RoomRequirementAllFloored>
-  <!-- EN: all braziers must be lit -->
-  <RoomRequirementAllBraziersMustBeLit>모든 화로에 불이 붙어있어야 함</RoomRequirementAllBraziersMustBeLit>
-  <!-- EN: all fine floored -->
-  <RoomRequirementAllFineFloored>모든 고급 바닥재</RoomRequirementAllFineFloored>
-  <!-- EN: no work facilities allowed -->
-  <RoomRequirementNoProductionFacilities>생산시설 없음</RoomRequirementNoProductionFacilities>
-  <!-- EN: no beds allowed -->
-  <RoomRequirementNoBeds>침대없음</RoomRequirementNoBeds>
   <!-- EN: Holders of this title must be covered in some combination of -->
   <RoyalTitleRequiredApparelStatDescription>해당 작위 보유자는 반드시 다음 수준의 옷들을 입어야 함:</RoyalTitleRequiredApparelStatDescription>
   <!-- EN: Any prestige armor -->
   <ApparelRequirementAnyPrestigeArmor>모든 위신갑옷</ApparelRequirementAnyPrestigeArmor>
   <!-- EN: Any psycaster apparel -->
   <ApparelRequirementAnyPsycasterApparel>모든 초능력자 의복</ApparelRequirementAnyPsycasterApparel>
+  <!-- EN: or any psycaster or prestige apparel -->
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>모든 초능력자 또는 위신 의복</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
   <!-- EN: Disallowed work types -->
   <DisabledWorkTypes>비활성화된 작업 유형</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
   <RoyalTitleRequiredMeals>허용된 음식</RoyalTitleRequiredMeals>
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
   <RoyalTitleRequiredMealsDesc>해당 작위를 지닌 인물은 죽을 정도로 굶주리거나 상단에 소속되어 있는 경우를 제외하면 오직 이 음식들만을 골라 섭취합니다.</RoyalTitleRequiredMealsDesc>
+  <!-- EN: Choose who should participate in bestowing ceremony. -->
+  <ChooseParticipantsBestow>수여식에 참여할 사람을 선택하세요.</ChooseParticipantsBestow>
 
   <!-- Royal implants -->
   <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->

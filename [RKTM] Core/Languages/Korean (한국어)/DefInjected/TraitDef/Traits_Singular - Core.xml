@@ -13,7 +13,7 @@
   
   <!-- EN: ascetic -->
   <Ascetic.degreeDatas.ascetic.label>검소</Ascetic.degreeDatas.ascetic.label>
-  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
+  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
   <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef}(은)는 언제나 금욕을 추구하기 때문에 침실이 너무 좋으면 기분이 나빠집니다. 음식도 호화로운 음식보다는 되도록 날것으로 먹으려고 하며, 생식으로 인해 스트레스를 받지 않습니다.</Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: asexual -->
@@ -32,7 +32,7 @@
   <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef}(은)는 사람을 해치는 일을 즐기며 피나 죽음을 보는 것에 신경쓰지 않습니다. 의견 충돌을 두 배로 자주 일으킵니다.</Bloodlust.degreeDatas.bloodlust.description>
   
   <!-- EN: body purist -->
-  <BodyPurist.degreeDatas.body_purist.label>순수주의자</BodyPurist.degreeDatas.body_purist.label>
+  <BodyPurist.degreeDatas.body_purist.label>신체 순수주의자</BodyPurist.degreeDatas.body_purist.label>
   <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
   <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef}는 순수한 육체의 정당성을 신봉하며, 인공 신체는 비윤리적이고 더럽다고 생각합니다.</BodyPurist.degreeDatas.body_purist.description>
   
@@ -93,7 +93,7 @@
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>다정다감</Kind.degreeDatas.kind.label>
-  <!-- EN: {PAWN_nameDef} is exceptionally kind. {PAWN_pronoun} has a special way of using kind words to brighten someone's day. {PAWN_pronoun} never insults others, and never judges people by their appearance. -->
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} never insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
   <Kind.degreeDatas.kind.description>{PAWN_nameDef}(은)는 좋은 사람입니다. {PAWN_pronoun}는 다른 사람의 하루를 밝게 만들어 주기도 하고, 다른 사람을 절대 모욕하지 않습니다.</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
@@ -153,10 +153,10 @@
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
   <Tough.degreeDatas.tough.description>{PAWN_nameDef}(은)는 두꺼운 피부와 단단한 근육, 튼튼한 뼈의 소유자입니다. {PAWN_pronoun}는 같은 공격으로부터 다른 사람들보다 훨씬 적은 피해를 입습니다. {PAWN_pronoun}를 죽이기란 정말로 어려운 일입니다.</Tough.degreeDatas.tough.description>
   
-  <!-- EN: transhumanist -->
-  <Transhumanist.degreeDatas.transhumanist.label>초월주의자</Transhumanist.degreeDatas.transhumanist.label>
+  <!-- EN: body modder -->
+  <Transhumanist.degreeDatas.body_modder.label>신체 개조주의자</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
-  <Transhumanist.degreeDatas.transhumanist.description>{PAWN_nameDef}(은)는 인체가 지닌 한계를 고뇌하며, 자신의 육체를 인공 신체로 개조하기를 열망합니다.</Transhumanist.degreeDatas.transhumanist.description>
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef}(은)는 허약한 인체에서 한계를 느낍니다. {PAWN_pronoun}는 종종 인공 신체로 자신의 몸이 강화되는 꿈을 꾸곤 합니다.</Transhumanist.degreeDatas.body_modder.description>
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>실내 선호</Undergrounder.degreeDatas.undergrounder.label>

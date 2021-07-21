@@ -44,6 +44,8 @@
   <ResetModsConfigOnCrash>오류 시 자동으로 모드 설정 초기화</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
   <SimulateNotOwningRoyalty>로얄티 없이 시뮬레이션</SimulateNotOwningRoyalty>
+  <!-- EN: Simulate not owning Ideology -->
+  <SimulateNotOwningIdeology>이데올로기 없이 시뮬레이션</SimulateNotOwningIdeology>
   <!-- EN: Verbose logging -->
   <LogVerbose>상세 기록</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -105,4 +107,8 @@
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
   <ResetAndRestartConfirmationDialog>모든 설정을 기본값으로 초기화하고 게임을 다시 시작합니다. 다시 시작됩니다.\n\n계속할까요?</ResetAndRestartConfirmationDialog>
   
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>초기화면 배경</SetBackgroundImage>
+
 </LanguageData>
