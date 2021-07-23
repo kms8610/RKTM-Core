@@ -2,228 +2,363 @@
 <LanguageData>
   
   <!-- EN: blinding speech -->
-  <Speech_Blinding.label>TODO</Speech_Blinding.label>
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->blindness</li>
-    <li>speechtopic->the purity of blindness</li>
-    <li>speechtopic->the spiritual meaning of the sightless</li>
-    <li>speechtopic->hidden worlds beyond sight</li>
-    <li>speechtopic->the falseness of our visual reality</li>
-    <li>speechtopic->the technique of blinding</li>
-    <li>speechtopic->the curse of sight</li>
-    <li>speechtopic->the jelly inside the eyeball</li>
-    <li>speechtopic->growing up sighted</li>
-    <li>speechtopic->growing up blind</li>
-    <li>speechtopic->exploring without seeing or moving</li>
-    <li>speechtopic->the true layers of reality under the visual</li>
-    <li>speechtopic->psychic connections</li>
-  -->
-  <Speech_Blinding.logRulesInitiator.rulesStrings>TODO</Speech_Blinding.logRulesInitiator.rulesStrings>
+  <Speech_Blinding.label>blinding speech</Speech_Blinding.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]. -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [speechtopic][spokeof].</Speech_Blinding.logRulesInitiator.rulesStrings.0>
+  <!-- EN: speechtopic->blindness -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.1>speechtopic->blindness</Speech_Blinding.logRulesInitiator.rulesStrings.1>
+  <!-- EN: speechtopic->the purity of blindness -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.2>speechtopic->the purity of blindness</Speech_Blinding.logRulesInitiator.rulesStrings.2>
+  <!-- EN: speechtopic->the spiritual meaning of the sightless -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.3>speechtopic->the spiritual meaning of the sightless</Speech_Blinding.logRulesInitiator.rulesStrings.3>
+  <!-- EN: speechtopic->hidden worlds beyond sight -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.4>speechtopic->hidden worlds beyond sight</Speech_Blinding.logRulesInitiator.rulesStrings.4>
+  <!-- EN: speechtopic->the falseness of our visual reality -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.5>speechtopic->the falseness of our visual reality</Speech_Blinding.logRulesInitiator.rulesStrings.5>
+  <!-- EN: speechtopic->the technique of blinding -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.6>speechtopic->the technique of blinding</Speech_Blinding.logRulesInitiator.rulesStrings.6>
+  <!-- EN: speechtopic->the curse of sight -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.7>speechtopic->the curse of sight</Speech_Blinding.logRulesInitiator.rulesStrings.7>
+  <!-- EN: speechtopic->the jelly inside the eyeball -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.8>speechtopic->the jelly inside the eyeball</Speech_Blinding.logRulesInitiator.rulesStrings.8>
+  <!-- EN: speechtopic->growing up sighted -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.9>speechtopic->growing up sighted</Speech_Blinding.logRulesInitiator.rulesStrings.9>
+  <!-- EN: speechtopic->growing up blind -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.10>speechtopic->growing up blind</Speech_Blinding.logRulesInitiator.rulesStrings.10>
+  <!-- EN: speechtopic->exploring without seeing or moving -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.11>speechtopic->exploring without seeing or moving</Speech_Blinding.logRulesInitiator.rulesStrings.11>
+  <!-- EN: speechtopic->the true layers of reality under the visual -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.12>speechtopic->the true layers of reality under the visual</Speech_Blinding.logRulesInitiator.rulesStrings.12>
+  <!-- EN: speechtopic->psychic connections -->
+  <Speech_Blinding.logRulesInitiator.rulesStrings.13>speechtopic->psychic connections</Speech_Blinding.logRulesInitiator.rulesStrings.13>
   
   <!-- EN: conversion speech -->
-  <Speech_Conversion.label>TODO</Speech_Conversion.label>
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->uniting for the greater good</li>
-    <li>speechtopic->the wrongness of apostasy</li>
-    <li>speechtopic->choosing right beliefs</li>
-    <li>speechtopic->the moral structure of the universe</li>
-    <li>speechtopic->right and wrong</li>
-    <li>speechtopic->the purpose of life</li>
-    <li>speechtopic->the meaning of life</li>
-    <li>speechtopic->mankind's history</li>
-    <li>speechtopic->the future of mankind</li>
-    <li>speechtopic->love and hate</li>
-    <li>speechtopic->fear and safety</li>
-    <li>speechtopic->the rightness of belonging</li>
-    <li>speechtopic->joining and belonging</li>
-    <li>speechtopic->false other beliefs</li>
-    <li>speechtopic->progress towards the future</li>
-  -->
-  <Speech_Conversion.logRulesInitiator.rulesStrings>TODO</Speech_Conversion.logRulesInitiator.rulesStrings>
+  <Speech_Conversion.label>conversion speech</Speech_Conversion.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]. -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [speechtopic][spokeof].</Speech_Conversion.logRulesInitiator.rulesStrings.0>
+  <!-- EN: speechtopic->uniting for the greater good -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.1>speechtopic->uniting for the greater good</Speech_Conversion.logRulesInitiator.rulesStrings.1>
+  <!-- EN: speechtopic->the wrongness of apostasy -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.2>speechtopic->the wrongness of apostasy</Speech_Conversion.logRulesInitiator.rulesStrings.2>
+  <!-- EN: speechtopic->choosing right beliefs -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.3>speechtopic->choosing right beliefs</Speech_Conversion.logRulesInitiator.rulesStrings.3>
+  <!-- EN: speechtopic->the moral structure of the universe -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.4>speechtopic->the moral structure of the universe</Speech_Conversion.logRulesInitiator.rulesStrings.4>
+  <!-- EN: speechtopic->right and wrong -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.5>speechtopic->right and wrong</Speech_Conversion.logRulesInitiator.rulesStrings.5>
+  <!-- EN: speechtopic->the purpose of life -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.6>speechtopic->the purpose of life</Speech_Conversion.logRulesInitiator.rulesStrings.6>
+  <!-- EN: speechtopic->the meaning of life -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.7>speechtopic->the meaning of life</Speech_Conversion.logRulesInitiator.rulesStrings.7>
+  <!-- EN: speechtopic->mankind's history -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.8>speechtopic->인류의 역사</Speech_Conversion.logRulesInitiator.rulesStrings.8>
+  <!-- EN: speechtopic->the future of mankind -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.9>speechtopic->인류의 미래</Speech_Conversion.logRulesInitiator.rulesStrings.9>
+  <!-- EN: speechtopic->love and hate -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.10>speechtopic->love and hate</Speech_Conversion.logRulesInitiator.rulesStrings.10>
+  <!-- EN: speechtopic->fear and safety -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.11>speechtopic->fear and safety</Speech_Conversion.logRulesInitiator.rulesStrings.11>
+  <!-- EN: speechtopic->the rightness of belonging -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.12>speechtopic->the rightness of belonging</Speech_Conversion.logRulesInitiator.rulesStrings.12>
+  <!-- EN: speechtopic->joining and belonging -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.13>speechtopic->joining and belonging</Speech_Conversion.logRulesInitiator.rulesStrings.13>
+  <!-- EN: speechtopic->false other beliefs -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.14>speechtopic->false other beliefs</Speech_Conversion.logRulesInitiator.rulesStrings.14>
+  <!-- EN: speechtopic->progress towards the future -->
+  <Speech_Conversion.logRulesInitiator.rulesStrings.15>speechtopic->progress towards the future</Speech_Conversion.logRulesInitiator.rulesStrings.15>
   
   <!-- EN: celebration speech -->
-  <Speech_DateRitual.label>TODO</Speech_DateRitual.label>
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [praised] [praisetopic].</li>
-    <li>praisetopic->the joy of ideological celebrations</li>
-    <li>praisetopic->correct thinking</li>
-    <li>praisetopic->the moral structure of the universe</li>
-    <li>praisetopic->[INITIATOR_possessive] beliefs</li>
-    <li>praisetopic->togetherness</li>
-    <li>praisetopic->being together</li>
-    <li>praisetopic->sharing ideas</li>
-    <li>praisetopic->[INITIATOR_possessive] own group</li>
-  -->
-  <Speech_DateRitual.logRulesInitiator.rulesStrings>TODO</Speech_DateRitual.logRulesInitiator.rulesStrings>
+  <Speech_DateRitual.label>축하 연설</Speech_DateRitual.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [praised] [praisetopic]. -->
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [praisetopic][praised].</Speech_DateRitual.logRulesInitiator.rulesStrings.0>
+  <!-- EN: praisetopic->the joy of ideological celebrations -->
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.1>praisetopic->이데올로기적 기념의 기쁨</Speech_DateRitual.logRulesInitiator.rulesStrings.1>
+  <!-- EN: praisetopic->correct thinking -->
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.2>praisetopic->올바른 생각</Speech_DateRitual.logRulesInitiator.rulesStrings.2>
+  <!-- EN: praisetopic->the moral structure of the universe -->
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.3>praisetopic->우주의 도덕적 구조</Speech_DateRitual.logRulesInitiator.rulesStrings.3>
+  <!-- EN: praisetopic->[INITIATOR_possessive] beliefs -->
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.4>praisetopic->[INITIATOR_possessive] 믿음</Speech_DateRitual.logRulesInitiator.rulesStrings.4>
+  <!-- EN: praisetopic->togetherness -->
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.5>praisetopic->단란함</Speech_DateRitual.logRulesInitiator.rulesStrings.5>
+  <!-- EN: praisetopic->being together -->
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.6>praisetopic->함께 하는 것</Speech_DateRitual.logRulesInitiator.rulesStrings.6>
+  <!-- EN: praisetopic->sharing ideas -->
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.7>praisetopic->생각을 나누는 것</Speech_DateRitual.logRulesInitiator.rulesStrings.7>
+  <!-- EN: praisetopic->[INITIATOR_possessive] own group -->
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.8>praisetopic->[INITIATOR_possessive] 무리</Speech_DateRitual.logRulesInitiator.rulesStrings.8>
   
   <!-- EN: duel speech -->
-  <Speech_Duel.label>TODO</Speech_Duel.label>
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [praised] [praisetopic].</li>
-    <li>praisetopic->death by blade</li>
-    <li>praisetopic->painful death</li>
-    <li>praisetopic->honorable death</li>
-    <li>praisetopic->honorable combat</li>
-    <li>praisetopic->grit and struggle</li>
-    <li>praisetopic->[AdjectiveBadass] weapons and fighters</li>
-    <li>praisetopic->the purity of physical conflict</li>
-    <li>praisetopic->love through death</li>
-    <li>praisetopic->expelling hate for health</li>
-    <li>praisetopic->strength over others</li>
-    <li>praisetopic->the conflict inherent in the universe</li>
-    <li>praisetopic->blood and dust</li>
-    <li>praisetopic->life and drama</li>
-    <li>praisetopic->anger and hope</li>
-    <li>praisetopic->rage and strength</li>
-  -->
-  <Speech_Duel.logRulesInitiator.rulesStrings>TODO</Speech_Duel.logRulesInitiator.rulesStrings>
+  <Speech_Duel.label>입회 연설</Speech_Duel.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [praised] [praisetopic]. -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [praisetopic][praised].</Speech_Duel.logRulesInitiator.rulesStrings.0>
+  <!-- EN: praisetopic->death by blade -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.1>praisetopic->검에 베여 죽는 것</Speech_Duel.logRulesInitiator.rulesStrings.1>
+  <!-- EN: praisetopic->painful death -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.2>praisetopic->고통스러운 죽음</Speech_Duel.logRulesInitiator.rulesStrings.2>
+  <!-- EN: praisetopic->honorable death -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.3>praisetopic->명예로운 죽음</Speech_Duel.logRulesInitiator.rulesStrings.3>
+  <!-- EN: praisetopic->honorable combat -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.4>praisetopic->명예로운 전투</Speech_Duel.logRulesInitiator.rulesStrings.4>
+  <!-- EN: praisetopic->grit and struggle -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.5>praisetopic->투지와 투쟁</Speech_Duel.logRulesInitiator.rulesStrings.5>
+  <!-- EN: praisetopic->[AdjectiveBadass] weapons and fighters -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.6>praisetopic->[AdjectiveBadass] weapons and fighters</Speech_Duel.logRulesInitiator.rulesStrings.6>
+  <!-- EN: praisetopic->the purity of physical conflict -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.7>praisetopic->육체적 투쟁의 순수성</Speech_Duel.logRulesInitiator.rulesStrings.7>
+  <!-- EN: praisetopic->love through death -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.8>praisetopic->love through death</Speech_Duel.logRulesInitiator.rulesStrings.8>
+  <!-- EN: praisetopic->expelling hate for health -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.9>praisetopic->expelling hate for health</Speech_Duel.logRulesInitiator.rulesStrings.9>
+  <!-- EN: praisetopic->strength over others -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.10>praisetopic->strength over others</Speech_Duel.logRulesInitiator.rulesStrings.10>
+  <!-- EN: praisetopic->the conflict inherent in the universe -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.11>praisetopic->the conflict inherent in the universe</Speech_Duel.logRulesInitiator.rulesStrings.11>
+  <!-- EN: praisetopic->blood and dust -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.12>praisetopic->blood and dust</Speech_Duel.logRulesInitiator.rulesStrings.12>
+  <!-- EN: praisetopic->life and drama -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.13>praisetopic->life and drama</Speech_Duel.logRulesInitiator.rulesStrings.13>
+  <!-- EN: praisetopic->anger and hope -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.14>praisetopic->anger and hope</Speech_Duel.logRulesInitiator.rulesStrings.14>
+  <!-- EN: praisetopic->rage and strength -->
+  <Speech_Duel.logRulesInitiator.rulesStrings.15>praisetopic->rage and strength</Speech_Duel.logRulesInitiator.rulesStrings.15>
   
   <!-- EN: exceution speech -->
-  <Speech_Execution.label>TODO</Speech_Execution.label>
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->life and death</li>
-    <li>speechtopic->the necessity of justice</li>
-    <li>speechtopic->the methods of execution</li>
-    <li>speechtopic->death and cruelty</li>
-    <li>speechtopic->merciful killing</li>
-    <li>speechtopic->the mercy of a correct killing</li>
-    <li>speechtopic->the symbolism of death</li>
-    <li>speechtopic->capital punishment and its history</li>
-    <li>speechtopic->the reasons for the execution</li>
-  -->
-  <Speech_Execution.logRulesInitiator.rulesStrings>TODO</Speech_Execution.logRulesInitiator.rulesStrings>
+  <Speech_Execution.label>exceution speech</Speech_Execution.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]. -->
+  <Speech_Execution.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [speechtopic][spokeof].</Speech_Execution.logRulesInitiator.rulesStrings.0>
+  <!-- EN: speechtopic->life and death -->
+  <Speech_Execution.logRulesInitiator.rulesStrings.1>speechtopic->life and death</Speech_Execution.logRulesInitiator.rulesStrings.1>
+  <!-- EN: speechtopic->the necessity of justice -->
+  <Speech_Execution.logRulesInitiator.rulesStrings.2>speechtopic->the necessity of justice</Speech_Execution.logRulesInitiator.rulesStrings.2>
+  <!-- EN: speechtopic->the methods of execution -->
+  <Speech_Execution.logRulesInitiator.rulesStrings.3>speechtopic->the methods of execution</Speech_Execution.logRulesInitiator.rulesStrings.3>
+  <!-- EN: speechtopic->death and cruelty -->
+  <Speech_Execution.logRulesInitiator.rulesStrings.4>speechtopic->death and cruelty</Speech_Execution.logRulesInitiator.rulesStrings.4>
+  <!-- EN: speechtopic->merciful killing -->
+  <Speech_Execution.logRulesInitiator.rulesStrings.5>speechtopic->merciful killing</Speech_Execution.logRulesInitiator.rulesStrings.5>
+  <!-- EN: speechtopic->the mercy of a correct killing -->
+  <Speech_Execution.logRulesInitiator.rulesStrings.6>speechtopic->the mercy of a correct killing</Speech_Execution.logRulesInitiator.rulesStrings.6>
+  <!-- EN: speechtopic->the symbolism of death -->
+  <Speech_Execution.logRulesInitiator.rulesStrings.7>speechtopic->the symbolism of death</Speech_Execution.logRulesInitiator.rulesStrings.7>
+  <!-- EN: speechtopic->capital punishment and its history -->
+  <Speech_Execution.logRulesInitiator.rulesStrings.8>speechtopic->capital punishment and its history</Speech_Execution.logRulesInitiator.rulesStrings.8>
+  <!-- EN: speechtopic->the reasons for the execution -->
+  <Speech_Execution.logRulesInitiator.rulesStrings.9>speechtopic->the reasons for the execution</Speech_Execution.logRulesInitiator.rulesStrings.9>
   
   <!-- EN: funeral speech -->
-  <Speech_Funeral.label>TODO</Speech_Funeral.label>
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->the nobility of sacrifice</li>
-    <li>speechtopic->death</li>
-    <li>speechtopic->life after death</li>
-    <li>speechtopic->death and family</li>
-    <li>speechtopic->the concept of a good life</li>
-    <li>speechtopic->death as a path to dignity</li>
-    <li>speechtopic->beginnings and endings</li>
-    <li>speechtopic->what happens after death</li>
-    <li>speechtopic->celebrating the next step</li>
-    <li>speechtopic->absent friends</li>
-    <li>speechtopic->life and joy</li>
-    <li>speechtopic->carrying forward unfinished work</li>
-  -->
-  <Speech_Funeral.logRulesInitiator.rulesStrings>TODO</Speech_Funeral.logRulesInitiator.rulesStrings>
+  <Speech_Funeral.label>추도사</Speech_Funeral.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]. -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [speechtopic][spokeof].</Speech_Funeral.logRulesInitiator.rulesStrings.0>
+  <!-- EN: speechtopic->the nobility of sacrifice -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.1>speechtopic->희생의 고결함</Speech_Funeral.logRulesInitiator.rulesStrings.1>
+  <!-- EN: speechtopic->death -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.2>speechtopic->죽음</Speech_Funeral.logRulesInitiator.rulesStrings.2>
+  <!-- EN: speechtopic->life after death -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.3>speechtopic->삶과 죽음</Speech_Funeral.logRulesInitiator.rulesStrings.3>
+  <!-- EN: speechtopic->death and family -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.4>speechtopic->죽음과 가족</Speech_Funeral.logRulesInitiator.rulesStrings.4>
+  <!-- EN: speechtopic->the concept of a good life -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.5>speechtopic->좋은 삶에 대한 개념</Speech_Funeral.logRulesInitiator.rulesStrings.5>
+  <!-- EN: speechtopic->death as a path to dignity -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.6>speechtopic->존엄성의 길로서의 죽음</Speech_Funeral.logRulesInitiator.rulesStrings.6>
+  <!-- EN: speechtopic->beginnings and endings -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.7>speechtopic->시작과 끝</Speech_Funeral.logRulesInitiator.rulesStrings.7>
+  <!-- EN: speechtopic->what happens after death -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.8>speechtopic->사후 세계</Speech_Funeral.logRulesInitiator.rulesStrings.8>
+  <!-- EN: speechtopic->celebrating the next step -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.9>speechtopic->다음 단계를 축하하는 것</Speech_Funeral.logRulesInitiator.rulesStrings.9>
+  <!-- EN: speechtopic->absent friends -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.10>speechtopic->친구의 빈자리</Speech_Funeral.logRulesInitiator.rulesStrings.10>
+  <!-- EN: speechtopic->life and joy -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.11>speechtopic->삶과 기쁨</Speech_Funeral.logRulesInitiator.rulesStrings.11>
+  <!-- EN: speechtopic->carrying forward unfinished work -->
+  <Speech_Funeral.logRulesInitiator.rulesStrings.12>speechtopic->못다한 일을 끝마치는 것</Speech_Funeral.logRulesInitiator.rulesStrings.12>
   
   <!-- EN: leader speech -->
-  <Speech_Leader.label>TODO</Speech_Leader.label>
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->searching for [Vegetable]s</li>
-    <li>speechtopic->how to be [AdjectiveFriendly]</li>
-    <li>speechtopic->avoiding [AnimalBadass]s</li>
-    <li>speechtopic->how life is like [Game]</li>
-    <li>speechtopic->the mind as a [Weapon]</li>
-    <li>speechtopic->exploring through [TerrainFeature]s and [TerrainFeature]s</li>
-    <li>speechtopic->promises to the [Direction]</li>
-    <li>speechtopic->how to be more like [Animal]s</li>
-    <li>speechtopic->the symbolism of the [NaturalObject] and the [NaturalObject]</li>
-    <li>speechtopic->how all are [PersonFamily]s and [PersonFamily]s</li>
-    <li>speechtopic->how to be a good [PersonAlly]</li>
-    <li>speechtopic->the need for [PersonJob]s</li>
-    <li>speechtopic->avoiding [PersonBadass]s</li>
-    <li>speechtopic->defeating [Enemy]s through [ConceptPositive]</li>
-    <li>speechtopic->seeing [Gore] during combat</li>
-    <li>speechtopic->the history of the [Mechanoid]s</li>
-    <li>speechtopic->the meaning of [ConceptPositive]</li>
-    <li>speechtopic->the [ConceptPositive] of the colony</li>
-    <li>speechtopic->how to be [AdjectiveBadass] without being [AdjectiveBadass]</li>
-    <li>speechtopic->how [AdjectiveBadass] the colony is</li>
-    <li>speechtopic->[AdjectiveNatural] [TerrainFeature]s</li>
-    <li>speechtopic->the colony's [AdjectiveLarge] potential</li>
-    <li>speechtopic->the [PersonalCharacteristic] of every colonist</li>
-    <li>speechtopic->the terrible [PersonalCharacteristic] of the colony's enemies</li>
-    <li>speechtopic(p=0.25)->sticking together as group</li>
-    <li>speechtopic(p=0.25)->the path forward through tragedy</li>
-    <li>speechtopic(p=0.25)->the community and its importance</li>
-    <li>speechtopic(p=0.25)->survival versus luxury</li>
-    <li>speechtopic(p=0.25)->happiness through hardship</li>
-    <li>speechtopic(p=0.25)->satisfaction through suffering</li>
-    <li>speechtopic(p=0.25)->death as a motivator</li>
-    <li>speechtopic(p=0.25)->strong hands and hearts</li>
-    <li>speechtopic(p=0.25)->the right to survive</li>
-  -->
-  <Speech_Leader.logRulesInitiator.rulesStrings>TODO</Speech_Leader.logRulesInitiator.rulesStrings>
+  <Speech_Leader.label>지도자 연설</Speech_Leader.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]. -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [speechtopic][spokeof].</Speech_Leader.logRulesInitiator.rulesStrings.0>
+  <!-- EN: speechtopic->searching for [Vegetable]s -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.1>speechtopic->searching for [Vegetable]s</Speech_Leader.logRulesInitiator.rulesStrings.1>
+  <!-- EN: speechtopic->how to be [AdjectiveFriendly] -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.2>speechtopic->how to be [AdjectiveFriendly]</Speech_Leader.logRulesInitiator.rulesStrings.2>
+  <!-- EN: speechtopic->avoiding [AnimalBadass]s -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.3>speechtopic->avoiding [AnimalBadass]s</Speech_Leader.logRulesInitiator.rulesStrings.3>
+  <!-- EN: speechtopic->how life is like [Game] -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.4>speechtopic->how life is like [Game]</Speech_Leader.logRulesInitiator.rulesStrings.4>
+  <!-- EN: speechtopic->the mind as a [Weapon] -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.5>speechtopic->the mind as a [Weapon]</Speech_Leader.logRulesInitiator.rulesStrings.5>
+  <!-- EN: speechtopic->exploring through [TerrainFeature]s and [TerrainFeature]s -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.6>speechtopic->exploring through [TerrainFeature]s and [TerrainFeature]s</Speech_Leader.logRulesInitiator.rulesStrings.6>
+  <!-- EN: speechtopic->promises to the [Direction] -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.7>speechtopic->promises to the [Direction]</Speech_Leader.logRulesInitiator.rulesStrings.7>
+  <!-- EN: speechtopic->how to be more like [Animal]s -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.8>speechtopic->how to be more like [Animal]s</Speech_Leader.logRulesInitiator.rulesStrings.8>
+  <!-- EN: speechtopic->the symbolism of the [NaturalObject] and the [NaturalObject] -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.9>speechtopic->the symbolism of the [NaturalObject] and the [NaturalObject]</Speech_Leader.logRulesInitiator.rulesStrings.9>
+  <!-- EN: speechtopic->how all are [PersonFamily]s and [PersonFamily]s -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.10>speechtopic->how all are [PersonFamily]s and [PersonFamily]s</Speech_Leader.logRulesInitiator.rulesStrings.10>
+  <!-- EN: speechtopic->how to be a good [PersonAlly] -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.11>speechtopic->how to be a good [PersonAlly]</Speech_Leader.logRulesInitiator.rulesStrings.11>
+  <!-- EN: speechtopic->the need for [PersonJob]s -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.12>speechtopic->the need for [PersonJob]s</Speech_Leader.logRulesInitiator.rulesStrings.12>
+  <!-- EN: speechtopic->avoiding [PersonBadass]s -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.13>speechtopic->avoiding [PersonBadass]s</Speech_Leader.logRulesInitiator.rulesStrings.13>
+  <!-- EN: speechtopic->defeating [Enemy]s through [ConceptPositive] -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.14>speechtopic->defeating [Enemy]s through [ConceptPositive]</Speech_Leader.logRulesInitiator.rulesStrings.14>
+  <!-- EN: speechtopic->seeing [Gore] during combat -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.15>speechtopic->seeing [Gore] during combat</Speech_Leader.logRulesInitiator.rulesStrings.15>
+  <!-- EN: speechtopic->the history of the [Mechanoid]s -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.16>speechtopic->the history of the [Mechanoid]s</Speech_Leader.logRulesInitiator.rulesStrings.16>
+  <!-- EN: speechtopic->the meaning of [ConceptPositive] -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.17>speechtopic->the meaning of [ConceptPositive]</Speech_Leader.logRulesInitiator.rulesStrings.17>
+  <!-- EN: speechtopic->the [ConceptPositive] of the colony -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.18>speechtopic->the [ConceptPositive] of the colony</Speech_Leader.logRulesInitiator.rulesStrings.18>
+  <!-- EN: speechtopic->how to be [AdjectiveBadass] without being [AdjectiveBadass] -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.19>speechtopic->how to be [AdjectiveBadass] without being [AdjectiveBadass]</Speech_Leader.logRulesInitiator.rulesStrings.19>
+  <!-- EN: speechtopic->how [AdjectiveBadass] the colony is -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.20>speechtopic->how [AdjectiveBadass] the colony is</Speech_Leader.logRulesInitiator.rulesStrings.20>
+  <!-- EN: speechtopic->[AdjectiveNatural] [TerrainFeature]s -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.21>speechtopic->[AdjectiveNatural] [TerrainFeature]s</Speech_Leader.logRulesInitiator.rulesStrings.21>
+  <!-- EN: speechtopic->the colony's [AdjectiveLarge] potential -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.22>speechtopic->the colony's [AdjectiveLarge] potential</Speech_Leader.logRulesInitiator.rulesStrings.22>
+  <!-- EN: speechtopic->the [PersonalCharacteristic] of every colonist -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.23>speechtopic->the [PersonalCharacteristic] of every colonist</Speech_Leader.logRulesInitiator.rulesStrings.23>
+  <!-- EN: speechtopic->the terrible [PersonalCharacteristic] of the colony's enemies -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.24>speechtopic->the terrible [PersonalCharacteristic] of the colony's enemies</Speech_Leader.logRulesInitiator.rulesStrings.24>
+  <!-- EN: speechtopic(p=0.25)->sticking together as group -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.25>speechtopic(p=0.25)->sticking together as group</Speech_Leader.logRulesInitiator.rulesStrings.25>
+  <!-- EN: speechtopic(p=0.25)->the path forward through tragedy -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.26>speechtopic(p=0.25)->the path forward through tragedy</Speech_Leader.logRulesInitiator.rulesStrings.26>
+  <!-- EN: speechtopic(p=0.25)->the community and its importance -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.27>speechtopic(p=0.25)->the community and its importance</Speech_Leader.logRulesInitiator.rulesStrings.27>
+  <!-- EN: speechtopic(p=0.25)->survival versus luxury -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.28>speechtopic(p=0.25)->survival versus luxury</Speech_Leader.logRulesInitiator.rulesStrings.28>
+  <!-- EN: speechtopic(p=0.25)->happiness through hardship -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.29>speechtopic(p=0.25)->happiness through hardship</Speech_Leader.logRulesInitiator.rulesStrings.29>
+  <!-- EN: speechtopic(p=0.25)->satisfaction through suffering -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.30>speechtopic(p=0.25)->satisfaction through suffering</Speech_Leader.logRulesInitiator.rulesStrings.30>
+  <!-- EN: speechtopic(p=0.25)->death as a motivator -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.31>speechtopic(p=0.25)->death as a motivator</Speech_Leader.logRulesInitiator.rulesStrings.31>
+  <!-- EN: speechtopic(p=0.25)->strong hands and hearts -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.32>speechtopic(p=0.25)->strong hands and hearts</Speech_Leader.logRulesInitiator.rulesStrings.32>
+  <!-- EN: speechtopic(p=0.25)->the right to survive -->
+  <Speech_Leader.logRulesInitiator.rulesStrings.33>speechtopic(p=0.25)->the right to survive</Speech_Leader.logRulesInitiator.rulesStrings.33>
   
   <!-- EN: sacrifice speech -->
-  <Speech_Sacrifice.label>TODO</Speech_Sacrifice.label>
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
-    <li>speechtopic->the meaning and true value of death</li>
-    <li>speechtopic->expressions of pain</li>
-    <li>speechtopic->controlled cruelty</li>
-    <li>speechtopic->the warmth of blood</li>
-    <li>speechtopic->the meaning of death</li>
-    <li>speechtopic->love and death</li>
-    <li>speechtopic->symbolizing pain</li>
-    <li>speechtopic->blades and flesh</li>
-    <li>speechtopic->the art of cutting</li>
-    <li>speechtopic->the seduction of blood</li>
-    <li>speechtopic->the music of screams</li>
-    <li>speechtopic->guts on the floor</li>
-    <li>crazy->screamed maniacally</li>
-    <li>crazy->broke into a chant</li>
-    <li>crazy->chanted towards the heavens</li>
-    <li>crazy->spat in the sacrifice's eye</li>
-    <li>crazy->cackled</li>
-    <li>crazy->brandished a blade</li>
-    <li>crazy->muttered repetitively</li>
-  -->
-  <Speech_Sacrifice.logRulesInitiator.rulesStrings>TODO</Speech_Sacrifice.logRulesInitiator.rulesStrings>
+  <Speech_Sacrifice.label>sacrifice speech</Speech_Sacrifice.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]. -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [speechtopic][spokeof].</Speech_Sacrifice.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy]. -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</Speech_Sacrifice.logRulesInitiator.rulesStrings.1>
+  <!-- EN: speechtopic->the meaning and true value of death -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.2>speechtopic->the meaning and true value of death</Speech_Sacrifice.logRulesInitiator.rulesStrings.2>
+  <!-- EN: speechtopic->expressions of pain -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.3>speechtopic->expressions of pain</Speech_Sacrifice.logRulesInitiator.rulesStrings.3>
+  <!-- EN: speechtopic->controlled cruelty -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.4>speechtopic->controlled cruelty</Speech_Sacrifice.logRulesInitiator.rulesStrings.4>
+  <!-- EN: speechtopic->the warmth of blood -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.5>speechtopic->the warmth of blood</Speech_Sacrifice.logRulesInitiator.rulesStrings.5>
+  <!-- EN: speechtopic->the meaning of death -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.6>speechtopic->the meaning of death</Speech_Sacrifice.logRulesInitiator.rulesStrings.6>
+  <!-- EN: speechtopic->love and death -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.7>speechtopic->love and death</Speech_Sacrifice.logRulesInitiator.rulesStrings.7>
+  <!-- EN: speechtopic->symbolizing pain -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.8>speechtopic->symbolizing pain</Speech_Sacrifice.logRulesInitiator.rulesStrings.8>
+  <!-- EN: speechtopic->blades and flesh -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.9>speechtopic->blades and flesh</Speech_Sacrifice.logRulesInitiator.rulesStrings.9>
+  <!-- EN: speechtopic->the art of cutting -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.10>speechtopic->the art of cutting</Speech_Sacrifice.logRulesInitiator.rulesStrings.10>
+  <!-- EN: speechtopic->the seduction of blood -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.11>speechtopic->the seduction of blood</Speech_Sacrifice.logRulesInitiator.rulesStrings.11>
+  <!-- EN: speechtopic->the music of screams -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.12>speechtopic->the music of screams</Speech_Sacrifice.logRulesInitiator.rulesStrings.12>
+  <!-- EN: speechtopic->guts on the floor -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.13>speechtopic->guts on the floor</Speech_Sacrifice.logRulesInitiator.rulesStrings.13>
+  <!-- EN: crazy->screamed maniacally -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.14>crazy->(이)가 미친 사람처럼 비명을 질렀습니다.</Speech_Sacrifice.logRulesInitiator.rulesStrings.14>
+  <!-- EN: crazy->broke into a chant -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.15>crazy->(이)가 갑자기 성가를 불렀습니다.</Speech_Sacrifice.logRulesInitiator.rulesStrings.15>
+  <!-- EN: crazy->chanted towards the heavens -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.16>crazy->(이)가 하늘에 닿을 정도로 성가를 불렀습니다.</Speech_Sacrifice.logRulesInitiator.rulesStrings.16>
+  <!-- EN: crazy->spat in the sacrifice's eye -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.17>crazy->(이)가 희생자의 눈에 침을 뱉었습니다.</Speech_Sacrifice.logRulesInitiator.rulesStrings.17>
+  <!-- EN: crazy->cackled -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.18>crazy->(이)가 낄낄거렸습니다.</Speech_Sacrifice.logRulesInitiator.rulesStrings.18>
+  <!-- EN: crazy->brandished a blade -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.19>crazy->(이)가 칼을 휘둘렀습니다.</Speech_Sacrifice.logRulesInitiator.rulesStrings.19>
+  <!-- EN: crazy->muttered repetitively -->
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.20>crazy->(이)가 쉴 새 없이 중얼거렸습니다.</Speech_Sacrifice.logRulesInitiator.rulesStrings.20>
   
   <!-- EN: scarification speech -->
-  <Speech_Scarification.label>TODO</Speech_Scarification.label>
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
-    <li>speechtopic->recording pain on the body</li>
-    <li>speechtopic->expressions of pain</li>
-    <li>speechtopic->controlled cruelty</li>
-    <li>speechtopic->the warmth of blood</li>
-    <li>speechtopic->the meaning of the scar</li>
-    <li>speechtopic->love and pain</li>
-    <li>speechtopic->symbolizing pain</li>
-    <li>speechtopic->blades and flesh</li>
-    <li>speechtopic->the art of cutting</li>
-    <li>speechtopic->the seduction of blood</li>
-    <li>speechtopic->the music of screams</li>
-    <li>crazy->screamed maniacally</li>
-    <li>crazy->broke into a chant</li>
-    <li>crazy->chanted towards the heavens</li>
-    <li>crazy->cackled</li>
-    <li>crazy->brandished a blade</li>
-    <li>crazy->muttered repetitively</li>
-  -->
-  <Speech_Scarification.logRulesInitiator.rulesStrings>TODO</Speech_Scarification.logRulesInitiator.rulesStrings>
+  <Speech_Scarification.label>상흔 의식</Speech_Scarification.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]. -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [speechtopic][spokeof].</Speech_Scarification.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy]. -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</Speech_Scarification.logRulesInitiator.rulesStrings.1>
+  <!-- EN: speechtopic->recording pain on the body -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.2>speechtopic->recording pain on the body</Speech_Scarification.logRulesInitiator.rulesStrings.2>
+  <!-- EN: speechtopic->expressions of pain -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.3>speechtopic->expressions of pain</Speech_Scarification.logRulesInitiator.rulesStrings.3>
+  <!-- EN: speechtopic->controlled cruelty -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.4>speechtopic->controlled cruelty</Speech_Scarification.logRulesInitiator.rulesStrings.4>
+  <!-- EN: speechtopic->the warmth of blood -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.5>speechtopic->the warmth of blood</Speech_Scarification.logRulesInitiator.rulesStrings.5>
+  <!-- EN: speechtopic->the meaning of the scar -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.6>speechtopic->the meaning of the scar</Speech_Scarification.logRulesInitiator.rulesStrings.6>
+  <!-- EN: speechtopic->love and pain -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.7>speechtopic->love and pain</Speech_Scarification.logRulesInitiator.rulesStrings.7>
+  <!-- EN: speechtopic->symbolizing pain -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.8>speechtopic->symbolizing pain</Speech_Scarification.logRulesInitiator.rulesStrings.8>
+  <!-- EN: speechtopic->blades and flesh -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.9>speechtopic->blades and flesh</Speech_Scarification.logRulesInitiator.rulesStrings.9>
+  <!-- EN: speechtopic->the art of cutting -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.10>speechtopic->the art of cutting</Speech_Scarification.logRulesInitiator.rulesStrings.10>
+  <!-- EN: speechtopic->the seduction of blood -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.11>speechtopic->the seduction of blood</Speech_Scarification.logRulesInitiator.rulesStrings.11>
+  <!-- EN: speechtopic->the music of screams -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.12>speechtopic->the music of screams</Speech_Scarification.logRulesInitiator.rulesStrings.12>
+  <!-- EN: crazy->screamed maniacally -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.13>crazy->(이)가 미친 사람처럼 비명을 질렀습니다.</Speech_Scarification.logRulesInitiator.rulesStrings.13>
+  <!-- EN: crazy->broke into a chant -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.14>crazy->(이)가 갑자기 성가를 불렀습니다.</Speech_Scarification.logRulesInitiator.rulesStrings.14>
+  <!-- EN: crazy->chanted towards the heavens -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.15>crazy->(이)가 하늘에 닿을 정도로 성가를 불렀습니다.</Speech_Scarification.logRulesInitiator.rulesStrings.15>
+  <!-- EN: crazy->cackled -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.16>crazy->(이)가 낄낄거렸습니다.</Speech_Scarification.logRulesInitiator.rulesStrings.16>
+  <!-- EN: crazy->brandished a blade -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.17>crazy->(이)가 칼을 휘둘렀습니다.</Speech_Scarification.logRulesInitiator.rulesStrings.17>
+  <!-- EN: crazy->muttered repetitively -->
+  <Speech_Scarification.logRulesInitiator.rulesStrings.18>crazy->(이)가 쉴 새 없이 중얼거렸습니다.</Speech_Scarification.logRulesInitiator.rulesStrings.18>
   
   <!-- EN: tree connection speech -->
-  <Speech_TreeConnection.label>TODO</Speech_TreeConnection.label>
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->the trees and the people</li>
-    <li>speechtopic->the trees and psychic powers</li>
-    <li>speechtopic->dryads</li>
-    <li>speechtopic->the Gauranlen life cycle</li>
-    <li>speechtopic->the spiritual presence of Gauranlen trees</li>
-    <li>speechtopic->psychic dendro-pathy</li>
-    <li>speechtopic->how cute dryads are</li>
-    <li>speechtopic->the nobility of the dryads</li>
-    <li>speechtopic->the age of the trees</li>
-    <li>speechtopic->humanity's role below the trees</li>
-    <li>speechtopic->plant life and eternity</li>
-    <li>speechtopic->connecting with nature</li>
-  -->
-  <Speech_TreeConnection.logRulesInitiator.rulesStrings>TODO</Speech_TreeConnection.logRulesInitiator.rulesStrings>
+  <Speech_TreeConnection.label>tree connection speech</Speech_TreeConnection.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]. -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [speechtopic][spokeof].</Speech_TreeConnection.logRulesInitiator.rulesStrings.0>
+  <!-- EN: speechtopic->the trees and the people -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.1>speechtopic->the trees and the people</Speech_TreeConnection.logRulesInitiator.rulesStrings.1>
+  <!-- EN: speechtopic->the trees and psychic powers -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.2>speechtopic->the trees and psychic powers</Speech_TreeConnection.logRulesInitiator.rulesStrings.2>
+  <!-- EN: speechtopic->dryads -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.3>speechtopic->dryads</Speech_TreeConnection.logRulesInitiator.rulesStrings.3>
+  <!-- EN: speechtopic->the Gauranlen life cycle -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.4>speechtopic->the Gauranlen life cycle</Speech_TreeConnection.logRulesInitiator.rulesStrings.4>
+  <!-- EN: speechtopic->the spiritual presence of Gauranlen trees -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.5>speechtopic->the spiritual presence of Gauranlen trees</Speech_TreeConnection.logRulesInitiator.rulesStrings.5>
+  <!-- EN: speechtopic->psychic dendro-pathy -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.6>speechtopic->psychic dendro-pathy</Speech_TreeConnection.logRulesInitiator.rulesStrings.6>
+  <!-- EN: speechtopic->how cute dryads are -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.7>speechtopic->how cute dryads are</Speech_TreeConnection.logRulesInitiator.rulesStrings.7>
+  <!-- EN: speechtopic->the nobility of the dryads -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.8>speechtopic->the nobility of the dryads</Speech_TreeConnection.logRulesInitiator.rulesStrings.8>
+  <!-- EN: speechtopic->the age of the trees -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.9>speechtopic->the age of the trees</Speech_TreeConnection.logRulesInitiator.rulesStrings.9>
+  <!-- EN: speechtopic->humanity's role below the trees -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.10>speechtopic->humanity's role below the trees</Speech_TreeConnection.logRulesInitiator.rulesStrings.10>
+  <!-- EN: speechtopic->plant life and eternity -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.11>speechtopic->plant life and eternity</Speech_TreeConnection.logRulesInitiator.rulesStrings.11>
+  <!-- EN: speechtopic->connecting with nature -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.12>speechtopic->connecting with nature</Speech_TreeConnection.logRulesInitiator.rulesStrings.12>
   
 </LanguageData>

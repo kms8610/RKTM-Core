@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: barkskin -->
-  <Barkskin.label>TODO</Barkskin.label>
+  <Barkskin.label>나무 껍질</Barkskin.label>
   <!-- EN: A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Gauranlen tree itself. Under human influence, it can act as a damage-absorbing fighter. -->
-  <Barkskin.description>TODO</Barkskin.description>
+  <Barkskin.description>A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Gauranlen tree itself. Under human influence, it can act as a damage-absorbing fighter.</Barkskin.description>
   
   <!-- EN: berrymaker -->
-  <Berrymaker.label>TODO</Berrymaker.label>
+  <Berrymaker.label>열매단지</Berrymaker.label>
   <!-- EN: A dryad caste specialized in food production. Together with its Gauranlen tree, this dryad can generate nourishing berries on an ongoing basis. However, it is slow and ineffective at work or combat. -->
-  <Berrymaker.description>TODO</Berrymaker.description>
+  <Berrymaker.description>식량 생산에 특화된 숲지기 계급 입니다. 요정나무와 함께일때 이 숲지기는 영양가 높은 나무열매를 만들어내지만, 태생적으로 느리고 그외에 작업이나 전투에는 적합하지 않습니다.</Berrymaker.description>
   
   <!-- EN: carrier -->
-  <Carrier.label>TODO</Carrier.label>
+  <Carrier.label>케리어</Carrier.label>
   <!-- EN: A dryad caste specialized in carrying items. Under human influence, it can help haul things where they need to go. -->
-  <Carrier.description>TODO</Carrier.description>
+  <Carrier.description>A dryad caste specialized in carrying items. Under human influence, it can help haul things where they need to go.</Carrier.description>
   
   <!-- EN: clawer -->
-  <Clawer.label>TODO</Clawer.label>
+  <Clawer.label>햘퀴는 자</Clawer.label>
   <!-- EN: A dryad caste specialized in aggression and damage-dealing attacks. The clawer dryad is named for its massive claws. Though it can do tremendous damage, it is vulnerable to attacks itself. -->
-  <Clawer.description>TODO</Clawer.description>
+  <Clawer.description>A dryad caste specialized in aggression and damage-dealing attacks. The clawer dryad is named for its massive claws. Though it can do tremendous damage, it is vulnerable to attacks itself.</Clawer.description>
   
   <!-- EN: gaumaker -->
-  <Gaumaker.label>TODO</Gaumaker.label>
+  <Gaumaker.label>가우메이커</Gaumaker.label>
   <!-- EN: A dryad caste with the unique ability to produce new Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three gaumaker dryads must slowly merge. -->
-  <Gaumaker.description>TODO</Gaumaker.description>
+  <Gaumaker.description>A dryad caste with the unique ability to produce new Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three gaumaker dryads must slowly merge.</Gaumaker.description>
   
   <!-- EN: medicinemaker -->
-  <Medicinemaker.label>TODO</Medicinemaker.label>
+  <Medicinemaker.label>약사</Medicinemaker.label>
   <!-- EN: A dryad caste specialized in medicine production. Together with its Gauranlen tree, this dryad can generate medicinal herbs on an ongoing basis. However, it is slow and ineffective at work or combat. -->
-  <Medicinemaker.description>TODO</Medicinemaker.description>
+  <Medicinemaker.description>A dryad caste specialized in medicine production. Together with its Gauranlen tree, this dryad can generate medicinal herbs on an ongoing basis. However, it is slow and ineffective at work or combat.</Medicinemaker.description>
   
   <!-- EN: woodmaker -->
-  <Woodmaker.label>TODO</Woodmaker.label>
+  <Woodmaker.label>목공</Woodmaker.label>
   <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Together with its Gauranlen tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat. -->
-  <Woodmaker.description>TODO</Woodmaker.description>
+  <Woodmaker.description>목재 생산에 특화된, 느릿느릿하고 덤벙대는 숲지기 계급입니다. 요정나무와 함께일때 이 숲지기는 나무와 비슷한 자재를 만들어낼 수 있있지만, 태생적으로 느리고 그 외에 작업이나 전투에는 적합하지 않습니다.</Woodmaker.description>
   
 </LanguageData>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: hacking speed -->
-  <HackingSpeed.label>TODO</HackingSpeed.label>
+  <HackingSpeed.label>hacking speed</HackingSpeed.label>
   <!-- EN: How fast this person can hack into computer terminals. -->
-  <HackingSpeed.description>TODO</HackingSpeed.description>
+  <HackingSpeed.description>How fast this person can hack into computer terminals.</HackingSpeed.description>
   
   <!-- EN: suppression power -->
-  <SuppressionPower.label>TODO</SuppressionPower.label>
+  <SuppressionPower.label>suppression power</SuppressionPower.label>
   <!-- EN: A multiplier on a warden's ability to suppress slaves. -->
-  <SuppressionPower.description>TODO</SuppressionPower.description>
+  <SuppressionPower.description>A multiplier on a warden's ability to suppress slaves.</SuppressionPower.description>
   
 </LanguageData>

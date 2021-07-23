@@ -1,74 +1,86 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN:
-    <li>questDescription-></li>
-  -->
-  <EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>TODO</EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName-></li>
-  -->
-  <EndGame_ArchonexusVictory.questNameRules.rulesStrings>TODO</EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+  <!-- EN: questDescription-> -->
+  <EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings.0>questDescription-></EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings.0>
+  <!-- EN: questName-> -->
+  <EndGame_ArchonexusVictory.questNameRules.rulesStrings.0>questName-></EndGame_ArchonexusVictory.questNameRules.rulesStrings.0>
   
-  <!-- EN:
-    <li>questDescription->[descriptionIntro] looking to expand their territory, and are interested in taking over [playerSettlements] with all [itsTheir] wealth. If you can increase your total wealth to [requiredWealth_money], they will take the [settlementsSingularOrPlural].\n\nIn trade, they offer you part of a map showing the location of an ancient archotech nexus. The archonexus is thought to be a conduit through which an archotech superintelligence influences the physical world. If you could invoke its power, what happens next could go beyond physical reality.\n\n[onlyHaveHas] one piece of the map. The other parts are held by other factions.\n\nIf you accept their offer, the [factionPawnsPlural] will take possession of [playerSettlements], including all items and people. They'll bring [colonistsAllowed] of your people and [animalsAllowed] of your animals to anywhere you want on the planet to start a new colony.\n\nLater, you can trade with others for the final two parts of the map.</li>
-    <li>itsTheir(playerSettlementsCount==1)->its</li>
-    <li>itsTheir(playerSettlementsCount>=2)->their</li>
-    <li>settlementsSingularOrPlural(playerSettlementsCount==1)->settlement</li>
-    <li>settlementsSingularOrPlural(playerSettlementsCount>=2)->settlements</li>
-    <li>onlyHaveHas(factionless==false)->[civilOutlander_name] only has</li>
-    <li>onlyHaveHas(factionless==true)->The group only have</li>
-    <li>factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural]</li>
-    <li>factionPawnsPlural(factionless==true)->wild people</li>
-    <li>descriptionIntro(factionless==false)->[civilOutlander_name] is</li>
-    <li>descriptionIntro(factionless==true)->A group of wild people are</li>
-  -->
-  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>TODO</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName->the archonexus</li>
-  -->
-  <EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>TODO</EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+  <!-- EN: questDescription->[descriptionIntro] looking to expand their territory, and are interested in taking over [playerSettlements] with all [itsTheir] wealth. If you can increase your total wealth to [requiredWealth_money], they will take the [settlementsSingularOrPlural].\n\nIn trade, they offer you part of a map showing the location of an ancient archotech nexus. The archonexus is thought to be a conduit through which an archotech superintelligence influences the physical world. If you could invoke its power, what happens next could go beyond physical reality.\n\n[onlyHaveHas] one piece of the map. The other parts are held by other factions.\n\nIf you accept their offer, the [factionPawnsPlural] will take possession of [playerSettlements], including all items and people. They'll bring [colonistsAllowed] of your people and [animalsAllowed] of your animals to anywhere you want on the planet to start a new colony.\n\nLater, you can trade with others for the final two parts of the map. -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.0>questDescription->[descriptionIntro] looking to expand their territory, and are interested in taking over [playerSettlements] with all [itsTheir] wealth. If you can increase your total wealth to [requiredWealth_money], they will take the [settlementsSingularOrPlural].\n\nIn trade, they offer you part of a map showing the location of an ancient archotech nexus. The archonexus is thought to be a conduit through which an archotech superintelligence influences the physical world. If you could invoke its power, what happens next could go beyond physical reality.\n\n[onlyHaveHas] one piece of the map. The other parts are held by other factions.\n\nIf you accept their offer, the [factionPawnsPlural] will take possession of [playerSettlements], including all items and people. They'll bring [colonistsAllowed] of your people and [animalsAllowed] of your animals to anywhere you want on the planet to start a new colony.\n\nLater, you can trade with others for the final two parts of the map.</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.0>
+  <!-- EN: itsTheir(playerSettlementsCount==1)->its -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.1>itsTheir(playerSettlementsCount==1)->its</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.1>
+  <!-- EN: itsTheir(playerSettlementsCount>=2)->their -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.2>itsTheir(playerSettlementsCount>=2)->their</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.2>
+  <!-- EN: settlementsSingularOrPlural(playerSettlementsCount==1)->settlement -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.3>settlementsSingularOrPlural(playerSettlementsCount==1)->settlement</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.3>
+  <!-- EN: settlementsSingularOrPlural(playerSettlementsCount>=2)->settlements -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.4>settlementsSingularOrPlural(playerSettlementsCount>=2)->settlements</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.4>
+  <!-- EN: onlyHaveHas(factionless==false)->[civilOutlander_name] only has -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.5>onlyHaveHas(factionless==false)->[civilOutlander_name] only has</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.5>
+  <!-- EN: onlyHaveHas(factionless==true)->The group only have -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.6>onlyHaveHas(factionless==true)->The group only have</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.6>
+  <!-- EN: factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural] -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.7>factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural]</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.7>
+  <!-- EN: factionPawnsPlural(factionless==true)->wild people -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.8>factionPawnsPlural(factionless==true)->wild people</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.8>
+  <!-- EN: descriptionIntro(factionless==false)->[civilOutlander_name] is -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.9>descriptionIntro(factionless==false)->[civilOutlander_name] is</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.9>
+  <!-- EN: descriptionIntro(factionless==true)->A group of wild people are -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.10>descriptionIntro(factionless==true)->A group of wild people are</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.10>
+  <!-- EN: questName->the archonexus -->
+  <EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings.0>questName->초월연결체</EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings.0>
   
-  <!-- EN:
-    <li>questDescription->With the first archonexus map part securely recorded, you prepare for the next step of your journey.\n\n[cycle1Faction] told you of the cataclysm that destroyed this world. Humans built a great thinking machine here centuries ago. It turned against the people and there was a great war. Only a few were left when the machine transcended and fell dormant.\n\nThe map to the archonexus has three parts, and you hold one of them. [otherMapPartHolders] also each hold parts of the map. They'll trade their parts to you for a wealthy new colony.[descriptionStudyRequirement]\n\nIt's time to get building.</li>
-    <li>cycle1Faction(factionless==false)->[civilOutlander_leader_nameDef]</li>
-    <li>cycle1Faction(factionless==true)->The [wildPeople]</li>
-    <li>otherMapPartHolders(factionless==false)->[roughOutlander_name] and [roughTribe_name]</li>
-    <li>otherMapPartHolders(factionless==true)->other [wildPeople]</li>
-    <li>takeoverPawnsPlural(factionless==false)->[roughOutlander_pawnsPlural]</li>
-    <li>takeoverPawnsPlural(factionless==true)->[wildPeople]</li>
-    <li>wildPeople->wild people</li>
-    <li>descriptionStudyRequirement(studyRequirement==true)->\n\nThe next map part is encoded in a very strange way. In order to interpret it, you must first learn more about archotechnology by studying the structure here.</li>
-    <li>descriptionStudyRequirement(studyRequirement==false)-></li>
-  -->
-  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>TODO</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName->the archonexus</li>
-  -->
-  <EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>TODO</EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+  <!-- EN: questDescription->With the first archonexus map part securely recorded, you prepare for the next step of your journey.\n\n[cycle1Faction] told you of the cataclysm that destroyed this world. Humans built a great thinking machine here centuries ago. It turned against the people and there was a great war. Only a few were left when the machine transcended and fell dormant.\n\nThe map to the archonexus has three parts, and you hold one of them. [otherMapPartHolders] also each hold parts of the map. They'll trade their parts to you for a wealthy new colony.[descriptionStudyRequirement]\n\nIt's time to get building. -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.0>questDescription->With the first archonexus map part securely recorded, you prepare for the next step of your journey.\n\n[cycle1Faction] told you of the cataclysm that destroyed this world. Humans built a great thinking machine here centuries ago. It turned against the people and there was a great war. Only a few were left when the machine transcended and fell dormant.\n\nThe map to the archonexus has three parts, and you hold one of them. [otherMapPartHolders] also each hold parts of the map. They'll trade their parts to you for a wealthy new colony.[descriptionStudyRequirement]\n\nIt's time to get building.</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.0>
+  <!-- EN: cycle1Faction(factionless==false)->[civilOutlander_leader_nameDef] -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.1>cycle1Faction(factionless==false)->[civilOutlander_leader_nameDef]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.1>
+  <!-- EN: cycle1Faction(factionless==true)->The [wildPeople] -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.2>cycle1Faction(factionless==true)->The [wildPeople]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.2>
+  <!-- EN: otherMapPartHolders(factionless==false)->[roughOutlander_name] and [roughTribe_name] -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.3>otherMapPartHolders(factionless==false)->[roughOutlander_name] and [roughTribe_name]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.3>
+  <!-- EN: otherMapPartHolders(factionless==true)->other [wildPeople] -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.4>otherMapPartHolders(factionless==true)->other [wildPeople]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.4>
+  <!-- EN: takeoverPawnsPlural(factionless==false)->[roughOutlander_pawnsPlural] -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.5>takeoverPawnsPlural(factionless==false)->[roughOutlander_pawnsPlural]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.5>
+  <!-- EN: takeoverPawnsPlural(factionless==true)->[wildPeople] -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.6>takeoverPawnsPlural(factionless==true)->[wildPeople]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.6>
+  <!-- EN: wildPeople->wild people -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.7>wildPeople->wild people</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.7>
+  <!-- EN: descriptionStudyRequirement(studyRequirement==true)->\n\nThe next map part is encoded in a very strange way. In order to interpret it, you must first learn more about archotechnology by studying the structure here. -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.8>descriptionStudyRequirement(studyRequirement==true)->\n\nThe next map part is encoded in a very strange way. In order to interpret it, you must first learn more about archotechnology by studying the structure here.</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.8>
+  <!-- EN: descriptionStudyRequirement(studyRequirement==false)-> -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.9>descriptionStudyRequirement(studyRequirement==false)-></EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.9>
+  <!-- EN: questName->the archonexus -->
+  <EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings.0>questName->초월연결체</EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings.0>
   
-  <!-- EN:
-    <li>questAcceptedLetterLabel->archonexus discovered</li>
-    <li>questAcceptedLetterText->[questDescriptionBeforeAccepted]</li>
-    <li>questDescriptionBeforeAccepted->You have two parts of the archonexus map. [factionName] have the last piece of the map, passed down from the time their ancestors survived the cataclysm. They'll give it to you if you give them a wealthy new colony in exchange.[descriptionStudyRequirement]\n\nIt's time to get building.</li>
-    <li>questDescriptionAfterAccepted->[descriptionIntro] have given you the last part of the archonexus map. Using your knowledge of archotech info-encoding, you have decoded the map and pinpointed the location of the archonexus.\n\nYour allies don't expect you to return, so after you go there, they will take over [playerSettlements].\n\n[descriptionThreats]Now all that's left is to get to the archonexus, invoke the power of the machine god, and find out whether the stories are real.</li>
-    <li>factionName(factionless==false)->[roughTribe_name]</li>
-    <li>factionName(factionless==true)->The wild people</li>
-    <li>descriptionIntro(factionless==false)->[roughTribe_name]'s leader [roughTribe_leader_nameDef] has</li>
-    <li>descriptionIntro(factionless==true)->The wild people have</li>
-    <li>descriptionStudyRequirement(studyRequirement==true)->\n\nAs before, the map part is encoded. In order to decode it, you must first study the archotech structure.</li>
-    <li>descriptionStudyRequirement(studyRequirement==false)-></li>
-    <li>descriptionThreats(threatsEnabled==true)->The archonexus will likely have mechanoid defenders, so go prepared.\n\n</li>
-    <li>descriptionThreats(threatsEnabled==false)-></li>
-  -->
-  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>TODO</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
-  <!-- EN:
-    <li>questDescription-></li>
-  -->
-  <EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>TODO</EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName->the archonexus</li>
-  -->
-  <EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>TODO</EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+  <!-- EN: questAcceptedLetterLabel->archonexus discovered -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.0>questAcceptedLetterLabel->archonexus discovered</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.0>
+  <!-- EN: questAcceptedLetterText->[questDescriptionBeforeAccepted] -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.1>questAcceptedLetterText->[questDescriptionBeforeAccepted]</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.1>
+  <!-- EN: questDescriptionBeforeAccepted->You have two parts of the archonexus map. [factionName] have the last piece of the map, passed down from the time their ancestors survived the cataclysm. They'll give it to you if you give them a wealthy new colony in exchange.[descriptionStudyRequirement]\n\nIt's time to get building. -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.2>questDescriptionBeforeAccepted->You have two parts of the archonexus map. [factionName] have the last piece of the map, passed down from the time their ancestors survived the cataclysm. They'll give it to you if you give them a wealthy new colony in exchange.[descriptionStudyRequirement]\n\nIt's time to get building.</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.2>
+  <!-- EN: questDescriptionAfterAccepted->[descriptionIntro] have given you the last part of the archonexus map. Using your knowledge of archotech info-encoding, you have decoded the map and pinpointed the location of the archonexus.\n\nYour allies don't expect you to return, so after you go there, they will take over [playerSettlements].\n\n[descriptionThreats]Now all that's left is to get to the archonexus, invoke the power of the machine god, and find out whether the stories are real. -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.3>questDescriptionAfterAccepted->[descriptionIntro] have given you the last part of the archonexus map. Using your knowledge of archotech info-encoding, you have decoded the map and pinpointed the location of the archonexus.\n\nYour allies don't expect you to return, so after you go there, they will take over [playerSettlements].\n\n[descriptionThreats]Now all that's left is to get to the archonexus, invoke the power of the machine god, and find out whether the stories are real.</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.3>
+  <!-- EN: factionName(factionless==false)->[roughTribe_name] -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.4>factionName(factionless==false)->[roughTribe_name]</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.4>
+  <!-- EN: factionName(factionless==true)->The wild people -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.5>factionName(factionless==true)->The wild people</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.5>
+  <!-- EN: descriptionIntro(factionless==false)->[roughTribe_name]'s leader [roughTribe_leader_nameDef] has -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.6>descriptionIntro(factionless==false)->[roughTribe_name]'s leader [roughTribe_leader_nameDef] has</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.6>
+  <!-- EN: descriptionIntro(factionless==true)->The wild people have -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.7>descriptionIntro(factionless==true)->The wild people have</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.7>
+  <!-- EN: descriptionStudyRequirement(studyRequirement==true)->\n\nAs before, the map part is encoded. In order to decode it, you must first study the archotech structure. -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.8>descriptionStudyRequirement(studyRequirement==true)->\n\nAs before, the map part is encoded. In order to decode it, you must first study the archotech structure.</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.8>
+  <!-- EN: descriptionStudyRequirement(studyRequirement==false)-> -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.9>descriptionStudyRequirement(studyRequirement==false)-></EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.9>
+  <!-- EN: descriptionThreats(threatsEnabled==true)->The archonexus will likely have mechanoid defenders, so go prepared.\n\n -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.10>descriptionThreats(threatsEnabled==true)->The archonexus will likely have mechanoid defenders, so go prepared.\n\n</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.10>
+  <!-- EN: descriptionThreats(threatsEnabled==false)-> -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.11>descriptionThreats(threatsEnabled==false)-></EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.11>
+  <!-- EN: questDescription-> -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings.0>questDescription-></EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings.0>
+  <!-- EN: questName->the archonexus -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings.0>questName->초월연결체</EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings.0>
   
 </LanguageData>

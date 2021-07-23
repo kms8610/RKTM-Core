@@ -2,212 +2,243 @@
 <LanguageData>
   
   <!-- EN: Buddhist origin -->
-  <Structure_OriginBuddhist.label>TODO</Structure_OriginBuddhist.label>
+  <Structure_OriginBuddhist.label>Buddhist origin</Structure_OriginBuddhist.label>
   <!-- EN: This ideoligion is a descendant of ancient Buddhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginBuddhist.description>TODO</Structure_OriginBuddhist.description>
-  <!-- EN:
-    <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[packAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[packIdeoName]</li>
-    <li>memeLeaderNoun->bodhisattva</li>
-    <li>memeLeaderNoun->sattva</li>
-    <li>memeLeaderNoun->lama</li>
-    <li>memeLeaderAdjective->enlightened</li>
-    <li>memeLeaderAdjective->wise</li>
-    <li>memeLeaderAdjective->spiritual</li>
-    <li>memeLeaderAdjective->bodhi</li>
-    <li>memeLeaderAdjective->dalai</li>
-    <li>memeMoralist(p=2)->bhikkhu</li>
-    <li>memeMoralist->priest</li>
-    <li>memeMoralist->monk</li>
-  -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings>TODO</Structure_OriginBuddhist.generalRules.rulesStrings>
+  <Structure_OriginBuddhist.description>This ideoligion is a descendant of ancient Buddhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginBuddhist.description>
+  <!-- EN: r_ideoName(p=99)->[globalAdjective] [packIdeoName] -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.0>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.0>
+  <!-- EN: r_ideoName(p=99)->[memeAdjective] [packIdeoName] -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.1>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.1>
+  <!-- EN: r_ideoName(p=99)->[packAdjective] [packIdeoName] -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.2>r_ideoName(p=99)->[packAdjective] [packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.2>
+  <!-- EN: r_ideoName(p=99)->[packIdeoName] -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.3>
+  <!-- EN: memeLeaderNoun->bodhisattva -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.4>memeLeaderNoun->bodhisattva</Structure_OriginBuddhist.generalRules.rulesStrings.4>
+  <!-- EN: memeLeaderNoun->sattva -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.5>memeLeaderNoun->sattva</Structure_OriginBuddhist.generalRules.rulesStrings.5>
+  <!-- EN: memeLeaderNoun->lama -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.6>memeLeaderNoun->lama</Structure_OriginBuddhist.generalRules.rulesStrings.6>
+  <!-- EN: memeLeaderAdjective->enlightened -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.7>memeLeaderAdjective->enlightened</Structure_OriginBuddhist.generalRules.rulesStrings.7>
+  <!-- EN: memeLeaderAdjective->wise -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.8>memeLeaderAdjective->wise</Structure_OriginBuddhist.generalRules.rulesStrings.8>
+  <!-- EN: memeLeaderAdjective->spiritual -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.9>memeLeaderAdjective->spiritual</Structure_OriginBuddhist.generalRules.rulesStrings.9>
+  <!-- EN: memeLeaderAdjective->bodhi -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.10>memeLeaderAdjective->bodhi</Structure_OriginBuddhist.generalRules.rulesStrings.10>
+  <!-- EN: memeLeaderAdjective->dalai -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.11>memeLeaderAdjective->dalai</Structure_OriginBuddhist.generalRules.rulesStrings.11>
+  <!-- EN: memeMoralist(p=2)->bhikkhu -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.12>memeMoralist(p=2)->bhikkhu</Structure_OriginBuddhist.generalRules.rulesStrings.12>
+  <!-- EN: memeMoralist->priest -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.13>memeMoralist->priest</Structure_OriginBuddhist.generalRules.rulesStrings.13>
+  <!-- EN: memeMoralist->monk -->
+  <Structure_OriginBuddhist.generalRules.rulesStrings.14>memeMoralist->monk</Structure_OriginBuddhist.generalRules.rulesStrings.14>
   <!-- EN: Buddhist -->
-  <Structure_OriginBuddhist.symbolPacks.0.adjective>TODO</Structure_OriginBuddhist.symbolPacks.0.adjective>
+  <Structure_OriginBuddhist.symbolPacks.0.adjective>Buddhist</Structure_OriginBuddhist.symbolPacks.0.adjective>
   <!-- EN: Buddhism -->
-  <Structure_OriginBuddhist.symbolPacks.0.ideoName>TODO</Structure_OriginBuddhist.symbolPacks.0.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.0.ideoName>Buddhism</Structure_OriginBuddhist.symbolPacks.0.ideoName>
   <!-- EN: Buddhist -->
-  <Structure_OriginBuddhist.symbolPacks.0.member>TODO</Structure_OriginBuddhist.symbolPacks.0.member>
+  <Structure_OriginBuddhist.symbolPacks.0.member>불교</Structure_OriginBuddhist.symbolPacks.0.member>
   <!-- EN: Buddha -->
-  <Structure_OriginBuddhist.symbolPacks.0.theme>TODO</Structure_OriginBuddhist.symbolPacks.0.theme>
+  <Structure_OriginBuddhist.symbolPacks.0.theme>Buddha</Structure_OriginBuddhist.symbolPacks.0.theme>
   <!-- EN: Theric -->
-  <Structure_OriginBuddhist.symbolPacks.1.adjective>TODO</Structure_OriginBuddhist.symbolPacks.1.adjective>
+  <Structure_OriginBuddhist.symbolPacks.1.adjective>Theric</Structure_OriginBuddhist.symbolPacks.1.adjective>
   <!-- EN: Theravada -->
-  <Structure_OriginBuddhist.symbolPacks.1.ideoName>TODO</Structure_OriginBuddhist.symbolPacks.1.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.1.ideoName>Theravada</Structure_OriginBuddhist.symbolPacks.1.ideoName>
   <!-- EN: Therist -->
-  <Structure_OriginBuddhist.symbolPacks.1.member>TODO</Structure_OriginBuddhist.symbolPacks.1.member>
+  <Structure_OriginBuddhist.symbolPacks.1.member>Therist</Structure_OriginBuddhist.symbolPacks.1.member>
   <!-- EN: Mahic -->
-  <Structure_OriginBuddhist.symbolPacks.2.adjective>TODO</Structure_OriginBuddhist.symbolPacks.2.adjective>
+  <Structure_OriginBuddhist.symbolPacks.2.adjective>Mahic</Structure_OriginBuddhist.symbolPacks.2.adjective>
   <!-- EN: Mahayana -->
-  <Structure_OriginBuddhist.symbolPacks.2.ideoName>TODO</Structure_OriginBuddhist.symbolPacks.2.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.2.ideoName>Mahayana</Structure_OriginBuddhist.symbolPacks.2.ideoName>
   <!-- EN: Mahist -->
-  <Structure_OriginBuddhist.symbolPacks.2.member>TODO</Structure_OriginBuddhist.symbolPacks.2.member>
+  <Structure_OriginBuddhist.symbolPacks.2.member>Mahist</Structure_OriginBuddhist.symbolPacks.2.member>
   <!-- EN: Vajric -->
-  <Structure_OriginBuddhist.symbolPacks.3.adjective>TODO</Structure_OriginBuddhist.symbolPacks.3.adjective>
+  <Structure_OriginBuddhist.symbolPacks.3.adjective>Vajric</Structure_OriginBuddhist.symbolPacks.3.adjective>
   <!-- EN: Vajrayana -->
-  <Structure_OriginBuddhist.symbolPacks.3.ideoName>TODO</Structure_OriginBuddhist.symbolPacks.3.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.3.ideoName>Vajrayana</Structure_OriginBuddhist.symbolPacks.3.ideoName>
   <!-- EN: Vajrist -->
-  <Structure_OriginBuddhist.symbolPacks.3.member>TODO</Structure_OriginBuddhist.symbolPacks.3.member>
+  <Structure_OriginBuddhist.symbolPacks.3.member>Vajrist</Structure_OriginBuddhist.symbolPacks.3.member>
   <!-- EN: Zen -->
-  <Structure_OriginBuddhist.symbolPacks.4.adjective>TODO</Structure_OriginBuddhist.symbolPacks.4.adjective>
+  <Structure_OriginBuddhist.symbolPacks.4.adjective>Zen</Structure_OriginBuddhist.symbolPacks.4.adjective>
   <!-- EN: Zen -->
-  <Structure_OriginBuddhist.symbolPacks.4.ideoName>TODO</Structure_OriginBuddhist.symbolPacks.4.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.4.ideoName>Zen</Structure_OriginBuddhist.symbolPacks.4.ideoName>
   <!-- EN: Zenist -->
-  <Structure_OriginBuddhist.symbolPacks.4.member>TODO</Structure_OriginBuddhist.symbolPacks.4.member>
+  <Structure_OriginBuddhist.symbolPacks.4.member>Zenist</Structure_OriginBuddhist.symbolPacks.4.member>
   <!-- EN: Seonic -->
-  <Structure_OriginBuddhist.symbolPacks.5.adjective>TODO</Structure_OriginBuddhist.symbolPacks.5.adjective>
+  <Structure_OriginBuddhist.symbolPacks.5.adjective>Seonic</Structure_OriginBuddhist.symbolPacks.5.adjective>
   <!-- EN: Seon -->
-  <Structure_OriginBuddhist.symbolPacks.5.ideoName>TODO</Structure_OriginBuddhist.symbolPacks.5.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.5.ideoName>Seon</Structure_OriginBuddhist.symbolPacks.5.ideoName>
   <!-- EN: Seonist -->
-  <Structure_OriginBuddhist.symbolPacks.5.member>TODO</Structure_OriginBuddhist.symbolPacks.5.member>
+  <Structure_OriginBuddhist.symbolPacks.5.member>Seonist</Structure_OriginBuddhist.symbolPacks.5.member>
   <!-- EN: Ekist -->
-  <Structure_OriginBuddhist.symbolPacks.6.adjective>TODO</Structure_OriginBuddhist.symbolPacks.6.adjective>
+  <Structure_OriginBuddhist.symbolPacks.6.adjective>Ekist</Structure_OriginBuddhist.symbolPacks.6.adjective>
   <!-- EN: Ekayana -->
-  <Structure_OriginBuddhist.symbolPacks.6.ideoName>TODO</Structure_OriginBuddhist.symbolPacks.6.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.6.ideoName>Ekayana</Structure_OriginBuddhist.symbolPacks.6.ideoName>
   <!-- EN: Ekist -->
-  <Structure_OriginBuddhist.symbolPacks.6.member>TODO</Structure_OriginBuddhist.symbolPacks.6.member>
+  <Structure_OriginBuddhist.symbolPacks.6.member>Ekist</Structure_OriginBuddhist.symbolPacks.6.member>
   <!-- EN: Navic -->
-  <Structure_OriginBuddhist.symbolPacks.7.adjective>TODO</Structure_OriginBuddhist.symbolPacks.7.adjective>
+  <Structure_OriginBuddhist.symbolPacks.7.adjective>Navic</Structure_OriginBuddhist.symbolPacks.7.adjective>
   <!-- EN: Navayana -->
-  <Structure_OriginBuddhist.symbolPacks.7.ideoName>TODO</Structure_OriginBuddhist.symbolPacks.7.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.7.ideoName>Navayana</Structure_OriginBuddhist.symbolPacks.7.ideoName>
   <!-- EN: Navist -->
-  <Structure_OriginBuddhist.symbolPacks.7.member>TODO</Structure_OriginBuddhist.symbolPacks.7.member>
+  <Structure_OriginBuddhist.symbolPacks.7.member>Navist</Structure_OriginBuddhist.symbolPacks.7.member>
   <!-- EN: Tantric -->
-  <Structure_OriginBuddhist.symbolPacks.8.adjective>TODO</Structure_OriginBuddhist.symbolPacks.8.adjective>
+  <Structure_OriginBuddhist.symbolPacks.8.adjective>Tantric</Structure_OriginBuddhist.symbolPacks.8.adjective>
   <!-- EN: Tantrayana -->
-  <Structure_OriginBuddhist.symbolPacks.8.ideoName>TODO</Structure_OriginBuddhist.symbolPacks.8.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.8.ideoName>Tantrayana</Structure_OriginBuddhist.symbolPacks.8.ideoName>
   <!-- EN: Tantran -->
-  <Structure_OriginBuddhist.symbolPacks.8.member>TODO</Structure_OriginBuddhist.symbolPacks.8.member>
+  <Structure_OriginBuddhist.symbolPacks.8.member>Tantran</Structure_OriginBuddhist.symbolPacks.8.member>
   <!-- EN: Gelugist -->
-  <Structure_OriginBuddhist.symbolPacks.9.adjective>TODO</Structure_OriginBuddhist.symbolPacks.9.adjective>
+  <Structure_OriginBuddhist.symbolPacks.9.adjective>Gelugist</Structure_OriginBuddhist.symbolPacks.9.adjective>
   <!-- EN: Gelug -->
-  <Structure_OriginBuddhist.symbolPacks.9.ideoName>TODO</Structure_OriginBuddhist.symbolPacks.9.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.9.ideoName>Gelug</Structure_OriginBuddhist.symbolPacks.9.ideoName>
   <!-- EN: Gelugist -->
-  <Structure_OriginBuddhist.symbolPacks.9.member>TODO</Structure_OriginBuddhist.symbolPacks.9.member>
+  <Structure_OriginBuddhist.symbolPacks.9.member>Gelugist</Structure_OriginBuddhist.symbolPacks.9.member>
   <!-- EN: pagoda -->
-  <Structure_OriginBuddhist.worshipRoomLabel>TODO</Structure_OriginBuddhist.worshipRoomLabel>
+  <Structure_OriginBuddhist.worshipRoomLabel>pagoda</Structure_OriginBuddhist.worshipRoomLabel>
   
   <!-- EN: Christian origin -->
-  <Structure_OriginChristian.label>TODO</Structure_OriginChristian.label>
+  <Structure_OriginChristian.label>Christian origin</Structure_OriginChristian.label>
   <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Christianity. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginChristian.description>TODO</Structure_OriginChristian.description>
-  <!-- EN:
-    <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[packAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[packIdeoName]</li>
-    <li>memeLeaderNoun->bishop</li>
-    <li>memeLeaderNoun->cardinal</li>
-    <li>memeLeaderNoun->pope</li>
-    <li>memeLeaderNoun->pontiff</li>
-    <li>memeLeaderNoun->legate</li>
-    <li>memeLeaderNoun->nuncio</li>
-    <li>memeLeaderNoun->divus</li>
-    <li>memeLeaderNoun->ecclesiast</li>
-    <li>memeLeaderAdjective->holy</li>
-    <li>memeLeaderAdjective->divine</li>
-    <li>memeLeaderAdjective->Christ's</li>
-    <li>memeLeaderAdjective->God's</li>
-    <li>memeMoralist->priest</li>
-    <li>memeMoralist->pastor</li>
-    <li>memeMoralist->cleric</li>
-    <li>memeMoralist->preacher</li>
-    <li>memeMoralist->rector</li>
-    <li>memeMoralist->abbot</li>
-  -->
-  <Structure_OriginChristian.generalRules.rulesStrings>TODO</Structure_OriginChristian.generalRules.rulesStrings>
+  <Structure_OriginChristian.description>This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Christianity. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginChristian.description>
+  <!-- EN: r_ideoName(p=99)->[globalAdjective] [packIdeoName] -->
+  <Structure_OriginChristian.generalRules.rulesStrings.0>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.0>
+  <!-- EN: r_ideoName(p=99)->[memeAdjective] [packIdeoName] -->
+  <Structure_OriginChristian.generalRules.rulesStrings.1>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.1>
+  <!-- EN: r_ideoName(p=99)->[packAdjective] [packIdeoName] -->
+  <Structure_OriginChristian.generalRules.rulesStrings.2>r_ideoName(p=99)->[packAdjective] [packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.2>
+  <!-- EN: r_ideoName(p=99)->[packIdeoName] -->
+  <Structure_OriginChristian.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.3>
+  <!-- EN: memeLeaderNoun->bishop -->
+  <Structure_OriginChristian.generalRules.rulesStrings.4>memeLeaderNoun->bishop</Structure_OriginChristian.generalRules.rulesStrings.4>
+  <!-- EN: memeLeaderNoun->cardinal -->
+  <Structure_OriginChristian.generalRules.rulesStrings.5>memeLeaderNoun->cardinal</Structure_OriginChristian.generalRules.rulesStrings.5>
+  <!-- EN: memeLeaderNoun->pope -->
+  <Structure_OriginChristian.generalRules.rulesStrings.6>memeLeaderNoun->pope</Structure_OriginChristian.generalRules.rulesStrings.6>
+  <!-- EN: memeLeaderNoun->pontiff -->
+  <Structure_OriginChristian.generalRules.rulesStrings.7>memeLeaderNoun->pontiff</Structure_OriginChristian.generalRules.rulesStrings.7>
+  <!-- EN: memeLeaderNoun->legate -->
+  <Structure_OriginChristian.generalRules.rulesStrings.8>memeLeaderNoun->legate</Structure_OriginChristian.generalRules.rulesStrings.8>
+  <!-- EN: memeLeaderNoun->nuncio -->
+  <Structure_OriginChristian.generalRules.rulesStrings.9>memeLeaderNoun->nuncio</Structure_OriginChristian.generalRules.rulesStrings.9>
+  <!-- EN: memeLeaderNoun->divus -->
+  <Structure_OriginChristian.generalRules.rulesStrings.10>memeLeaderNoun->divus</Structure_OriginChristian.generalRules.rulesStrings.10>
+  <!-- EN: memeLeaderNoun->ecclesiast -->
+  <Structure_OriginChristian.generalRules.rulesStrings.11>memeLeaderNoun->ecclesiast</Structure_OriginChristian.generalRules.rulesStrings.11>
+  <!-- EN: memeLeaderAdjective->holy -->
+  <Structure_OriginChristian.generalRules.rulesStrings.12>memeLeaderAdjective->holy</Structure_OriginChristian.generalRules.rulesStrings.12>
+  <!-- EN: memeLeaderAdjective->divine -->
+  <Structure_OriginChristian.generalRules.rulesStrings.13>memeLeaderAdjective->divine</Structure_OriginChristian.generalRules.rulesStrings.13>
+  <!-- EN: memeLeaderAdjective->Christ's -->
+  <Structure_OriginChristian.generalRules.rulesStrings.14>memeLeaderAdjective->Christ's</Structure_OriginChristian.generalRules.rulesStrings.14>
+  <!-- EN: memeLeaderAdjective->God's -->
+  <Structure_OriginChristian.generalRules.rulesStrings.15>memeLeaderAdjective->God's</Structure_OriginChristian.generalRules.rulesStrings.15>
+  <!-- EN: memeMoralist->priest -->
+  <Structure_OriginChristian.generalRules.rulesStrings.16>memeMoralist->priest</Structure_OriginChristian.generalRules.rulesStrings.16>
+  <!-- EN: memeMoralist->pastor -->
+  <Structure_OriginChristian.generalRules.rulesStrings.17>memeMoralist->pastor</Structure_OriginChristian.generalRules.rulesStrings.17>
+  <!-- EN: memeMoralist->cleric -->
+  <Structure_OriginChristian.generalRules.rulesStrings.18>memeMoralist->cleric</Structure_OriginChristian.generalRules.rulesStrings.18>
+  <!-- EN: memeMoralist->preacher -->
+  <Structure_OriginChristian.generalRules.rulesStrings.19>memeMoralist->preacher</Structure_OriginChristian.generalRules.rulesStrings.19>
+  <!-- EN: memeMoralist->rector -->
+  <Structure_OriginChristian.generalRules.rulesStrings.20>memeMoralist->rector</Structure_OriginChristian.generalRules.rulesStrings.20>
+  <!-- EN: memeMoralist->abbot -->
+  <Structure_OriginChristian.generalRules.rulesStrings.21>memeMoralist->abbot</Structure_OriginChristian.generalRules.rulesStrings.21>
   <!-- EN: Christian -->
-  <Structure_OriginChristian.symbolPacks.0.adjective>TODO</Structure_OriginChristian.symbolPacks.0.adjective>
+  <Structure_OriginChristian.symbolPacks.0.adjective>Christian</Structure_OriginChristian.symbolPacks.0.adjective>
   <!-- EN: Christianity -->
-  <Structure_OriginChristian.symbolPacks.0.ideoName>TODO</Structure_OriginChristian.symbolPacks.0.ideoName>
+  <Structure_OriginChristian.symbolPacks.0.ideoName>Christianity</Structure_OriginChristian.symbolPacks.0.ideoName>
   <!-- EN: Christian -->
-  <Structure_OriginChristian.symbolPacks.0.member>TODO</Structure_OriginChristian.symbolPacks.0.member>
+  <Structure_OriginChristian.symbolPacks.0.member>기독교</Structure_OriginChristian.symbolPacks.0.member>
   <!-- EN: Catholic -->
-  <Structure_OriginChristian.symbolPacks.1.adjective>TODO</Structure_OriginChristian.symbolPacks.1.adjective>
+  <Structure_OriginChristian.symbolPacks.1.adjective>Catholic</Structure_OriginChristian.symbolPacks.1.adjective>
   <!-- EN: Catholicism -->
-  <Structure_OriginChristian.symbolPacks.1.ideoName>TODO</Structure_OriginChristian.symbolPacks.1.ideoName>
+  <Structure_OriginChristian.symbolPacks.1.ideoName>Catholicism</Structure_OriginChristian.symbolPacks.1.ideoName>
   <!-- EN: Catholic -->
-  <Structure_OriginChristian.symbolPacks.1.member>TODO</Structure_OriginChristian.symbolPacks.1.member>
+  <Structure_OriginChristian.symbolPacks.1.member>Catholic</Structure_OriginChristian.symbolPacks.1.member>
   <!-- EN: Protestant -->
-  <Structure_OriginChristian.symbolPacks.2.adjective>TODO</Structure_OriginChristian.symbolPacks.2.adjective>
+  <Structure_OriginChristian.symbolPacks.2.adjective>Protestant</Structure_OriginChristian.symbolPacks.2.adjective>
   <!-- EN: Protestantism -->
-  <Structure_OriginChristian.symbolPacks.2.ideoName>TODO</Structure_OriginChristian.symbolPacks.2.ideoName>
+  <Structure_OriginChristian.symbolPacks.2.ideoName>Protestantism</Structure_OriginChristian.symbolPacks.2.ideoName>
   <!-- EN: Protestant -->
-  <Structure_OriginChristian.symbolPacks.2.member>TODO</Structure_OriginChristian.symbolPacks.2.member>
+  <Structure_OriginChristian.symbolPacks.2.member>Protestant</Structure_OriginChristian.symbolPacks.2.member>
   <!-- EN: Orthodox -->
-  <Structure_OriginChristian.symbolPacks.3.adjective>TODO</Structure_OriginChristian.symbolPacks.3.adjective>
+  <Structure_OriginChristian.symbolPacks.3.adjective>Orthodox</Structure_OriginChristian.symbolPacks.3.adjective>
   <!-- EN: Orthodoxy -->
-  <Structure_OriginChristian.symbolPacks.3.ideoName>TODO</Structure_OriginChristian.symbolPacks.3.ideoName>
+  <Structure_OriginChristian.symbolPacks.3.ideoName>Orthodoxy</Structure_OriginChristian.symbolPacks.3.ideoName>
   <!-- EN: Orthodoxist -->
-  <Structure_OriginChristian.symbolPacks.3.member>TODO</Structure_OriginChristian.symbolPacks.3.member>
+  <Structure_OriginChristian.symbolPacks.3.member>Orthodoxist</Structure_OriginChristian.symbolPacks.3.member>
   <!-- EN: Nestorian -->
-  <Structure_OriginChristian.symbolPacks.4.adjective>TODO</Structure_OriginChristian.symbolPacks.4.adjective>
+  <Structure_OriginChristian.symbolPacks.4.adjective>Nestorian</Structure_OriginChristian.symbolPacks.4.adjective>
   <!-- EN: Nestorianism -->
-  <Structure_OriginChristian.symbolPacks.4.ideoName>TODO</Structure_OriginChristian.symbolPacks.4.ideoName>
+  <Structure_OriginChristian.symbolPacks.4.ideoName>Nestorianism</Structure_OriginChristian.symbolPacks.4.ideoName>
   <!-- EN: Nestorian -->
-  <Structure_OriginChristian.symbolPacks.4.member>TODO</Structure_OriginChristian.symbolPacks.4.member>
+  <Structure_OriginChristian.symbolPacks.4.member>Nestorian</Structure_OriginChristian.symbolPacks.4.member>
   <!-- EN: Anglican -->
-  <Structure_OriginChristian.symbolPacks.5.adjective>TODO</Structure_OriginChristian.symbolPacks.5.adjective>
+  <Structure_OriginChristian.symbolPacks.5.adjective>Anglican</Structure_OriginChristian.symbolPacks.5.adjective>
   <!-- EN: Anglicanism -->
-  <Structure_OriginChristian.symbolPacks.5.ideoName>TODO</Structure_OriginChristian.symbolPacks.5.ideoName>
+  <Structure_OriginChristian.symbolPacks.5.ideoName>Anglicanism</Structure_OriginChristian.symbolPacks.5.ideoName>
   <!-- EN: Anglican -->
-  <Structure_OriginChristian.symbolPacks.5.member>TODO</Structure_OriginChristian.symbolPacks.5.member>
+  <Structure_OriginChristian.symbolPacks.5.member>Anglican</Structure_OriginChristian.symbolPacks.5.member>
   <!-- EN: Baptist -->
-  <Structure_OriginChristian.symbolPacks.6.adjective>TODO</Structure_OriginChristian.symbolPacks.6.adjective>
+  <Structure_OriginChristian.symbolPacks.6.adjective>Baptist</Structure_OriginChristian.symbolPacks.6.adjective>
   <!-- EN: Baptism -->
-  <Structure_OriginChristian.symbolPacks.6.ideoName>TODO</Structure_OriginChristian.symbolPacks.6.ideoName>
+  <Structure_OriginChristian.symbolPacks.6.ideoName>Baptism</Structure_OriginChristian.symbolPacks.6.ideoName>
   <!-- EN: Baptist -->
-  <Structure_OriginChristian.symbolPacks.6.member>TODO</Structure_OriginChristian.symbolPacks.6.member>
+  <Structure_OriginChristian.symbolPacks.6.member>Baptist</Structure_OriginChristian.symbolPacks.6.member>
   <!-- EN: Anabaptist -->
-  <Structure_OriginChristian.symbolPacks.7.adjective>TODO</Structure_OriginChristian.symbolPacks.7.adjective>
+  <Structure_OriginChristian.symbolPacks.7.adjective>Anabaptist</Structure_OriginChristian.symbolPacks.7.adjective>
   <!-- EN: Anabaptism -->
-  <Structure_OriginChristian.symbolPacks.7.ideoName>TODO</Structure_OriginChristian.symbolPacks.7.ideoName>
+  <Structure_OriginChristian.symbolPacks.7.ideoName>Anabaptism</Structure_OriginChristian.symbolPacks.7.ideoName>
   <!-- EN: Anabaptist -->
-  <Structure_OriginChristian.symbolPacks.7.member>TODO</Structure_OriginChristian.symbolPacks.7.member>
+  <Structure_OriginChristian.symbolPacks.7.member>Anabaptist</Structure_OriginChristian.symbolPacks.7.member>
   <!-- EN: Calvinist -->
-  <Structure_OriginChristian.symbolPacks.8.adjective>TODO</Structure_OriginChristian.symbolPacks.8.adjective>
+  <Structure_OriginChristian.symbolPacks.8.adjective>Calvinist</Structure_OriginChristian.symbolPacks.8.adjective>
   <!-- EN: Calvinism -->
-  <Structure_OriginChristian.symbolPacks.8.ideoName>TODO</Structure_OriginChristian.symbolPacks.8.ideoName>
+  <Structure_OriginChristian.symbolPacks.8.ideoName>Calvinism</Structure_OriginChristian.symbolPacks.8.ideoName>
   <!-- EN: Calvinist -->
-  <Structure_OriginChristian.symbolPacks.8.member>TODO</Structure_OriginChristian.symbolPacks.8.member>
+  <Structure_OriginChristian.symbolPacks.8.member>Calvinist</Structure_OriginChristian.symbolPacks.8.member>
   <!-- EN: Lutheran -->
-  <Structure_OriginChristian.symbolPacks.9.adjective>TODO</Structure_OriginChristian.symbolPacks.9.adjective>
+  <Structure_OriginChristian.symbolPacks.9.adjective>Lutheran</Structure_OriginChristian.symbolPacks.9.adjective>
   <!-- EN: Lutheranism -->
-  <Structure_OriginChristian.symbolPacks.9.ideoName>TODO</Structure_OriginChristian.symbolPacks.9.ideoName>
+  <Structure_OriginChristian.symbolPacks.9.ideoName>Lutheranism</Structure_OriginChristian.symbolPacks.9.ideoName>
   <!-- EN: Lutheran -->
-  <Structure_OriginChristian.symbolPacks.9.member>TODO</Structure_OriginChristian.symbolPacks.9.member>
+  <Structure_OriginChristian.symbolPacks.9.member>Lutheran</Structure_OriginChristian.symbolPacks.9.member>
   <!-- EN: Adventist -->
-  <Structure_OriginChristian.symbolPacks.10.adjective>TODO</Structure_OriginChristian.symbolPacks.10.adjective>
+  <Structure_OriginChristian.symbolPacks.10.adjective>Adventist</Structure_OriginChristian.symbolPacks.10.adjective>
   <!-- EN: Adventism -->
-  <Structure_OriginChristian.symbolPacks.10.ideoName>TODO</Structure_OriginChristian.symbolPacks.10.ideoName>
+  <Structure_OriginChristian.symbolPacks.10.ideoName>Adventism</Structure_OriginChristian.symbolPacks.10.ideoName>
   <!-- EN: Adventist -->
-  <Structure_OriginChristian.symbolPacks.10.member>TODO</Structure_OriginChristian.symbolPacks.10.member>
+  <Structure_OriginChristian.symbolPacks.10.member>Adventist</Structure_OriginChristian.symbolPacks.10.member>
   <!-- EN: Methodist -->
-  <Structure_OriginChristian.symbolPacks.11.adjective>TODO</Structure_OriginChristian.symbolPacks.11.adjective>
+  <Structure_OriginChristian.symbolPacks.11.adjective>Methodist</Structure_OriginChristian.symbolPacks.11.adjective>
   <!-- EN: Methodism -->
-  <Structure_OriginChristian.symbolPacks.11.ideoName>TODO</Structure_OriginChristian.symbolPacks.11.ideoName>
+  <Structure_OriginChristian.symbolPacks.11.ideoName>Methodism</Structure_OriginChristian.symbolPacks.11.ideoName>
   <!-- EN: Methodist -->
-  <Structure_OriginChristian.symbolPacks.11.member>TODO</Structure_OriginChristian.symbolPacks.11.member>
+  <Structure_OriginChristian.symbolPacks.11.member>Methodist</Structure_OriginChristian.symbolPacks.11.member>
   <!-- EN: Mormon -->
-  <Structure_OriginChristian.symbolPacks.12.adjective>TODO</Structure_OriginChristian.symbolPacks.12.adjective>
+  <Structure_OriginChristian.symbolPacks.12.adjective>Mormon</Structure_OriginChristian.symbolPacks.12.adjective>
   <!-- EN: Mormonism -->
-  <Structure_OriginChristian.symbolPacks.12.ideoName>TODO</Structure_OriginChristian.symbolPacks.12.ideoName>
+  <Structure_OriginChristian.symbolPacks.12.ideoName>Mormonism</Structure_OriginChristian.symbolPacks.12.ideoName>
   <!-- EN: Mormon -->
-  <Structure_OriginChristian.symbolPacks.12.member>TODO</Structure_OriginChristian.symbolPacks.12.member>
+  <Structure_OriginChristian.symbolPacks.12.member>Mormon</Structure_OriginChristian.symbolPacks.12.member>
   <!-- EN: Theonomic -->
-  <Structure_OriginChristian.symbolPacks.13.adjective>TODO</Structure_OriginChristian.symbolPacks.13.adjective>
+  <Structure_OriginChristian.symbolPacks.13.adjective>Theonomic</Structure_OriginChristian.symbolPacks.13.adjective>
   <!-- EN: Theonomy -->
-  <Structure_OriginChristian.symbolPacks.13.ideoName>TODO</Structure_OriginChristian.symbolPacks.13.ideoName>
+  <Structure_OriginChristian.symbolPacks.13.ideoName>Theonomy</Structure_OriginChristian.symbolPacks.13.ideoName>
   <!-- EN: Theonomist -->
-  <Structure_OriginChristian.symbolPacks.13.member>TODO</Structure_OriginChristian.symbolPacks.13.member>
+  <Structure_OriginChristian.symbolPacks.13.member>Theonomist</Structure_OriginChristian.symbolPacks.13.member>
   <!-- EN: church -->
-  <Structure_OriginChristian.worshipRoomLabel>TODO</Structure_OriginChristian.worshipRoomLabel>
+  <Structure_OriginChristian.worshipRoomLabel>church</Structure_OriginChristian.worshipRoomLabel>
   
   <!-- EN: Hindu origin -->
-  <Structure_OriginHindu.label>TODO</Structure_OriginHindu.label>
+  <Structure_OriginHindu.label>Hindu origin</Structure_OriginHindu.label>
   <!-- EN: This is a variant of the embodied theist structure. This ideoligion is a descendant of ancient Hinduism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginHindu.description>TODO</Structure_OriginHindu.description>
+  <Structure_OriginHindu.description>This is a variant of the embodied theist structure. This ideoligion is a descendant of ancient Hinduism. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginHindu.description>
   <!-- EN: God of Creation -->
   <Structure_OriginHindu.fixedDeityNameTypes.0.type>TODO</Structure_OriginHindu.fixedDeityNameTypes.0.type>
   <!-- EN: God of Preservation -->
@@ -272,231 +303,262 @@
   <Structure_OriginHindu.fixedDeityNameTypes.30.type>TODO</Structure_OriginHindu.fixedDeityNameTypes.30.type>
   <!-- EN: Warrior Goddess -->
   <Structure_OriginHindu.fixedDeityNameTypes.31.type>TODO</Structure_OriginHindu.fixedDeityNameTypes.31.type>
-  <!-- EN:
-    <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[packAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[packIdeoName]</li>
-    <li>memeLeaderNoun->mahatma</li>
-    <li>memeLeaderNoun->ishvara</li>
-    <li>memeLeaderNoun->yogi</li>
-    <li>memeLeaderNoun->pandit</li>
-    <li>memeLeaderNoun->avatar</li>
-    <li>memeLeaderAdjective->sacred</li>
-    <li>memeLeaderAdjective->hindic</li>
-    <li>memeLeaderAdjective->indic</li>
-    <li>memeLeaderAdjective->yogic</li>
-    <li>memeLeaderAdjective->tirth</li>
-    <li>memeMoralist(p=3)->pujari</li>
-    <li>memeMoralist->purohit</li>
-    <li>memeMoralist->archaka</li>
-    <li>memeMoralist->brahmin</li>
-  -->
-  <Structure_OriginHindu.generalRules.rulesStrings>TODO</Structure_OriginHindu.generalRules.rulesStrings>
+  <!-- EN: r_ideoName(p=99)->[globalAdjective] [packIdeoName] -->
+  <Structure_OriginHindu.generalRules.rulesStrings.0>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.0>
+  <!-- EN: r_ideoName(p=99)->[memeAdjective] [packIdeoName] -->
+  <Structure_OriginHindu.generalRules.rulesStrings.1>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.1>
+  <!-- EN: r_ideoName(p=99)->[packAdjective] [packIdeoName] -->
+  <Structure_OriginHindu.generalRules.rulesStrings.2>r_ideoName(p=99)->[packAdjective] [packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.2>
+  <!-- EN: r_ideoName(p=99)->[packIdeoName] -->
+  <Structure_OriginHindu.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.3>
+  <!-- EN: memeLeaderNoun->mahatma -->
+  <Structure_OriginHindu.generalRules.rulesStrings.4>memeLeaderNoun->mahatma</Structure_OriginHindu.generalRules.rulesStrings.4>
+  <!-- EN: memeLeaderNoun->ishvara -->
+  <Structure_OriginHindu.generalRules.rulesStrings.5>memeLeaderNoun->ishvara</Structure_OriginHindu.generalRules.rulesStrings.5>
+  <!-- EN: memeLeaderNoun->yogi -->
+  <Structure_OriginHindu.generalRules.rulesStrings.6>memeLeaderNoun->yogi</Structure_OriginHindu.generalRules.rulesStrings.6>
+  <!-- EN: memeLeaderNoun->pandit -->
+  <Structure_OriginHindu.generalRules.rulesStrings.7>memeLeaderNoun->pandit</Structure_OriginHindu.generalRules.rulesStrings.7>
+  <!-- EN: memeLeaderNoun->avatar -->
+  <Structure_OriginHindu.generalRules.rulesStrings.8>memeLeaderNoun->avatar</Structure_OriginHindu.generalRules.rulesStrings.8>
+  <!-- EN: memeLeaderAdjective->sacred -->
+  <Structure_OriginHindu.generalRules.rulesStrings.9>memeLeaderAdjective->sacred</Structure_OriginHindu.generalRules.rulesStrings.9>
+  <!-- EN: memeLeaderAdjective->hindic -->
+  <Structure_OriginHindu.generalRules.rulesStrings.10>memeLeaderAdjective->hindic</Structure_OriginHindu.generalRules.rulesStrings.10>
+  <!-- EN: memeLeaderAdjective->indic -->
+  <Structure_OriginHindu.generalRules.rulesStrings.11>memeLeaderAdjective->indic</Structure_OriginHindu.generalRules.rulesStrings.11>
+  <!-- EN: memeLeaderAdjective->yogic -->
+  <Structure_OriginHindu.generalRules.rulesStrings.12>memeLeaderAdjective->yogic</Structure_OriginHindu.generalRules.rulesStrings.12>
+  <!-- EN: memeLeaderAdjective->tirth -->
+  <Structure_OriginHindu.generalRules.rulesStrings.13>memeLeaderAdjective->tirth</Structure_OriginHindu.generalRules.rulesStrings.13>
+  <!-- EN: memeMoralist(p=3)->pujari -->
+  <Structure_OriginHindu.generalRules.rulesStrings.14>memeMoralist(p=3)->pujari</Structure_OriginHindu.generalRules.rulesStrings.14>
+  <!-- EN: memeMoralist->purohit -->
+  <Structure_OriginHindu.generalRules.rulesStrings.15>memeMoralist->purohit</Structure_OriginHindu.generalRules.rulesStrings.15>
+  <!-- EN: memeMoralist->archaka -->
+  <Structure_OriginHindu.generalRules.rulesStrings.16>memeMoralist->archaka</Structure_OriginHindu.generalRules.rulesStrings.16>
+  <!-- EN: memeMoralist->brahmin -->
+  <Structure_OriginHindu.generalRules.rulesStrings.17>memeMoralist->brahmin</Structure_OriginHindu.generalRules.rulesStrings.17>
   <!-- EN: Hindu -->
-  <Structure_OriginHindu.symbolPacks.0.adjective>TODO</Structure_OriginHindu.symbolPacks.0.adjective>
+  <Structure_OriginHindu.symbolPacks.0.adjective>Hindu</Structure_OriginHindu.symbolPacks.0.adjective>
   <!-- EN: Hinduism -->
-  <Structure_OriginHindu.symbolPacks.0.ideoName>TODO</Structure_OriginHindu.symbolPacks.0.ideoName>
+  <Structure_OriginHindu.symbolPacks.0.ideoName>Hinduism</Structure_OriginHindu.symbolPacks.0.ideoName>
   <!-- EN: Hindu -->
-  <Structure_OriginHindu.symbolPacks.0.member>TODO</Structure_OriginHindu.symbolPacks.0.member>
+  <Structure_OriginHindu.symbolPacks.0.member>힌두교</Structure_OriginHindu.symbolPacks.0.member>
   <!-- EN: Indu -->
-  <Structure_OriginHindu.symbolPacks.1.adjective>TODO</Structure_OriginHindu.symbolPacks.1.adjective>
+  <Structure_OriginHindu.symbolPacks.1.adjective>Indu</Structure_OriginHindu.symbolPacks.1.adjective>
   <!-- EN: Induism -->
-  <Structure_OriginHindu.symbolPacks.1.ideoName>TODO</Structure_OriginHindu.symbolPacks.1.ideoName>
+  <Structure_OriginHindu.symbolPacks.1.ideoName>Induism</Structure_OriginHindu.symbolPacks.1.ideoName>
   <!-- EN: Indu -->
-  <Structure_OriginHindu.symbolPacks.1.member>TODO</Structure_OriginHindu.symbolPacks.1.member>
+  <Structure_OriginHindu.symbolPacks.1.member>Indu</Structure_OriginHindu.symbolPacks.1.member>
   <!-- EN: Sindu -->
-  <Structure_OriginHindu.symbolPacks.2.adjective>TODO</Structure_OriginHindu.symbolPacks.2.adjective>
+  <Structure_OriginHindu.symbolPacks.2.adjective>Sindu</Structure_OriginHindu.symbolPacks.2.adjective>
   <!-- EN: Sinduism -->
-  <Structure_OriginHindu.symbolPacks.2.ideoName>TODO</Structure_OriginHindu.symbolPacks.2.ideoName>
+  <Structure_OriginHindu.symbolPacks.2.ideoName>Sinduism</Structure_OriginHindu.symbolPacks.2.ideoName>
   <!-- EN: Sindu -->
-  <Structure_OriginHindu.symbolPacks.2.member>TODO</Structure_OriginHindu.symbolPacks.2.member>
+  <Structure_OriginHindu.symbolPacks.2.member>Sindu</Structure_OriginHindu.symbolPacks.2.member>
   <!-- EN: Tantric -->
-  <Structure_OriginHindu.symbolPacks.3.adjective>TODO</Structure_OriginHindu.symbolPacks.3.adjective>
+  <Structure_OriginHindu.symbolPacks.3.adjective>Tantric</Structure_OriginHindu.symbolPacks.3.adjective>
   <!-- EN: Tantra -->
-  <Structure_OriginHindu.symbolPacks.3.ideoName>TODO</Structure_OriginHindu.symbolPacks.3.ideoName>
+  <Structure_OriginHindu.symbolPacks.3.ideoName>Tantra</Structure_OriginHindu.symbolPacks.3.ideoName>
   <!-- EN: Tantran -->
-  <Structure_OriginHindu.symbolPacks.3.member>TODO</Structure_OriginHindu.symbolPacks.3.member>
+  <Structure_OriginHindu.symbolPacks.3.member>Tantran</Structure_OriginHindu.symbolPacks.3.member>
   <!-- EN: Vedic -->
-  <Structure_OriginHindu.symbolPacks.4.adjective>TODO</Structure_OriginHindu.symbolPacks.4.adjective>
+  <Structure_OriginHindu.symbolPacks.4.adjective>Vedic</Structure_OriginHindu.symbolPacks.4.adjective>
   <!-- EN: Vedism -->
-  <Structure_OriginHindu.symbolPacks.4.ideoName>TODO</Structure_OriginHindu.symbolPacks.4.ideoName>
+  <Structure_OriginHindu.symbolPacks.4.ideoName>Vedism</Structure_OriginHindu.symbolPacks.4.ideoName>
   <!-- EN: Vedi -->
-  <Structure_OriginHindu.symbolPacks.4.member>TODO</Structure_OriginHindu.symbolPacks.4.member>
+  <Structure_OriginHindu.symbolPacks.4.member>Vedi</Structure_OriginHindu.symbolPacks.4.member>
   <!-- EN: Dharmic -->
-  <Structure_OriginHindu.symbolPacks.5.adjective>TODO</Structure_OriginHindu.symbolPacks.5.adjective>
+  <Structure_OriginHindu.symbolPacks.5.adjective>Dharmic</Structure_OriginHindu.symbolPacks.5.adjective>
   <!-- EN: Dharmism -->
-  <Structure_OriginHindu.symbolPacks.5.ideoName>TODO</Structure_OriginHindu.symbolPacks.5.ideoName>
+  <Structure_OriginHindu.symbolPacks.5.ideoName>Dharmism</Structure_OriginHindu.symbolPacks.5.ideoName>
   <!-- EN: Dharmi -->
-  <Structure_OriginHindu.symbolPacks.5.member>TODO</Structure_OriginHindu.symbolPacks.5.member>
+  <Structure_OriginHindu.symbolPacks.5.member>Dharmi</Structure_OriginHindu.symbolPacks.5.member>
   <!-- EN: Vaishmayan -->
-  <Structure_OriginHindu.symbolPacks.6.adjective>TODO</Structure_OriginHindu.symbolPacks.6.adjective>
+  <Structure_OriginHindu.symbolPacks.6.adjective>Vaishmayan</Structure_OriginHindu.symbolPacks.6.adjective>
   <!-- EN: Vaishmaya -->
-  <Structure_OriginHindu.symbolPacks.6.ideoName>TODO</Structure_OriginHindu.symbolPacks.6.ideoName>
+  <Structure_OriginHindu.symbolPacks.6.ideoName>Vaishmaya</Structure_OriginHindu.symbolPacks.6.ideoName>
   <!-- EN: Vaishnava -->
-  <Structure_OriginHindu.symbolPacks.6.member>TODO</Structure_OriginHindu.symbolPacks.6.member>
+  <Structure_OriginHindu.symbolPacks.6.member>Vaishnava</Structure_OriginHindu.symbolPacks.6.member>
   <!-- EN: Shaivan -->
-  <Structure_OriginHindu.symbolPacks.7.adjective>TODO</Structure_OriginHindu.symbolPacks.7.adjective>
+  <Structure_OriginHindu.symbolPacks.7.adjective>Shaivan</Structure_OriginHindu.symbolPacks.7.adjective>
   <!-- EN: Shaivmaya -->
-  <Structure_OriginHindu.symbolPacks.7.ideoName>TODO</Structure_OriginHindu.symbolPacks.7.ideoName>
+  <Structure_OriginHindu.symbolPacks.7.ideoName>Shaivmaya</Structure_OriginHindu.symbolPacks.7.ideoName>
   <!-- EN: Shaiva -->
-  <Structure_OriginHindu.symbolPacks.7.member>TODO</Structure_OriginHindu.symbolPacks.7.member>
+  <Structure_OriginHindu.symbolPacks.7.member>Shaiva</Structure_OriginHindu.symbolPacks.7.member>
   <!-- EN: Yogic -->
-  <Structure_OriginHindu.symbolPacks.8.adjective>TODO</Structure_OriginHindu.symbolPacks.8.adjective>
+  <Structure_OriginHindu.symbolPacks.8.adjective>Yogic</Structure_OriginHindu.symbolPacks.8.adjective>
   <!-- EN: Yoga -->
-  <Structure_OriginHindu.symbolPacks.8.ideoName>TODO</Structure_OriginHindu.symbolPacks.8.ideoName>
+  <Structure_OriginHindu.symbolPacks.8.ideoName>Yoga</Structure_OriginHindu.symbolPacks.8.ideoName>
   <!-- EN: Yogi -->
-  <Structure_OriginHindu.symbolPacks.8.member>TODO</Structure_OriginHindu.symbolPacks.8.member>
+  <Structure_OriginHindu.symbolPacks.8.member>Yogi</Structure_OriginHindu.symbolPacks.8.member>
   <!-- EN: Nyayan -->
-  <Structure_OriginHindu.symbolPacks.9.adjective>TODO</Structure_OriginHindu.symbolPacks.9.adjective>
+  <Structure_OriginHindu.symbolPacks.9.adjective>Nyayan</Structure_OriginHindu.symbolPacks.9.adjective>
   <!-- EN: Nyaya -->
-  <Structure_OriginHindu.symbolPacks.9.ideoName>TODO</Structure_OriginHindu.symbolPacks.9.ideoName>
+  <Structure_OriginHindu.symbolPacks.9.ideoName>Nyaya</Structure_OriginHindu.symbolPacks.9.ideoName>
   <!-- EN: Nyava -->
-  <Structure_OriginHindu.symbolPacks.9.member>TODO</Structure_OriginHindu.symbolPacks.9.member>
+  <Structure_OriginHindu.symbolPacks.9.member>Nyava</Structure_OriginHindu.symbolPacks.9.member>
   <!-- EN: Vaisesikan -->
-  <Structure_OriginHindu.symbolPacks.10.adjective>TODO</Structure_OriginHindu.symbolPacks.10.adjective>
+  <Structure_OriginHindu.symbolPacks.10.adjective>Vaisesikan</Structure_OriginHindu.symbolPacks.10.adjective>
   <!-- EN: Vaisesika -->
-  <Structure_OriginHindu.symbolPacks.10.ideoName>TODO</Structure_OriginHindu.symbolPacks.10.ideoName>
+  <Structure_OriginHindu.symbolPacks.10.ideoName>Vaisesika</Structure_OriginHindu.symbolPacks.10.ideoName>
   <!-- EN: Vaisesikaya -->
-  <Structure_OriginHindu.symbolPacks.10.member>TODO</Structure_OriginHindu.symbolPacks.10.member>
+  <Structure_OriginHindu.symbolPacks.10.member>Vaisesikaya</Structure_OriginHindu.symbolPacks.10.member>
   <!-- EN: Samkhyan -->
-  <Structure_OriginHindu.symbolPacks.11.adjective>TODO</Structure_OriginHindu.symbolPacks.11.adjective>
+  <Structure_OriginHindu.symbolPacks.11.adjective>Samkhyan</Structure_OriginHindu.symbolPacks.11.adjective>
   <!-- EN: Samkhya -->
-  <Structure_OriginHindu.symbolPacks.11.ideoName>TODO</Structure_OriginHindu.symbolPacks.11.ideoName>
+  <Structure_OriginHindu.symbolPacks.11.ideoName>Samkhya</Structure_OriginHindu.symbolPacks.11.ideoName>
   <!-- EN: Samkhyan -->
-  <Structure_OriginHindu.symbolPacks.11.member>TODO</Structure_OriginHindu.symbolPacks.11.member>
+  <Structure_OriginHindu.symbolPacks.11.member>Samkhyan</Structure_OriginHindu.symbolPacks.11.member>
   <!-- EN: Mimamsan -->
-  <Structure_OriginHindu.symbolPacks.12.adjective>TODO</Structure_OriginHindu.symbolPacks.12.adjective>
+  <Structure_OriginHindu.symbolPacks.12.adjective>Mimamsan</Structure_OriginHindu.symbolPacks.12.adjective>
   <!-- EN: Mimamsa -->
-  <Structure_OriginHindu.symbolPacks.12.ideoName>TODO</Structure_OriginHindu.symbolPacks.12.ideoName>
+  <Structure_OriginHindu.symbolPacks.12.ideoName>Mimamsa</Structure_OriginHindu.symbolPacks.12.ideoName>
   <!-- EN: Mimamsan -->
-  <Structure_OriginHindu.symbolPacks.12.member>TODO</Structure_OriginHindu.symbolPacks.12.member>
+  <Structure_OriginHindu.symbolPacks.12.member>Mimamsan</Structure_OriginHindu.symbolPacks.12.member>
   <!-- EN: Vedantan -->
-  <Structure_OriginHindu.symbolPacks.13.adjective>TODO</Structure_OriginHindu.symbolPacks.13.adjective>
+  <Structure_OriginHindu.symbolPacks.13.adjective>Vedantan</Structure_OriginHindu.symbolPacks.13.adjective>
   <!-- EN: Vedanta -->
-  <Structure_OriginHindu.symbolPacks.13.ideoName>TODO</Structure_OriginHindu.symbolPacks.13.ideoName>
+  <Structure_OriginHindu.symbolPacks.13.ideoName>Vedanta</Structure_OriginHindu.symbolPacks.13.ideoName>
   <!-- EN: Vedantan -->
-  <Structure_OriginHindu.symbolPacks.13.member>TODO</Structure_OriginHindu.symbolPacks.13.member>
+  <Structure_OriginHindu.symbolPacks.13.member>Vedantan</Structure_OriginHindu.symbolPacks.13.member>
   <!-- EN: shrine -->
-  <Structure_OriginHindu.worshipRoomLabel>TODO</Structure_OriginHindu.worshipRoomLabel>
+  <Structure_OriginHindu.worshipRoomLabel>shrine</Structure_OriginHindu.worshipRoomLabel>
   
   <!-- EN: Islamic origin -->
-  <Structure_OriginIslamic.label>TODO</Structure_OriginIslamic.label>
+  <Structure_OriginIslamic.label>Islamic origin</Structure_OriginIslamic.label>
   <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Islam. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginIslamic.description>TODO</Structure_OriginIslamic.description>
-  <!-- EN:
-    <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[packAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=99)->[packIdeoName]</li>
-    <li>memeLeaderNoun->mullah</li>
-    <li>memeLeaderNoun->imam</li>
-    <li>memeLeaderNoun->caliph</li>
-    <li>memeLeaderNoun->mufti</li>
-    <li>memeLeaderNoun->almami</li>
-    <li>memeLeaderNoun->kyai</li>
-    <li>memeLeaderNoun->ayatollah</li>
-    <li>memeLeaderAdjective->grand</li>
-    <li>memeMoralist(p=4)->imam</li>
-    <li>memeMoralist->qadi</li>
-    <li>memeMoralist->alim</li>
-    <li>memeMoralist->allamah</li>
-    <li>memeMoralist->muezzin</li>
-    <li>memeMoralist->mujtahid</li>
-    <li>memeMoralist->cleric</li>
-  -->
-  <Structure_OriginIslamic.generalRules.rulesStrings>TODO</Structure_OriginIslamic.generalRules.rulesStrings>
+  <Structure_OriginIslamic.description>This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Islam. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginIslamic.description>
+  <!-- EN: r_ideoName(p=99)->[globalAdjective] [packIdeoName] -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.0>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.0>
+  <!-- EN: r_ideoName(p=99)->[memeAdjective] [packIdeoName] -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.1>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.1>
+  <!-- EN: r_ideoName(p=99)->[packAdjective] [packIdeoName] -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.2>r_ideoName(p=99)->[packAdjective] [packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.2>
+  <!-- EN: r_ideoName(p=99)->[packIdeoName] -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.3>
+  <!-- EN: memeLeaderNoun->mullah -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.4>memeLeaderNoun->mullah</Structure_OriginIslamic.generalRules.rulesStrings.4>
+  <!-- EN: memeLeaderNoun->imam -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.5>memeLeaderNoun->imam</Structure_OriginIslamic.generalRules.rulesStrings.5>
+  <!-- EN: memeLeaderNoun->caliph -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.6>memeLeaderNoun->caliph</Structure_OriginIslamic.generalRules.rulesStrings.6>
+  <!-- EN: memeLeaderNoun->mufti -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.7>memeLeaderNoun->mufti</Structure_OriginIslamic.generalRules.rulesStrings.7>
+  <!-- EN: memeLeaderNoun->almami -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.8>memeLeaderNoun->almami</Structure_OriginIslamic.generalRules.rulesStrings.8>
+  <!-- EN: memeLeaderNoun->kyai -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.9>memeLeaderNoun->kyai</Structure_OriginIslamic.generalRules.rulesStrings.9>
+  <!-- EN: memeLeaderNoun->ayatollah -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.10>memeLeaderNoun->ayatollah</Structure_OriginIslamic.generalRules.rulesStrings.10>
+  <!-- EN: memeLeaderAdjective->grand -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.11>memeLeaderAdjective->grand</Structure_OriginIslamic.generalRules.rulesStrings.11>
+  <!-- EN: memeMoralist(p=4)->imam -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.12>memeMoralist(p=4)->imam</Structure_OriginIslamic.generalRules.rulesStrings.12>
+  <!-- EN: memeMoralist->qadi -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.13>memeMoralist->qadi</Structure_OriginIslamic.generalRules.rulesStrings.13>
+  <!-- EN: memeMoralist->alim -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.14>memeMoralist->alim</Structure_OriginIslamic.generalRules.rulesStrings.14>
+  <!-- EN: memeMoralist->allamah -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.15>memeMoralist->allamah</Structure_OriginIslamic.generalRules.rulesStrings.15>
+  <!-- EN: memeMoralist->muezzin -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.16>memeMoralist->muezzin</Structure_OriginIslamic.generalRules.rulesStrings.16>
+  <!-- EN: memeMoralist->mujtahid -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.17>memeMoralist->mujtahid</Structure_OriginIslamic.generalRules.rulesStrings.17>
+  <!-- EN: memeMoralist->cleric -->
+  <Structure_OriginIslamic.generalRules.rulesStrings.18>memeMoralist->cleric</Structure_OriginIslamic.generalRules.rulesStrings.18>
   <!-- EN: Islamic -->
-  <Structure_OriginIslamic.symbolPacks.0.adjective>TODO</Structure_OriginIslamic.symbolPacks.0.adjective>
+  <Structure_OriginIslamic.symbolPacks.0.adjective>Islamic</Structure_OriginIslamic.symbolPacks.0.adjective>
   <!-- EN: Islam -->
-  <Structure_OriginIslamic.symbolPacks.0.ideoName>TODO</Structure_OriginIslamic.symbolPacks.0.ideoName>
+  <Structure_OriginIslamic.symbolPacks.0.ideoName>Islam</Structure_OriginIslamic.symbolPacks.0.ideoName>
   <!-- EN: Muslim -->
-  <Structure_OriginIslamic.symbolPacks.0.member>TODO</Structure_OriginIslamic.symbolPacks.0.member>
+  <Structure_OriginIslamic.symbolPacks.0.member>Muslim</Structure_OriginIslamic.symbolPacks.0.member>
   <!-- EN: Islamist -->
-  <Structure_OriginIslamic.symbolPacks.1.adjective>TODO</Structure_OriginIslamic.symbolPacks.1.adjective>
+  <Structure_OriginIslamic.symbolPacks.1.adjective>Islamist</Structure_OriginIslamic.symbolPacks.1.adjective>
   <!-- EN: Islamism -->
-  <Structure_OriginIslamic.symbolPacks.1.ideoName>TODO</Structure_OriginIslamic.symbolPacks.1.ideoName>
+  <Structure_OriginIslamic.symbolPacks.1.ideoName>Islamism</Structure_OriginIslamic.symbolPacks.1.ideoName>
   <!-- EN: Islamist -->
-  <Structure_OriginIslamic.symbolPacks.1.member>TODO</Structure_OriginIslamic.symbolPacks.1.member>
+  <Structure_OriginIslamic.symbolPacks.1.member>Islamist</Structure_OriginIslamic.symbolPacks.1.member>
   <!-- EN: Shiite -->
-  <Structure_OriginIslamic.symbolPacks.2.adjective>TODO</Structure_OriginIslamic.symbolPacks.2.adjective>
+  <Structure_OriginIslamic.symbolPacks.2.adjective>Shiite</Structure_OriginIslamic.symbolPacks.2.adjective>
   <!-- EN: Shiism -->
-  <Structure_OriginIslamic.symbolPacks.2.ideoName>TODO</Structure_OriginIslamic.symbolPacks.2.ideoName>
+  <Structure_OriginIslamic.symbolPacks.2.ideoName>Shiism</Structure_OriginIslamic.symbolPacks.2.ideoName>
   <!-- EN: Shiite -->
-  <Structure_OriginIslamic.symbolPacks.2.member>TODO</Structure_OriginIslamic.symbolPacks.2.member>
+  <Structure_OriginIslamic.symbolPacks.2.member>Shiite</Structure_OriginIslamic.symbolPacks.2.member>
   <!-- EN: Sunni -->
-  <Structure_OriginIslamic.symbolPacks.3.adjective>TODO</Structure_OriginIslamic.symbolPacks.3.adjective>
+  <Structure_OriginIslamic.symbolPacks.3.adjective>Sunni</Structure_OriginIslamic.symbolPacks.3.adjective>
   <!-- EN: Sunnism -->
-  <Structure_OriginIslamic.symbolPacks.3.ideoName>TODO</Structure_OriginIslamic.symbolPacks.3.ideoName>
+  <Structure_OriginIslamic.symbolPacks.3.ideoName>Sunnism</Structure_OriginIslamic.symbolPacks.3.ideoName>
   <!-- EN: Sunni -->
-  <Structure_OriginIslamic.symbolPacks.3.member>TODO</Structure_OriginIslamic.symbolPacks.3.member>
+  <Structure_OriginIslamic.symbolPacks.3.member>Sunni</Structure_OriginIslamic.symbolPacks.3.member>
   <!-- EN: Ibadi -->
-  <Structure_OriginIslamic.symbolPacks.4.adjective>TODO</Structure_OriginIslamic.symbolPacks.4.adjective>
+  <Structure_OriginIslamic.symbolPacks.4.adjective>Ibadi</Structure_OriginIslamic.symbolPacks.4.adjective>
   <!-- EN: Ibadism -->
-  <Structure_OriginIslamic.symbolPacks.4.ideoName>TODO</Structure_OriginIslamic.symbolPacks.4.ideoName>
+  <Structure_OriginIslamic.symbolPacks.4.ideoName>Ibadism</Structure_OriginIslamic.symbolPacks.4.ideoName>
   <!-- EN: Ibadi -->
-  <Structure_OriginIslamic.symbolPacks.4.member>TODO</Structure_OriginIslamic.symbolPacks.4.member>
+  <Structure_OriginIslamic.symbolPacks.4.member>Ibadi</Structure_OriginIslamic.symbolPacks.4.member>
   <!-- EN: Ismaili -->
-  <Structure_OriginIslamic.symbolPacks.5.adjective>TODO</Structure_OriginIslamic.symbolPacks.5.adjective>
+  <Structure_OriginIslamic.symbolPacks.5.adjective>Ismaili</Structure_OriginIslamic.symbolPacks.5.adjective>
   <!-- EN: Ismailism -->
-  <Structure_OriginIslamic.symbolPacks.5.ideoName>TODO</Structure_OriginIslamic.symbolPacks.5.ideoName>
+  <Structure_OriginIslamic.symbolPacks.5.ideoName>Ismailism</Structure_OriginIslamic.symbolPacks.5.ideoName>
   <!-- EN: Ismaili -->
-  <Structure_OriginIslamic.symbolPacks.5.member>TODO</Structure_OriginIslamic.symbolPacks.5.member>
+  <Structure_OriginIslamic.symbolPacks.5.member>Ismaili</Structure_OriginIslamic.symbolPacks.5.member>
   <!-- EN: Mustalic -->
-  <Structure_OriginIslamic.symbolPacks.6.adjective>TODO</Structure_OriginIslamic.symbolPacks.6.adjective>
+  <Structure_OriginIslamic.symbolPacks.6.adjective>Mustalic</Structure_OriginIslamic.symbolPacks.6.adjective>
   <!-- EN: Mustalism -->
-  <Structure_OriginIslamic.symbolPacks.6.ideoName>TODO</Structure_OriginIslamic.symbolPacks.6.ideoName>
+  <Structure_OriginIslamic.symbolPacks.6.ideoName>Mustalism</Structure_OriginIslamic.symbolPacks.6.ideoName>
   <!-- EN: Mustali -->
-  <Structure_OriginIslamic.symbolPacks.6.member>TODO</Structure_OriginIslamic.symbolPacks.6.member>
+  <Structure_OriginIslamic.symbolPacks.6.member>Mustali</Structure_OriginIslamic.symbolPacks.6.member>
   <!-- EN: Tayyibic -->
-  <Structure_OriginIslamic.symbolPacks.7.adjective>TODO</Structure_OriginIslamic.symbolPacks.7.adjective>
+  <Structure_OriginIslamic.symbolPacks.7.adjective>Tayyibic</Structure_OriginIslamic.symbolPacks.7.adjective>
   <!-- EN: Tayyibism -->
-  <Structure_OriginIslamic.symbolPacks.7.ideoName>TODO</Structure_OriginIslamic.symbolPacks.7.ideoName>
+  <Structure_OriginIslamic.symbolPacks.7.ideoName>Tayyibism</Structure_OriginIslamic.symbolPacks.7.ideoName>
   <!-- EN: Tayyibist -->
-  <Structure_OriginIslamic.symbolPacks.7.member>TODO</Structure_OriginIslamic.symbolPacks.7.member>
+  <Structure_OriginIslamic.symbolPacks.7.member>Tayyibist</Structure_OriginIslamic.symbolPacks.7.member>
   <!-- EN: Nizalist -->
-  <Structure_OriginIslamic.symbolPacks.8.adjective>TODO</Structure_OriginIslamic.symbolPacks.8.adjective>
+  <Structure_OriginIslamic.symbolPacks.8.adjective>Nizalist</Structure_OriginIslamic.symbolPacks.8.adjective>
   <!-- EN: Nizalism -->
-  <Structure_OriginIslamic.symbolPacks.8.ideoName>TODO</Structure_OriginIslamic.symbolPacks.8.ideoName>
+  <Structure_OriginIslamic.symbolPacks.8.ideoName>Nizalism</Structure_OriginIslamic.symbolPacks.8.ideoName>
   <!-- EN: Nizalist -->
-  <Structure_OriginIslamic.symbolPacks.8.member>TODO</Structure_OriginIslamic.symbolPacks.8.member>
+  <Structure_OriginIslamic.symbolPacks.8.member>Nizalist</Structure_OriginIslamic.symbolPacks.8.member>
   <!-- EN: Surfrist -->
-  <Structure_OriginIslamic.symbolPacks.9.adjective>TODO</Structure_OriginIslamic.symbolPacks.9.adjective>
+  <Structure_OriginIslamic.symbolPacks.9.adjective>Surfrist</Structure_OriginIslamic.symbolPacks.9.adjective>
   <!-- EN: Sufrism -->
-  <Structure_OriginIslamic.symbolPacks.9.ideoName>TODO</Structure_OriginIslamic.symbolPacks.9.ideoName>
+  <Structure_OriginIslamic.symbolPacks.9.ideoName>Sufrism</Structure_OriginIslamic.symbolPacks.9.ideoName>
   <!-- EN: Surfist -->
-  <Structure_OriginIslamic.symbolPacks.9.member>TODO</Structure_OriginIslamic.symbolPacks.9.member>
+  <Structure_OriginIslamic.symbolPacks.9.member>Surfist</Structure_OriginIslamic.symbolPacks.9.member>
   <!-- EN: Qadirist -->
-  <Structure_OriginIslamic.symbolPacks.10.adjective>TODO</Structure_OriginIslamic.symbolPacks.10.adjective>
+  <Structure_OriginIslamic.symbolPacks.10.adjective>Qadirist</Structure_OriginIslamic.symbolPacks.10.adjective>
   <!-- EN: Qadirism -->
-  <Structure_OriginIslamic.symbolPacks.10.ideoName>TODO</Structure_OriginIslamic.symbolPacks.10.ideoName>
+  <Structure_OriginIslamic.symbolPacks.10.ideoName>Qadirism</Structure_OriginIslamic.symbolPacks.10.ideoName>
   <!-- EN: Qadirist -->
-  <Structure_OriginIslamic.symbolPacks.10.member>TODO</Structure_OriginIslamic.symbolPacks.10.member>
+  <Structure_OriginIslamic.symbolPacks.10.member>Qadirist</Structure_OriginIslamic.symbolPacks.10.member>
   <!-- EN: Zahirist -->
-  <Structure_OriginIslamic.symbolPacks.11.adjective>TODO</Structure_OriginIslamic.symbolPacks.11.adjective>
+  <Structure_OriginIslamic.symbolPacks.11.adjective>Zahirist</Structure_OriginIslamic.symbolPacks.11.adjective>
   <!-- EN: Zahirism -->
-  <Structure_OriginIslamic.symbolPacks.11.ideoName>TODO</Structure_OriginIslamic.symbolPacks.11.ideoName>
+  <Structure_OriginIslamic.symbolPacks.11.ideoName>Zahirism</Structure_OriginIslamic.symbolPacks.11.ideoName>
   <!-- EN: Zahirist -->
-  <Structure_OriginIslamic.symbolPacks.11.member>TODO</Structure_OriginIslamic.symbolPacks.11.member>
+  <Structure_OriginIslamic.symbolPacks.11.member>Zahirist</Structure_OriginIslamic.symbolPacks.11.member>
   <!-- EN: Azraqi -->
-  <Structure_OriginIslamic.symbolPacks.12.adjective>TODO</Structure_OriginIslamic.symbolPacks.12.adjective>
+  <Structure_OriginIslamic.symbolPacks.12.adjective>Azraqi</Structure_OriginIslamic.symbolPacks.12.adjective>
   <!-- EN: Azraqism -->
-  <Structure_OriginIslamic.symbolPacks.12.ideoName>TODO</Structure_OriginIslamic.symbolPacks.12.ideoName>
+  <Structure_OriginIslamic.symbolPacks.12.ideoName>Azraqism</Structure_OriginIslamic.symbolPacks.12.ideoName>
   <!-- EN: Azraqi -->
-  <Structure_OriginIslamic.symbolPacks.12.member>TODO</Structure_OriginIslamic.symbolPacks.12.member>
+  <Structure_OriginIslamic.symbolPacks.12.member>Azraqi</Structure_OriginIslamic.symbolPacks.12.member>
   <!-- EN: Wahhabi -->
-  <Structure_OriginIslamic.symbolPacks.13.adjective>TODO</Structure_OriginIslamic.symbolPacks.13.adjective>
+  <Structure_OriginIslamic.symbolPacks.13.adjective>Wahhabi</Structure_OriginIslamic.symbolPacks.13.adjective>
   <!-- EN: Wahhabism -->
-  <Structure_OriginIslamic.symbolPacks.13.ideoName>TODO</Structure_OriginIslamic.symbolPacks.13.ideoName>
+  <Structure_OriginIslamic.symbolPacks.13.ideoName>Wahhabism</Structure_OriginIslamic.symbolPacks.13.ideoName>
   <!-- EN: Wahhabi -->
-  <Structure_OriginIslamic.symbolPacks.13.member>TODO</Structure_OriginIslamic.symbolPacks.13.member>
+  <Structure_OriginIslamic.symbolPacks.13.member>Wahhabi</Structure_OriginIslamic.symbolPacks.13.member>
   <!-- EN: Caliphic -->
-  <Structure_OriginIslamic.symbolPacks.14.adjective>TODO</Structure_OriginIslamic.symbolPacks.14.adjective>
+  <Structure_OriginIslamic.symbolPacks.14.adjective>Caliphic</Structure_OriginIslamic.symbolPacks.14.adjective>
   <!-- EN: Caliphate -->
-  <Structure_OriginIslamic.symbolPacks.14.ideoName>TODO</Structure_OriginIslamic.symbolPacks.14.ideoName>
+  <Structure_OriginIslamic.symbolPacks.14.ideoName>Caliphate</Structure_OriginIslamic.symbolPacks.14.ideoName>
   <!-- EN: Caliphist -->
-  <Structure_OriginIslamic.symbolPacks.14.member>TODO</Structure_OriginIslamic.symbolPacks.14.member>
+  <Structure_OriginIslamic.symbolPacks.14.member>Caliphist</Structure_OriginIslamic.symbolPacks.14.member>
   <!-- EN: mosque -->
-  <Structure_OriginIslamic.worshipRoomLabel>TODO</Structure_OriginIslamic.worshipRoomLabel>
+  <Structure_OriginIslamic.worshipRoomLabel>mosque</Structure_OriginIslamic.worshipRoomLabel>
   
 </LanguageData>

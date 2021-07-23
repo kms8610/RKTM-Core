@@ -2,112 +2,112 @@
 <LanguageData>
   
   <!-- EN: grand altar -->
-  <Altar_Grand.label>TODO</Altar_Grand.label>
+  <Altar_Grand.label>대규모 제단</Altar_Grand.label>
   <!-- EN: A grand platform that plays a role in ideoligious rituals. -->
-  <Altar_Grand.description>TODO</Altar_Grand.description>
+  <Altar_Grand.description>의식에 사용되는 대규모 지지대 입니다.</Altar_Grand.description>
   
   <!-- EN: large altar -->
-  <Altar_Large.label>TODO</Altar_Large.label>
+  <Altar_Large.label>대형 제단</Altar_Large.label>
   <!-- EN: A large platform that plays a role in ideoligious rituals. -->
-  <Altar_Large.description>TODO</Altar_Large.description>
+  <Altar_Large.description>의식에 사용되는 대형 지지대 입니다.</Altar_Large.description>
   
   <!-- EN: medium altar -->
-  <Altar_Medium.label>TODO</Altar_Medium.label>
+  <Altar_Medium.label>중형 제단</Altar_Medium.label>
   <!-- EN: A medium platform that plays a role in ideoligious rituals. -->
-  <Altar_Medium.description>TODO</Altar_Medium.description>
+  <Altar_Medium.description>의식에 사용되는 중형 지지대 입니다.</Altar_Medium.description>
   
   <!-- EN: small altar -->
-  <Altar_Small.label>TODO</Altar_Small.label>
+  <Altar_Small.label>소형 제단</Altar_Small.label>
   <!-- EN: A small platform that plays a role in ideoligious rituals. -->
-  <Altar_Small.description>TODO</Altar_Small.description>
+  <Altar_Small.description>의식에 사용되는 소형 지지대 입니다.</Altar_Small.description>
   
   <!-- EN: biosculpter pod -->
-  <BiosculpterPod.label>TODO</BiosculpterPod.label>
+  <BiosculpterPod.label>생체 재구축기</BiosculpterPod.label>
   <!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations. -->
-  <BiosculpterPod.description>TODO</BiosculpterPod.description>
+  <BiosculpterPod.description>생체 재구축 액체 주입기와 조작 시스템이 장착된 밀봉형 포드입니다. 생체 나이 역전과 쾌락 주입 등을 포함한 다양한 생체적 변환을 수행할 수 있습니다. 각각의 포드는 사용자에게 생체 조율되어, 그 이외의 사람들은 사용할 수 없습니다. 생체 조율은 60일 후 리셋됩니다. 트랜스휴머니즘의 신봉자들은 생체 재구축기가 인간의 물리적 한계를 넘어서는 그들의 여정에 필수적이라고 믿습니다.</BiosculpterPod.description>
   <!-- EN: healing -->
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>치유</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
   <!-- EN: Heal all fresh wounds and one random permanent injury. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>모든 상처와 무작위 흉터 하나를 치유합니다.</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
   <!-- EN: age reversal -->
-  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>회춘</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
   <!-- EN: Reverse one year of aging. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>나이를 1살 감소시킵니다.</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
   <!-- EN: pleasure -->
-  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>유흥</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
   <!-- EN: Temporarily reshape the nervous system to deliver elevated levels of happiness for a time. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>신경계를 일시적으로 조작해 일정 시간동안 행복도를 증가시킵니다.</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
   
   <!-- EN: burnbong -->
-  <Burnbong.label>TODO</Burnbong.label>
+  <Burnbong.label>물답뱃대</Burnbong.label>
   <!-- EN: A wood structure packed with smokeleaf. It can be ignited during a ritual and produce a huge amount of smokeleaf smoke for a few hours, after which it is destroyed. -->
-  <Burnbong.description>TODO</Burnbong.description>
+  <Burnbong.description>연초로 꽉 찬 나무 구조물 입니다. 의식에 사용될 수 있으며 몇 시간 동안 상당한 양의 연초 연기를 생산합니다. 그 이후에는 파괴됩니다.</Burnbong.description>
   
   <!-- EN: cannibal platter -->
-  <CannibalPlatter.label>TODO</CannibalPlatter.label>
+  <CannibalPlatter.label>인육 접시</CannibalPlatter.label>
   <!-- EN: An area of floor covered with pre-chopped and arranged human meat ready for a cannibal feast. -->
-  <CannibalPlatter.description>TODO</CannibalPlatter.description>
+  <CannibalPlatter.description>식인 잔치를 위해서 도축된 인육으로 뒤덮힌 공간입니다.</CannibalPlatter.description>
   
   <!-- EN: christmas tree -->
-  <ChristmasTree.label>TODO</ChristmasTree.label>
+  <ChristmasTree.label>성탄절 나무</ChristmasTree.label>
   <!-- EN: A celebratory tree decorated with ornaments and lights traditionally made as part of Christmas celebrations. -->
-  <ChristmasTree.description>TODO</ChristmasTree.description>
+  <ChristmasTree.description>전통적으로 크리스마스 기념 행사의 일부로서 만들어진, 장식품과 전구들로 꾸민 기념적 나무.</ChristmasTree.description>
   
   <!-- EN: standing darklamp -->
-  <Darklamp.label>TODO</Darklamp.label>
+  <Darklamp.label>서있는 검은전등</Darklamp.label>
   <!-- EN: A low-powered electrical standing lamp that emits a dim light over a large area. People who prefer to work in darklight are happy with this light source. -->
-  <Darklamp.description>TODO</Darklamp.description>
+  <Darklamp.description>넓은 면적에 희미한 빛을 발산하는 저전력 전기 전등. 어두운 곳에서 작업하는 것을 선호하는 사람들은 이 광원에 만족합니다.</Darklamp.description>
   
   <!-- EN: darktorch -->
-  <Darktorch.label>TODO</Darktorch.label>
+  <Darktorch.label>검은 횃불</Darktorch.label>
   <!-- EN: A specially-treated wooden torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <Darktorch.description>TODO</Darktorch.description>
+  <Darktorch.description>넓은 지역에 희미한 빛을 내는 특수 처리된 나무 횃불. 어두운 빛을 선호하는 사람들은 이 광원을 가장 잘 활용합니다. 나무로 연료를 보급할 수 있습니다. 소량의 열이 발생합니다.</Darktorch.description>
   
   <!-- EN: fungus darktorch -->
-  <DarktorchFungus.label>TODO</DarktorchFungus.label>
+  <DarktorchFungus.label>곰팡이 검은 횃불</DarktorchFungus.label>
   <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <DarktorchFungus.description>TODO</DarktorchFungus.description>
+  <DarktorchFungus.description>넓은 면적에 희미한 빛을 내는 특수 처리된 곰팡이 토치. 어두운 빛을 선호하는 사람들은 이 광원을 가장 잘 활용합니다. 나무로 연료를 보급할 수 있습니다. 소량의 열이 발생합니다.</DarktorchFungus.description>
   
   <!-- EN: effigy -->
-  <Effigy.label>TODO</Effigy.label>
+  <Effigy.label>저주 인형</Effigy.label>
   <!-- EN: A rough wooden frame in the shape of a human, ready to be burned as part of a ritual. -->
-  <Effigy.description>TODO</Effigy.description>
+  <Effigy.description>사람 형태처럼 만든 거친 목재 구조물입니다. 의식을 위해 불태울 준비가 되어있습니다.</Effigy.description>
   
   <!-- EN: ideogram -->
-  <Ideogram.label>TODO</Ideogram.label>
+  <Ideogram.label>표의문자</Ideogram.label>
   <!-- EN: A large image drawn on the ground and reinforced with metal edges. It is used as a focus for rituals. -->
-  <Ideogram.description>TODO</Ideogram.description>
+  <Ideogram.description>금속으로 테두리를 보강하고 땅에 그려진 큰 그림입니다. 의식의 집중을 위해서 사용되었습니다.</Ideogram.description>
   
   <!-- EN: incense shrine -->
-  <IncenseShrine.label>TODO</IncenseShrine.label>
+  <IncenseShrine.label>향이 피어오르는 제단</IncenseShrine.label>
   <!-- EN: A collection of packed incense containers. It can be ignited and produce a powerful incense effect as a focus for rituals. It is destroyed after it burns down. -->
-  <IncenseShrine.description>TODO</IncenseShrine.description>
+  <IncenseShrine.description>향 보관함을 모아둔 것입니다. 불태움으로써 의식을 집중하기 위한 강력한 향의 효과를 만들어냅니다. 불에 탄 이후 파괴됩니다.</IncenseShrine.description>
   
   <!-- EN: neural supercharger -->
-  <NeuralSupercharger.label>TODO</NeuralSupercharger.label>
+  <NeuralSupercharger.label>신경 과충전기</NeuralSupercharger.label>
   <!-- EN: A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity. -->
-  <NeuralSupercharger.description>TODO</NeuralSupercharger.description>
+  <NeuralSupercharger.description>하루에 한 번 신경 과충전을 가할 수 있는 신경 감각 장치입니다. 신경 과충전을 받은 사람은 더욱 빨리 생각하고 학습하지만, 더 많은 음식을 소비할 것입니다. 효과는 하루 만에 사라집니다. 신경 과충전기는 많은 전기를 소비합니다.</NeuralSupercharger.description>
   <!-- EN: Get neural supercharge -->
-  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>TODO</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
+  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>신경 과충전</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
   
   <!-- EN: pyre -->
-  <Pyre.label>TODO</Pyre.label>
+  <Pyre.label>장작더미</Pyre.label>
   <!-- EN: A wooden tower for ritual burning. -->
-  <Pyre.description>TODO</Pyre.description>
+  <Pyre.description>의식용 화형식을 위한 나무 탑입니다.</Pyre.description>
   
   <!-- EN: ritual spot -->
-  <RitualSpot.label>TODO</RitualSpot.label>
+  <RitualSpot.label>의식 장소</RitualSpot.label>
   <!-- EN: A spot for carrying out certain kinds of rituals. -->
-  <RitualSpot.description>TODO</RitualSpot.description>
+  <RitualSpot.description>의식을 행하는데 사용될 장소입니다.</RitualSpot.description>
   
   <!-- EN: sacrificial flag -->
-  <SacrificialFlag.label>TODO</SacrificialFlag.label>
+  <SacrificialFlag.label>희생의식용 깃발</SacrificialFlag.label>
   <!-- EN: A flag representing enemies, ready to be burned as part of a ritual. -->
-  <SacrificialFlag.description>TODO</SacrificialFlag.description>
+  <SacrificialFlag.description>적을 상징하는 깃발입니다. 의식의 행위로서 불태워질 준비가 끝났습니다.</SacrificialFlag.description>
   
   <!-- EN: sleep accelerator -->
-  <SleepAccelerator.label>TODO</SleepAccelerator.label>
+  <SleepAccelerator.label>수면 가속기</SleepAccelerator.label>
   <!-- EN: A bedside device that accelerates the sleeper's circadian rhythm. This speeds up sleep, but consumes a lot of electricity and also causes increased hunger. It must be placed directly adjacent to and facing the head of the bed. Placing more than one sleep accelerator near the same bed has no effect. -->
-  <SleepAccelerator.description>TODO</SleepAccelerator.description>
+  <SleepAccelerator.description>생체시계를 가속화 시키는 머리맡 장치입니다. 수면을 가속화 시키지만 대량의 전기를 소모 하며 허기량을 증가시킵니다. 침대의 머리 바로 옆에 그리고 머리를 바라본 상태로 배치되어야 합니다. 같은 침대에 하나 이상의 가속기를 배치 할 경우 효과가 없습니다.</SleepAccelerator.description>
   
 </LanguageData>

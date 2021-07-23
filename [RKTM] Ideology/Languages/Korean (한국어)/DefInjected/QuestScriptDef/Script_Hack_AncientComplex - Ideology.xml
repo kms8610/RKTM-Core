@@ -1,28 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN:
-    <li>terminalHackedMessage->Terminal hacked. {COUNT} / [terminalCount] complete.</li>
-    <li>allTerminalsHackedMessage->You've hacked all of the terminals and discovered secret information about [relic_name]! You can now leave.</li>
-  -->
-  <AncientComplex_Standard.questContentRules.rulesStrings>TODO</AncientComplex_Standard.questContentRules.rulesStrings>
-  <!-- EN:
-    <li>questDescription->You've learned of an ancient complex nearby. It is said to contain information about [relic_name].\n\nIf you can break into the structure and hack the computers inside, you can collect the information.\n\nWatch out - there may be all manner of dangers inside, and other enemies may also be attracted by activity at the structure.</li>
-  -->
-  <AncientComplex_Standard.questDescriptionRules.rulesStrings>TODO</AncientComplex_Standard.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName(p=6)->The [complexAdj] [complex]</li>
-    <li>questName->The [dig]</li>
-    <li>complexAdj->ancient</li>
-    <li>complexAdj->old</li>
-    <li>complexAdj->dusty</li>
-    <li>complexAdj->secret</li>
-    <li>complex->complex</li>
-    <li>complex->compound</li>
-    <li>complex->installation</li>
-    <li>dig->dig</li>
-    <li>dig->excavation</li>
-  -->
-  <AncientComplex_Standard.questNameRules.rulesStrings>TODO</AncientComplex_Standard.questNameRules.rulesStrings>
+  <!-- EN: terminalHackedMessage->Terminal hacked. {COUNT} / [terminalCount] complete. -->
+  <AncientComplex_Standard.questContentRules.rulesStrings.0>terminalHackedMessage->Terminal hacked. {COUNT} / [terminalCount] complete.</AncientComplex_Standard.questContentRules.rulesStrings.0>
+  <!-- EN: allTerminalsHackedMessage->You've hacked all of the terminals and discovered secret information about [relic_name]! You can now leave. -->
+  <AncientComplex_Standard.questContentRules.rulesStrings.1>allTerminalsHackedMessage->You've hacked all of the terminals and discovered secret information about [relic_name]! You can now leave.</AncientComplex_Standard.questContentRules.rulesStrings.1>
+  <!-- EN: questDescription->You've learned of an ancient complex nearby. It is said to contain information about [relic_name].\n\nIf you can break into the structure and hack the computers inside, you can collect the information.\n\nWatch out - there may be all manner of dangers inside, and other enemies may also be attracted by activity at the structure. -->
+  <AncientComplex_Standard.questDescriptionRules.rulesStrings.0>questDescription->You've learned of an ancient complex nearby. It is said to contain information about [relic_name].\n\nIf you can break into the structure and hack the computers inside, you can collect the information.\n\nWatch out - there may be all manner of dangers inside, and other enemies may also be attracted by activity at the structure.</AncientComplex_Standard.questDescriptionRules.rulesStrings.0>
+  <!-- EN: questName(p=6)->The [complexAdj] [complex] -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.0>questName(p=6)->The [complexAdj] [complex]</AncientComplex_Standard.questNameRules.rulesStrings.0>
+  <!-- EN: questName->The [dig] -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.1>questName->The [dig]</AncientComplex_Standard.questNameRules.rulesStrings.1>
+  <!-- EN: complexAdj->ancient -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.2>complexAdj->ancient</AncientComplex_Standard.questNameRules.rulesStrings.2>
+  <!-- EN: complexAdj->old -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.3>complexAdj->old</AncientComplex_Standard.questNameRules.rulesStrings.3>
+  <!-- EN: complexAdj->dusty -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.4>complexAdj->dusty</AncientComplex_Standard.questNameRules.rulesStrings.4>
+  <!-- EN: complexAdj->secret -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.5>complexAdj->secret</AncientComplex_Standard.questNameRules.rulesStrings.5>
+  <!-- EN: complex->complex -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.6>complex->complex</AncientComplex_Standard.questNameRules.rulesStrings.6>
+  <!-- EN: complex->compound -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.7>complex->compound</AncientComplex_Standard.questNameRules.rulesStrings.7>
+  <!-- EN: complex->installation -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.8>complex->installation</AncientComplex_Standard.questNameRules.rulesStrings.8>
+  <!-- EN: dig->dig -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.9>dig->dig</AncientComplex_Standard.questNameRules.rulesStrings.9>
+  <!-- EN: dig->excavation -->
+  <AncientComplex_Standard.questNameRules.rulesStrings.10>dig->excavation</AncientComplex_Standard.questNameRules.rulesStrings.10>
   
 </LanguageData>

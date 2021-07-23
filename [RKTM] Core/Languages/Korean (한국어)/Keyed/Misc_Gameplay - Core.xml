@@ -1565,7 +1565,7 @@
   <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}의 기대치</RitualPredictedOutcomeDescPawnExpectations>
 
   <!-- EN: Any of these -->
-  <RitualOutcomeLabelAnyOfThese>Any of these</RitualOutcomeLabelAnyOfThese>
+  <RitualOutcomeLabelAnyOfThese>다음 중 아무거나</RitualOutcomeLabelAnyOfThese>
   <!-- EN: Replaces {PAWN_labelShort} -->
   <RitualRoleReplaces>{PAWN_labelShort}(을)를 대체</RitualRoleReplaces>
 

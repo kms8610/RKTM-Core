@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: discover ancient complex -->
-  <DiscoverAncientComplex.label>TODO</DiscoverAncientComplex.label>
+  <DiscoverAncientComplex.label>discover ancient complex</DiscoverAncientComplex.label>
   <!-- EN: you will discover the location of an ancient complex nearby. -->
-  <DiscoverAncientComplex.effectDesc>TODO</DiscoverAncientComplex.effectDesc>
+  <DiscoverAncientComplex.effectDesc>you will discover the location of an ancient complex nearby.</DiscoverAncientComplex.effectDesc>
   <!-- EN: You've discovered the location of an ancient complex. -->
   <DiscoverAncientComplex.letterInfoText>TODO</DiscoverAncientComplex.letterInfoText>
   
   <!-- EN: farm animals wander in -->
-  <FarmAnimalsWanderIn.label>TODO</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
   <!-- EN: a group of farm animals will be attracted and join the colony. -->
-  <FarmAnimalsWanderIn.effectDesc>TODO</FarmAnimalsWanderIn.effectDesc>
+  <FarmAnimalsWanderIn.effectDesc>a group of farm animals will be attracted and join the colony.</FarmAnimalsWanderIn.effectDesc>
   <!-- EN: Curious farm animals have wandered in, attracted by the commotion. -->
   <FarmAnimalsWanderIn.letterInfoText>TODO</FarmAnimalsWanderIn.letterInfoText>
   
   <!-- EN: gauranlen pod sprout -->
-  <GauranlenTreePod.label>TODO</GauranlenTreePod.label>
+  <GauranlenTreePod.label>gauranlen pod sprout</GauranlenTreePod.label>
   <!-- EN: a Gauranlen pod will sprout at a random location on the map, if it can. -->
-  <GauranlenTreePod.effectDesc>TODO</GauranlenTreePod.effectDesc>
+  <GauranlenTreePod.effectDesc>a Gauranlen pod will sprout at a random location on the map, if it can.</GauranlenTreePod.effectDesc>
   <!-- EN: A Gauranlen pod sprouted nearby. -->
   <GauranlenTreePod.letterInfoText>TODO</GauranlenTreePod.letterInfoText>
   
   <!-- EN: insect jelly -->
-  <InsectJellyTunnels.label>TODO</InsectJellyTunnels.label>
+  <InsectJellyTunnels.label>곤충 젤리</InsectJellyTunnels.label>
   <!-- EN: insect jelly deposits will be deposited from underground. -->
-  <InsectJellyTunnels.effectDesc>TODO</InsectJellyTunnels.effectDesc>
+  <InsectJellyTunnels.effectDesc>insect jelly deposits will be deposited from underground.</InsectJellyTunnels.effectDesc>
   <!-- EN: A giant insect colony underground has deposited some insect jelly. -->
   <InsectJellyTunnels.letterInfoText>TODO</InsectJellyTunnels.letterInfoText>
   
   <!-- EN: nearby faction goodwill -->
-  <NearbyFactionGoodwill.label>TODO</NearbyFactionGoodwill.label>
+  <NearbyFactionGoodwill.label>nearby faction goodwill</NearbyFactionGoodwill.label>
   <!-- EN: you will gain goodwill from the nearest faction base. -->
-  <NearbyFactionGoodwill.effectDesc>TODO</NearbyFactionGoodwill.effectDesc>
+  <NearbyFactionGoodwill.effectDesc>you will gain goodwill from the nearest faction base.</NearbyFactionGoodwill.effectDesc>
   <!-- EN: You gained {AMOUNT} goodwill with {FACTION_name}. -->
   <NearbyFactionGoodwill.letterInfoText>TODO</NearbyFactionGoodwill.letterInfoText>
   
   <!-- EN: random recruit -->
-  <RandomRecruit.label>TODO</RandomRecruit.label>
+  <RandomRecruit.label>random recruit</RandomRecruit.label>
   <!-- EN: 50% chance of random recruit of the same ideoligion joining your colony. -->
-  <RandomRecruit.effectDesc>TODO</RandomRecruit.effectDesc>
+  <RandomRecruit.effectDesc>50% chance of random recruit of the same ideoligion joining your colony.</RandomRecruit.effectDesc>
   <!-- EN: A wanderer has arrived and wants to join your colony. -->
   <RandomRecruit.letterInfoText>TODO</RandomRecruit.letterInfoText>
   

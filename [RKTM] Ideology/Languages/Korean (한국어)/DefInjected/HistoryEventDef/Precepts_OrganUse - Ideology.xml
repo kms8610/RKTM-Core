@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: harvested organ -->
-  <HarvestedOrgan.label>TODO</HarvestedOrgan.label>
+  <HarvestedOrgan.label>harvested organ</HarvestedOrgan.label>
   
   <!-- EN: installed organ -->
-  <InstalledOrgan.label>TODO</InstalledOrgan.label>
+  <InstalledOrgan.label>installed organ</InstalledOrgan.label>
   
   <!-- EN: sold organ -->
-  <SoldOrgan.label>TODO</SoldOrgan.label>
+  <SoldOrgan.label>sold organ</SoldOrgan.label>
   
   <!-- EN: traded organ -->
-  <TradedOrgan.label>TODO</TradedOrgan.label>
+  <TradedOrgan.label>traded organ</TradedOrgan.label>
   
 </LanguageData>

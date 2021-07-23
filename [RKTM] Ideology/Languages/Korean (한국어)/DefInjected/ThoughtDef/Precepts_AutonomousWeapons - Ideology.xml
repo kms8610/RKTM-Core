@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: automated turrets -->
-  <HasAutomatedTurrets_Disapproved.stages.automated_turrets.label>TODO</HasAutomatedTurrets_Disapproved.stages.automated_turrets.label>
+  <HasAutomatedTurrets_Disapproved.stages.automated_turrets.label>자동화된 포탑</HasAutomatedTurrets_Disapproved.stages.automated_turrets.label>
   <!-- EN: We use automated turrets. It's really ugly to give life-and-death decision to a machine. -->
-  <HasAutomatedTurrets_Disapproved.stages.automated_turrets.description>TODO</HasAutomatedTurrets_Disapproved.stages.automated_turrets.description>
+  <HasAutomatedTurrets_Disapproved.stages.automated_turrets.description>우린 자동포탑을 사용하고 있어. 기계가 삶과 죽음을 결정할 수 있게 만드는건 정말 보기 안좋아.</HasAutomatedTurrets_Disapproved.stages.automated_turrets.description>
   
   <!-- EN: automated turrets -->
-  <HasAutomatedTurrets_Horrible.stages.automated_turrets.label>TODO</HasAutomatedTurrets_Horrible.stages.automated_turrets.label>
+  <HasAutomatedTurrets_Horrible.stages.automated_turrets.label>자동화된 포탑</HasAutomatedTurrets_Horrible.stages.automated_turrets.label>
   <!-- EN: We use automated turrets. It's horrible to give life-and-death decisions to a machine. -->
-  <HasAutomatedTurrets_Horrible.stages.automated_turrets.description>TODO</HasAutomatedTurrets_Horrible.stages.automated_turrets.description>
+  <HasAutomatedTurrets_Horrible.stages.automated_turrets.description>우린 자동포탑을 사용하고 있어. 기계에게 삶과 죽음을 결정할 수 있게 만드는건 정말 끔찍해.</HasAutomatedTurrets_Horrible.stages.automated_turrets.description>
   
   <!-- EN: automated turrets -->
-  <HasAutomatedTurrets_Prohibited.stages.automated_turrets.label>TODO</HasAutomatedTurrets_Prohibited.stages.automated_turrets.label>
+  <HasAutomatedTurrets_Prohibited.stages.automated_turrets.label>자동화된 포탑</HasAutomatedTurrets_Prohibited.stages.automated_turrets.label>
   <!-- EN: We use automated turrets. It's absolutely abhorrent to give life-and-death decisions to a machine. -->
-  <HasAutomatedTurrets_Prohibited.stages.automated_turrets.description>TODO</HasAutomatedTurrets_Prohibited.stages.automated_turrets.description>
+  <HasAutomatedTurrets_Prohibited.stages.automated_turrets.description>우린 자동포탑을 사용하고 있어. 기계가 삶과 죽음을 결정할 수 있다는건 극도로 혐오스러워.</HasAutomatedTurrets_Prohibited.stages.automated_turrets.description>
   
 </LanguageData>

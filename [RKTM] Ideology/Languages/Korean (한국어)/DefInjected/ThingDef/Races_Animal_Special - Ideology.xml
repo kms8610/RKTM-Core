@@ -2,91 +2,91 @@
 <LanguageData>
   
   <!-- EN: barkskin dryad -->
-  <Dryad_Barkskin.label>TODO</Dryad_Barkskin.label>
+  <Dryad_Barkskin.label>나무가죽 숲지기</Dryad_Barkskin.label>
   <!-- EN: A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Gauranlen tree itself. Under human influence, it can act as a damage-absorbing fighter.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
-  <Dryad_Barkskin.description>TODO</Dryad_Barkskin.description>
+  <Dryad_Barkskin.description>A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Gauranlen tree itself. Under human influence, it can act as a damage-absorbing fighter.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Barkskin.description>
   <!-- EN: left claw -->
-  <Dryad_Barkskin.tools.left_claw.label>TODO</Dryad_Barkskin.tools.left_claw.label>
+  <Dryad_Barkskin.tools.left_claw.label>왼쪽 발톱</Dryad_Barkskin.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Dryad_Barkskin.tools.right_claw.label>TODO</Dryad_Barkskin.tools.right_claw.label>
+  <Dryad_Barkskin.tools.right_claw.label>오른쪽 발톱</Dryad_Barkskin.tools.right_claw.label>
   <!-- EN: head -->
-  <Dryad_Barkskin.tools.head.label>TODO</Dryad_Barkskin.tools.head.label>
+  <Dryad_Barkskin.tools.head.label>머리</Dryad_Barkskin.tools.head.label>
   
   <!-- EN: immature dryad -->
-  <Dryad_Basic.label>TODO</Dryad_Basic.label>
+  <Dryad_Basic.label>어린 숲지기</Dryad_Basic.label>
   <!-- EN: Dryads are small mammalian creatures that have a symbiotic relationship with the Gauranlen tree. This immature dryad can support and protect its tree, but its main purpose is to morph into more specialized and powerful dryad forms. -->
-  <Dryad_Basic.description>TODO</Dryad_Basic.description>
+  <Dryad_Basic.description>숲지기는 요정나무와 공생관계를 이루는 작은 포유동물입니다. 어린 숲지기들도 나무의 성장과 보호에 도움을 줄 수 있지만, 대부분은 더욱 강력하고 특화된 숲지기로 변이합니다.</Dryad_Basic.description>
   <!-- EN: left claw -->
-  <Dryad_Basic.tools.left_claw.label>TODO</Dryad_Basic.tools.left_claw.label>
+  <Dryad_Basic.tools.left_claw.label>왼쪽 발톱</Dryad_Basic.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Dryad_Basic.tools.right_claw.label>TODO</Dryad_Basic.tools.right_claw.label>
+  <Dryad_Basic.tools.right_claw.label>오른쪽 발톱</Dryad_Basic.tools.right_claw.label>
   <!-- EN: head -->
-  <Dryad_Basic.tools.head.label>TODO</Dryad_Basic.tools.head.label>
+  <Dryad_Basic.tools.head.label>머리</Dryad_Basic.tools.head.label>
   
   <!-- EN: berrymaker dryad -->
-  <Dryad_Berrymaker.label>TODO</Dryad_Berrymaker.label>
+  <Dryad_Berrymaker.label>열매단지 숲지기</Dryad_Berrymaker.label>
   <!-- EN: A dryad caste specialized in food production. Together with its Gauranlen tree, this dryad can generate nourishing berries on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
-  <Dryad_Berrymaker.description>TODO</Dryad_Berrymaker.description>
+  <Dryad_Berrymaker.description>식량 생산에 특화된 숲지기 계급 입니다. 요정나무와 함께일때 이 숲지기는 영양가 높은 나무열매를 만들어내지만, 태생적으로 느리고 그외에 작업이나 전투에는 적합하지 않습니다.\n\n숲지기는 포유류와 비슷한 생명체로써, 요정나무와 공생관계를 이루고 있습니다. 숲지기들은 그들의 여왕이 숨어있는 나무와 함께 번식합니다. 숲지기는 여러 전문화된 계급으로 변이할 수 있습니다.</Dryad_Berrymaker.description>
   <!-- EN: left claw -->
-  <Dryad_Berrymaker.tools.left_claw.label>TODO</Dryad_Berrymaker.tools.left_claw.label>
+  <Dryad_Berrymaker.tools.left_claw.label>왼쪽 발톱</Dryad_Berrymaker.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Dryad_Berrymaker.tools.right_claw.label>TODO</Dryad_Berrymaker.tools.right_claw.label>
+  <Dryad_Berrymaker.tools.right_claw.label>오른쪽 발톱</Dryad_Berrymaker.tools.right_claw.label>
   <!-- EN: head -->
-  <Dryad_Berrymaker.tools.head.label>TODO</Dryad_Berrymaker.tools.head.label>
+  <Dryad_Berrymaker.tools.head.label>머리</Dryad_Berrymaker.tools.head.label>
   
   <!-- EN: carrier dryad -->
-  <Dryad_Carrier.label>TODO</Dryad_Carrier.label>
+  <Dryad_Carrier.label>짐꾼 숲지기</Dryad_Carrier.label>
   <!-- EN: A dryad caste specialized in carrying items. Under human influence, it can help haul things where they need to go.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
-  <Dryad_Carrier.description>TODO</Dryad_Carrier.description>
+  <Dryad_Carrier.description>물건들을 옮기는데 특화된 숲지기 계급입니다. 인간의 영향을 받고있다면, 물건 운반에 도움을 줄 수 있습니다.\n\n숲지기는 포유류와 비슷한 생명체로써, 요정나무와 공생관계를 이루고 있습니다. 숲지기들은 그들의 여왕이 숨어있는 나무와 함께 번식합니다. 숲지기는 여러 전문화된 계급으로 변이할 수 있습니다.</Dryad_Carrier.description>
   <!-- EN: left claw -->
-  <Dryad_Carrier.tools.left_claw.label>TODO</Dryad_Carrier.tools.left_claw.label>
+  <Dryad_Carrier.tools.left_claw.label>왼쪽 발톱</Dryad_Carrier.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Dryad_Carrier.tools.right_claw.label>TODO</Dryad_Carrier.tools.right_claw.label>
+  <Dryad_Carrier.tools.right_claw.label>오른쪽 발톱</Dryad_Carrier.tools.right_claw.label>
   <!-- EN: head -->
-  <Dryad_Carrier.tools.head.label>TODO</Dryad_Carrier.tools.head.label>
+  <Dryad_Carrier.tools.head.label>머리</Dryad_Carrier.tools.head.label>
   
   <!-- EN: clawer dryad -->
-  <Dryad_Clawer.label>TODO</Dryad_Clawer.label>
+  <Dryad_Clawer.label>뾰족발톱 숲지기</Dryad_Clawer.label>
   <!-- EN: A dryad caste with huge claws that is specialized in aggression and damage-dealing attacks. Though it can do tremendous damage, it is vulnerable to attacks itself.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
-  <Dryad_Clawer.description>TODO</Dryad_Clawer.description>
+  <Dryad_Clawer.description>A dryad caste with huge claws that is specialized in aggression and damage-dealing attacks. Though it can do tremendous damage, it is vulnerable to attacks itself.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Clawer.description>
   <!-- EN: left claw -->
-  <Dryad_Clawer.tools.left_claw.label>TODO</Dryad_Clawer.tools.left_claw.label>
+  <Dryad_Clawer.tools.left_claw.label>왼쪽 발톱</Dryad_Clawer.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Dryad_Clawer.tools.right_claw.label>TODO</Dryad_Clawer.tools.right_claw.label>
+  <Dryad_Clawer.tools.right_claw.label>오른쪽 발톱</Dryad_Clawer.tools.right_claw.label>
   <!-- EN: head -->
-  <Dryad_Clawer.tools.head.label>TODO</Dryad_Clawer.tools.head.label>
+  <Dryad_Clawer.tools.head.label>머리</Dryad_Clawer.tools.head.label>
   
   <!-- EN: gaumaker dryad -->
-  <Dryad_Gaumaker.label>TODO</Dryad_Gaumaker.label>
+  <Dryad_Gaumaker.label>가우메이커 숲지기</Dryad_Gaumaker.label>
   <!-- EN: A dryad caste with the unique ability to produce new Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three gaumaker dryads must slowly merge.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
-  <Dryad_Gaumaker.description>TODO</Dryad_Gaumaker.description>
+  <Dryad_Gaumaker.description>새 요정열매를 만들어 요정나무와 그 공생체인 여왕숲지기의 번식을 담당하는 숲지기 계급입니다. 번식을 위해서는 세마리의 gaumaker 숲지기들이 하나로 융합되어야 합니다.\n\n숲지기는 포유류와 비슷한 생명체로써, 요정나무와 공생관계를 이루고 있습니다. 숲지기들은 그들의 여왕이 숨어있는 나무와 함께 번식합니다. 숲지기는 여러 전문화된 계급으로 변이할 수 있습니다.</Dryad_Gaumaker.description>
   <!-- EN: left claw -->
-  <Dryad_Gaumaker.tools.left_claw.label>TODO</Dryad_Gaumaker.tools.left_claw.label>
+  <Dryad_Gaumaker.tools.left_claw.label>왼쪽 발톱</Dryad_Gaumaker.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Dryad_Gaumaker.tools.right_claw.label>TODO</Dryad_Gaumaker.tools.right_claw.label>
+  <Dryad_Gaumaker.tools.right_claw.label>오른쪽 발톱</Dryad_Gaumaker.tools.right_claw.label>
   <!-- EN: head -->
-  <Dryad_Gaumaker.tools.head.label>TODO</Dryad_Gaumaker.tools.head.label>
+  <Dryad_Gaumaker.tools.head.label>머리</Dryad_Gaumaker.tools.head.label>
   
   <!-- EN: medicinemaker dryad -->
-  <Dryad_Medicinemaker.label>TODO</Dryad_Medicinemaker.label>
+  <Dryad_Medicinemaker.label>약단지 숲지기</Dryad_Medicinemaker.label>
   <!-- EN: A dryad caste specialized in medicine production. Together with its Gauranlen tree, this dryad can generate medicinal herbs on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
-  <Dryad_Medicinemaker.description>TODO</Dryad_Medicinemaker.description>
+  <Dryad_Medicinemaker.description>약품 생산에 특화된 숲지기 계급 입니다. 요정나무와 함께일때 이 숲지기는 생약을 만들어내지만, 태생적으로 느리고 그외에 작업이나 전투에는 적합하지 않습니다.\n\n숲지기는 포유류와 비슷한 생명체로써, 요정나무와 공생관계를 이루고 있습니다. 숲지기들은 그들의 여왕이 숨어있는 나무와 함께 번식합니다. 숲지기는 여러 전문화된 계급으로 변이할 수 있습니다.</Dryad_Medicinemaker.description>
   <!-- EN: left claw -->
-  <Dryad_Medicinemaker.tools.left_claw.label>TODO</Dryad_Medicinemaker.tools.left_claw.label>
+  <Dryad_Medicinemaker.tools.left_claw.label>왼쪽 발톱</Dryad_Medicinemaker.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Dryad_Medicinemaker.tools.right_claw.label>TODO</Dryad_Medicinemaker.tools.right_claw.label>
+  <Dryad_Medicinemaker.tools.right_claw.label>오른쪽 발톱</Dryad_Medicinemaker.tools.right_claw.label>
   <!-- EN: head -->
-  <Dryad_Medicinemaker.tools.head.label>TODO</Dryad_Medicinemaker.tools.head.label>
+  <Dryad_Medicinemaker.tools.head.label>머리</Dryad_Medicinemaker.tools.head.label>
   
   <!-- EN: woodmaker dryad -->
-  <Dryad_Woodmaker.label>TODO</Dryad_Woodmaker.label>
+  <Dryad_Woodmaker.label>나무싸개 숲지기</Dryad_Woodmaker.label>
   <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Together with its Gauranlen tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
-  <Dryad_Woodmaker.description>TODO</Dryad_Woodmaker.description>
+  <Dryad_Woodmaker.description>목재 생산에 특화된, 느릿느릿하고 덤벙대는 숲지기 계급입니다. 요정나무와 함께일때 이 숲지기는 나무와 비슷한 자재를 만들어낼 수 있있지만, 태생적으로 느리고 그 외에 작업이나 전투에는 적합하지 않습니다.\n\n숲지기는 포유류와 비슷한 생명체로써, 요정나무와 공생관계를 이루고 있습니다. 숲지기들은 그들의 여왕이 숨어있는 나무와 함께 번식합니다. 숲지기는 여러 전문화된 계급으로 변이할 수 있습니다.</Dryad_Woodmaker.description>
   <!-- EN: left claw -->
-  <Dryad_Woodmaker.tools.left_claw.label>TODO</Dryad_Woodmaker.tools.left_claw.label>
+  <Dryad_Woodmaker.tools.left_claw.label>왼쪽 발톱</Dryad_Woodmaker.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Dryad_Woodmaker.tools.right_claw.label>TODO</Dryad_Woodmaker.tools.right_claw.label>
+  <Dryad_Woodmaker.tools.right_claw.label>오른쪽 발톱</Dryad_Woodmaker.tools.right_claw.label>
   <!-- EN: head -->
-  <Dryad_Woodmaker.tools.head.label>TODO</Dryad_Woodmaker.tools.head.label>
+  <Dryad_Woodmaker.tools.head.label>머리</Dryad_Woodmaker.tools.head.label>
   
 </LanguageData>

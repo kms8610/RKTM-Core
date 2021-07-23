@@ -2,102 +2,102 @@
 <LanguageData>
   
   <!-- EN: Animal calm -->
-  <AnimalCalm.label>TODO</AnimalCalm.label>
+  <AnimalCalm.label>동물 진정</AnimalCalm.label>
   <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
-  <AnimalCalm.description>TODO</AnimalCalm.description>
+  <AnimalCalm.description>특수한 동물 교감 기술을 사용해 화난 야수를 진정시킵니다.</AnimalCalm.description>
   <!-- EN: {INITIATOR_labelShort} successfully calmed {RECIPIENT_labelShort}. -->
-  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>TODO</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(을)를 성공적으로 진정시켰습니다.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
   <!-- EN: berserk trance -->
-  <BerserkTrance.label>TODO</BerserkTrance.label>
+  <BerserkTrance.label>피의 무아지경\n혹은\n광전사의 광기</BerserkTrance.label>
   <!-- EN: The caster fills himself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
-  <BerserkTrance.description>TODO</BerserkTrance.description>
+  <BerserkTrance.description>사용자가 이데올로기적 고충으로 인한 분노로 가득찹니다. 신체는 일반적인 한계를 뛰어넘게 되겠지만, 자제력을 잃고 멈추지 않는 분노 속에서 모든 적들을 닥치는대로 찢어발길 것입니다. 광전사 상태는 3시간동안 지속됩니다.</BerserkTrance.description>
   
   <!-- EN: combat command -->
-  <CombatCommand.label>TODO</CombatCommand.label>
+  <CombatCommand.label>전투 명령</CombatCommand.label>
   <!-- EN: Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration. -->
-  <CombatCommand.description>TODO</CombatCommand.description>
+  <CombatCommand.description>주위 모든 아군의 전투 기술을 높여주는 아우라를 생성합니다. 이 효과는 24시간동안 지속되며 지속 기간 동안 리더 주위에 있어야 합니다.</CombatCommand.description>
   
   <!-- EN: conversion ritual -->
-  <ConversionRitual.label>TODO</ConversionRitual.label>
+  <ConversionRitual.label>개종의식</ConversionRitual.label>
   <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
-  <ConversionRitual.description>TODO</ConversionRitual.description>
+  <ConversionRitual.description>다른 이에게 당신의 사상을 받아들이도록 설득해 보세요. 잘 진행된다면, 그들은 자신들의 사상에 대한 믿음을 잃게 될 것이고, 전향할지도 모릅니다. 만약 역효과를 낸다면, 그들은 그들의 오래된 믿음에 확신을 얻게 될 것입니다.\n\n특정 장소에서 이 의식을 시작하려면 의식 장소 또는 일치하는 제단, 혹은 이데오그램을 선택하세요.</ConversionRitual.description>
   
   <!-- EN: convert -->
-  <Convert.label>TODO</Convert.label>
+  <Convert.label>교화</Convert.label>
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
-  <Convert.description>TODO</Convert.description>
+  <Convert.description>누군가를 화자의 종교로 개종시키기도록 시도합니다. 대상 자신의 믿음에 대한 확심을감소시킵니다. 확신 감소는 발표자의 협상 능력에 따릅니다.</Convert.description>
   <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>TODO</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} 은(는) {RECIPIENT_labelShort} 을(를) 개종시키는데 실패하였습니다. {RECIPIENT_labelShort} 은(는) 그러한 시도에 분노하였지만, {RECIPIENT_possessive} 의 믿음은 {CERTAINTYBEFORE} 에서 {CERTAINTYAFTER} 로 감소하였습니다.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
-  <Convert.comps.CompAbilityEffect_Convert.successMessage>TODO</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(을)를 {IDEO}로 개종시켰습니다.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   
   <!-- EN: Counsel -->
-  <Counsel.label>TODO</Counsel.label>
+  <Counsel.label>상담</Counsel.label>
   <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
-  <Counsel.description>TODO</Counsel.description>
+  <Counsel.description>한 사람에게 상담을 해주어 슬픈 기억의 효과를 제거합니다. 성공 확률은 화자의 사교 기술과 청자와의 관계에 따릅니다.</Counsel.description>
   <!-- EN: {INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>TODO</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort}(이) 가 {RECIPIENT_labelShort} 과의 상담을 그르쳤습니다. {RECIPIENT_labelShort} 의 기분이 상했습니다.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
   <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>TODO</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort}(이)가 성공적으로 {RECIPIENT_labelShort}에게 상담을 해주어 {2} 기분 효과를 제거했습니다.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
   <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>TODO</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} 가 {RECIPIENT_labelShort} 과의 성공적인 상담을 통해 {RECIPIENT_possessive} 의 기분을 {MOODBONUS} 만큼 상승시켰습니다.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
   
   <!-- EN: farming command -->
-  <FarmingCommand.label>TODO</FarmingCommand.label>
+  <FarmingCommand.label>농업 명령</FarmingCommand.label>
   <!-- EN: Offer guidance on farming techniques, boosting the farming abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <FarmingCommand.description>TODO</FarmingCommand.description>
+  <FarmingCommand.description>농업 기술에 대한 지도를 통해 주위 모든 이의 농업 능력을 향상시킵니다. 이 효과는 시전자에게 24시간동안 귀속됩니다.</FarmingCommand.description>
   
   <!-- EN: Immunity drive -->
-  <ImmunityDrive.label>TODO</ImmunityDrive.label>
+  <ImmunityDrive.label>면역력 증진</ImmunityDrive.label>
   <!-- EN: Offer moral support that energizes the body, boosting someone's immunity gain for one day. -->
-  <ImmunityDrive.description>TODO</ImmunityDrive.description>
+  <ImmunityDrive.description>신체에 활기를 불어넣는 정신적인 지지를 통해 누군가의 면역력을 하룻동안 향상시킵니다.</ImmunityDrive.description>
   
   <!-- EN: leader speech -->
-  <LeaderSpeech.label>TODO</LeaderSpeech.label>
+  <LeaderSpeech.label>지도자 연설</LeaderSpeech.label>
   <!-- EN: Initiate a leader speech. If it goes well, listeners will gain improved mood, respect for the speaker, and possibly new inspirations. If it goes poorly, social damage will occur. -->
-  <LeaderSpeech.description>TODO</LeaderSpeech.description>
+  <LeaderSpeech.description>지도자가 연설을 시행합니다. 잘 진행된 연설을 통해 청자들은 기분이 향상되고, 연설가에 대한 존경심을 가지며, 때때로 영감을 얻습니다. 그러나 반대로 끔찍하다고 느낀다면 사교적인 피해를 볼 것입니다.</LeaderSpeech.description>
   
   <!-- EN: marksman command -->
-  <MarksmanCommand.label>TODO</MarksmanCommand.label>
+  <MarksmanCommand.label>명사수 명령</MarksmanCommand.label>
   <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <MarksmanCommand.description>TODO</MarksmanCommand.description>
+  <MarksmanCommand.description>발포 명령을 내려 주위 모든 이의 사격 기술을 향상시킵니다. 이 효과는 시전자에게 24시간동안 귀속됩니다.</MarksmanCommand.description>
   
   <!-- EN: mining command -->
-  <MiningCommand.label>TODO</MiningCommand.label>
+  <MiningCommand.label>채굴 명령</MiningCommand.label>
   <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <MiningCommand.description>TODO</MiningCommand.description>
+  <MiningCommand.description>채굴 기술에 대한 지도를 통해 주위 모든 이의 채굴 속도를 향상시킵니다. 이 효과는 시전자에게 24시간동안 귀속됩니다.</MiningCommand.description>
   
   <!-- EN: preach health -->
-  <PreachHealth.label>TODO</PreachHealth.label>
+  <PreachHealth.label>건강 설파</PreachHealth.label>
   <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
-  <PreachHealth.description>TODO</PreachHealth.description>
+  <PreachHealth.description>당신의 이데올로기의 개념을 통해 아프거나 다친 사람에게 도덕적 힘을 설교하세요. 이것은 그들의 상처 치유율과 면역력 증가를 향상시킬 것입니다.</PreachHealth.description>
   
   <!-- EN: production command -->
-  <ProductionCommand.label>TODO</ProductionCommand.label>
+  <ProductionCommand.label>생산 명령</ProductionCommand.label>
   <!-- EN: Offer guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <ProductionCommand.description>TODO</ProductionCommand.description>
+  <ProductionCommand.description>건설 기술에 대한 지도를 통해 주위 모든 이의 건설/제작 능력을 향상시킵니다. 이 효과는 시전자에게 24시간동안 귀속됩니다.</ProductionCommand.description>
   
   <!-- EN: reassure -->
-  <Reassure.label>TODO</Reassure.label>
+  <Reassure.label>안정</Reassure.label>
   <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
-  <Reassure.description>TODO</Reassure.description>
+  <Reassure.description>누군가의 믿음에 대한 확신을 높입니다. 회복되는 확신은 화자의 협상 능력에 따릅니다.</Reassure.description>
   <!-- EN: {INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}. -->
-  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>TODO</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} (이) 가 {RECIPIENT_labelShort} 에게 다시 확신을 심어주었습니다.{RECIPIENT_labelShort} 의 {IDEO} 에 대한 믿음이 {RECIPIENT_possessive} 만큼 {BEFORECERTAINTY} 에서 {AFTERCERTAINTY} 으로 회복되었습니다.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
   
   <!-- EN: research command -->
-  <ResearchCommand.label>TODO</ResearchCommand.label>
+  <ResearchCommand.label>연구 명령</ResearchCommand.label>
   <!-- EN: Provide suggestions and mental support, boosting the research speed of everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <ResearchCommand.description>TODO</ResearchCommand.description>
+  <ResearchCommand.description>제안과 정신적인 지원을 통해 주위 모든 이의 연구 속도를 향상시킵니다. 이 효과는 시전자에게 24시간동안 귀속됩니다.</ResearchCommand.description>
   
   <!-- EN: trial -->
-  <Trial.label>TODO</Trial.label>
+  <Trial.label>재판</Trial.label>
   <!-- EN: Charge someone with a terrible wrongdoing and initiate a trial where they will be either convicted or exonerated. If the target is convicted, they can be freely imprisoned, executed or banished without penalty. The chance of conviction depends on the social abilities of the accuser and accused. -->
-  <Trial.description>TODO</Trial.description>
+  <Trial.description>용의자를 기소하여 죄의 유무를 판단할 재판을 진행합니다. 유죄가 선고된다면, 피의자를 수감 및 추방, 처형을 통한 불이익이 발생하지 않습니다. 판결의 결과는 피고와 원고의 사교적 능력치에 영향을 받습니다.</Trial.description>
   
   <!-- EN: work drive -->
-  <WorkDrive.label>TODO</WorkDrive.label>
+  <WorkDrive.label>작업 증진</WorkDrive.label>
   <!-- EN: Call on a person to work harder for some time. -->
-  <WorkDrive.description>TODO</WorkDrive.description>
+  <WorkDrive.description>정착민 하나를 지정해 잠시 동안 더 열심히 작업하도록 합니다.</WorkDrive.description>
   
 </LanguageData>

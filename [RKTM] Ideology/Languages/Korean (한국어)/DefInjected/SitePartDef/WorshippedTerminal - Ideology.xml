@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: worshipful village -->
-  <WorshippedTerminal.label>TODO</WorshippedTerminal.label>
+  <WorshippedTerminal.label>worshipful village</WorshippedTerminal.label>
   <!-- EN: A village containing an ancient terminal which the locals worship. -->
-  <WorshippedTerminal.description>TODO</WorshippedTerminal.description>
+  <WorshippedTerminal.description>A village containing an ancient terminal which the locals worship.</WorshippedTerminal.description>
   <!-- EN: Attacking {0} -->
   <WorshippedTerminal.approachingReportString>TODO</WorshippedTerminal.approachingReportString>
   <!-- EN: Investigate {0} -->
-  <WorshippedTerminal.approachOrderString>TODO</WorshippedTerminal.approachOrderString>
+  <WorshippedTerminal.approachOrderString>{0} 조사</WorshippedTerminal.approachOrderString>
   <!-- EN: You may stay here for {TIMER} as long as you do not violate their rules. -->
-  <WorshippedTerminal.arrivedLetter>TODO</WorshippedTerminal.arrivedLetter>
+  <WorshippedTerminal.arrivedLetter>You may stay here for {TIMER} as long as you do not violate their rules.</WorshippedTerminal.arrivedLetter>
   
 </LanguageData>

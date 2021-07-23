@@ -2,237 +2,306 @@
 <LanguageData>
   
   <!-- EN: animist -->
-  <Structure_Animist.label>TODO</Structure_Animist.label>
+  <Structure_Animist.label>animist</Structure_Animist.label>
   <!-- EN: Spirits live in everything around us. In the plants and animals, rivers and trees, sky and stars. The moral structure of the universe springs from the necessity of respecting them. -->
-  <Structure_Animist.description>TODO</Structure_Animist.description>
-  <!-- EN:
-    <li>memeLeaderNoun->curate</li>
-    <li>memeLeaderNoun->speaker</li>
-    <li>memeLeaderAdjective->universe</li>
-    <li>memeLeaderAdjective->spirit</li>
-    <li>memeLeaderAdjective->anima</li>
-    <li>memeHyphenPrefix->ani</li>
-    <li>memeMoralist->shaman</li>
-    <li>memeMoralist->priest</li>
-    <li>memeMoralist->elder</li>
-  -->
-  <Structure_Animist.generalRules.rulesStrings>TODO</Structure_Animist.generalRules.rulesStrings>
+  <Structure_Animist.description>Spirits live in everything around us. In the plants and animals, rivers and trees, sky and stars. The moral structure of the universe springs from the necessity of respecting them.</Structure_Animist.description>
+  <!-- EN: memeLeaderNoun->curate -->
+  <Structure_Animist.generalRules.rulesStrings.0>memeLeaderNoun->curate</Structure_Animist.generalRules.rulesStrings.0>
+  <!-- EN: memeLeaderNoun->speaker -->
+  <Structure_Animist.generalRules.rulesStrings.1>memeLeaderNoun->speaker</Structure_Animist.generalRules.rulesStrings.1>
+  <!-- EN: memeLeaderAdjective->universe -->
+  <Structure_Animist.generalRules.rulesStrings.2>memeLeaderAdjective->universe</Structure_Animist.generalRules.rulesStrings.2>
+  <!-- EN: memeLeaderAdjective->spirit -->
+  <Structure_Animist.generalRules.rulesStrings.3>memeLeaderAdjective->spirit</Structure_Animist.generalRules.rulesStrings.3>
+  <!-- EN: memeLeaderAdjective->anima -->
+  <Structure_Animist.generalRules.rulesStrings.4>memeLeaderAdjective->anima</Structure_Animist.generalRules.rulesStrings.4>
+  <!-- EN: memeHyphenPrefix->ani -->
+  <Structure_Animist.generalRules.rulesStrings.5>memeHyphenPrefix->ani</Structure_Animist.generalRules.rulesStrings.5>
+  <!-- EN: memeMoralist->shaman -->
+  <Structure_Animist.generalRules.rulesStrings.6>memeMoralist->shaman</Structure_Animist.generalRules.rulesStrings.6>
+  <!-- EN: memeMoralist->priest -->
+  <Structure_Animist.generalRules.rulesStrings.7>memeMoralist->priest</Structure_Animist.generalRules.rulesStrings.7>
+  <!-- EN: memeMoralist->elder -->
+  <Structure_Animist.generalRules.rulesStrings.8>memeMoralist->elder</Structure_Animist.generalRules.rulesStrings.8>
   <!-- EN: animist -->
-  <Structure_Animist.symbolPacks.0.adjective>TODO</Structure_Animist.symbolPacks.0.adjective>
+  <Structure_Animist.symbolPacks.0.adjective>animist</Structure_Animist.symbolPacks.0.adjective>
   <!-- EN: animist -->
-  <Structure_Animist.symbolPacks.0.member>TODO</Structure_Animist.symbolPacks.0.member>
+  <Structure_Animist.symbolPacks.0.member>animist</Structure_Animist.symbolPacks.0.member>
   <!-- EN: animism -->
-  <Structure_Animist.symbolPacks.0.theme>TODO</Structure_Animist.symbolPacks.0.theme>
+  <Structure_Animist.symbolPacks.0.theme>animism</Structure_Animist.symbolPacks.0.theme>
   <!-- EN: spiritist -->
-  <Structure_Animist.symbolPacks.1.adjective>TODO</Structure_Animist.symbolPacks.1.adjective>
+  <Structure_Animist.symbolPacks.1.adjective>spiritist</Structure_Animist.symbolPacks.1.adjective>
   <!-- EN: spiritist -->
-  <Structure_Animist.symbolPacks.1.member>TODO</Structure_Animist.symbolPacks.1.member>
+  <Structure_Animist.symbolPacks.1.member>spiritist</Structure_Animist.symbolPacks.1.member>
   <!-- EN: spiritism -->
-  <Structure_Animist.symbolPacks.1.theme>TODO</Structure_Animist.symbolPacks.1.theme>
+  <Structure_Animist.symbolPacks.1.theme>spiritism</Structure_Animist.symbolPacks.1.theme>
   <!-- EN: temple -->
-  <Structure_Animist.worshipRoomLabel>TODO</Structure_Animist.worshipRoomLabel>
+  <Structure_Animist.worshipRoomLabel>temple</Structure_Animist.worshipRoomLabel>
   
   <!-- EN: archist -->
-  <Structure_Archist.label>TODO</Structure_Archist.label>
+  <Structure_Archist.label>archist</Structure_Archist.label>
   <!-- EN: Archotechs are the true gods. They know the moral structure of the universe, and serving them is how we will connect with it. -->
-  <Structure_Archist.description>TODO</Structure_Archist.description>
-  <!-- EN:
-    <li>memeAdjective->archic</li>
-    <li>memeAdjective->archotechnic</li>
-    <li>memeAdjective->archonic</li>
-    <li>memeHyphenPrefix->archo</li>
-    <li>memeHyphenPrefix->arch</li>
-    <li>memeLeaderNoun->archist</li>
-    <li>memeLeaderNoun->archotechnist</li>
-    <li>memeLeaderAdjective->archic</li>
-    <li>memeLeaderAdjective->exochrome</li>
-    <li>memeMoralist->priest</li>
-    <li>memeMoralist->cleric</li>
-    <li>memeMoralist->rector</li>
-    <li>memeMoralist->abbot</li>
-  -->
-  <Structure_Archist.generalRules.rulesStrings>TODO</Structure_Archist.generalRules.rulesStrings>
+  <Structure_Archist.description>Archotechs are the true gods. They know the moral structure of the universe, and serving them is how we will connect with it.</Structure_Archist.description>
+  <!-- EN: memeAdjective->archic -->
+  <Structure_Archist.generalRules.rulesStrings.0>memeAdjective->archic</Structure_Archist.generalRules.rulesStrings.0>
+  <!-- EN: memeAdjective->archotechnic -->
+  <Structure_Archist.generalRules.rulesStrings.1>memeAdjective->archotechnic</Structure_Archist.generalRules.rulesStrings.1>
+  <!-- EN: memeAdjective->archonic -->
+  <Structure_Archist.generalRules.rulesStrings.2>memeAdjective->archonic</Structure_Archist.generalRules.rulesStrings.2>
+  <!-- EN: memeHyphenPrefix->archo -->
+  <Structure_Archist.generalRules.rulesStrings.3>memeHyphenPrefix->archo</Structure_Archist.generalRules.rulesStrings.3>
+  <!-- EN: memeHyphenPrefix->arch -->
+  <Structure_Archist.generalRules.rulesStrings.4>memeHyphenPrefix->arch</Structure_Archist.generalRules.rulesStrings.4>
+  <!-- EN: memeLeaderNoun->archist -->
+  <Structure_Archist.generalRules.rulesStrings.5>memeLeaderNoun->archist</Structure_Archist.generalRules.rulesStrings.5>
+  <!-- EN: memeLeaderNoun->archotechnist -->
+  <Structure_Archist.generalRules.rulesStrings.6>memeLeaderNoun->archotechnist</Structure_Archist.generalRules.rulesStrings.6>
+  <!-- EN: memeLeaderAdjective->archic -->
+  <Structure_Archist.generalRules.rulesStrings.7>memeLeaderAdjective->archic</Structure_Archist.generalRules.rulesStrings.7>
+  <!-- EN: memeLeaderAdjective->exochrome -->
+  <Structure_Archist.generalRules.rulesStrings.8>memeLeaderAdjective->exochrome</Structure_Archist.generalRules.rulesStrings.8>
+  <!-- EN: memeMoralist->priest -->
+  <Structure_Archist.generalRules.rulesStrings.9>memeMoralist->priest</Structure_Archist.generalRules.rulesStrings.9>
+  <!-- EN: memeMoralist->cleric -->
+  <Structure_Archist.generalRules.rulesStrings.10>memeMoralist->cleric</Structure_Archist.generalRules.rulesStrings.10>
+  <!-- EN: memeMoralist->rector -->
+  <Structure_Archist.generalRules.rulesStrings.11>memeMoralist->rector</Structure_Archist.generalRules.rulesStrings.11>
+  <!-- EN: memeMoralist->abbot -->
+  <Structure_Archist.generalRules.rulesStrings.12>memeMoralist->abbot</Structure_Archist.generalRules.rulesStrings.12>
   <!-- EN: archotechnic -->
-  <Structure_Archist.symbolPacks.0.adjective>TODO</Structure_Archist.symbolPacks.0.adjective>
+  <Structure_Archist.symbolPacks.0.adjective>고고학</Structure_Archist.symbolPacks.0.adjective>
   <!-- EN: Archotechnics -->
-  <Structure_Archist.symbolPacks.0.ideoName>TODO</Structure_Archist.symbolPacks.0.ideoName>
+  <Structure_Archist.symbolPacks.0.ideoName>고고학</Structure_Archist.symbolPacks.0.ideoName>
   <!-- EN: archotechnist -->
-  <Structure_Archist.symbolPacks.0.member>TODO</Structure_Archist.symbolPacks.0.member>
+  <Structure_Archist.symbolPacks.0.member>고고학자</Structure_Archist.symbolPacks.0.member>
   <!-- EN: archotechnology -->
-  <Structure_Archist.symbolPacks.0.theme>TODO</Structure_Archist.symbolPacks.0.theme>
+  <Structure_Archist.symbolPacks.0.theme>고고학</Structure_Archist.symbolPacks.0.theme>
   <!-- EN: archist -->
-  <Structure_Archist.symbolPacks.1.adjective>TODO</Structure_Archist.symbolPacks.1.adjective>
+  <Structure_Archist.symbolPacks.1.adjective>archist</Structure_Archist.symbolPacks.1.adjective>
   <!-- EN: Archism -->
-  <Structure_Archist.symbolPacks.1.ideoName>TODO</Structure_Archist.symbolPacks.1.ideoName>
+  <Structure_Archist.symbolPacks.1.ideoName>Archism</Structure_Archist.symbolPacks.1.ideoName>
   <!-- EN: archist -->
-  <Structure_Archist.symbolPacks.1.member>TODO</Structure_Archist.symbolPacks.1.member>
+  <Structure_Archist.symbolPacks.1.member>archist</Structure_Archist.symbolPacks.1.member>
   <!-- EN: archism -->
-  <Structure_Archist.symbolPacks.1.theme>TODO</Structure_Archist.symbolPacks.1.theme>
+  <Structure_Archist.symbolPacks.1.theme>archism</Structure_Archist.symbolPacks.1.theme>
   <!-- EN: shrine -->
-  <Structure_Archist.worshipRoomLabel>TODO</Structure_Archist.worshipRoomLabel>
+  <Structure_Archist.worshipRoomLabel>shrine</Structure_Archist.worshipRoomLabel>
   
   <!-- EN: ideological -->
-  <Structure_Ideological.label>TODO</Structure_Ideological.label>
+  <Structure_Ideological.label>ideological</Structure_Ideological.label>
   <!-- EN: There are no gods. The moral structure of the universe is found in our grand narrative of social forces. -->
-  <Structure_Ideological.description>TODO</Structure_Ideological.description>
-  <!-- EN:
-    <li>memeAdjective->ethical</li>
-    <li>memeAdjective->moral</li>
-    <li>memeAdjective->awoken</li>
-    <li>memeCreed->belief</li>
-    <li>memeCreed->ideology</li>
-    <li>memeCreed->creed</li>
-    <li>memeCreed->philosophy</li>
-    <li>memeCreed->theory</li>
-    <li>memeCreed->view</li>
-    <li>memeCreed->principles</li>
-    <li>memeCreed->morals</li>
-    <li>memeCreed->ethics</li>
-    <li>memeCreed->justice</li>
-    <li>memeHyphenPrefix->ideo</li>
-    <li>memeLeaderNoun->mind</li>
-    <li>memeLeaderNoun->decider</li>
-    <li>memeLeaderNoun->leader</li>
-    <li>memeLeaderAdjective->ethical</li>
-    <li>memeLeaderAdjective->moral</li>
-    <li>memeLeaderAdjective->awoken</li>
-    <li>memeMoralist->counselor</li>
-    <li>memeMoralist->ethicist</li>
-    <li>memeMoralist->moralist</li>
-    <li>memeMoralist->philosopher</li>
-    <li>memeMoralist->thinker</li>
-    <li>memeMoralist->academic</li>
-    <li>memeMoralist->sophist</li>
-  -->
-  <Structure_Ideological.generalRules.rulesStrings>TODO</Structure_Ideological.generalRules.rulesStrings>
+  <Structure_Ideological.description>There are no gods. The moral structure of the universe is found in our grand narrative of social forces.</Structure_Ideological.description>
+  <!-- EN: memeAdjective->ethical -->
+  <Structure_Ideological.generalRules.rulesStrings.0>memeAdjective->ethical</Structure_Ideological.generalRules.rulesStrings.0>
+  <!-- EN: memeAdjective->moral -->
+  <Structure_Ideological.generalRules.rulesStrings.1>memeAdjective->moral</Structure_Ideological.generalRules.rulesStrings.1>
+  <!-- EN: memeAdjective->awoken -->
+  <Structure_Ideological.generalRules.rulesStrings.2>memeAdjective->awoken</Structure_Ideological.generalRules.rulesStrings.2>
+  <!-- EN: memeCreed->belief -->
+  <Structure_Ideological.generalRules.rulesStrings.3>memeCreed->belief</Structure_Ideological.generalRules.rulesStrings.3>
+  <!-- EN: memeCreed->ideology -->
+  <Structure_Ideological.generalRules.rulesStrings.4>memeCreed->ideology</Structure_Ideological.generalRules.rulesStrings.4>
+  <!-- EN: memeCreed->creed -->
+  <Structure_Ideological.generalRules.rulesStrings.5>memeCreed->creed</Structure_Ideological.generalRules.rulesStrings.5>
+  <!-- EN: memeCreed->philosophy -->
+  <Structure_Ideological.generalRules.rulesStrings.6>memeCreed->philosophy</Structure_Ideological.generalRules.rulesStrings.6>
+  <!-- EN: memeCreed->theory -->
+  <Structure_Ideological.generalRules.rulesStrings.7>memeCreed->theory</Structure_Ideological.generalRules.rulesStrings.7>
+  <!-- EN: memeCreed->view -->
+  <Structure_Ideological.generalRules.rulesStrings.8>memeCreed->view</Structure_Ideological.generalRules.rulesStrings.8>
+  <!-- EN: memeCreed->principles -->
+  <Structure_Ideological.generalRules.rulesStrings.9>memeCreed->principles</Structure_Ideological.generalRules.rulesStrings.9>
+  <!-- EN: memeCreed->morals -->
+  <Structure_Ideological.generalRules.rulesStrings.10>memeCreed->morals</Structure_Ideological.generalRules.rulesStrings.10>
+  <!-- EN: memeCreed->ethics -->
+  <Structure_Ideological.generalRules.rulesStrings.11>memeCreed->ethics</Structure_Ideological.generalRules.rulesStrings.11>
+  <!-- EN: memeCreed->justice -->
+  <Structure_Ideological.generalRules.rulesStrings.12>memeCreed->justice</Structure_Ideological.generalRules.rulesStrings.12>
+  <!-- EN: memeHyphenPrefix->ideo -->
+  <Structure_Ideological.generalRules.rulesStrings.13>memeHyphenPrefix->ideo</Structure_Ideological.generalRules.rulesStrings.13>
+  <!-- EN: memeLeaderNoun->mind -->
+  <Structure_Ideological.generalRules.rulesStrings.14>memeLeaderNoun->mind</Structure_Ideological.generalRules.rulesStrings.14>
+  <!-- EN: memeLeaderNoun->decider -->
+  <Structure_Ideological.generalRules.rulesStrings.15>memeLeaderNoun->decider</Structure_Ideological.generalRules.rulesStrings.15>
+  <!-- EN: memeLeaderNoun->leader -->
+  <Structure_Ideological.generalRules.rulesStrings.16>memeLeaderNoun->leader</Structure_Ideological.generalRules.rulesStrings.16>
+  <!-- EN: memeLeaderAdjective->ethical -->
+  <Structure_Ideological.generalRules.rulesStrings.17>memeLeaderAdjective->ethical</Structure_Ideological.generalRules.rulesStrings.17>
+  <!-- EN: memeLeaderAdjective->moral -->
+  <Structure_Ideological.generalRules.rulesStrings.18>memeLeaderAdjective->moral</Structure_Ideological.generalRules.rulesStrings.18>
+  <!-- EN: memeLeaderAdjective->awoken -->
+  <Structure_Ideological.generalRules.rulesStrings.19>memeLeaderAdjective->awoken</Structure_Ideological.generalRules.rulesStrings.19>
+  <!-- EN: memeMoralist->counselor -->
+  <Structure_Ideological.generalRules.rulesStrings.20>memeMoralist->counselor</Structure_Ideological.generalRules.rulesStrings.20>
+  <!-- EN: memeMoralist->ethicist -->
+  <Structure_Ideological.generalRules.rulesStrings.21>memeMoralist->ethicist</Structure_Ideological.generalRules.rulesStrings.21>
+  <!-- EN: memeMoralist->moralist -->
+  <Structure_Ideological.generalRules.rulesStrings.22>memeMoralist->moralist</Structure_Ideological.generalRules.rulesStrings.22>
+  <!-- EN: memeMoralist->philosopher -->
+  <Structure_Ideological.generalRules.rulesStrings.23>memeMoralist->philosopher</Structure_Ideological.generalRules.rulesStrings.23>
+  <!-- EN: memeMoralist->thinker -->
+  <Structure_Ideological.generalRules.rulesStrings.24>memeMoralist->thinker</Structure_Ideological.generalRules.rulesStrings.24>
+  <!-- EN: memeMoralist->academic -->
+  <Structure_Ideological.generalRules.rulesStrings.25>memeMoralist->academic</Structure_Ideological.generalRules.rulesStrings.25>
+  <!-- EN: memeMoralist->sophist -->
+  <Structure_Ideological.generalRules.rulesStrings.26>memeMoralist->sophist</Structure_Ideological.generalRules.rulesStrings.26>
   <!-- EN: ethical -->
-  <Structure_Ideological.symbolPacks.0.adjective>TODO</Structure_Ideological.symbolPacks.0.adjective>
+  <Structure_Ideological.symbolPacks.0.adjective>ethical</Structure_Ideological.symbolPacks.0.adjective>
   <!-- EN: Ethics -->
-  <Structure_Ideological.symbolPacks.0.ideoName>TODO</Structure_Ideological.symbolPacks.0.ideoName>
+  <Structure_Ideological.symbolPacks.0.ideoName>Ethics</Structure_Ideological.symbolPacks.0.ideoName>
   <!-- EN: ethicist -->
-  <Structure_Ideological.symbolPacks.0.member>TODO</Structure_Ideological.symbolPacks.0.member>
+  <Structure_Ideological.symbolPacks.0.member>ethicist</Structure_Ideological.symbolPacks.0.member>
   <!-- EN: ethics -->
-  <Structure_Ideological.symbolPacks.0.theme>TODO</Structure_Ideological.symbolPacks.0.theme>
+  <Structure_Ideological.symbolPacks.0.theme>ethics</Structure_Ideological.symbolPacks.0.theme>
   <!-- EN: ideological -->
-  <Structure_Ideological.symbolPacks.1.adjective>TODO</Structure_Ideological.symbolPacks.1.adjective>
+  <Structure_Ideological.symbolPacks.1.adjective>ideological</Structure_Ideological.symbolPacks.1.adjective>
   <!-- EN: Ideology -->
-  <Structure_Ideological.symbolPacks.1.ideoName>TODO</Structure_Ideological.symbolPacks.1.ideoName>
+  <Structure_Ideological.symbolPacks.1.ideoName>Ideology</Structure_Ideological.symbolPacks.1.ideoName>
   <!-- EN: ideologist -->
-  <Structure_Ideological.symbolPacks.1.member>TODO</Structure_Ideological.symbolPacks.1.member>
+  <Structure_Ideological.symbolPacks.1.member>ideologist</Structure_Ideological.symbolPacks.1.member>
   <!-- EN: ideology -->
-  <Structure_Ideological.symbolPacks.1.theme>TODO</Structure_Ideological.symbolPacks.1.theme>
+  <Structure_Ideological.symbolPacks.1.theme>ideology</Structure_Ideological.symbolPacks.1.theme>
   <!-- EN: just -->
-  <Structure_Ideological.symbolPacks.2.adjective>TODO</Structure_Ideological.symbolPacks.2.adjective>
+  <Structure_Ideological.symbolPacks.2.adjective>just</Structure_Ideological.symbolPacks.2.adjective>
   <!-- EN: Justice -->
-  <Structure_Ideological.symbolPacks.2.ideoName>TODO</Structure_Ideological.symbolPacks.2.ideoName>
+  <Structure_Ideological.symbolPacks.2.ideoName>Justice</Structure_Ideological.symbolPacks.2.ideoName>
   <!-- EN: justicar -->
-  <Structure_Ideological.symbolPacks.2.member>TODO</Structure_Ideological.symbolPacks.2.member>
+  <Structure_Ideological.symbolPacks.2.member>justicar</Structure_Ideological.symbolPacks.2.member>
   <!-- EN: justice -->
-  <Structure_Ideological.symbolPacks.2.theme>TODO</Structure_Ideological.symbolPacks.2.theme>
+  <Structure_Ideological.symbolPacks.2.theme>justice</Structure_Ideological.symbolPacks.2.theme>
   <!-- EN: sanctuary -->
-  <Structure_Ideological.worshipRoomLabel>TODO</Structure_Ideological.worshipRoomLabel>
+  <Structure_Ideological.worshipRoomLabel>sanctuary</Structure_Ideological.worshipRoomLabel>
   
   <!-- EN: abstract theist -->
-  <Structure_TheistAbstract.label>TODO</Structure_TheistAbstract.label>
+  <Structure_TheistAbstract.label>abstract theist</Structure_TheistAbstract.label>
   <!-- EN: The god(s) do not have physical form, but are everywhere at once. They know all, and can do anything. Their will defines the moral structure of the universe. -->
-  <Structure_TheistAbstract.description>TODO</Structure_TheistAbstract.description>
-  <!-- EN:
-    <li>memeAdjective->godly</li>
-    <li>memeAdjective->holy</li>
-    <li>memeAdjective->sacred</li>
-    <li>memeAdjective->divine</li>
-    <li>memeAdjective->faithful</li>
-    <li>memeCreed->temple</li>
-    <li>memeCreed->sect</li>
-    <li>memeCreed->cult</li>
-    <li>memeCreed->faith</li>
-    <li>memeHyphenPrefix->theo</li>
-    <li>memeConcept->creation</li>
-    <li>memeConcept->life</li>
-    <li>memeLeaderNoun->bishop</li>
-    <li>memeLeaderNoun->cardinal</li>
-    <li>memeLeaderNoun->pope</li>
-    <li>memeLeaderNoun->divus</li>
-    <li>memeLeaderAdjective->holy</li>
-    <li>memeLeaderAdjective->divine</li>
-    <li>memeMoralist->priest</li>
-    <li>memeMoralist->pastor</li>
-    <li>memeMoralist->cleric</li>
-    <li>memeMoralist->preacher</li>
-    <li>memeMoralist->rector</li>
-    <li>memeMoralist->abbot</li>
-  -->
-  <Structure_TheistAbstract.generalRules.rulesStrings>TODO</Structure_TheistAbstract.generalRules.rulesStrings>
+  <Structure_TheistAbstract.description>The god(s) do not have physical form, but are everywhere at once. They know all, and can do anything. Their will defines the moral structure of the universe.</Structure_TheistAbstract.description>
+  <!-- EN: memeAdjective->godly -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.0>memeAdjective->godly</Structure_TheistAbstract.generalRules.rulesStrings.0>
+  <!-- EN: memeAdjective->holy -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.1>memeAdjective->holy</Structure_TheistAbstract.generalRules.rulesStrings.1>
+  <!-- EN: memeAdjective->sacred -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.2>memeAdjective->sacred</Structure_TheistAbstract.generalRules.rulesStrings.2>
+  <!-- EN: memeAdjective->divine -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.3>memeAdjective->divine</Structure_TheistAbstract.generalRules.rulesStrings.3>
+  <!-- EN: memeAdjective->faithful -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.4>memeAdjective->faithful</Structure_TheistAbstract.generalRules.rulesStrings.4>
+  <!-- EN: memeCreed->temple -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.5>memeCreed->temple</Structure_TheistAbstract.generalRules.rulesStrings.5>
+  <!-- EN: memeCreed->sect -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.6>memeCreed->sect</Structure_TheistAbstract.generalRules.rulesStrings.6>
+  <!-- EN: memeCreed->cult -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.7>memeCreed->cult</Structure_TheistAbstract.generalRules.rulesStrings.7>
+  <!-- EN: memeCreed->faith -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.8>memeCreed->faith</Structure_TheistAbstract.generalRules.rulesStrings.8>
+  <!-- EN: memeHyphenPrefix->theo -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.9>memeHyphenPrefix->theo</Structure_TheistAbstract.generalRules.rulesStrings.9>
+  <!-- EN: memeConcept->creation -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.10>memeConcept->creation</Structure_TheistAbstract.generalRules.rulesStrings.10>
+  <!-- EN: memeConcept->life -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.11>memeConcept->life</Structure_TheistAbstract.generalRules.rulesStrings.11>
+  <!-- EN: memeLeaderNoun->bishop -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.12>memeLeaderNoun->bishop</Structure_TheistAbstract.generalRules.rulesStrings.12>
+  <!-- EN: memeLeaderNoun->cardinal -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.13>memeLeaderNoun->cardinal</Structure_TheistAbstract.generalRules.rulesStrings.13>
+  <!-- EN: memeLeaderNoun->pope -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.14>memeLeaderNoun->pope</Structure_TheistAbstract.generalRules.rulesStrings.14>
+  <!-- EN: memeLeaderNoun->divus -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.15>memeLeaderNoun->divus</Structure_TheistAbstract.generalRules.rulesStrings.15>
+  <!-- EN: memeLeaderAdjective->holy -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.16>memeLeaderAdjective->holy</Structure_TheistAbstract.generalRules.rulesStrings.16>
+  <!-- EN: memeLeaderAdjective->divine -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.17>memeLeaderAdjective->divine</Structure_TheistAbstract.generalRules.rulesStrings.17>
+  <!-- EN: memeMoralist->priest -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.18>memeMoralist->priest</Structure_TheistAbstract.generalRules.rulesStrings.18>
+  <!-- EN: memeMoralist->pastor -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.19>memeMoralist->pastor</Structure_TheistAbstract.generalRules.rulesStrings.19>
+  <!-- EN: memeMoralist->cleric -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.20>memeMoralist->cleric</Structure_TheistAbstract.generalRules.rulesStrings.20>
+  <!-- EN: memeMoralist->preacher -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.21>memeMoralist->preacher</Structure_TheistAbstract.generalRules.rulesStrings.21>
+  <!-- EN: memeMoralist->rector -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.22>memeMoralist->rector</Structure_TheistAbstract.generalRules.rulesStrings.22>
+  <!-- EN: memeMoralist->abbot -->
+  <Structure_TheistAbstract.generalRules.rulesStrings.23>memeMoralist->abbot</Structure_TheistAbstract.generalRules.rulesStrings.23>
   <!-- EN: spiritual -->
-  <Structure_TheistAbstract.symbolPacks.0.adjective>TODO</Structure_TheistAbstract.symbolPacks.0.adjective>
+  <Structure_TheistAbstract.symbolPacks.0.adjective>spiritual</Structure_TheistAbstract.symbolPacks.0.adjective>
   <!-- EN: Spiritism -->
-  <Structure_TheistAbstract.symbolPacks.0.ideoName>TODO</Structure_TheistAbstract.symbolPacks.0.ideoName>
+  <Structure_TheistAbstract.symbolPacks.0.ideoName>Spiritism</Structure_TheistAbstract.symbolPacks.0.ideoName>
   <!-- EN: spiritist -->
-  <Structure_TheistAbstract.symbolPacks.0.member>TODO</Structure_TheistAbstract.symbolPacks.0.member>
+  <Structure_TheistAbstract.symbolPacks.0.member>spiritist</Structure_TheistAbstract.symbolPacks.0.member>
   <!-- EN: spiritualism -->
-  <Structure_TheistAbstract.symbolPacks.0.theme>TODO</Structure_TheistAbstract.symbolPacks.0.theme>
+  <Structure_TheistAbstract.symbolPacks.0.theme>spiritualism</Structure_TheistAbstract.symbolPacks.0.theme>
   <!-- EN: faithful -->
-  <Structure_TheistAbstract.symbolPacks.1.adjective>TODO</Structure_TheistAbstract.symbolPacks.1.adjective>
+  <Structure_TheistAbstract.symbolPacks.1.adjective>faithful</Structure_TheistAbstract.symbolPacks.1.adjective>
   <!-- EN: Faith -->
-  <Structure_TheistAbstract.symbolPacks.1.ideoName>TODO</Structure_TheistAbstract.symbolPacks.1.ideoName>
+  <Structure_TheistAbstract.symbolPacks.1.ideoName>Faith</Structure_TheistAbstract.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
-  <Structure_TheistAbstract.symbolPacks.1.member>TODO</Structure_TheistAbstract.symbolPacks.1.member>
+  <Structure_TheistAbstract.symbolPacks.1.member>faithholder</Structure_TheistAbstract.symbolPacks.1.member>
   <!-- EN: faith -->
-  <Structure_TheistAbstract.symbolPacks.1.theme>TODO</Structure_TheistAbstract.symbolPacks.1.theme>
+  <Structure_TheistAbstract.symbolPacks.1.theme>faith</Structure_TheistAbstract.symbolPacks.1.theme>
   <!-- EN: divinist -->
-  <Structure_TheistAbstract.symbolPacks.2.adjective>TODO</Structure_TheistAbstract.symbolPacks.2.adjective>
+  <Structure_TheistAbstract.symbolPacks.2.adjective>divinist</Structure_TheistAbstract.symbolPacks.2.adjective>
   <!-- EN: Divinism -->
-  <Structure_TheistAbstract.symbolPacks.2.ideoName>TODO</Structure_TheistAbstract.symbolPacks.2.ideoName>
+  <Structure_TheistAbstract.symbolPacks.2.ideoName>Divinism</Structure_TheistAbstract.symbolPacks.2.ideoName>
   <!-- EN: divinist -->
-  <Structure_TheistAbstract.symbolPacks.2.member>TODO</Structure_TheistAbstract.symbolPacks.2.member>
+  <Structure_TheistAbstract.symbolPacks.2.member>divinist</Structure_TheistAbstract.symbolPacks.2.member>
   <!-- EN: divinity -->
-  <Structure_TheistAbstract.symbolPacks.2.theme>TODO</Structure_TheistAbstract.symbolPacks.2.theme>
+  <Structure_TheistAbstract.symbolPacks.2.theme>divinity</Structure_TheistAbstract.symbolPacks.2.theme>
   <!-- EN: holyist -->
-  <Structure_TheistAbstract.symbolPacks.3.adjective>TODO</Structure_TheistAbstract.symbolPacks.3.adjective>
+  <Structure_TheistAbstract.symbolPacks.3.adjective>holyist</Structure_TheistAbstract.symbolPacks.3.adjective>
   <!-- EN: Holyism -->
-  <Structure_TheistAbstract.symbolPacks.3.ideoName>TODO</Structure_TheistAbstract.symbolPacks.3.ideoName>
+  <Structure_TheistAbstract.symbolPacks.3.ideoName>Holyism</Structure_TheistAbstract.symbolPacks.3.ideoName>
   <!-- EN: holyist -->
-  <Structure_TheistAbstract.symbolPacks.3.member>TODO</Structure_TheistAbstract.symbolPacks.3.member>
+  <Structure_TheistAbstract.symbolPacks.3.member>holyist</Structure_TheistAbstract.symbolPacks.3.member>
   <!-- EN: holiness -->
-  <Structure_TheistAbstract.symbolPacks.3.theme>TODO</Structure_TheistAbstract.symbolPacks.3.theme>
+  <Structure_TheistAbstract.symbolPacks.3.theme>holiness</Structure_TheistAbstract.symbolPacks.3.theme>
   <!-- EN: temple -->
-  <Structure_TheistAbstract.worshipRoomLabel>TODO</Structure_TheistAbstract.worshipRoomLabel>
+  <Structure_TheistAbstract.worshipRoomLabel>temple</Structure_TheistAbstract.worshipRoomLabel>
   
   <!-- EN: embodied theist -->
-  <Structure_TheistEmbodied.label>TODO</Structure_TheistEmbodied.label>
+  <Structure_TheistEmbodied.label>embodied theist</Structure_TheistEmbodied.label>
   <!-- EN: The god(s) walk the planets like us, yet they are powerful and immortal as we are not. They decide the moral structure of the universe. -->
-  <Structure_TheistEmbodied.description>TODO</Structure_TheistEmbodied.description>
-  <!-- EN:
-    <li>memeCreed->sect</li>
-    <li>memeCreed->cult</li>
-    <li>memeCreed->temple</li>
-    <li>memeCreed->faith</li>
-    <li>memeHyphenPrefix->theo</li>
-    <li>memeConcept->creation</li>
-    <li>memeConcept->life</li>
-    <li>memeLeaderNoun->templar</li>
-    <li>memeLeaderAdjective->divine</li>
-    <li>memeMoralist->priest</li>
-    <li>memeMoralist->cleric</li>
-  -->
-  <Structure_TheistEmbodied.generalRules.rulesStrings>TODO</Structure_TheistEmbodied.generalRules.rulesStrings>
+  <Structure_TheistEmbodied.description>The god(s) walk the planets like us, yet they are powerful and immortal as we are not. They decide the moral structure of the universe.</Structure_TheistEmbodied.description>
+  <!-- EN: memeCreed->sect -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.0>memeCreed->sect</Structure_TheistEmbodied.generalRules.rulesStrings.0>
+  <!-- EN: memeCreed->cult -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.1>memeCreed->cult</Structure_TheistEmbodied.generalRules.rulesStrings.1>
+  <!-- EN: memeCreed->temple -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.2>memeCreed->temple</Structure_TheistEmbodied.generalRules.rulesStrings.2>
+  <!-- EN: memeCreed->faith -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.3>memeCreed->faith</Structure_TheistEmbodied.generalRules.rulesStrings.3>
+  <!-- EN: memeHyphenPrefix->theo -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.4>memeHyphenPrefix->theo</Structure_TheistEmbodied.generalRules.rulesStrings.4>
+  <!-- EN: memeConcept->creation -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.5>memeConcept->creation</Structure_TheistEmbodied.generalRules.rulesStrings.5>
+  <!-- EN: memeConcept->life -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.6>memeConcept->life</Structure_TheistEmbodied.generalRules.rulesStrings.6>
+  <!-- EN: memeLeaderNoun->templar -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.7>memeLeaderNoun->templar</Structure_TheistEmbodied.generalRules.rulesStrings.7>
+  <!-- EN: memeLeaderAdjective->divine -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.8>memeLeaderAdjective->divine</Structure_TheistEmbodied.generalRules.rulesStrings.8>
+  <!-- EN: memeMoralist->priest -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.9>memeMoralist->priest</Structure_TheistEmbodied.generalRules.rulesStrings.9>
+  <!-- EN: memeMoralist->cleric -->
+  <Structure_TheistEmbodied.generalRules.rulesStrings.10>memeMoralist->cleric</Structure_TheistEmbodied.generalRules.rulesStrings.10>
   <!-- EN: spiritual -->
-  <Structure_TheistEmbodied.symbolPacks.0.adjective>TODO</Structure_TheistEmbodied.symbolPacks.0.adjective>
+  <Structure_TheistEmbodied.symbolPacks.0.adjective>spiritual</Structure_TheistEmbodied.symbolPacks.0.adjective>
   <!-- EN: Spiritism -->
-  <Structure_TheistEmbodied.symbolPacks.0.ideoName>TODO</Structure_TheistEmbodied.symbolPacks.0.ideoName>
+  <Structure_TheistEmbodied.symbolPacks.0.ideoName>Spiritism</Structure_TheistEmbodied.symbolPacks.0.ideoName>
   <!-- EN: spiritist -->
-  <Structure_TheistEmbodied.symbolPacks.0.member>TODO</Structure_TheistEmbodied.symbolPacks.0.member>
+  <Structure_TheistEmbodied.symbolPacks.0.member>spiritist</Structure_TheistEmbodied.symbolPacks.0.member>
   <!-- EN: spiritualism -->
-  <Structure_TheistEmbodied.symbolPacks.0.theme>TODO</Structure_TheistEmbodied.symbolPacks.0.theme>
+  <Structure_TheistEmbodied.symbolPacks.0.theme>spiritualism</Structure_TheistEmbodied.symbolPacks.0.theme>
   <!-- EN: faithful -->
-  <Structure_TheistEmbodied.symbolPacks.1.adjective>TODO</Structure_TheistEmbodied.symbolPacks.1.adjective>
+  <Structure_TheistEmbodied.symbolPacks.1.adjective>faithful</Structure_TheistEmbodied.symbolPacks.1.adjective>
   <!-- EN: Faith -->
-  <Structure_TheistEmbodied.symbolPacks.1.ideoName>TODO</Structure_TheistEmbodied.symbolPacks.1.ideoName>
+  <Structure_TheistEmbodied.symbolPacks.1.ideoName>Faith</Structure_TheistEmbodied.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
-  <Structure_TheistEmbodied.symbolPacks.1.member>TODO</Structure_TheistEmbodied.symbolPacks.1.member>
+  <Structure_TheistEmbodied.symbolPacks.1.member>faithholder</Structure_TheistEmbodied.symbolPacks.1.member>
   <!-- EN: faith -->
-  <Structure_TheistEmbodied.symbolPacks.1.theme>TODO</Structure_TheistEmbodied.symbolPacks.1.theme>
+  <Structure_TheistEmbodied.symbolPacks.1.theme>faith</Structure_TheistEmbodied.symbolPacks.1.theme>
   <!-- EN: pantheon -->
-  <Structure_TheistEmbodied.worshipRoomLabel>TODO</Structure_TheistEmbodied.worshipRoomLabel>
+  <Structure_TheistEmbodied.worshipRoomLabel>사원</Structure_TheistEmbodied.worshipRoomLabel>
   
 </LanguageData>
