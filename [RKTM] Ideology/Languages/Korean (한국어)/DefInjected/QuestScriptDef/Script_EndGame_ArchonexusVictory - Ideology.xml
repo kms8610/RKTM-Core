@@ -23,7 +23,7 @@
   <!-- EN: factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural] -->
   <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.7>factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural]</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.7>
   <!-- EN: factionPawnsPlural(factionless==true)->wild people -->
-  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.8>factionPawnsPlural(factionless==true)->wild people</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.8>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.8>factionPawnsPlural(factionless==true)->야인들</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.8>
   <!-- EN: descriptionIntro(factionless==false)->[civilOutlander_name] is -->
   <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.9>descriptionIntro(factionless==false)->[civilOutlander_name] is</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.9>
   <!-- EN: descriptionIntro(factionless==true)->A group of wild people are -->
@@ -46,7 +46,7 @@
   <!-- EN: takeoverPawnsPlural(factionless==true)->[wildPeople] -->
   <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.6>takeoverPawnsPlural(factionless==true)->[wildPeople]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.6>
   <!-- EN: wildPeople->wild people -->
-  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.7>wildPeople->wild people</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.7>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.7>wildPeople->야인들</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.7>
   <!-- EN: descriptionStudyRequirement(studyRequirement==true)->\n\nThe next map part is encoded in a very strange way. In order to interpret it, you must first learn more about archotechnology by studying the structure here. -->
   <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.8>descriptionStudyRequirement(studyRequirement==true)->\n\nThe next map part is encoded in a very strange way. In order to interpret it, you must first learn more about archotechnology by studying the structure here.</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.8>
   <!-- EN: descriptionStudyRequirement(studyRequirement==false)-> -->

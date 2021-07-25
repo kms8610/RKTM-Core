@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Buddhist origin -->
-  <Structure_OriginBuddhist.label>Buddhist origin</Structure_OriginBuddhist.label>
+  <Structure_OriginBuddhist.label>불교 기원</Structure_OriginBuddhist.label>
   <!-- EN: This ideoligion is a descendant of ancient Buddhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
   <Structure_OriginBuddhist.description>This ideoligion is a descendant of ancient Buddhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginBuddhist.description>
   <!-- EN: r_ideoName(p=99)->[globalAdjective] [packIdeoName] -->
@@ -14,27 +14,27 @@
   <!-- EN: r_ideoName(p=99)->[packIdeoName] -->
   <Structure_OriginBuddhist.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.3>
   <!-- EN: memeLeaderNoun->bodhisattva -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.4>memeLeaderNoun->bodhisattva</Structure_OriginBuddhist.generalRules.rulesStrings.4>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.4>memeLeaderNoun->보살</Structure_OriginBuddhist.generalRules.rulesStrings.4>
   <!-- EN: memeLeaderNoun->sattva -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.5>memeLeaderNoun->sattva</Structure_OriginBuddhist.generalRules.rulesStrings.5>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.5>memeLeaderNoun->사트바</Structure_OriginBuddhist.generalRules.rulesStrings.5>
   <!-- EN: memeLeaderNoun->lama -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.6>memeLeaderNoun->lama</Structure_OriginBuddhist.generalRules.rulesStrings.6>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.6>memeLeaderNoun->라마</Structure_OriginBuddhist.generalRules.rulesStrings.6>
   <!-- EN: memeLeaderAdjective->enlightened -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.7>memeLeaderAdjective->enlightened</Structure_OriginBuddhist.generalRules.rulesStrings.7>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.7>memeLeaderAdjective->깨우침을 받은</Structure_OriginBuddhist.generalRules.rulesStrings.7>
   <!-- EN: memeLeaderAdjective->wise -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.8>memeLeaderAdjective->wise</Structure_OriginBuddhist.generalRules.rulesStrings.8>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.8>memeLeaderAdjective->지혜로운</Structure_OriginBuddhist.generalRules.rulesStrings.8>
   <!-- EN: memeLeaderAdjective->spiritual -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.9>memeLeaderAdjective->spiritual</Structure_OriginBuddhist.generalRules.rulesStrings.9>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.9>memeLeaderAdjective->숭고한</Structure_OriginBuddhist.generalRules.rulesStrings.9>
   <!-- EN: memeLeaderAdjective->bodhi -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.10>memeLeaderAdjective->bodhi</Structure_OriginBuddhist.generalRules.rulesStrings.10>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.10>memeLeaderAdjective->완전한 깨달음을 얻은</Structure_OriginBuddhist.generalRules.rulesStrings.10>
   <!-- EN: memeLeaderAdjective->dalai -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.11>memeLeaderAdjective->dalai</Structure_OriginBuddhist.generalRules.rulesStrings.11>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.11>memeLeaderAdjective->티베트 불교의</Structure_OriginBuddhist.generalRules.rulesStrings.11>
   <!-- EN: memeMoralist(p=2)->bhikkhu -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.12>memeMoralist(p=2)->bhikkhu</Structure_OriginBuddhist.generalRules.rulesStrings.12>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.12>memeMoralist(p=2)->수도사</Structure_OriginBuddhist.generalRules.rulesStrings.12>
   <!-- EN: memeMoralist->priest -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.13>memeMoralist->priest</Structure_OriginBuddhist.generalRules.rulesStrings.13>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.13>memeMoralist->성직자</Structure_OriginBuddhist.generalRules.rulesStrings.13>
   <!-- EN: memeMoralist->monk -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.14>memeMoralist->monk</Structure_OriginBuddhist.generalRules.rulesStrings.14>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.14>memeMoralist->수도승</Structure_OriginBuddhist.generalRules.rulesStrings.14>
   <!-- EN: Buddhist -->
   <Structure_OriginBuddhist.symbolPacks.0.adjective>Buddhist</Structure_OriginBuddhist.symbolPacks.0.adjective>
   <!-- EN: Buddhism -->
@@ -42,7 +42,7 @@
   <!-- EN: Buddhist -->
   <Structure_OriginBuddhist.symbolPacks.0.member>불교</Structure_OriginBuddhist.symbolPacks.0.member>
   <!-- EN: Buddha -->
-  <Structure_OriginBuddhist.symbolPacks.0.theme>Buddha</Structure_OriginBuddhist.symbolPacks.0.theme>
+  <Structure_OriginBuddhist.symbolPacks.0.theme>부처</Structure_OriginBuddhist.symbolPacks.0.theme>
   <!-- EN: Theric -->
   <Structure_OriginBuddhist.symbolPacks.1.adjective>Theric</Structure_OriginBuddhist.symbolPacks.1.adjective>
   <!-- EN: Theravada -->
@@ -101,7 +101,7 @@
   <Structure_OriginBuddhist.worshipRoomLabel>pagoda</Structure_OriginBuddhist.worshipRoomLabel>
   
   <!-- EN: Christian origin -->
-  <Structure_OriginChristian.label>Christian origin</Structure_OriginChristian.label>
+  <Structure_OriginChristian.label>기독교 기원</Structure_OriginChristian.label>
   <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Christianity. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
   <Structure_OriginChristian.description>This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Christianity. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginChristian.description>
   <!-- EN: r_ideoName(p=99)->[globalAdjective] [packIdeoName] -->
@@ -113,63 +113,63 @@
   <!-- EN: r_ideoName(p=99)->[packIdeoName] -->
   <Structure_OriginChristian.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.3>
   <!-- EN: memeLeaderNoun->bishop -->
-  <Structure_OriginChristian.generalRules.rulesStrings.4>memeLeaderNoun->bishop</Structure_OriginChristian.generalRules.rulesStrings.4>
+  <Structure_OriginChristian.generalRules.rulesStrings.4>memeLeaderNoun->주교</Structure_OriginChristian.generalRules.rulesStrings.4>
   <!-- EN: memeLeaderNoun->cardinal -->
-  <Structure_OriginChristian.generalRules.rulesStrings.5>memeLeaderNoun->cardinal</Structure_OriginChristian.generalRules.rulesStrings.5>
+  <Structure_OriginChristian.generalRules.rulesStrings.5>memeLeaderNoun->추기경</Structure_OriginChristian.generalRules.rulesStrings.5>
   <!-- EN: memeLeaderNoun->pope -->
-  <Structure_OriginChristian.generalRules.rulesStrings.6>memeLeaderNoun->pope</Structure_OriginChristian.generalRules.rulesStrings.6>
+  <Structure_OriginChristian.generalRules.rulesStrings.6>memeLeaderNoun->교황</Structure_OriginChristian.generalRules.rulesStrings.6>
   <!-- EN: memeLeaderNoun->pontiff -->
-  <Structure_OriginChristian.generalRules.rulesStrings.7>memeLeaderNoun->pontiff</Structure_OriginChristian.generalRules.rulesStrings.7>
+  <Structure_OriginChristian.generalRules.rulesStrings.7>memeLeaderNoun->제사장</Structure_OriginChristian.generalRules.rulesStrings.7>
   <!-- EN: memeLeaderNoun->legate -->
-  <Structure_OriginChristian.generalRules.rulesStrings.8>memeLeaderNoun->legate</Structure_OriginChristian.generalRules.rulesStrings.8>
+  <Structure_OriginChristian.generalRules.rulesStrings.8>memeLeaderNoun->사절</Structure_OriginChristian.generalRules.rulesStrings.8>
   <!-- EN: memeLeaderNoun->nuncio -->
-  <Structure_OriginChristian.generalRules.rulesStrings.9>memeLeaderNoun->nuncio</Structure_OriginChristian.generalRules.rulesStrings.9>
+  <Structure_OriginChristian.generalRules.rulesStrings.9>memeLeaderNoun->교황의 사절</Structure_OriginChristian.generalRules.rulesStrings.9>
   <!-- EN: memeLeaderNoun->divus -->
-  <Structure_OriginChristian.generalRules.rulesStrings.10>memeLeaderNoun->divus</Structure_OriginChristian.generalRules.rulesStrings.10>
+  <Structure_OriginChristian.generalRules.rulesStrings.10>memeLeaderNoun->디부스</Structure_OriginChristian.generalRules.rulesStrings.10>
   <!-- EN: memeLeaderNoun->ecclesiast -->
-  <Structure_OriginChristian.generalRules.rulesStrings.11>memeLeaderNoun->ecclesiast</Structure_OriginChristian.generalRules.rulesStrings.11>
+  <Structure_OriginChristian.generalRules.rulesStrings.11>memeLeaderNoun->성직자</Structure_OriginChristian.generalRules.rulesStrings.11>
   <!-- EN: memeLeaderAdjective->holy -->
-  <Structure_OriginChristian.generalRules.rulesStrings.12>memeLeaderAdjective->holy</Structure_OriginChristian.generalRules.rulesStrings.12>
+  <Structure_OriginChristian.generalRules.rulesStrings.12>memeLeaderAdjective->신성한</Structure_OriginChristian.generalRules.rulesStrings.12>
   <!-- EN: memeLeaderAdjective->divine -->
-  <Structure_OriginChristian.generalRules.rulesStrings.13>memeLeaderAdjective->divine</Structure_OriginChristian.generalRules.rulesStrings.13>
+  <Structure_OriginChristian.generalRules.rulesStrings.13>memeLeaderAdjective->신성한</Structure_OriginChristian.generalRules.rulesStrings.13>
   <!-- EN: memeLeaderAdjective->Christ's -->
-  <Structure_OriginChristian.generalRules.rulesStrings.14>memeLeaderAdjective->Christ's</Structure_OriginChristian.generalRules.rulesStrings.14>
+  <Structure_OriginChristian.generalRules.rulesStrings.14>memeLeaderAdjective->예수의</Structure_OriginChristian.generalRules.rulesStrings.14>
   <!-- EN: memeLeaderAdjective->God's -->
-  <Structure_OriginChristian.generalRules.rulesStrings.15>memeLeaderAdjective->God's</Structure_OriginChristian.generalRules.rulesStrings.15>
+  <Structure_OriginChristian.generalRules.rulesStrings.15>memeLeaderAdjective->신의</Structure_OriginChristian.generalRules.rulesStrings.15>
   <!-- EN: memeMoralist->priest -->
-  <Structure_OriginChristian.generalRules.rulesStrings.16>memeMoralist->priest</Structure_OriginChristian.generalRules.rulesStrings.16>
+  <Structure_OriginChristian.generalRules.rulesStrings.16>memeMoralist->성직자</Structure_OriginChristian.generalRules.rulesStrings.16>
   <!-- EN: memeMoralist->pastor -->
-  <Structure_OriginChristian.generalRules.rulesStrings.17>memeMoralist->pastor</Structure_OriginChristian.generalRules.rulesStrings.17>
+  <Structure_OriginChristian.generalRules.rulesStrings.17>memeMoralist->목사</Structure_OriginChristian.generalRules.rulesStrings.17>
   <!-- EN: memeMoralist->cleric -->
-  <Structure_OriginChristian.generalRules.rulesStrings.18>memeMoralist->cleric</Structure_OriginChristian.generalRules.rulesStrings.18>
+  <Structure_OriginChristian.generalRules.rulesStrings.18>memeMoralist->성직자</Structure_OriginChristian.generalRules.rulesStrings.18>
   <!-- EN: memeMoralist->preacher -->
-  <Structure_OriginChristian.generalRules.rulesStrings.19>memeMoralist->preacher</Structure_OriginChristian.generalRules.rulesStrings.19>
+  <Structure_OriginChristian.generalRules.rulesStrings.19>memeMoralist->설교자</Structure_OriginChristian.generalRules.rulesStrings.19>
   <!-- EN: memeMoralist->rector -->
-  <Structure_OriginChristian.generalRules.rulesStrings.20>memeMoralist->rector</Structure_OriginChristian.generalRules.rulesStrings.20>
+  <Structure_OriginChristian.generalRules.rulesStrings.20>memeMoralist->교구 신부</Structure_OriginChristian.generalRules.rulesStrings.20>
   <!-- EN: memeMoralist->abbot -->
-  <Structure_OriginChristian.generalRules.rulesStrings.21>memeMoralist->abbot</Structure_OriginChristian.generalRules.rulesStrings.21>
+  <Structure_OriginChristian.generalRules.rulesStrings.21>memeMoralist->대수도원장</Structure_OriginChristian.generalRules.rulesStrings.21>
   <!-- EN: Christian -->
-  <Structure_OriginChristian.symbolPacks.0.adjective>Christian</Structure_OriginChristian.symbolPacks.0.adjective>
+  <Structure_OriginChristian.symbolPacks.0.adjective>기독교도</Structure_OriginChristian.symbolPacks.0.adjective>
   <!-- EN: Christianity -->
-  <Structure_OriginChristian.symbolPacks.0.ideoName>Christianity</Structure_OriginChristian.symbolPacks.0.ideoName>
+  <Structure_OriginChristian.symbolPacks.0.ideoName>기독교</Structure_OriginChristian.symbolPacks.0.ideoName>
   <!-- EN: Christian -->
   <Structure_OriginChristian.symbolPacks.0.member>기독교</Structure_OriginChristian.symbolPacks.0.member>
   <!-- EN: Catholic -->
-  <Structure_OriginChristian.symbolPacks.1.adjective>Catholic</Structure_OriginChristian.symbolPacks.1.adjective>
+  <Structure_OriginChristian.symbolPacks.1.adjective>가톨릭</Structure_OriginChristian.symbolPacks.1.adjective>
   <!-- EN: Catholicism -->
-  <Structure_OriginChristian.symbolPacks.1.ideoName>Catholicism</Structure_OriginChristian.symbolPacks.1.ideoName>
+  <Structure_OriginChristian.symbolPacks.1.ideoName>카톨리즘</Structure_OriginChristian.symbolPacks.1.ideoName>
   <!-- EN: Catholic -->
-  <Structure_OriginChristian.symbolPacks.1.member>Catholic</Structure_OriginChristian.symbolPacks.1.member>
+  <Structure_OriginChristian.symbolPacks.1.member>가톨릭</Structure_OriginChristian.symbolPacks.1.member>
   <!-- EN: Protestant -->
-  <Structure_OriginChristian.symbolPacks.2.adjective>Protestant</Structure_OriginChristian.symbolPacks.2.adjective>
+  <Structure_OriginChristian.symbolPacks.2.adjective>개신교</Structure_OriginChristian.symbolPacks.2.adjective>
   <!-- EN: Protestantism -->
-  <Structure_OriginChristian.symbolPacks.2.ideoName>Protestantism</Structure_OriginChristian.symbolPacks.2.ideoName>
+  <Structure_OriginChristian.symbolPacks.2.ideoName>개신교</Structure_OriginChristian.symbolPacks.2.ideoName>
   <!-- EN: Protestant -->
-  <Structure_OriginChristian.symbolPacks.2.member>Protestant</Structure_OriginChristian.symbolPacks.2.member>
+  <Structure_OriginChristian.symbolPacks.2.member>개신교</Structure_OriginChristian.symbolPacks.2.member>
   <!-- EN: Orthodox -->
-  <Structure_OriginChristian.symbolPacks.3.adjective>Orthodox</Structure_OriginChristian.symbolPacks.3.adjective>
+  <Structure_OriginChristian.symbolPacks.3.adjective>정교회</Structure_OriginChristian.symbolPacks.3.adjective>
   <!-- EN: Orthodoxy -->
-  <Structure_OriginChristian.symbolPacks.3.ideoName>Orthodoxy</Structure_OriginChristian.symbolPacks.3.ideoName>
+  <Structure_OriginChristian.symbolPacks.3.ideoName>정교회</Structure_OriginChristian.symbolPacks.3.ideoName>
   <!-- EN: Orthodoxist -->
   <Structure_OriginChristian.symbolPacks.3.member>Orthodoxist</Structure_OriginChristian.symbolPacks.3.member>
   <!-- EN: Nestorian -->
@@ -185,29 +185,29 @@
   <!-- EN: Anglican -->
   <Structure_OriginChristian.symbolPacks.5.member>Anglican</Structure_OriginChristian.symbolPacks.5.member>
   <!-- EN: Baptist -->
-  <Structure_OriginChristian.symbolPacks.6.adjective>Baptist</Structure_OriginChristian.symbolPacks.6.adjective>
+  <Structure_OriginChristian.symbolPacks.6.adjective>침례파</Structure_OriginChristian.symbolPacks.6.adjective>
   <!-- EN: Baptism -->
-  <Structure_OriginChristian.symbolPacks.6.ideoName>Baptism</Structure_OriginChristian.symbolPacks.6.ideoName>
+  <Structure_OriginChristian.symbolPacks.6.ideoName>침례</Structure_OriginChristian.symbolPacks.6.ideoName>
   <!-- EN: Baptist -->
-  <Structure_OriginChristian.symbolPacks.6.member>Baptist</Structure_OriginChristian.symbolPacks.6.member>
+  <Structure_OriginChristian.symbolPacks.6.member>침례파</Structure_OriginChristian.symbolPacks.6.member>
   <!-- EN: Anabaptist -->
-  <Structure_OriginChristian.symbolPacks.7.adjective>Anabaptist</Structure_OriginChristian.symbolPacks.7.adjective>
+  <Structure_OriginChristian.symbolPacks.7.adjective>재침례파</Structure_OriginChristian.symbolPacks.7.adjective>
   <!-- EN: Anabaptism -->
-  <Structure_OriginChristian.symbolPacks.7.ideoName>Anabaptism</Structure_OriginChristian.symbolPacks.7.ideoName>
+  <Structure_OriginChristian.symbolPacks.7.ideoName>재침례</Structure_OriginChristian.symbolPacks.7.ideoName>
   <!-- EN: Anabaptist -->
-  <Structure_OriginChristian.symbolPacks.7.member>Anabaptist</Structure_OriginChristian.symbolPacks.7.member>
+  <Structure_OriginChristian.symbolPacks.7.member>재침례파</Structure_OriginChristian.symbolPacks.7.member>
   <!-- EN: Calvinist -->
-  <Structure_OriginChristian.symbolPacks.8.adjective>Calvinist</Structure_OriginChristian.symbolPacks.8.adjective>
+  <Structure_OriginChristian.symbolPacks.8.adjective>개혁주의자</Structure_OriginChristian.symbolPacks.8.adjective>
   <!-- EN: Calvinism -->
-  <Structure_OriginChristian.symbolPacks.8.ideoName>Calvinism</Structure_OriginChristian.symbolPacks.8.ideoName>
+  <Structure_OriginChristian.symbolPacks.8.ideoName>개혁주의</Structure_OriginChristian.symbolPacks.8.ideoName>
   <!-- EN: Calvinist -->
-  <Structure_OriginChristian.symbolPacks.8.member>Calvinist</Structure_OriginChristian.symbolPacks.8.member>
+  <Structure_OriginChristian.symbolPacks.8.member>개혁주의자</Structure_OriginChristian.symbolPacks.8.member>
   <!-- EN: Lutheran -->
-  <Structure_OriginChristian.symbolPacks.9.adjective>Lutheran</Structure_OriginChristian.symbolPacks.9.adjective>
+  <Structure_OriginChristian.symbolPacks.9.adjective>루터파 신도</Structure_OriginChristian.symbolPacks.9.adjective>
   <!-- EN: Lutheranism -->
-  <Structure_OriginChristian.symbolPacks.9.ideoName>Lutheranism</Structure_OriginChristian.symbolPacks.9.ideoName>
+  <Structure_OriginChristian.symbolPacks.9.ideoName>루터교</Structure_OriginChristian.symbolPacks.9.ideoName>
   <!-- EN: Lutheran -->
-  <Structure_OriginChristian.symbolPacks.9.member>Lutheran</Structure_OriginChristian.symbolPacks.9.member>
+  <Structure_OriginChristian.symbolPacks.9.member>루터파 신도</Structure_OriginChristian.symbolPacks.9.member>
   <!-- EN: Adventist -->
   <Structure_OriginChristian.symbolPacks.10.adjective>Adventist</Structure_OriginChristian.symbolPacks.10.adjective>
   <!-- EN: Adventism -->
@@ -233,10 +233,10 @@
   <!-- EN: Theonomist -->
   <Structure_OriginChristian.symbolPacks.13.member>Theonomist</Structure_OriginChristian.symbolPacks.13.member>
   <!-- EN: church -->
-  <Structure_OriginChristian.worshipRoomLabel>church</Structure_OriginChristian.worshipRoomLabel>
+  <Structure_OriginChristian.worshipRoomLabel>교회</Structure_OriginChristian.worshipRoomLabel>
   
   <!-- EN: Hindu origin -->
-  <Structure_OriginHindu.label>Hindu origin</Structure_OriginHindu.label>
+  <Structure_OriginHindu.label>힌두교 기원</Structure_OriginHindu.label>
   <!-- EN: This is a variant of the embodied theist structure. This ideoligion is a descendant of ancient Hinduism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
   <Structure_OriginHindu.description>This is a variant of the embodied theist structure. This ideoligion is a descendant of ancient Hinduism. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginHindu.description>
   <!-- EN: God of Creation -->
@@ -312,33 +312,33 @@
   <!-- EN: r_ideoName(p=99)->[packIdeoName] -->
   <Structure_OriginHindu.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.3>
   <!-- EN: memeLeaderNoun->mahatma -->
-  <Structure_OriginHindu.generalRules.rulesStrings.4>memeLeaderNoun->mahatma</Structure_OriginHindu.generalRules.rulesStrings.4>
+  <Structure_OriginHindu.generalRules.rulesStrings.4>memeLeaderNoun->마하트마</Structure_OriginHindu.generalRules.rulesStrings.4>
   <!-- EN: memeLeaderNoun->ishvara -->
-  <Structure_OriginHindu.generalRules.rulesStrings.5>memeLeaderNoun->ishvara</Structure_OriginHindu.generalRules.rulesStrings.5>
+  <Structure_OriginHindu.generalRules.rulesStrings.5>memeLeaderNoun->이시바라</Structure_OriginHindu.generalRules.rulesStrings.5>
   <!-- EN: memeLeaderNoun->yogi -->
-  <Structure_OriginHindu.generalRules.rulesStrings.6>memeLeaderNoun->yogi</Structure_OriginHindu.generalRules.rulesStrings.6>
+  <Structure_OriginHindu.generalRules.rulesStrings.6>memeLeaderNoun->수행자</Structure_OriginHindu.generalRules.rulesStrings.6>
   <!-- EN: memeLeaderNoun->pandit -->
-  <Structure_OriginHindu.generalRules.rulesStrings.7>memeLeaderNoun->pandit</Structure_OriginHindu.generalRules.rulesStrings.7>
+  <Structure_OriginHindu.generalRules.rulesStrings.7>memeLeaderNoun->판딧</Structure_OriginHindu.generalRules.rulesStrings.7>
   <!-- EN: memeLeaderNoun->avatar -->
-  <Structure_OriginHindu.generalRules.rulesStrings.8>memeLeaderNoun->avatar</Structure_OriginHindu.generalRules.rulesStrings.8>
+  <Structure_OriginHindu.generalRules.rulesStrings.8>memeLeaderNoun->아바타</Structure_OriginHindu.generalRules.rulesStrings.8>
   <!-- EN: memeLeaderAdjective->sacred -->
-  <Structure_OriginHindu.generalRules.rulesStrings.9>memeLeaderAdjective->sacred</Structure_OriginHindu.generalRules.rulesStrings.9>
+  <Structure_OriginHindu.generalRules.rulesStrings.9>memeLeaderAdjective->성스러운</Structure_OriginHindu.generalRules.rulesStrings.9>
   <!-- EN: memeLeaderAdjective->hindic -->
-  <Structure_OriginHindu.generalRules.rulesStrings.10>memeLeaderAdjective->hindic</Structure_OriginHindu.generalRules.rulesStrings.10>
+  <Structure_OriginHindu.generalRules.rulesStrings.10>memeLeaderAdjective->힌두교적인</Structure_OriginHindu.generalRules.rulesStrings.10>
   <!-- EN: memeLeaderAdjective->indic -->
-  <Structure_OriginHindu.generalRules.rulesStrings.11>memeLeaderAdjective->indic</Structure_OriginHindu.generalRules.rulesStrings.11>
+  <Structure_OriginHindu.generalRules.rulesStrings.11>memeLeaderAdjective->인도의</Structure_OriginHindu.generalRules.rulesStrings.11>
   <!-- EN: memeLeaderAdjective->yogic -->
-  <Structure_OriginHindu.generalRules.rulesStrings.12>memeLeaderAdjective->yogic</Structure_OriginHindu.generalRules.rulesStrings.12>
+  <Structure_OriginHindu.generalRules.rulesStrings.12>memeLeaderAdjective->요가의</Structure_OriginHindu.generalRules.rulesStrings.12>
   <!-- EN: memeLeaderAdjective->tirth -->
-  <Structure_OriginHindu.generalRules.rulesStrings.13>memeLeaderAdjective->tirth</Structure_OriginHindu.generalRules.rulesStrings.13>
+  <Structure_OriginHindu.generalRules.rulesStrings.13>memeLeaderAdjective->십일조의</Structure_OriginHindu.generalRules.rulesStrings.13>
   <!-- EN: memeMoralist(p=3)->pujari -->
-  <Structure_OriginHindu.generalRules.rulesStrings.14>memeMoralist(p=3)->pujari</Structure_OriginHindu.generalRules.rulesStrings.14>
+  <Structure_OriginHindu.generalRules.rulesStrings.14>memeMoralist(p=3)->성직자</Structure_OriginHindu.generalRules.rulesStrings.14>
   <!-- EN: memeMoralist->purohit -->
-  <Structure_OriginHindu.generalRules.rulesStrings.15>memeMoralist->purohit</Structure_OriginHindu.generalRules.rulesStrings.15>
+  <Structure_OriginHindu.generalRules.rulesStrings.15>memeMoralist->사제</Structure_OriginHindu.generalRules.rulesStrings.15>
   <!-- EN: memeMoralist->archaka -->
-  <Structure_OriginHindu.generalRules.rulesStrings.16>memeMoralist->archaka</Structure_OriginHindu.generalRules.rulesStrings.16>
+  <Structure_OriginHindu.generalRules.rulesStrings.16>memeMoralist->아차크</Structure_OriginHindu.generalRules.rulesStrings.16>
   <!-- EN: memeMoralist->brahmin -->
-  <Structure_OriginHindu.generalRules.rulesStrings.17>memeMoralist->brahmin</Structure_OriginHindu.generalRules.rulesStrings.17>
+  <Structure_OriginHindu.generalRules.rulesStrings.17>memeMoralist->브라만</Structure_OriginHindu.generalRules.rulesStrings.17>
   <!-- EN: Hindu -->
   <Structure_OriginHindu.symbolPacks.0.adjective>Hindu</Structure_OriginHindu.symbolPacks.0.adjective>
   <!-- EN: Hinduism -->
@@ -424,10 +424,10 @@
   <!-- EN: Vedantan -->
   <Structure_OriginHindu.symbolPacks.13.member>Vedantan</Structure_OriginHindu.symbolPacks.13.member>
   <!-- EN: shrine -->
-  <Structure_OriginHindu.worshipRoomLabel>shrine</Structure_OriginHindu.worshipRoomLabel>
+  <Structure_OriginHindu.worshipRoomLabel>신전</Structure_OriginHindu.worshipRoomLabel>
   
   <!-- EN: Islamic origin -->
-  <Structure_OriginIslamic.label>Islamic origin</Structure_OriginIslamic.label>
+  <Structure_OriginIslamic.label>이슬람교 기원</Structure_OriginIslamic.label>
   <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Islam. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
   <Structure_OriginIslamic.description>This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Islam. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginIslamic.description>
   <!-- EN: r_ideoName(p=99)->[globalAdjective] [packIdeoName] -->
@@ -439,35 +439,35 @@
   <!-- EN: r_ideoName(p=99)->[packIdeoName] -->
   <Structure_OriginIslamic.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.3>
   <!-- EN: memeLeaderNoun->mullah -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.4>memeLeaderNoun->mullah</Structure_OriginIslamic.generalRules.rulesStrings.4>
+  <Structure_OriginIslamic.generalRules.rulesStrings.4>memeLeaderNoun->물라</Structure_OriginIslamic.generalRules.rulesStrings.4>
   <!-- EN: memeLeaderNoun->imam -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.5>memeLeaderNoun->imam</Structure_OriginIslamic.generalRules.rulesStrings.5>
+  <Structure_OriginIslamic.generalRules.rulesStrings.5>memeLeaderNoun->이맘</Structure_OriginIslamic.generalRules.rulesStrings.5>
   <!-- EN: memeLeaderNoun->caliph -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.6>memeLeaderNoun->caliph</Structure_OriginIslamic.generalRules.rulesStrings.6>
+  <Structure_OriginIslamic.generalRules.rulesStrings.6>memeLeaderNoun->칼리프</Structure_OriginIslamic.generalRules.rulesStrings.6>
   <!-- EN: memeLeaderNoun->mufti -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.7>memeLeaderNoun->mufti</Structure_OriginIslamic.generalRules.rulesStrings.7>
+  <Structure_OriginIslamic.generalRules.rulesStrings.7>memeLeaderNoun->법 해석관</Structure_OriginIslamic.generalRules.rulesStrings.7>
   <!-- EN: memeLeaderNoun->almami -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.8>memeLeaderNoun->almami</Structure_OriginIslamic.generalRules.rulesStrings.8>
+  <Structure_OriginIslamic.generalRules.rulesStrings.8>memeLeaderNoun->알마미</Structure_OriginIslamic.generalRules.rulesStrings.8>
   <!-- EN: memeLeaderNoun->kyai -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.9>memeLeaderNoun->kyai</Structure_OriginIslamic.generalRules.rulesStrings.9>
+  <Structure_OriginIslamic.generalRules.rulesStrings.9>memeLeaderNoun->캬이</Structure_OriginIslamic.generalRules.rulesStrings.9>
   <!-- EN: memeLeaderNoun->ayatollah -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.10>memeLeaderNoun->ayatollah</Structure_OriginIslamic.generalRules.rulesStrings.10>
+  <Structure_OriginIslamic.generalRules.rulesStrings.10>memeLeaderNoun->아야톨라</Structure_OriginIslamic.generalRules.rulesStrings.10>
   <!-- EN: memeLeaderAdjective->grand -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.11>memeLeaderAdjective->grand</Structure_OriginIslamic.generalRules.rulesStrings.11>
+  <Structure_OriginIslamic.generalRules.rulesStrings.11>memeLeaderAdjective->위대한</Structure_OriginIslamic.generalRules.rulesStrings.11>
   <!-- EN: memeMoralist(p=4)->imam -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.12>memeMoralist(p=4)->imam</Structure_OriginIslamic.generalRules.rulesStrings.12>
+  <Structure_OriginIslamic.generalRules.rulesStrings.12>memeMoralist(p=4)->이맘</Structure_OriginIslamic.generalRules.rulesStrings.12>
   <!-- EN: memeMoralist->qadi -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.13>memeMoralist->qadi</Structure_OriginIslamic.generalRules.rulesStrings.13>
+  <Structure_OriginIslamic.generalRules.rulesStrings.13>memeMoralist->카디</Structure_OriginIslamic.generalRules.rulesStrings.13>
   <!-- EN: memeMoralist->alim -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.14>memeMoralist->alim</Structure_OriginIslamic.generalRules.rulesStrings.14>
+  <Structure_OriginIslamic.generalRules.rulesStrings.14>memeMoralist->알림</Structure_OriginIslamic.generalRules.rulesStrings.14>
   <!-- EN: memeMoralist->allamah -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.15>memeMoralist->allamah</Structure_OriginIslamic.generalRules.rulesStrings.15>
+  <Structure_OriginIslamic.generalRules.rulesStrings.15>memeMoralist->알라마</Structure_OriginIslamic.generalRules.rulesStrings.15>
   <!-- EN: memeMoralist->muezzin -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.16>memeMoralist->muezzin</Structure_OriginIslamic.generalRules.rulesStrings.16>
+  <Structure_OriginIslamic.generalRules.rulesStrings.16>memeMoralist->무에진</Structure_OriginIslamic.generalRules.rulesStrings.16>
   <!-- EN: memeMoralist->mujtahid -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.17>memeMoralist->mujtahid</Structure_OriginIslamic.generalRules.rulesStrings.17>
+  <Structure_OriginIslamic.generalRules.rulesStrings.17>memeMoralist->무지타히드</Structure_OriginIslamic.generalRules.rulesStrings.17>
   <!-- EN: memeMoralist->cleric -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.18>memeMoralist->cleric</Structure_OriginIslamic.generalRules.rulesStrings.18>
+  <Structure_OriginIslamic.generalRules.rulesStrings.18>memeMoralist->성직자</Structure_OriginIslamic.generalRules.rulesStrings.18>
   <!-- EN: Islamic -->
   <Structure_OriginIslamic.symbolPacks.0.adjective>Islamic</Structure_OriginIslamic.symbolPacks.0.adjective>
   <!-- EN: Islam -->

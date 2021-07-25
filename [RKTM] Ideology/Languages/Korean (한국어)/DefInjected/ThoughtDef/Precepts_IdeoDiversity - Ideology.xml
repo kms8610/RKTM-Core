@@ -2,35 +2,35 @@
 <LanguageData>
   
   <!-- EN: false altar -->
-  <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>false altar</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>거짓된 제단</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>
   <!-- EN: The altar of a false belief is in the room with our {ALTAR_labelShort}! It's a disgusting violation of our sanctity. -->
   <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>The altar of a false belief is in the room with our {ALTAR_labelShort}! It's a disgusting violation of our sanctity.</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>
   
   <!-- EN: false altar -->
-  <IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>false altar</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>거짓된 제단</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>
   <!-- EN: The altar of a false belief is in the room with our {ALTAR_labelShort}. It's wrong. -->
   <IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>The altar of a false belief is in the room with our {ALTAR_labelShort}. It's wrong.</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>
   
   <!-- EN: false altar -->
-  <IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>false altar</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>
+  <IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>거짓된 제단</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>
   <!-- EN: The altar of a false belief is in the room with our {ALTAR_labelShort}. It's a violation of our sanctity. -->
   <IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>The altar of a false belief is in the room with our {ALTAR_labelShort}. It's a violation of our sanctity.</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>
   
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>diverse thoughts</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>다양한 생각</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>
   <!-- EN: My truth is so pure and obvious, yet some of those around me are captured by evil. It's abhorrent. -->
-  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.description>My truth is so pure and obvious, yet some of those around me are captured by evil. It's abhorrent.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.description>내 믿음은 정말로 순수하고 진실하지만 내 주변 몇몇 사람들은 악에 사로잡혀 있어. 혐오스러운 일이군.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.label>diverse thoughts</IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.label>다양한 생각</IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.label>
   <!-- EN: My truth is so pure and obvious, yet many of those around me are captured by evil. It's abhorrent. -->
-  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.description>My truth is so pure and obvious, yet many of those around me are captured by evil. It's abhorrent.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.description>내 믿음은 정말로 순수하고 진실하지만 내 주변 대부분의 사람들은 악에 사로잡혀 있어. 혐오스러운 일이군.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.label>diverse thoughts</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.label>다양한 생각</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.label>
   <!-- EN: My truth is so pure and obvious, yet almost all of those around me are captured by evil. It's abhorrent. -->
-  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>My truth is so pure and obvious, yet almost all of those around me are captured by evil. It's abhorrent.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>내 믿음은 정말로 순수하고 진실하지만 내 주변 거의 모든 사람들은 악에 사로잡혀 있어. 혐오스러운 일이군.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>
   
   <!-- EN: different ideoligion -->
-  <IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>different ideoligion</IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>
+  <IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>다른 이념</IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>
   
   <!-- EN: {ADJECTIVE}-style surroundings -->
   <IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.label>{ADJECTIVE}-style surroundings</IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.label>
@@ -42,22 +42,22 @@
   <IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>I am surrounded by constructions that do not match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>
   
   <!-- EN: uniform thoughts -->
-  <IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>uniform thoughts</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>
+  <IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>통일된 생각</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>
   <!-- EN: Our community is free from evil thoughts, as it should be. -->
-  <IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.description>Our community is free from evil thoughts, as it should be.</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.description>
+  <IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.description>우리 공동체는 사악한 생각으로부터 자유로워, 응당 그래야하는 것 처럼.</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.description>
   
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Approved.stages.diverse_thoughts-0.label>diverse thoughts</IdeoDiversity_Approved.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-0.label>다양한 생각</IdeoDiversity_Approved.stages.diverse_thoughts-0.label>
   <!-- EN: Some others here have different beliefs. It's a sign of a healthy community. -->
-  <IdeoDiversity_Approved.stages.diverse_thoughts-0.description>Some others here have different beliefs. It's a sign of a healthy community.</IdeoDiversity_Approved.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-0.description>여기 중 몇몇은 다른 믿음을 가지고 있어. 건전한 공동체의 상징이지.</IdeoDiversity_Approved.stages.diverse_thoughts-0.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Approved.stages.diverse_thoughts-1.label>diverse thoughts</IdeoDiversity_Approved.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-1.label>다양한 생각</IdeoDiversity_Approved.stages.diverse_thoughts-1.label>
   <!-- EN: Many others here have different beliefs. It's a sign of a healthy community. -->
-  <IdeoDiversity_Approved.stages.diverse_thoughts-1.description>Many others here have different beliefs. It's a sign of a healthy community.</IdeoDiversity_Approved.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-1.description>여기 많은 사람들이 다른 믿음을 가지고 있어. 건전한 공동체의 상징이지.</IdeoDiversity_Approved.stages.diverse_thoughts-1.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Approved.stages.diverse_thoughts-2.label>diverse thoughts</IdeoDiversity_Approved.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-2.label>다양한 생각</IdeoDiversity_Approved.stages.diverse_thoughts-2.label>
   <!-- EN: Almost all others here have different beliefs. It's a sign of a healthy community. -->
-  <IdeoDiversity_Approved.stages.diverse_thoughts-2.description>Almost all others here have different beliefs. It's a sign of a healthy community.</IdeoDiversity_Approved.stages.diverse_thoughts-2.description>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-2.description>거의 모든 사람들이 다른 믿음을 가지고 있어. 건전한 공동체의 상징이지.</IdeoDiversity_Approved.stages.diverse_thoughts-2.description>
   
   <!-- EN: {ADJECTIVE} surroundings -->
   <IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>{ADJECTIVE} surroundings</IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>
@@ -69,20 +69,20 @@
   <IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>My surroundings are not at all {ADJECTIVE}. I enjoy the diversity.</IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>
   
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>diverse thoughts</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>다양한 생각</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>
   <!-- EN: My truth is clear, yet some of those around me are so foolish they can't see it. I don't like being subjected to their idiocy. -->
-  <IdeoDiversity_Disapproved.stages.diverse_thoughts-0.description>My truth is clear, yet some of those around me are so foolish they can't see it. I don't like being subjected to their idiocy.</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-0.description>내 믿음은 분명하지만 내 주변 사람들은 너무 멍청해서 알아차리지 못해. 그들의 멍청함에 동조하고 싶지 않아.</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Disapproved.stages.diverse_thoughts-1.label>diverse thoughts</IdeoDiversity_Disapproved.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-1.label>다양한 생각</IdeoDiversity_Disapproved.stages.diverse_thoughts-1.label>
   <!-- EN: My truth is clear, yet many of those around me are so foolish they can't see it. I don't like being subjected to their idiocy. -->
-  <IdeoDiversity_Disapproved.stages.diverse_thoughts-1.description>My truth is clear, yet many of those around me are so foolish they can't see it. I don't like being subjected to their idiocy.</IdeoDiversity_Disapproved.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-1.description>내 믿음은 분명하지만 내 주변 대부분의 사람들은 너무 멍청해서 알아차리지 못해. 그들의 멍청함에 동조하고 싶지 않아.</IdeoDiversity_Disapproved.stages.diverse_thoughts-1.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Disapproved.stages.diverse_thoughts-2.label>diverse thoughts</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-2.label>다양한 생각</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.label>
   <!-- EN: My truth is clear, yet almost all of those around me are so foolish they can't see it. I don't like being subjected to their idiocy. -->
-  <IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>My truth is clear, yet almost all of those around me are so foolish they can't see it. I don't like being subjected to their idiocy.</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>내 믿음은 분명하지만 내 주변 거의 모든 사람들은 너무 멍청해서 알아차리지 못해. 그들의 멍청함에 동조하고 싶지 않아.</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>
   
   <!-- EN: different ideoligion -->
-  <IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>different ideoligion</IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>
+  <IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>다른 이념</IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>
   
   <!-- EN: {ADJECTIVE}-style surroundings -->
   <IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.label>{ADJECTIVE}-style surroundings</IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.label>
@@ -94,20 +94,20 @@
   <IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>I am surrounded by constructions that do not match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>
   
   <!-- EN: uniform thoughts -->
-  <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>uniform thoughts</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>
+  <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>통일된 생각</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>
   <!-- EN: Our community is free of foolishness, as it should be. -->
-  <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>Our community is free of foolishness, as it should be.</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>
+  <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>우리 공동체는 어리석음으로부터 자유로워, 응당 그래야하는 것 처럼.</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>
   
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>diverse thoughts</IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>다양한 생각</IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>
   <!-- EN: Some others here have different beliefs. I'm so proud to be part of such a community. -->
   <IdeoDiversity_Exalted.stages.diverse_thoughts-0.description>Some others here have different beliefs. I'm so proud to be part of such a community.</IdeoDiversity_Exalted.stages.diverse_thoughts-0.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Exalted.stages.diverse_thoughts-1.label>diverse thoughts</IdeoDiversity_Exalted.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-1.label>다양한 생각</IdeoDiversity_Exalted.stages.diverse_thoughts-1.label>
   <!-- EN: Many others here have different beliefs. I'm so proud to be part of such a community. -->
   <IdeoDiversity_Exalted.stages.diverse_thoughts-1.description>Many others here have different beliefs. I'm so proud to be part of such a community.</IdeoDiversity_Exalted.stages.diverse_thoughts-1.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Exalted.stages.diverse_thoughts-2.label>diverse thoughts</IdeoDiversity_Exalted.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-2.label>다양한 생각</IdeoDiversity_Exalted.stages.diverse_thoughts-2.label>
   <!-- EN: Almost all others here have different beliefs. I'm so proud to be part of such a community. -->
   <IdeoDiversity_Exalted.stages.diverse_thoughts-2.description>Almost all others here have different beliefs. I'm so proud to be part of such a community.</IdeoDiversity_Exalted.stages.diverse_thoughts-2.description>
   
@@ -121,20 +121,20 @@
   <IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>My surroundings are not at all {ADJECTIVE}. I'm very happy to be part of this diverse community.</IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>
   
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>diverse thoughts</IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>다양한 생각</IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>
   <!-- EN: My truth is so obvious, yet some of those around me are so deluded. It's horrible. -->
-  <IdeoDiversity_Horrible.stages.diverse_thoughts-0.description>My truth is so obvious, yet some of those around me are so deluded. It's horrible.</IdeoDiversity_Horrible.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-0.description>내 믿음은 명백하지만 내 주변 중에 몇몇은 속고 있어. 끔찍한 일이야.</IdeoDiversity_Horrible.stages.diverse_thoughts-0.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Horrible.stages.diverse_thoughts-1.label>diverse thoughts</IdeoDiversity_Horrible.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-1.label>다양한 생각</IdeoDiversity_Horrible.stages.diverse_thoughts-1.label>
   <!-- EN: My truth is so obvious, yet many those around me are so deluded. It's horrible. -->
-  <IdeoDiversity_Horrible.stages.diverse_thoughts-1.description>My truth is so obvious, yet many those around me are so deluded. It's horrible.</IdeoDiversity_Horrible.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-1.description>내 믿음은 명백하지만 내 주변 대부분의 사람들은 속고 있어. 끔찍한 일이야.</IdeoDiversity_Horrible.stages.diverse_thoughts-1.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>diverse thoughts</IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>다양한 생각</IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>
   <!-- EN: My truth is so obvious, yet almost all of those around me are so deluded. It's horrible. -->
-  <IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>My truth is so obvious, yet almost all of those around me are so deluded. It's horrible.</IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>내 믿음은 명백하지만 내 주변 거의 모든 사람들은 속고 있어. 끔찍한 일이야.</IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>
   
   <!-- EN: different ideoligion -->
-  <IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>different ideoligion</IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>
+  <IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>다른 이념</IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>
   
   <!-- EN: {ADJECTIVE}-style surroundings -->
   <IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.label>{ADJECTIVE}-style surroundings</IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.label>
@@ -146,22 +146,22 @@
   <IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>I am surrounded by constructions that do not match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>
   
   <!-- EN: uniform thoughts -->
-  <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>uniform thoughts</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>
+  <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>획일적인 생각</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>
   <!-- EN: Our community is free of filthy delusions, as it should be. -->
-  <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>Our community is free of filthy delusions, as it should be.</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>
+  <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>우리 공동체는 번뇌로부터 자유로워, 응당 그래야하는 것 처럼.</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>
   
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Respected.stages.diverse_thoughts-0.label>diverse thoughts</IdeoDiversity_Respected.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-0.label>다양한 생각</IdeoDiversity_Respected.stages.diverse_thoughts-0.label>
   <!-- EN: Some others here have different beliefs. It's an important sign of a healthy community. -->
-  <IdeoDiversity_Respected.stages.diverse_thoughts-0.description>Some others here have different beliefs. It's an important sign of a healthy community.</IdeoDiversity_Respected.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-0.description>여기 중 몇몇은 다른 믿음을 가지고 있어. 건전한 공동체의 중요한 상징이지.</IdeoDiversity_Respected.stages.diverse_thoughts-0.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Respected.stages.diverse_thoughts-1.label>diverse thoughts</IdeoDiversity_Respected.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-1.label>다양한 생각</IdeoDiversity_Respected.stages.diverse_thoughts-1.label>
   <!-- EN: Many others here have different beliefs. It's an important sign of a healthy community. -->
-  <IdeoDiversity_Respected.stages.diverse_thoughts-1.description>Many others here have different beliefs. It's an important sign of a healthy community.</IdeoDiversity_Respected.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-1.description>여기 많은 사람들이 다른 믿음을 가지고 있어. 건전한 공동체의 중요한 상징이지.</IdeoDiversity_Respected.stages.diverse_thoughts-1.description>
   <!-- EN: diverse thoughts -->
-  <IdeoDiversity_Respected.stages.diverse_thoughts-2.label>diverse thoughts</IdeoDiversity_Respected.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-2.label>다양한 생각</IdeoDiversity_Respected.stages.diverse_thoughts-2.label>
   <!-- EN: Almost all others here have different beliefs. It's an important sign of a healthy community. -->
-  <IdeoDiversity_Respected.stages.diverse_thoughts-2.description>Almost all others here have different beliefs. It's an important sign of a healthy community.</IdeoDiversity_Respected.stages.diverse_thoughts-2.description>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-2.description>거의 모든 사람들이 다른 믿음을 가지고 있어. 건전한 공동체의 중요한 상징이지.</IdeoDiversity_Respected.stages.diverse_thoughts-2.description>
   
   <!-- EN: {ADJECTIVE} surroundings -->
   <IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>{ADJECTIVE} surroundings</IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>

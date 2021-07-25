@@ -8,13 +8,13 @@
   <!-- EN: r_ideoRelicName->[memeAdjective] [thingLabel] -->
   <NamerIdeoRelic.rulePack.rulesStrings.2>r_ideoRelicName->[memeAdjective] [thingLabel]</NamerIdeoRelic.rulePack.rulesStrings.2>
   <!-- EN: r_ideoRelicName->[memeHyphenPrefix]-[thingLabel] -->
-  <NamerIdeoRelic.rulePack.rulesStrings.3>r_ideoRelicName->[memeHyphenPrefix]-[thingLabel]</NamerIdeoRelic.rulePack.rulesStrings.3>
+  <NamerIdeoRelic.rulePack.rulesStrings.3>r_ideoRelicName->[memeHyphenPrefix] [thingLabel]</NamerIdeoRelic.rulePack.rulesStrings.3>
   <!-- EN: r_ideoRelicName->[memeAdjective] [relic] -->
   <NamerIdeoRelic.rulePack.rulesStrings.4>r_ideoRelicName->[memeAdjective] [relic]</NamerIdeoRelic.rulePack.rulesStrings.4>
   <!-- EN: r_ideoRelicName->[relic] of [memeConcept] -->
   <NamerIdeoRelic.rulePack.rulesStrings.5>r_ideoRelicName->[memeConcept]의 [relic]</NamerIdeoRelic.rulePack.rulesStrings.5>
   <!-- EN: r_ideoRelicName->[memeHyphenPrefix]-[relic] -->
-  <NamerIdeoRelic.rulePack.rulesStrings.6>r_ideoRelicName->[memeHyphenPrefix]-[relic]</NamerIdeoRelic.rulePack.rulesStrings.6>
+  <NamerIdeoRelic.rulePack.rulesStrings.6>r_ideoRelicName->[memeHyphenPrefix] [relic]</NamerIdeoRelic.rulePack.rulesStrings.6>
   <!-- EN: relic->relic -->
   <NamerIdeoRelic.rulePack.rulesStrings.7>relic->유물</NamerIdeoRelic.rulePack.rulesStrings.7>
   <!-- EN: relic->artifact -->
@@ -104,7 +104,7 @@
   <!-- EN: second->mass -->
   <NamerIdeoRelic.rulePack.rulesStrings.50>second->집합체</NamerIdeoRelic.rulePack.rulesStrings.50>
   <!-- EN: second->corpus -->
-  <NamerIdeoRelic.rulePack.rulesStrings.51>second->문서</NamerIdeoRelic.rulePack.rulesStrings.51>
+  <NamerIdeoRelic.rulePack.rulesStrings.51>second->신체</NamerIdeoRelic.rulePack.rulesStrings.51>
   <!-- EN: second->focus -->
   <NamerIdeoRelic.rulePack.rulesStrings.52>second->초점</NamerIdeoRelic.rulePack.rulesStrings.52>
   <!-- EN: second->lens -->

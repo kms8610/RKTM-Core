@@ -4,11 +4,11 @@
   <!-- EN: target -->
   <BlindingCeremony.roles.0.label>목표</BlindingCeremony.roles.0.label>
   <!-- EN: the person to blind -->
-  <BlindingCeremony.roles.0.missingDesc>the person to blind</BlindingCeremony.roles.0.missingDesc>
+  <BlindingCeremony.roles.0.missingDesc>실명 대상자</BlindingCeremony.roles.0.missingDesc>
   <!-- EN: cutter -->
-  <BlindingCeremony.roles.1.label>cutter</BlindingCeremony.roles.1.label>
+  <BlindingCeremony.roles.1.label>'베는 자'</BlindingCeremony.roles.1.label>
   <!-- EN: the person who performs the blinding -->
-  <BlindingCeremony.roles.1.missingDesc>the person who performs the blinding</BlindingCeremony.roles.1.missingDesc>
+  <BlindingCeremony.roles.1.missingDesc>실명 집도자</BlindingCeremony.roles.1.missingDesc>
   
   <!-- EN: participate -->
   <BurnCircle.spectatorGerund>참여자</BurnCircle.spectatorGerund>
@@ -20,9 +20,9 @@
   <!-- EN: Participants -->
   <CelebrationPartyDanceDrum.spectatorsLabel>참여자</CelebrationPartyDanceDrum.spectatorsLabel>
   <!-- EN: Campfire is missing. -->
-  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>Campfire is missing.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>모닥불 없음.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
   <!-- EN: Campfire is not lit. -->
-  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>Campfire is not lit.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>모닥불이 꺼져있습니다.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
   <!-- EN: No drums. -->
   <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>No drums.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
   
@@ -37,20 +37,20 @@
   <CelebrationTree.spectatorsLabel>참여자</CelebrationTree.spectatorsLabel>
   
   <!-- EN: speaker -->
-  <Conversion.roles.0.label>speaker</Conversion.roles.0.label>
+  <Conversion.roles.0.label>연설자</Conversion.roles.0.label>
   <!-- EN: convertee -->
-  <Conversion.roles.1.label>convertee</Conversion.roles.1.label>
+  <Conversion.roles.1.label>교화 대상</Conversion.roles.1.label>
   <!-- EN: Prisoner is not reachable. -->
-  <Conversion.stages.0.failTriggers.0.desc>Prisoner is not reachable.</Conversion.stages.0.failTriggers.0.desc>
+  <Conversion.stages.0.failTriggers.0.desc>수감자에게 도달할 수 없음.</Conversion.stages.0.failTriggers.0.desc>
   
   <!-- EN: participate -->
   <DancePartyTech.spectatorGerund>참여자</DancePartyTech.spectatorGerund>
   <!-- EN: Participants -->
   <DancePartyTech.spectatorsLabel>참여자</DancePartyTech.spectatorsLabel>
   <!-- EN: Lightball is missing. -->
-  <DancePartyTech.stages.0.failTriggers.0.desc>Lightball is missing.</DancePartyTech.stages.0.failTriggers.0.desc>
+  <DancePartyTech.stages.0.failTriggers.0.desc>미러볼 없음.</DancePartyTech.stages.0.failTriggers.0.desc>
   <!-- EN: Lightball is not powered. -->
-  <DancePartyTech.stages.0.failTriggers.1.desc>Lightball is not powered.</DancePartyTech.stages.0.failTriggers.1.desc>
+  <DancePartyTech.stages.0.failTriggers.1.desc>미러볼에 전력이 공급되지 않습니다.</DancePartyTech.stages.0.failTriggers.1.desc>
   <!-- EN: No powered loudspeakers. -->
   <DancePartyTech.stages.0.failTriggers.2.desc>No powered loudspeakers.</DancePartyTech.stages.0.failTriggers.2.desc>
   
@@ -61,20 +61,20 @@
   <!-- EN: Participants -->
   <DateRitual.spectatorsLabel>참여자</DateRitual.spectatorsLabel>
   <!-- EN: {0}: The speech is over, and the party is beginning. -->
-  <DateRitual.stages.0.postAction.text>{0}: The speech is over, and the party is beginning.</DateRitual.stages.0.postAction.text>
+  <DateRitual.stages.0.postAction.text>{0}: 연설이 끝났습니다. 파티가 시작됩니다.</DateRitual.stages.0.postAction.text>
   
   <!-- EN: executioner -->
-  <Execution.roles.0.label>executioner</Execution.roles.0.label>
+  <Execution.roles.0.label>처형자</Execution.roles.0.label>
   <!-- EN: an executioner -->
-  <Execution.roles.0.missingDesc>an executioner</Execution.roles.0.missingDesc>
+  <Execution.roles.0.missingDesc>처형을 집행할 처형자입니다.</Execution.roles.0.missingDesc>
   <!-- EN: prisoner -->
   <Execution.roles.1.label>수감자</Execution.roles.1.label>
   <!-- EN: a prisoner -->
-  <Execution.roles.1.missingDesc>a prisoner</Execution.roles.1.missingDesc>
+  <Execution.roles.1.missingDesc>수감자</Execution.roles.1.missingDesc>
   <!-- EN: Spectators must be willing to watch the execution. -->
   <Execution.spectatorFilter.description>관전자들이 처형을 관전하길 원해야 합니다.</Execution.spectatorFilter.description>
   <!-- EN: Prisoner is not reachable. -->
-  <Execution.stages.0.failTriggers.0.desc>Prisoner is not reachable.</Execution.stages.0.failTriggers.0.desc>
+  <Execution.stages.0.failTriggers.0.desc>수감자에게 도달할 수 없음.</Execution.stages.0.failTriggers.0.desc>
   
   <!-- EN: participate -->
   <FeastCannibal.spectatorGerund>참여자</FeastCannibal.spectatorGerund>
@@ -122,11 +122,11 @@
   <!-- EN: {RITUAL_labelCap} -->
   <LeaderSpeech.letterTitle>{RITUAL_labelCap}</LeaderSpeech.letterTitle>
   <!-- EN: speaker -->
-  <LeaderSpeech.roles.0.label>speaker</LeaderSpeech.roles.0.label>
+  <LeaderSpeech.roles.0.label>연설자</LeaderSpeech.roles.0.label>
   
   <!-- EN: cutter -->
   <SacrificeAnimal.roles.0.label>산제물</SacrificeAnimal.roles.0.label>
-  <SacrificeAnimal.roles.0.missingDesc>an animal with body size of at least 0.8</SacrificeAnimal.roles.0.missingDesc>
+  <SacrificeAnimal.roles.0.missingDesc>몸 크기가 적어도 0.8 이상인 동물</SacrificeAnimal.roles.0.missingDesc>
   <!-- EN: sacrifice -->
   <SacrificeAnimal.roles.1.label>TODO</SacrificeAnimal.roles.1.label>
   <!-- EN: an animal with body size of at least 0.8 -->
@@ -136,7 +136,7 @@
   <!-- EN: Participants -->
   <SacrificeAnimal.spectatorsLabel>TODO</SacrificeAnimal.spectatorsLabel>
   <!-- EN: Animal is not reachable. -->
-  <SacrificeAnimal.stages.0.failTriggers.0.desc>Animal is not reachable.</SacrificeAnimal.stages.0.failTriggers.0.desc>
+  <SacrificeAnimal.stages.0.failTriggers.0.desc>동물에게 도달할 수 없음.</SacrificeAnimal.stages.0.failTriggers.0.desc>
   
   <!-- EN: cutter -->
   <SacrificePrisoner.roles.0.label>산제물</SacrificePrisoner.roles.0.label>
@@ -155,9 +155,9 @@
   <!-- EN: target -->
   <ScarificationCeremony.roles.0.label>목표</ScarificationCeremony.roles.0.label>
   <!-- EN: the person to scarify -->
-  <ScarificationCeremony.roles.0.missingDesc>the person to scarify</ScarificationCeremony.roles.0.missingDesc>
+  <ScarificationCeremony.roles.0.missingDesc>겁주는 사람</ScarificationCeremony.roles.0.missingDesc>
   <!-- EN: cutter -->
-  <ScarificationCeremony.roles.1.label>cutter</ScarificationCeremony.roles.1.label>
+  <ScarificationCeremony.roles.1.label>'베는 자'</ScarificationCeremony.roles.1.label>
   <!-- EN: the person who performs the scarification -->
   <ScarificationCeremony.roles.1.missingDesc>상흔 문신을 새기는 사람</ScarificationCeremony.roles.1.missingDesc>
   
@@ -167,7 +167,7 @@
   <SmokeCircle.spectatorsLabel>참여자</SmokeCircle.spectatorsLabel>
   
   <!-- EN: connector -->
-  <TreeConnection.roles.0.label>connector</TreeConnection.roles.0.label>
+  <TreeConnection.roles.0.label>'연결하는 자'</TreeConnection.roles.0.label>
   <!-- EN: spectate -->
   <TreeConnection.spectatorGerund>관전</TreeConnection.spectatorGerund>
   <!-- EN: Spectators -->

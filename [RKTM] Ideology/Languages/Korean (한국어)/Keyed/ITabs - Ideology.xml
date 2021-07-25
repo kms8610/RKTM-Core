@@ -81,9 +81,9 @@
   <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
   <RoleDesc>이 사람이 자신의 사상에서 맡고 있는 특별한 지위입니다. 이 보직을 바꾸거나 박탈할 경우 기분이 나빠질 것입니다.</RoleDesc>
   <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
-  <ConversionWeakerDueToTraitAgreements>대상의 특성과 사상의 가르침이 잘 맞으므로 교화 시도가 약해짐</ConversionWeakerDueToTraitAgreements>
+  <ConversionWeakerDueToTraitAgreements>대상의 특성과 사상이 잘 어울리기 때문에 개종 효율이 약해짐</ConversionWeakerDueToTraitAgreements>
   <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->
-  <ConversionStrongerDueToTraitAgreements>대상의 특성과 사상의 가르침이 충돌하므로 교화 시도가 약해짐</ConversionStrongerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>대상의 특성과 사상이 충돌하기 때문에 개종 효율이 상승함</ConversionStrongerDueToTraitAgreements>
 
   <!-- EN: Cut -->
   <Cut>절제</Cut>

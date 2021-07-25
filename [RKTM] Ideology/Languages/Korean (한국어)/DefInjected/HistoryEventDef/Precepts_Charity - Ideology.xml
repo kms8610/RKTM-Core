@@ -23,7 +23,7 @@
   <CharityFulfilled_WandererJoins.label>wanderer accepted</CharityFulfilled_WandererJoins.label>
   
   <!-- EN: beggars refused -->
-  <CharityRefused_Beggars.label>beggars refused</CharityRefused_Beggars.label>
+  <CharityRefused_Beggars.label>거지들이 거절당함</CharityRefused_Beggars.label>
   
   <!-- EN: beggars betrayed -->
   <CharityRefused_Beggars_Betrayed.label>거지들이 배신당함</CharityRefused_Beggars_Betrayed.label>

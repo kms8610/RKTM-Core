@@ -4,28 +4,28 @@
   <!-- EN: questDescription->You've detected a [siteLabel] nearby controlled by [faction_name].\n\nIf you wish, you can raid the camp to collect loot ([loot]). [raidConsequences]\n\nThe camp will pack up and move on in [timeout_duration]. -->
   <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.0>questDescription->You've detected a [siteLabel] nearby controlled by [faction_name].\n\nIf you wish, you can raid the camp to collect loot ([loot]). [raidConsequences]\n\nThe camp will pack up and move on in [timeout_duration].</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.0>
   <!-- EN: raidConsequences(faction_temporary==false)->If you do, [faction_name] will become hostile. -->
-  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.1>raidConsequences(faction_temporary==false)->If you do, [faction_name] will become hostile.</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.1>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.1>raidConsequences(faction_temporary==false)->그렇게 하면 [faction_name] 이(가) 적대적이 됩니다.</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.1>
   <!-- EN: raidConsequences(faction_temporary==true)->Since [faction_name] is just a small, independent group, you can attack them without any broader diplomatic consequences. -->
   <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.2>raidConsequences(faction_temporary==true)->Since [faction_name] is just a small, independent group, you can attack them without any broader diplomatic consequences.</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.2>
   <!-- EN: questName->[site_label] [detected] -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings.0>questName->[site_label] [detected]</OpportunitySite_WorkSite.questNameRules.rulesStrings.0>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.0>questName->[detected] [site_label]</OpportunitySite_WorkSite.questNameRules.rulesStrings.0>
   <!-- EN: detected->detected -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings.1>detected->detected</OpportunitySite_WorkSite.questNameRules.rulesStrings.1>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.1>detected->감지된</OpportunitySite_WorkSite.questNameRules.rulesStrings.1>
   <!-- EN: detected->discovered -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings.2>detected->discovered</OpportunitySite_WorkSite.questNameRules.rulesStrings.2>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.2>detected->발견된</OpportunitySite_WorkSite.questNameRules.rulesStrings.2>
   <!-- EN: detected->nearby -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings.3>detected->nearby</OpportunitySite_WorkSite.questNameRules.rulesStrings.3>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.3>detected->근처의</OpportunitySite_WorkSite.questNameRules.rulesStrings.3>
   <!-- EN: detected->found -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings.4>detected->found</OpportunitySite_WorkSite.questNameRules.rulesStrings.4>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.4>detected->찾아낸</OpportunitySite_WorkSite.questNameRules.rulesStrings.4>
   <!-- EN: detected->identified -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings.5>detected->identified</OpportunitySite_WorkSite.questNameRules.rulesStrings.5>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.5>detected->식별된</OpportunitySite_WorkSite.questNameRules.rulesStrings.5>
   <!-- EN: detected->noticed -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings.6>detected->noticed</OpportunitySite_WorkSite.questNameRules.rulesStrings.6>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.6>detected->밝혀진</OpportunitySite_WorkSite.questNameRules.rulesStrings.6>
   <!-- EN: detected->observed -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings.7>detected->observed</OpportunitySite_WorkSite.questNameRules.rulesStrings.7>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.7>detected->관측된</OpportunitySite_WorkSite.questNameRules.rulesStrings.7>
   <!-- EN: detected->revealed -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings.8>detected->revealed</OpportunitySite_WorkSite.questNameRules.rulesStrings.8>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.8>detected->드러난</OpportunitySite_WorkSite.questNameRules.rulesStrings.8>
   <!-- EN: detected->uncovered -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings.9>detected->uncovered</OpportunitySite_WorkSite.questNameRules.rulesStrings.9>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.9>detected->나타난</OpportunitySite_WorkSite.questNameRules.rulesStrings.9>
   
 </LanguageData>

@@ -12,7 +12,7 @@
   <CharityFulfilled_Essential_HospitalityRefugees.stages.refugees_hosted.description>난민들을 도왔어. 난 정말 좋은 사람이야!</CharityFulfilled_Essential_HospitalityRefugees.stages.refugees_hosted.description>
   
   <!-- EN: noble helped -->
-  <CharityFulfilled_Essential_IntroWimp.stages.noble_helped.label>귀족들이 도움받음</CharityFulfilled_Essential_IntroWimp.stages.noble_helped.label>
+  <CharityFulfilled_Essential_IntroWimp.stages.noble_helped.label>귀족을 도와줌</CharityFulfilled_Essential_IntroWimp.stages.noble_helped.label>
   <!-- EN: We helped a royal in need. We really are good people! -->
   <CharityFulfilled_Essential_IntroWimp.stages.noble_helped.description>우리는 귀족들이 곤란할때 도와줬어. 우린 정말 좋은 사람들이야!</CharityFulfilled_Essential_IntroWimp.stages.noble_helped.description>
   
@@ -47,64 +47,64 @@
   <CharityFulfilled_Important_HospitalityRefugees.stages.refugees_hosted.description>우리는 난민들을 수용했어. 타인을 돕는다는건 중요한 일이야.</CharityFulfilled_Important_HospitalityRefugees.stages.refugees_hosted.description>
   
   <!-- EN: noble helped -->
-  <CharityFulfilled_Important_IntroWimp.stages.noble_helped.label>귀족들이 도움받음</CharityFulfilled_Important_IntroWimp.stages.noble_helped.label>
+  <CharityFulfilled_Important_IntroWimp.stages.noble_helped.label>귀족을 도와줌</CharityFulfilled_Important_IntroWimp.stages.noble_helped.label>
   <!-- EN: We helped a royal in need. Helping others is important. -->
   <CharityFulfilled_Important_IntroWimp.stages.noble_helped.description>우리는 귀족들이 곤란할때 도와줬어. 타인을 돕는다는건 중요한 일이야.</CharityFulfilled_Important_IntroWimp.stages.noble_helped.description>
   
   <!-- EN: pod refugee helped -->
   <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.label>추락한 피난민들을 도와줌</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.label>
   <!-- EN: We helped a crashed refugee survive. Helping others is important. -->
-  <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>We helped a crashed refugee survive. Helping others is important.</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>
+  <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>우리는 추락한 난민들을 생존할 수 있게 도와주었어. 타인을 돕는다는건 중요한 일이야.</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>
   
   <!-- EN: shuttle survivors helped -->
   <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>난파자를 도와줌</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
   <!-- EN: We helped shuttle crash survivors. It was clearly the right thing to do. -->
-  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>We helped shuttle crash survivors. It was clearly the right thing to do.</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>우리는 난파된 생존자들을 도와줬어. 아주 옳은 일이었어.</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
   
   <!-- EN: accepted someone in danger -->
   <CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>위험에 처한 누군가를 받아줌</CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>
   <!-- EN: We helped someone under threat. It was the right thing to do. -->
-  <CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>We helped someone under threat. It was the right thing to do.</CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>위협받고 있는 사람을 도왔어. 이건 올바른 일이야.</CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>
   
   <!-- EN: wanderer helped -->
   <CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.label>방랑자를 도와줌</CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.label>
   <!-- EN: We helped a desperate wanderer survive. Helping others is the right thing to do. -->
-  <CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.description>We helped a desperate wanderer survive. Helping others is the right thing to do.</CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.description>
+  <CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.description>우리는 절박한 방랑자가 생존할 수 있게 도와줬어. 남을 돕는 것은 옳은 일이야.</CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.description>
   
   <!-- EN: beggars helped -->
   <CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.label>거지들을 도와줌</CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.label>
   <!-- EN: We helped beggars in need. It's good to be good to people. -->
-  <CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.description>We helped beggars in need. It's good to be good to people.</CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.description>
+  <CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.description>우리는 도움이 필요한 거지를 도와주었어. 선행은 기분이 좋아.</CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.description>
   
   <!-- EN: refugees hosted -->
   <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.label>난민들을 수용함</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.label>
   <!-- EN: We helped refugees. It was good of us. -->
-  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.description>We helped refugees. It was good of us.</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.description>
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.description>우리는 난민들을 도와주었어. 우리를 위한 일이었어.</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.description>
   
   <!-- EN: noble helped -->
-  <CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.label>귀족들이 도움받음</CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.label>
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.label>귀족을 도와줌</CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.label>
   <!-- EN: We helped a royal in need. It was good of us. -->
-  <CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.description>We helped a royal in need. It was good of us.</CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.description>
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.description>우리는 귀족들을 도와주었어. 우리를 위한 일이었어.</CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.description>
   
   <!-- EN: pod refugee helped -->
   <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.label>추락한 피난민들을 도와줌</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.label>
   <!-- EN: We helped a crashed refugee survive. It was good of me. -->
-  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>We helped a crashed refugee survive. It was good of me.</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>우리는 난민들이 생존할 수 있게 도와줬어. 나를 위한 일이었어.</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>
   
   <!-- EN: shuttle survivors helped -->
   <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>난파자를 도와줌</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
   <!-- EN: We helped shuttle crash survivors. It was a good thing. -->
-  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>We helped shuttle crash survivors. It was a good thing.</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>우리는 난파된 생존자들을 도와줬어. 좋은 일이야.</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
   
   <!-- EN: accepted someone in danger -->
   <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>위험에 처한 누군가를 받아줌</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>
   <!-- EN: We helped someone under threat. That was pretty good. -->
-  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>We helped someone under threat. That was pretty good.</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>우리는 위협 받고 있는 사람을 도왔어. 기분이 좋았어.</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>
   
   <!-- EN: wanderer helped -->
   <CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.label>방랑자를 도와줌</CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.label>
   <!-- EN: We helped a desperate wanderer survive. That's a good thing. -->
-  <CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.description>We helped a desperate wanderer survive. That's a good thing.</CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.description>
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.description>우리는 절박한 방랑자가 생존할 수 있게 도와줬어. 좋은 일이야.</CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.description>
   
   <!-- EN: beggars not helped -->
   <CharityRefused_Essential_Beggars.stages.beggars_not_helped.label>거지들을 도와주지 않음</CharityRefused_Essential_Beggars.stages.beggars_not_helped.label>
@@ -117,19 +117,19 @@
   <CharityRefused_Essential_Beggars_Betrayed.stages.beggars_betrayed.description>도움을 구걸해왔는데 우린 그들을 배신해 버렸어. 내 자신을 영영 용서할 수 있을까?</CharityRefused_Essential_Beggars_Betrayed.stages.beggars_betrayed.description>
   
   <!-- EN: refugees not helped -->
-  <CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.label>refugees not helped</CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.label>
+  <CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.label>난민들을 도와주지 않음</CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.label>
   <!-- EN: They were desperate, and we didn't help. How could I be so inhuman? -->
-  <CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.description>They were desperate, and we didn't help. How could I be so inhuman?</CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.description>
+  <CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.description>그들은 절박했지만, 우린 돕지 않았어. 내가 어떻게 그렇게 비인간적일 수 있지?</CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.description>
   
   <!-- EN: noble not helped -->
-  <CharityRefused_Essential_IntroWimp.stages.noble_not_helped.label>noble not helped</CharityRefused_Essential_IntroWimp.stages.noble_not_helped.label>
+  <CharityRefused_Essential_IntroWimp.stages.noble_not_helped.label>귀족을 도와주지 않음</CharityRefused_Essential_IntroWimp.stages.noble_not_helped.label>
   <!-- EN: We refused to help a desperate noble. It was deeply immoral. -->
   <CharityRefused_Essential_IntroWimp.stages.noble_not_helped.description>We refused to help a desperate noble. It was deeply immoral.</CharityRefused_Essential_IntroWimp.stages.noble_not_helped.description>
   
   <!-- EN: crashed refugee not helped -->
-  <CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.label>crashed refugee not helped</CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
+  <CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.label>추락한 피난민을 도와주지 않음</CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
   <!-- EN: They were hurt and need of help, and we didn't help. How can I live with that? -->
-  <CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.description>They were hurt and need of help, and we didn't help. How can I live with that?</CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
+  <CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.description>그들은 다쳤고 도움이 필요했지만, 우린 돕지 않았어. 이런 짓을 하고 앞으로 제대로 살 수나 있을까?</CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
   
   <!-- EN: crashing shuttle ignored -->
   <CharityRefused_Essential_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>추락한 왕복선 무시됨</CharityRefused_Essential_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>
@@ -139,7 +139,7 @@
   <!-- EN: rejected joiner in danger -->
   <CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>rejected joiner in danger</CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>
   <!-- EN: We refused to help someone in real danger. I've deeply violated my beliefs. -->
-  <CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>We refused to help someone in real danger. I've deeply violated my beliefs.</CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>우린 곤경에 처한 사람을 돕지 않았어. 내 신념에 크게 어긋나는 일이야.</CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
   
   <!-- EN: wanderer rejected -->
   <CharityRefused_Essential_WandererJoins.stages.wanderer_rejected.label>방랑자 거부됨</CharityRefused_Essential_WandererJoins.stages.wanderer_rejected.label>
@@ -157,19 +157,19 @@
   <CharityRefused_Important_Beggars_Betrayed.stages.beggars_betrayed.description>도움을 구걸해왔는데 우린 그들을 배신해 버렸어. 정말 끔찍해.</CharityRefused_Important_Beggars_Betrayed.stages.beggars_betrayed.description>
   
   <!-- EN: refugees not helped -->
-  <CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.label>refugees not helped</CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.label>
+  <CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.label>난민들을 도와주지 않음</CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.label>
   <!-- EN: They were desperate, and we didn't help. We were obligated to help. -->
-  <CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.description>They were desperate, and we didn't help. We were obligated to help.</CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.description>
+  <CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.description>그들은 절박했지만, 우린 돕지 않았어. 우린 도와야 할 의무가 있었어.</CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.description>
   
   <!-- EN: noble not helped -->
-  <CharityRefused_Important_IntroWimp.stages.noble_not_helped.label>noble not helped</CharityRefused_Important_IntroWimp.stages.noble_not_helped.label>
+  <CharityRefused_Important_IntroWimp.stages.noble_not_helped.label>귀족을 도와주지 않음</CharityRefused_Important_IntroWimp.stages.noble_not_helped.label>
   <!-- EN: We refused to help a desperate noble. We should have tried harder. -->
   <CharityRefused_Important_IntroWimp.stages.noble_not_helped.description>We refused to help a desperate noble. We should have tried harder.</CharityRefused_Important_IntroWimp.stages.noble_not_helped.description>
   
   <!-- EN: crashed refugee not helped -->
-  <CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.label>crashed refugee not helped</CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
+  <CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.label>추락한 피난민을 도와주지 않음</CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
   <!-- EN: They were hurt and need of help, and we didn't help. Am I even a good person? -->
-  <CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.description>They were hurt and need of help, and we didn't help. Am I even a good person?</CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
+  <CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.description>그들은 다쳤고 도움이 필요했지만, 우린 돕지 않았어. 내가 좋은 사람일까?</CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
   
   <!-- EN: crashing shuttle ignored -->
   <CharityRefused_Important_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>추락한 왕복선 무시됨</CharityRefused_Important_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>
@@ -179,7 +179,7 @@
   <!-- EN: rejected joiner in danger -->
   <CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>rejected joiner in danger</CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>
   <!-- EN: We refused to help someone in real danger. This will stick with me for a long time. -->
-  <CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>We refused to help someone in real danger. This will stick with me for a long time.</CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
+  <CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>우린 곤경에 처한 사람을 돕지 않았어. 이 생각이 날 오랫동안 괴롭힐 거야.</CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
   
   <!-- EN: wanderer rejected -->
   <CharityRefused_Important_WandererJoins.stages.wanderer_rejected.label>방랑자 거부됨</CharityRefused_Important_WandererJoins.stages.wanderer_rejected.label>
@@ -197,17 +197,17 @@
   <CharityRefused_Worthwhile_Beggars_Betrayed.stages.beggars_betrayed.description>도움을 구걸해왔는데 우린 그들을 배신해 버렸어. 이런 일이 다시는 일어나선 안돼.</CharityRefused_Worthwhile_Beggars_Betrayed.stages.beggars_betrayed.description>
   
   <!-- EN: refugees not helped -->
-  <CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.label>refugees not helped</CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.label>
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.label>난민들을 도와주지 않음</CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.label>
   <!-- EN: They were desperate, and we didn't help. It wasn't great. -->
-  <CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.description>They were desperate, and we didn't help. It wasn't great.</CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.description>
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.description>그들은 절박했지만, 우린 돕지 않았지. 이건 좋지 않아.</CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.description>
   
   <!-- EN: noble not helped -->
-  <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>noble not helped</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>
+  <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>귀족을 도와주지 않음</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>
   <!-- EN: We refused to help a desperate noble. Perhaps I am not as charitable as I thought. -->
   <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.description>We refused to help a desperate noble. Perhaps I am not as charitable as I thought.</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.description>
   
   <!-- EN: crashed refugee not helped -->
-  <CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.label>crashed refugee not helped</CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.label>추락한 피난민을 도와주지 않음</CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
   <!-- EN: They were hurt and need of help, and we didn't help. It wasn't the best. -->
   <CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.description>They were hurt and need of help, and we didn't help. It wasn't the best.</CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
   
@@ -219,7 +219,7 @@
   <!-- EN: rejected joiner in danger -->
   <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>rejected joiner in danger</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>
   <!-- EN: We refused to help someone in real danger. It wasn't great. -->
-  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>We refused to help someone in real danger. It wasn't great.</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>우린 곤경에 처한 사람을 돕지 않았어. 좋지 않아.</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
   
   <!-- EN: wanderer rejected -->
   <CharityRefused_Worthwhile_WandererJoins.stages.wanderer_rejected.label>방랑자 거부됨</CharityRefused_Worthwhile_WandererJoins.stages.wanderer_rejected.label>

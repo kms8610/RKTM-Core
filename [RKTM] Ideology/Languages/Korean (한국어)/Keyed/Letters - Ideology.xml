@@ -29,7 +29,7 @@
   <!-- EN: Local slave escape -->
   <LetterLabelLocalSlaveEscape>국지적 노예 탈주</LetterLabelLocalSlaveEscape>
   <!-- EN: A local slave escape has begun! {0_nameDef} and some nearby slaves are making a break for it.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveEscape>국지적인 탈주가 시작됐습니다! {0_nameDef}(와)과 근처 몇몇 노예가 탈주하고 있습니다.\n\n가담자는 다음과 같습니다.\n\n{0}</LetterLocalSlaveEscape>
+  <LetterLocalSlaveEscape>몇몇 노예들이 탈주하기 시작합니다! {0_nameDef}(와)과 근처 노예들이 탈주하고 있습니다.\n\n가담자는 다음과 같습니다.\n\n{1}</LetterLocalSlaveEscape>
   <!-- EN: Slave escape -->
   <LetterLabelSingleSlaveEscape>노예 탈주</LetterLabelSingleSlaveEscape>
   <!-- EN: {0_nameDef} is attempting to escape! -->
@@ -172,7 +172,7 @@
   <!-- EN: You've finally learned the location of the relic {0}! -->
   <LetterTextRelicFoundLocation>마침내 유물, {0}의 위치를 알아냈습니다!</LetterTextRelicFoundLocation>
   <!-- EN: The relic is housed in an ancient structure. It is protected by a security system with multiple independent units. You may choose to defeat the security forces one unit at a time before taking the relic, or try to grab it and flee before they can harm you.\n\nAfter {0}, all security systems will be alerted. -->
-  <LetterTextRelicFoundSecurityThreats>유물이 고대 구조물에 보관되어 있습니다. 다수의 독립된 부대로 구성된 보안 시스템이 주변을 보호하고 있습니다. 보안 부대를 한 번에 하나씩 상대할 수도 있고, 유물을 들고 잡히기 전에 도망치세요.\n\n{0} 후에는 보안 시스템의 모든 구성 요소가 활성화됩니다.</LetterTextRelicFoundSecurityThreats>
+  <LetterTextRelicFoundSecurityThreats>유물이 고대 구조물 안에 보관되어 있습니다. 다수의 독립 부대로 구성된 보안 시스템이 주변을 보호하고 있습니다. 한 번에 하나씩 격파할 수도 있고, 유물을 들고 몰래 도망칠 수도 있습니다.\n\n{0} 후에는 보안 시스템의 모든 구성 요소가 활성화됩니다.</LetterTextRelicFoundSecurityThreats>
 
   <!-- Relics collection -->
   <!-- EN: Relics collected -->

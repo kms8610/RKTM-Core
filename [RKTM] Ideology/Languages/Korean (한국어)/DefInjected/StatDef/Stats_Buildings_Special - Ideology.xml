@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: biosculpter pod speed factor -->
-  <BiosculpterPodSpeedFactor.label>biosculpter pod speed factor</BiosculpterPodSpeedFactor.label>
+  <BiosculpterPodSpeedFactor.label>생체 재구축기 속도 계수</BiosculpterPodSpeedFactor.label>
   <!-- EN: A multiplier on the speed of a biosculpter pod. This is affected by the cleanliness of the room - a cleaner room will result in a quicker biosculpting cycle. -->
   <BiosculpterPodSpeedFactor.description>A multiplier on the speed of a biosculpter pod. This is affected by the cleanliness of the room - a cleaner room will result in a quicker biosculpting cycle.</BiosculpterPodSpeedFactor.description>
   <!-- EN: Room cleanliness -->

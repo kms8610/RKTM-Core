@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: look change desired -->
-  <LookChangeDesired.stages.look_change_desired.label>look change desired</LookChangeDesired.stages.look_change_desired.label>
+  <LookChangeDesired.stages.look_change_desired.label>원하는 모양 변경</LookChangeDesired.stages.look_change_desired.label>
   <!-- EN: The way I look doesn't match who I am today. I want to change it. -->
-  <LookChangeDesired.stages.look_change_desired.description>The way I look doesn't match who I am today. I want to change it.</LookChangeDesired.stages.look_change_desired.description>
+  <LookChangeDesired.stages.look_change_desired.description>오늘의 나는 이렇게 생기지 않았어. 내 모습을 바꾸고 싶어.</LookChangeDesired.stages.look_change_desired.description>
   
   <!-- EN: masochist body strapped -->
   <MasochistWearingBodyStrap.stages.masochist_body_strapped.label>masochist body strapped</MasochistWearingBodyStrap.stages.masochist_body_strapped.label>
@@ -17,13 +17,13 @@
   <MasochistWearingCollar.stages.masochist_collared.description>Such restrictive discomfort... Delightful.</MasochistWearingCollar.stages.masochist_collared.description>
   
   <!-- EN: wearing favorite color -->
-  <WearingColor_Favorite.stages.wearing_favorite_color.label>wearing favorite color</WearingColor_Favorite.stages.wearing_favorite_color.label>
+  <WearingColor_Favorite.stages.wearing_favorite_color.label>좋아하는 색깔 입음</WearingColor_Favorite.stages.wearing_favorite_color.label>
   <!-- EN: I just love this color. -->
-  <WearingColor_Favorite.stages.wearing_favorite_color.description>I just love this color.</WearingColor_Favorite.stages.wearing_favorite_color.description>
+  <WearingColor_Favorite.stages.wearing_favorite_color.description>난 이 색깔이 좋아</WearingColor_Favorite.stages.wearing_favorite_color.description>
   
   <!-- EN: wearing ideoligion color -->
-  <WearingColor_Ideo.stages.wearing_ideoligion_color.label>wearing ideoligion color</WearingColor_Ideo.stages.wearing_ideoligion_color.label>
+  <WearingColor_Ideo.stages.wearing_ideoligion_color.label>사상적 색깔 입음</WearingColor_Ideo.stages.wearing_ideoligion_color.label>
   <!-- EN: My apparel coloring is properly expressing my beliefs. -->
-  <WearingColor_Ideo.stages.wearing_ideoligion_color.description>My apparel coloring is properly expressing my beliefs.</WearingColor_Ideo.stages.wearing_ideoligion_color.description>
+  <WearingColor_Ideo.stages.wearing_ideoligion_color.description>내 의복 색깔은 내 믿음을 잘 표현해.</WearingColor_Ideo.stages.wearing_ideoligion_color.description>
   
 </LanguageData>

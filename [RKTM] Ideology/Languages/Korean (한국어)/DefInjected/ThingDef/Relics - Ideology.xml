@@ -4,17 +4,17 @@
   <!-- EN: ark -->
   <RelicInertArk.label>방주</RelicInertArk.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertArk.description>이데올로기적으로 중요한 물건.\n혹은\n이데올로기적 상징물입니다.</RelicInertArk.description>
+  <RelicInertArk.description>종교적 상징물입니다.</RelicInertArk.description>
   
   <!-- EN: box -->
-  <RelicInertBox.label>상자</RelicInertBox.label>
+  <RelicInertBox.label>성궤</RelicInertBox.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertBox.description>이데올로기적으로 중요한 물건.\n혹은\n이데올로기적 상징물입니다.</RelicInertBox.description>
+  <RelicInertBox.description>종교적 상징물입니다.</RelicInertBox.description>
   
   <!-- EN: cube -->
   <RelicInertCube.label>정육면체</RelicInertCube.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertCube.description>이데올로기적으로 중요한 물건.\n혹은\n이데올로기적 상징물입니다.</RelicInertCube.description>
+  <RelicInertCube.description>종교적 상징물입니다.</RelicInertCube.description>
   
   <!-- EN: chalice -->
   <RelicInertCup.label>성배</RelicInertCup.label>
@@ -22,23 +22,23 @@
   <RelicInertCup.description>사상적인 상징성을 지닌 물건입니다.</RelicInertCup.description>
   
   <!-- EN: fragment -->
-  <RelicInertFragment.label>파편\n혹은\n잔해</RelicInertFragment.label>
+  <RelicInertFragment.label>파편</RelicInertFragment.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertFragment.description>이데올로기적으로 중요한 물건.\n혹은\n이데올로기적 상징물입니다.</RelicInertFragment.description>
+  <RelicInertFragment.description>종교적 상징물입니다.</RelicInertFragment.description>
   
   <!-- EN: pendant -->
   <RelicInertPendant.label>펜던트</RelicInertPendant.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertPendant.description>이데올로기적으로 중요한 물건.\n혹은\n이데올로기적 상징물입니다.</RelicInertPendant.description>
+  <RelicInertPendant.description>상징성을 지닌 물건입니다.</RelicInertPendant.description>
   
   <!-- EN: hilt -->
   <RelicInertSwordHandle.label>칼자루</RelicInertSwordHandle.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertSwordHandle.description>이데올로기적으로 중요한 물건.\n혹은\n이데올로기적 상징물입니다.</RelicInertSwordHandle.description>
+  <RelicInertSwordHandle.description>종교적 상징물입니다.</RelicInertSwordHandle.description>
   
   <!-- EN: tablet -->
-  <RelicInertTablet.label>판</RelicInertTablet.label>
+  <RelicInertTablet.label>석판</RelicInertTablet.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertTablet.description>이데올로기적으로 중요한 물건.\n혹은\n이데올로기적 상징물입니다.</RelicInertTablet.description>
+  <RelicInertTablet.description>종교적 상징물입니다.</RelicInertTablet.description>
   
 </LanguageData>

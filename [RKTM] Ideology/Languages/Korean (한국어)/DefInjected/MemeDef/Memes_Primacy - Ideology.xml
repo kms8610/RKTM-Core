@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: human primacy -->
-  <HumanPrimacy.label>human primacy</HumanPrimacy.label>
+  <HumanPrimacy.label>인간우월</HumanPrimacy.label>
   <!-- EN: Humans are the moral center of the universe. -->
-  <HumanPrimacy.description>Humans are the moral center of the universe.</HumanPrimacy.description>
+  <HumanPrimacy.description>인간이 우주의 중심이다.</HumanPrimacy.description>
   <!-- EN: creation(tag=meme_HumanPrimacy)        ->[deity0_name] created all of nature, and gave it to man as a gift, to serve man and his purposes forever. -->
-  <HumanPrimacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_HumanPrimacy)        ->[deity0_name] created all of nature, and gave it to man as a gift, to serve man and his purposes forever.</HumanPrimacy.descriptionMaker.rules.rulesStrings.0>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_HumanPrimacy)        ->[deity0_name](이)가 자연을 만들되 인간에게 주시니 자연이 인간을 영원히 섬기도록 하기 위함이다.</HumanPrimacy.descriptionMaker.rules.rulesStrings.0>
   <!-- EN: episode(uses=1,tag=meme_HumanPrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their struggle, and gave them weapons to control nature. -->
-  <HumanPrimacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_HumanPrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their struggle, and gave them weapons to control nature.</HumanPrimacy.descriptionMaker.rules.rulesStrings.1>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_HumanPrimacy)  ->사람들이 숲의 짐승에 맞서는 것을 보시고는 [deity0_name](이)가 자연을 굴복시킬 무기를 주셨느니라.</HumanPrimacy.descriptionMaker.rules.rulesStrings.1>
   <!-- EN: intro(tag=meme_HumanPrimacy)           ->The first crashlanded settlers of the [place_summary] [place_name] were beset by manhunting [Animal]s. [deity0_name] intervened, slaying the beasts and making clear [deity0_possessive] preference for the human race. -->
-  <HumanPrimacy.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_HumanPrimacy)           ->The first crashlanded settlers of the [place_summary] [place_name] were beset by manhunting [Animal]s. [deity0_name] intervened, slaying the beasts and making clear [deity0_possessive] preference for the human race.</HumanPrimacy.descriptionMaker.rules.rulesStrings.2>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_HumanPrimacy)           ->[place_summary] [place_name]에 첫 정착민들은 하늘에서 추락했으니 사람을 먹는 [Animal]들이 곧 위협하더라. [deity0_name](이)가 나타나시어 짐승들을 죽이시니 인간을 위함을 확실히 하셨느니라.</HumanPrimacy.descriptionMaker.rules.rulesStrings.2>
   <!-- EN: conflict(tag=meme_HumanPrimacy)        ->An anti-human [foeLeader] made an edict giving some equal rights to both animals and humans. [deity0_name] wept as the [memberNamePlural] were forced to give their rights to [Animal]s and [Animal]s. -->
   <HumanPrimacy.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_HumanPrimacy)        ->An anti-human [foeLeader] made an edict giving some equal rights to both animals and humans. [deity0_name] wept as the [memberNamePlural] were forced to give their rights to [Animal]s and [Animal]s.</HumanPrimacy.descriptionMaker.rules.rulesStrings.3>
   <!-- EN: founderJoin(tag=meme_HumanPrimacy)     ->A [place_job] named [founderName] founded the now-famous xeno-zoo on [place_name]. [founder_pronoun] used animal slaughter performances to teach visitors about [deity0_name]'s desire for humanity to rule nature. -->
   <HumanPrimacy.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_HumanPrimacy)     ->A [place_job] named [founderName] founded the now-famous xeno-zoo on [place_name]. [founder_pronoun] used animal slaughter performances to teach visitors about [deity0_name]'s desire for humanity to rule nature.</HumanPrimacy.descriptionMaker.rules.rulesStrings.4>
   <!-- EN: victory(tag=meme_HumanPrimacy)         ->Because of [founderName]'s actions, the [foeLeader]'s [foeSoldiers] saw [deity0_name]'s truth. They celebrated their shared humanity with the [memberNamePlural] and banished the [foeLeader] to live in the wilderness like an animal. -->
-  <HumanPrimacy.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_HumanPrimacy)         ->Because of [founderName]'s actions, the [foeLeader]'s [foeSoldiers] saw [deity0_name]'s truth. They celebrated their shared humanity with the [memberNamePlural] and banished the [foeLeader] to live in the wilderness like an animal.</HumanPrimacy.descriptionMaker.rules.rulesStrings.5>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_HumanPrimacy)  ->[founderName] 의 행동으로 인해 [foeLeader] 의 [foeSoldiers] 는 [deity0_name] 의 진실을 보았습니다. 그들은 [memberNamePlural] 과(와) 같은 인류애를 축하하고 [foeLeader](을)를 추방하여 광야에서 동물처럼 살게 했습니다. 에</HumanPrimacy.descriptionMaker.rules.rulesStrings.5>
   <!-- EN: setup(tag=meme_HumanPrimacy)           ->[founderName] built a colony on a green world, spreading the dominion of humanity over every field and forest. -->
   <HumanPrimacy.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_HumanPrimacy)           ->[founderName] built a colony on a green world, spreading the dominion of humanity over every field and forest.</HumanPrimacy.descriptionMaker.rules.rulesStrings.6>
   <!-- EN: story(uses=1,tag=meme_HumanPrimacy)    ->Once, [founderName] saw a dog growl at a boy. [founder_pronoun] ordered the dog killed on the spot. -->
@@ -30,68 +30,68 @@
   <!-- EN: lessonReinforcement(tag=meme_HumanPrimacy) ->If the contest is survival of the fittest, then we have clearly won. -->
   <HumanPrimacy.descriptionMaker.rules.rulesStrings.11>lessonReinforcement(tag=meme_HumanPrimacy) ->If the contest is survival of the fittest, then we have clearly won.</HumanPrimacy.descriptionMaker.rules.rulesStrings.11>
   <!-- EN: archistBasis(tag=meme_HumanPrimacy)    ->Archotechs are machines of vast will and power, but only humanity could create them. -->
-  <HumanPrimacy.descriptionMaker.rules.rulesStrings.12>archistBasis(tag=meme_HumanPrimacy)    ->Archotechs are machines of vast will and power, but only humanity could create them.</HumanPrimacy.descriptionMaker.rules.rulesStrings.12>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.12>archistBasis(tag=meme_HumanPrimacy) ->초월은 거대한 의지와 힘을 가진 기계이지만 인간만이 그것을 만들 수 있습니다.</HumanPrimacy.descriptionMaker.rules.rulesStrings.12>
   <!-- EN: archistFact(tag=meme_HumanPrimacy)     ->Humans are the device-makers, and the archotechs are their devices. -->
-  <HumanPrimacy.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_HumanPrimacy)     ->Humans are the device-makers, and the archotechs are their devices.</HumanPrimacy.descriptionMaker.rules.rulesStrings.13>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_HumanPrimacy) ->인간은 도구를 만드는 사람이고 초월은 도구입니다.</HumanPrimacy.descriptionMaker.rules.rulesStrings.13>
   <!-- EN: archistProphecy(tag=meme_HumanPrimacy) ->[inTheEnd], by observing humanity, the archotechs will finally understand their purpose, and lift confident humanity up to rule them. -->
-  <HumanPrimacy.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_HumanPrimacy) ->[inTheEnd], by observing humanity, the archotechs will finally understand their purpose, and lift confident humanity up to rule them.</HumanPrimacy.descriptionMaker.rules.rulesStrings.14>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_HumanPrimacy) -> [inTheEnd], 인류를 관찰함으로써, 초월은 마침내 그들의 목적을 이해하고, 그들을 지배하기 위해 자신감 있는 인류를 들어올릴 것입니다.</HumanPrimacy.descriptionMaker.rules.rulesStrings.14>
   <!-- EN: animistFact(tag=meme_HumanPrimacy)     ->Nature's animals are the spirits of slaves, and demand to be taken into service. -->
   <HumanPrimacy.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_HumanPrimacy)     ->Nature's animals are the spirits of slaves, and demand to be taken into service.</HumanPrimacy.descriptionMaker.rules.rulesStrings.15>
   <!-- EN: memeAdjective->human -->
-  <HumanPrimacy.generalRules.rulesStrings.0>memeAdjective->human</HumanPrimacy.generalRules.rulesStrings.0>
+  <HumanPrimacy.generalRules.rulesStrings.0>memeAdjective->인간</HumanPrimacy.generalRules.rulesStrings.0>
   <!-- EN: memeAdjective->mortal -->
-  <HumanPrimacy.generalRules.rulesStrings.1>memeAdjective->mortal</HumanPrimacy.generalRules.rulesStrings.1>
+  <HumanPrimacy.generalRules.rulesStrings.1>memeAdjective->치명적인</HumanPrimacy.generalRules.rulesStrings.1>
   <!-- EN: memeAdjective->hominid -->
-  <HumanPrimacy.generalRules.rulesStrings.2>memeAdjective->hominid</HumanPrimacy.generalRules.rulesStrings.2>
+  <HumanPrimacy.generalRules.rulesStrings.2>memeAdjective->유인원</HumanPrimacy.generalRules.rulesStrings.2>
   <!-- EN: memeHyphenPrefix->anthro -->
-  <HumanPrimacy.generalRules.rulesStrings.3>memeHyphenPrefix->anthro</HumanPrimacy.generalRules.rulesStrings.3>
+  <HumanPrimacy.generalRules.rulesStrings.3>memeHyphenPrefix->앤트로</HumanPrimacy.generalRules.rulesStrings.3>
   <!-- EN: memeConcept->mankind -->
-  <HumanPrimacy.generalRules.rulesStrings.4>memeConcept->mankind</HumanPrimacy.generalRules.rulesStrings.4>
+  <HumanPrimacy.generalRules.rulesStrings.4>memeConcept->인류</HumanPrimacy.generalRules.rulesStrings.4>
   <!-- EN: memeConcept->humanity -->
-  <HumanPrimacy.generalRules.rulesStrings.5>memeConcept->humanity</HumanPrimacy.generalRules.rulesStrings.5>
+  <HumanPrimacy.generalRules.rulesStrings.5>memeConcept->인문학</HumanPrimacy.generalRules.rulesStrings.5>
   <!-- EN: memeLeaderNoun->human -->
-  <HumanPrimacy.generalRules.rulesStrings.6>memeLeaderNoun->human</HumanPrimacy.generalRules.rulesStrings.6>
+  <HumanPrimacy.generalRules.rulesStrings.6>memeLeaderNoun->인간</HumanPrimacy.generalRules.rulesStrings.6>
   <!-- EN: memeLeaderNoun->hominid -->
-  <HumanPrimacy.generalRules.rulesStrings.7>memeLeaderNoun->hominid</HumanPrimacy.generalRules.rulesStrings.7>
+  <HumanPrimacy.generalRules.rulesStrings.7>memeLeaderNoun->유인원</HumanPrimacy.generalRules.rulesStrings.7>
   <!-- EN: memeLeaderNoun->mortal -->
-  <HumanPrimacy.generalRules.rulesStrings.8>memeLeaderNoun->mortal</HumanPrimacy.generalRules.rulesStrings.8>
+  <HumanPrimacy.generalRules.rulesStrings.8>memeLeaderNoun->치명적인</HumanPrimacy.generalRules.rulesStrings.8>
   <!-- EN: memeLeaderNoun->person -->
-  <HumanPrimacy.generalRules.rulesStrings.9>memeLeaderNoun->person</HumanPrimacy.generalRules.rulesStrings.9>
+  <HumanPrimacy.generalRules.rulesStrings.9>memeLeaderNoun->참사람</HumanPrimacy.generalRules.rulesStrings.9>
   <!-- EN: memeLeaderNoun->sapient -->
-  <HumanPrimacy.generalRules.rulesStrings.10>memeLeaderNoun->sapient</HumanPrimacy.generalRules.rulesStrings.10>
+  <HumanPrimacy.generalRules.rulesStrings.10>memeLeaderNoun->현명한자</HumanPrimacy.generalRules.rulesStrings.10>
   <!-- EN: humanitist -->
-  <HumanPrimacy.symbolPacks.0.adjective>humanitist</HumanPrimacy.symbolPacks.0.adjective>
+  <HumanPrimacy.symbolPacks.0.adjective>휴머니티스트</HumanPrimacy.symbolPacks.0.adjective>
   <!-- EN: Humanitism -->
-  <HumanPrimacy.symbolPacks.0.ideoName>Humanitism</HumanPrimacy.symbolPacks.0.ideoName>
+  <HumanPrimacy.symbolPacks.0.ideoName>휴머니티즘</HumanPrimacy.symbolPacks.0.ideoName>
   <!-- EN: humanitor -->
-  <HumanPrimacy.symbolPacks.0.member>humanitor</HumanPrimacy.symbolPacks.0.member>
+  <HumanPrimacy.symbolPacks.0.member>휴머니터</HumanPrimacy.symbolPacks.0.member>
   <!-- EN: humanity -->
-  <HumanPrimacy.symbolPacks.0.theme>humanity</HumanPrimacy.symbolPacks.0.theme>
+  <HumanPrimacy.symbolPacks.0.theme>휴머니티</HumanPrimacy.symbolPacks.0.theme>
   <!-- EN: pro-man -->
-  <HumanPrimacy.symbolPacks.1.adjective>pro-man</HumanPrimacy.symbolPacks.1.adjective>
+  <HumanPrimacy.symbolPacks.1.adjective>인본주의자</HumanPrimacy.symbolPacks.1.adjective>
   <!-- EN: Mankindism -->
-  <HumanPrimacy.symbolPacks.1.ideoName>Mankindism</HumanPrimacy.symbolPacks.1.ideoName>
+  <HumanPrimacy.symbolPacks.1.ideoName>인본주의</HumanPrimacy.symbolPacks.1.ideoName>
   <!-- EN: mankindist -->
-  <HumanPrimacy.symbolPacks.1.member>mankindist</HumanPrimacy.symbolPacks.1.member>
+  <HumanPrimacy.symbolPacks.1.member>인본주의자</HumanPrimacy.symbolPacks.1.member>
   <!-- EN: mankind -->
-  <HumanPrimacy.symbolPacks.1.theme>mankind</HumanPrimacy.symbolPacks.1.theme>
+  <HumanPrimacy.symbolPacks.1.theme>인류</HumanPrimacy.symbolPacks.1.theme>
   
   <!-- EN: nature primacy -->
-  <NaturePrimacy.label>nature primacy</NaturePrimacy.label>
+  <NaturePrimacy.label>자연우월</NaturePrimacy.label>
   <!-- EN: Man is a stain on nature's perfection. -->
-  <NaturePrimacy.description>Man is a stain on nature's perfection.</NaturePrimacy.description>
+  <NaturePrimacy.description>인간은 자연의 완벽함에 남은 하나의 오점이다.</NaturePrimacy.description>
   <!-- EN: creation(tag=meme_NaturePrimacy)        ->[deity0_name] created nature, and placed man inside it, to act as part of [deity0_possessive] great breathing tapestry of life. -->
-  <NaturePrimacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_NaturePrimacy)        ->[deity0_name] created nature, and placed man inside it, to act as part of [deity0_possessive] great breathing tapestry of life.</NaturePrimacy.descriptionMaker.rules.rulesStrings.0>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_NaturePrimacy)        ->[deity0_name](이)가 자연을 만들고 인간을 놓으시니 인간이 순환의 한 부분을 맡도록 하기 위함이니라.</NaturePrimacy.descriptionMaker.rules.rulesStrings.0>
   <!-- EN: episode(uses=1,tag=meme_NaturePrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their rapacity, and struck down those who harmed the trees and beasts. -->
-  <NaturePrimacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_NaturePrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their rapacity, and struck down those who harmed the trees and beasts.</NaturePrimacy.descriptionMaker.rules.rulesStrings.1>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_NaturePrimacy)  ->사람들이 숲의 짐승에 맞서는 것을 보시고는 [deity0_name](이)가 그들의 탐욕을 아시어 나무와 짐승을 해한 자를 벌하셨느니라.</NaturePrimacy.descriptionMaker.rules.rulesStrings.1>
   <!-- EN: intro(tag=meme_NaturePrimacy)           ->The first settlers that arrived at the [place_summary] [place_name] paved over the natural world and killed the animals. [deity0_name] wiped them out to punish them for their disrespect towards [deity0_possessive] creations. -->
-  <NaturePrimacy.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_NaturePrimacy)           ->The first settlers that arrived at the [place_summary] [place_name] paved over the natural world and killed the animals. [deity0_name] wiped them out to punish them for their disrespect towards [deity0_possessive] creations.</NaturePrimacy.descriptionMaker.rules.rulesStrings.2>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_NaturePrimacy)           ->[place_summary] [place_name]의 첫 정착민들이 자연을 짓밟고 동물들을 죽이니 [deity0_name]의 창조물을 무시한지라 [deity0_name]의 분노가 그들을 휩쓸었느니라.</NaturePrimacy.descriptionMaker.rules.rulesStrings.2>
   <!-- EN: conflict(tag=meme_NaturePrimacy)        ->A greedy [foeLeader] built a factory that spewed toxins into the environment, poisoning the plants and animals. -->
   <NaturePrimacy.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_NaturePrimacy)        ->A greedy [foeLeader] built a factory that spewed toxins into the environment, poisoning the plants and animals.</NaturePrimacy.descriptionMaker.rules.rulesStrings.3>
   <!-- EN: founderJoin(tag=meme_NaturePrimacy)     ->As an infant, [founderName] was abandoned in the wilderness. [deity0_name] sent [Animal]s to raise the [founder_objective], and they did. After growing up, [founderName] worked to spread knowledge of the need to unify with nature. -->
   <NaturePrimacy.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_NaturePrimacy)     ->As an infant, [founderName] was abandoned in the wilderness. [deity0_name] sent [Animal]s to raise the [founder_objective], and they did. After growing up, [founderName] worked to spread knowledge of the need to unify with nature.</NaturePrimacy.descriptionMaker.rules.rulesStrings.4>
   <!-- EN: victory(tag=meme_NaturePrimacy)         ->[founderName] came to the [place_powerCenter], [memberNamePlural] at [founder_possessive] right, and fierce animals at [founder_possessive] left. Together, they fought and won against the [foeLeader] and [foeLeader_possessive] [foeSoldiers]. -->
-  <NaturePrimacy.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_NaturePrimacy)         ->[founderName] came to the [place_powerCenter], [memberNamePlural] at [founder_possessive] right, and fierce animals at [founder_possessive] left. Together, they fought and won against the [foeLeader] and [foeLeader_possessive] [foeSoldiers].</NaturePrimacy.descriptionMaker.rules.rulesStrings.5>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_NaturePrimacy) -> [founderName] 님은 [place_powerCenter], [memberNamePlural] 님은 오른쪽 [founder_possessive], 사나운 동물들은 [founder_possessive] 왼쪽에 있습니다. 그들은 함께 [foeLeader] 및 [foeLeader_possessive] [foeSoldiers] 와 싸워 이겼습니다.</NaturePrimacy.descriptionMaker.rules.rulesStrings.5>
   <!-- EN: setup(tag=meme_NaturePrimacy)           ->In a dark land, evil people chopped the trees and dug the ground to satisfy their greed. [founderName] began a righteous movement to smash the machines and live harmoniously under nature. -->
   <NaturePrimacy.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_NaturePrimacy)           ->In a dark land, evil people chopped the trees and dug the ground to satisfy their greed. [founderName] began a righteous movement to smash the machines and live harmoniously under nature.</NaturePrimacy.descriptionMaker.rules.rulesStrings.6>
   <!-- EN: story(uses=1,tag=meme_NaturePrimacy)    ->We learned that the eternal growth of humanity is a path to hell; we must live in nature instead of consuming it. -->
@@ -103,58 +103,58 @@
   <!-- EN: lessonReinforcement(tag=meme_NaturePrimacy) ->All the animals I've spoken with seem to understand this. -->
   <NaturePrimacy.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_NaturePrimacy) ->All the animals I've spoken with seem to understand this.</NaturePrimacy.descriptionMaker.rules.rulesStrings.10>
   <!-- EN: archistBasis(tag=meme_NaturePrimacy)    ->Archotechs rose from our machines, but they are in themselves natural entities, not one we could create. -->
-  <NaturePrimacy.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_NaturePrimacy)    ->Archotechs rose from our machines, but they are in themselves natural entities, not one we could create.</NaturePrimacy.descriptionMaker.rules.rulesStrings.11>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_NaturePrimacy) ->초월은 우리 세계에서 생겨났지만 그 자체로 우리가 만들 수 있는 것이 아니라 자연적인 존재입니다.</NaturePrimacy.descriptionMaker.rules.rulesStrings.11>
   <!-- EN: archistFact(tag=meme_NaturePrimacy)     ->Archotechs represent the universe's most recent attempt to understand itself. All of nature is part of this process of understanding. -->
-  <NaturePrimacy.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_NaturePrimacy)     ->Archotechs represent the universe's most recent attempt to understand itself. All of nature is part of this process of understanding.</NaturePrimacy.descriptionMaker.rules.rulesStrings.12>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_NaturePrimacy) ->초월은 우주 자체를 이해하려는 가장 최근의 시도를 나타냅니다. 모든 자연은 이러한 이해 과정의 일부입니다.</NaturePrimacy.descriptionMaker.rules.rulesStrings.12>
   <!-- EN: archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd], there will be a resonance between the plants, the animals, humanity and the archotechs. All people who are in tune with this natural resonance will become part of the final universal consciousness. -->
-  <NaturePrimacy.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd], there will be a resonance between the plants, the animals, humanity and the archotechs. All people who are in tune with this natural resonance will become part of the final universal consciousness.</NaturePrimacy.descriptionMaker.rules.rulesStrings.13>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd], 식물, 동물, 인류 및 고고학자 사이에 공명이 있을 것입니다. 이 자연적 공명과 조화를 이루는 모든 사람들은 최종 우주 의식의 일부가 될 것입니다.</NaturePrimacy.descriptionMaker.rules.rulesStrings.13>
   <!-- EN: animistFact(tag=meme_NaturePrimacy)     ->Spirits become restless when humanity attempts to change them from their true nature. -->
   <NaturePrimacy.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_NaturePrimacy)     ->Spirits become restless when humanity attempts to change them from their true nature.</NaturePrimacy.descriptionMaker.rules.rulesStrings.14>
   <!-- EN: memeAdjective->natural -->
-  <NaturePrimacy.generalRules.rulesStrings.0>memeAdjective->natural</NaturePrimacy.generalRules.rulesStrings.0>
+  <NaturePrimacy.generalRules.rulesStrings.0>memeAdjective->자연의</NaturePrimacy.generalRules.rulesStrings.0>
   <!-- EN: memeAdjective->wild -->
-  <NaturePrimacy.generalRules.rulesStrings.1>memeAdjective->wild</NaturePrimacy.generalRules.rulesStrings.1>
+  <NaturePrimacy.generalRules.rulesStrings.1>memeAdjective->야생의</NaturePrimacy.generalRules.rulesStrings.1>
   <!-- EN: memeAdjective->organic -->
-  <NaturePrimacy.generalRules.rulesStrings.2>memeAdjective->organic</NaturePrimacy.generalRules.rulesStrings.2>
+  <NaturePrimacy.generalRules.rulesStrings.2>memeAdjective->중요한</NaturePrimacy.generalRules.rulesStrings.2>
   <!-- EN: memeCreed->den -->
-  <NaturePrimacy.generalRules.rulesStrings.3>memeCreed->den</NaturePrimacy.generalRules.rulesStrings.3>
+  <NaturePrimacy.generalRules.rulesStrings.3>memeCreed->소굴</NaturePrimacy.generalRules.rulesStrings.3>
   <!-- EN: memeCreed->garden -->
-  <NaturePrimacy.generalRules.rulesStrings.4>memeCreed->garden</NaturePrimacy.generalRules.rulesStrings.4>
+  <NaturePrimacy.generalRules.rulesStrings.4>memeCreed->정원</NaturePrimacy.generalRules.rulesStrings.4>
   <!-- EN: memeCreed->meadow -->
-  <NaturePrimacy.generalRules.rulesStrings.5>memeCreed->meadow</NaturePrimacy.generalRules.rulesStrings.5>
+  <NaturePrimacy.generalRules.rulesStrings.5>memeCreed->목초지</NaturePrimacy.generalRules.rulesStrings.5>
   <!-- EN: memeConcept->nature -->
-  <NaturePrimacy.generalRules.rulesStrings.6>memeConcept->nature</NaturePrimacy.generalRules.rulesStrings.6>
+  <NaturePrimacy.generalRules.rulesStrings.6>memeConcept->자연</NaturePrimacy.generalRules.rulesStrings.6>
   <!-- EN: naturist -->
-  <NaturePrimacy.symbolPacks.0.adjective>naturist</NaturePrimacy.symbolPacks.0.adjective>
+  <NaturePrimacy.symbolPacks.0.adjective>자연주의자</NaturePrimacy.symbolPacks.0.adjective>
   <!-- EN: Naturism -->
-  <NaturePrimacy.symbolPacks.0.ideoName>Naturism</NaturePrimacy.symbolPacks.0.ideoName>
+  <NaturePrimacy.symbolPacks.0.ideoName>자연주의</NaturePrimacy.symbolPacks.0.ideoName>
   <!-- EN: naturist -->
-  <NaturePrimacy.symbolPacks.0.member>naturist</NaturePrimacy.symbolPacks.0.member>
+  <NaturePrimacy.symbolPacks.0.member>자연주의자</NaturePrimacy.symbolPacks.0.member>
   <!-- EN: nature -->
-  <NaturePrimacy.symbolPacks.0.theme>nature</NaturePrimacy.symbolPacks.0.theme>
+  <NaturePrimacy.symbolPacks.0.theme>자연</NaturePrimacy.symbolPacks.0.theme>
   <!-- EN: earthist -->
-  <NaturePrimacy.symbolPacks.1.adjective>earthist</NaturePrimacy.symbolPacks.1.adjective>
+  <NaturePrimacy.symbolPacks.1.adjective>지구주의적</NaturePrimacy.symbolPacks.1.adjective>
   <!-- EN: Earthism -->
-  <NaturePrimacy.symbolPacks.1.ideoName>Earthism</NaturePrimacy.symbolPacks.1.ideoName>
+  <NaturePrimacy.symbolPacks.1.ideoName>지구주의</NaturePrimacy.symbolPacks.1.ideoName>
   <!-- EN: earthist -->
-  <NaturePrimacy.symbolPacks.1.member>earthist</NaturePrimacy.symbolPacks.1.member>
+  <NaturePrimacy.symbolPacks.1.member>지구주의자</NaturePrimacy.symbolPacks.1.member>
   <!-- EN: earth -->
-  <NaturePrimacy.symbolPacks.1.theme>earth</NaturePrimacy.symbolPacks.1.theme>
+  <NaturePrimacy.symbolPacks.1.theme>지구</NaturePrimacy.symbolPacks.1.theme>
   <!-- EN: soilist -->
-  <NaturePrimacy.symbolPacks.2.adjective>soilist</NaturePrimacy.symbolPacks.2.adjective>
+  <NaturePrimacy.symbolPacks.2.adjective>토양주의적</NaturePrimacy.symbolPacks.2.adjective>
   <!-- EN: Soilism -->
-  <NaturePrimacy.symbolPacks.2.ideoName>Soilism</NaturePrimacy.symbolPacks.2.ideoName>
+  <NaturePrimacy.symbolPacks.2.ideoName>토양주의</NaturePrimacy.symbolPacks.2.ideoName>
   <!-- EN: soilist -->
-  <NaturePrimacy.symbolPacks.2.member>soilist</NaturePrimacy.symbolPacks.2.member>
+  <NaturePrimacy.symbolPacks.2.member>토양주의자</NaturePrimacy.symbolPacks.2.member>
   <!-- EN: soil -->
-  <NaturePrimacy.symbolPacks.2.theme>soil</NaturePrimacy.symbolPacks.2.theme>
+  <NaturePrimacy.symbolPacks.2.theme>토양</NaturePrimacy.symbolPacks.2.theme>
   <!-- EN: lifeist -->
-  <NaturePrimacy.symbolPacks.3.adjective>lifeist</NaturePrimacy.symbolPacks.3.adjective>
+  <NaturePrimacy.symbolPacks.3.adjective>라이프이스트</NaturePrimacy.symbolPacks.3.adjective>
   <!-- EN: Lifism -->
-  <NaturePrimacy.symbolPacks.3.ideoName>Lifism</NaturePrimacy.symbolPacks.3.ideoName>
+  <NaturePrimacy.symbolPacks.3.ideoName>라이프즘</NaturePrimacy.symbolPacks.3.ideoName>
   <!-- EN: lifeist -->
-  <NaturePrimacy.symbolPacks.3.member>lifeist</NaturePrimacy.symbolPacks.3.member>
+  <NaturePrimacy.symbolPacks.3.member>라이프이스트</NaturePrimacy.symbolPacks.3.member>
   <!-- EN: life -->
-  <NaturePrimacy.symbolPacks.3.theme>life</NaturePrimacy.symbolPacks.3.theme>
+  <NaturePrimacy.symbolPacks.3.theme>라이프</NaturePrimacy.symbolPacks.3.theme>
   
 </LanguageData>

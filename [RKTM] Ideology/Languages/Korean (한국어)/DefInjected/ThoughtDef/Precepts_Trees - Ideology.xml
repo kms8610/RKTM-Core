@@ -6,25 +6,25 @@
   <!-- EN: I am happily connected to a Gauranlen tree. -->
   <GauranlenConnectionDesired.stages.Gauranlen_connection.description>I am happily connected to a Gauranlen tree.</GauranlenConnectionDesired.stages.Gauranlen_connection.description>
   <!-- EN: want Gauranlen connection -->
-  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.label>want Gauranlen connection</GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.label>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.label>요정 커넥션 필요</GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.label>
   <!-- EN: Without a connection to a Gauranlen tree, I feel disconnected from nature. -->
-  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.description>Without a connection to a Gauranlen tree, I feel disconnected from nature.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.description>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.description>요정나무와의 교감이 없으면 자연과 끊어져버린 느낌이 들어.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.description>
   <!-- EN: want Gauranlen connection -->
-  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.label>want Gauranlen connection</GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.label>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.label>요정 커넥션 필요</GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.label>
   <!-- EN: Without a connection to a Gauranlen tree, I feel disconnected from nature. -->
-  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.description>Without a connection to a Gauranlen tree, I feel disconnected from nature.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.description>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.description>요정나무와의 교감이 없으면 자연과 끊어져버린 느낌이 들어.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.description>
   <!-- EN: want Gauranlen connection -->
-  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.label>want Gauranlen connection</GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.label>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.label>요정 커넥션 필요</GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.label>
   <!-- EN: Without a connection to a Gauranlen tree, I feel disconnected from nature. -->
-  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.description>Without a connection to a Gauranlen tree, I feel disconnected from nature.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.description>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.description>요정나무와의 교감이 없으면 자연과 끊어져버린 느낌이 들어.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.description>
   <!-- EN: want Gauranlen connection -->
-  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.label>want Gauranlen connection</GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.label>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.label>요정 커넥션 필요</GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.label>
   <!-- EN: Without a connection to a Gauranlen tree, I feel disconnected from nature. -->
-  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.description>Without a connection to a Gauranlen tree, I feel disconnected from nature.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.description>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.description>나는 요정나무가 없으면 자연과 끊어진 느낌이 든다.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.description>
   <!-- EN: want Gauranlen connection -->
-  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.label>want Gauranlen connection</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.label>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.label>요정 커넥션 필요</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.label>
   <!-- EN: Without a connection to a Gauranlen tree, I feel disconnected from nature. -->
-  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>Without a connection to a Gauranlen tree, I feel disconnected from nature.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>나는 요정나무가 없으면 자연과 끊어진 느낌이 든다.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>
   
   <!-- EN: healthy trees -->
   <TreeDensityReduced.stages.healthy_trees.label>healthy trees</TreeDensityReduced.stages.healthy_trees.label>
@@ -44,64 +44,64 @@
   <TreeDensityReduced.stages.trees_ravaged.description>In the past quadrum, we have destroyed a horrific number of trees. We are the blight on this universe.</TreeDensityReduced.stages.trees_ravaged.description>
   
   <!-- EN: amazing trees -->
-  <TreesDesired.stages.amazing_trees.label>amazing trees</TreesDesired.stages.amazing_trees.label>
+  <TreesDesired.stages.amazing_trees.label>놀라운 나무들</TreesDesired.stages.amazing_trees.label>
   <!-- EN: I am surrounded by several beautiful, massive trees. The glory of nature astounds me! -->
-  <TreesDesired.stages.amazing_trees.description>I am surrounded by several beautiful, massive trees. The glory of nature astounds me!</TreesDesired.stages.amazing_trees.description>
+  <TreesDesired.stages.amazing_trees.description>나는 수많은 아름답고 커다란 나무들에 둘러싸여 있어. 자연의 장엄한 광경이 날 경악하게 하는구나!</TreesDesired.stages.amazing_trees.description>
   <!-- EN: amazing tree -->
-  <TreesDesired.stages.amazing_tree-0.label>amazing tree</TreesDesired.stages.amazing_tree-0.label>
+  <TreesDesired.stages.amazing_tree-0.label>놀라운 나무</TreesDesired.stages.amazing_tree-0.label>
   <!-- EN: I very recently saw a beautiful, massive tree - a physical seat of morality! -->
-  <TreesDesired.stages.amazing_tree-0.description>I very recently saw a beautiful, massive tree - a physical seat of morality!</TreesDesired.stages.amazing_tree-0.description>
+  <TreesDesired.stages.amazing_tree-0.description>나는 아주 최근에 아름답고 커다란 나무를 봤어. 도덕성이 지상에 내려온 것만 같아!</TreesDesired.stages.amazing_tree-0.description>
   <!-- EN: remarkable trees -->
-  <TreesDesired.stages.remarkable_trees.label>remarkable trees</TreesDesired.stages.remarkable_trees.label>
+  <TreesDesired.stages.remarkable_trees.label>놀랄만한 나무들</TreesDesired.stages.remarkable_trees.label>
   <!-- EN: I am surrounded by a lush forest. -->
-  <TreesDesired.stages.remarkable_trees.description>I am surrounded by a lush forest.</TreesDesired.stages.remarkable_trees.description>
+  <TreesDesired.stages.remarkable_trees.description>나는 무성한 숲에 둘러싸여 있어.</TreesDesired.stages.remarkable_trees.description>
   <!-- EN: amazing tree -->
-  <TreesDesired.stages.amazing_tree-1.label>amazing tree</TreesDesired.stages.amazing_tree-1.label>
+  <TreesDesired.stages.amazing_tree-1.label>놀라운 나무</TreesDesired.stages.amazing_tree-1.label>
   <!-- EN: I recently saw a beautiful, massive tree. -->
-  <TreesDesired.stages.amazing_tree-1.description>I recently saw a beautiful, massive tree.</TreesDesired.stages.amazing_tree-1.description>
+  <TreesDesired.stages.amazing_tree-1.description>나는 최근에 아름답고 커다란 나무를 봤어.</TreesDesired.stages.amazing_tree-1.description>
   <!-- EN: rich forest -->
-  <TreesDesired.stages.rich_forest.label>rich forest</TreesDesired.stages.rich_forest.label>
+  <TreesDesired.stages.rich_forest.label>풍성한 숲</TreesDesired.stages.rich_forest.label>
   <!-- EN: I was recently surrounded by a lush forest. -->
-  <TreesDesired.stages.rich_forest.description>I was recently surrounded by a lush forest.</TreesDesired.stages.rich_forest.description>
+  <TreesDesired.stages.rich_forest.description>나는 최근에 무성한 숲에 둘러쌓였었어.</TreesDesired.stages.rich_forest.description>
   <!-- EN: full trees -->
-  <TreesDesired.stages.full_trees.label>full trees</TreesDesired.stages.full_trees.label>
+  <TreesDesired.stages.full_trees.label>성장한 나무들</TreesDesired.stages.full_trees.label>
   <!-- EN: I recently saw many full trees. -->
-  <TreesDesired.stages.full_trees.description>I recently saw many full trees.</TreesDesired.stages.full_trees.description>
+  <TreesDesired.stages.full_trees.description>나는 최근에 다 자란 나무들을 많이 봤어.</TreesDesired.stages.full_trees.description>
   <!-- EN: mixed trees -->
-  <TreesDesired.stages.mixed_trees.label>mixed trees</TreesDesired.stages.mixed_trees.label>
+  <TreesDesired.stages.mixed_trees.label>다양한 나무들</TreesDesired.stages.mixed_trees.label>
   <!-- EN: I recently saw a wide variety of trees. -->
-  <TreesDesired.stages.mixed_trees.description>I recently saw a wide variety of trees.</TreesDesired.stages.mixed_trees.description>
+  <TreesDesired.stages.mixed_trees.description>나는 최근에 다양한 종류의 나무들을 봤어.</TreesDesired.stages.mixed_trees.description>
   <!-- EN: full tree -->
-  <TreesDesired.stages.full_tree.label>full tree</TreesDesired.stages.full_tree.label>
+  <TreesDesired.stages.full_tree.label>다 자란 나무</TreesDesired.stages.full_tree.label>
   <!-- EN: I recently saw a full tree. -->
-  <TreesDesired.stages.full_tree.description>I recently saw a full tree.</TreesDesired.stages.full_tree.description>
+  <TreesDesired.stages.full_tree.description>나는 최근에 다 자란 나무를 보았어.</TreesDesired.stages.full_tree.description>
   <!-- EN: mini trees -->
-  <TreesDesired.stages.mini_trees.label>mini trees</TreesDesired.stages.mini_trees.label>
+  <TreesDesired.stages.mini_trees.label>작은 나무들</TreesDesired.stages.mini_trees.label>
   <!-- EN: I recently saw plenty of miniature trees. -->
-  <TreesDesired.stages.mini_trees.description>I recently saw plenty of miniature trees.</TreesDesired.stages.mini_trees.description>
+  <TreesDesired.stages.mini_trees.description>나는 최근에 수많은 작은 나무들을 보았어.</TreesDesired.stages.mini_trees.description>
   <!-- EN: mini tree -->
-  <TreesDesired.stages.mini_tree.label>mini tree</TreesDesired.stages.mini_tree.label>
+  <TreesDesired.stages.mini_tree.label>작은 나무</TreesDesired.stages.mini_tree.label>
   <!-- EN: I recently saw a miniature tree. -->
-  <TreesDesired.stages.mini_tree.description>I recently saw a miniature tree.</TreesDesired.stages.mini_tree.description>
+  <TreesDesired.stages.mini_tree.description>나는 최근에 작은 나무를 보았어.</TreesDesired.stages.mini_tree.description>
   <!-- EN: no tree -->
-  <TreesDesired.stages.no_tree-0.label>no tree</TreesDesired.stages.no_tree-0.label>
+  <TreesDesired.stages.no_tree-0.label>나무 없음</TreesDesired.stages.no_tree-0.label>
   <!-- EN: I haven't seen any trees in a while. -->
-  <TreesDesired.stages.no_tree-0.description>I haven't seen any trees in a while.</TreesDesired.stages.no_tree-0.description>
+  <TreesDesired.stages.no_tree-0.description>한참동안 어떠한 나무도 보지못했어.</TreesDesired.stages.no_tree-0.description>
   <!-- EN: no tree -->
-  <TreesDesired.stages.no_tree-1.label>no tree</TreesDesired.stages.no_tree-1.label>
+  <TreesDesired.stages.no_tree-1.label>나무 없음</TreesDesired.stages.no_tree-1.label>
   <!-- EN: I miss seeing trees around me. -->
-  <TreesDesired.stages.no_tree-1.description>I miss seeing trees around me.</TreesDesired.stages.no_tree-1.description>
+  <TreesDesired.stages.no_tree-1.description>내 주변의 나무들이 그리워.</TreesDesired.stages.no_tree-1.description>
   <!-- EN: trees missed -->
-  <TreesDesired.stages.trees_missed-0.label>trees missed</TreesDesired.stages.trees_missed-0.label>
+  <TreesDesired.stages.trees_missed-0.label>나무들이 그리움</TreesDesired.stages.trees_missed-0.label>
   <!-- EN: It has been a while since I've seen a tree. -->
-  <TreesDesired.stages.trees_missed-0.description>It has been a while since I've seen a tree.</TreesDesired.stages.trees_missed-0.description>
+  <TreesDesired.stages.trees_missed-0.description>나무를 본지도 한참 지났어.</TreesDesired.stages.trees_missed-0.description>
   <!-- EN: trees missed -->
-  <TreesDesired.stages.trees_missed-1.label>trees missed</TreesDesired.stages.trees_missed-1.label>
+  <TreesDesired.stages.trees_missed-1.label>나무들이 그리움</TreesDesired.stages.trees_missed-1.label>
   <!-- EN: It has been too long since I've seen a tree. -->
-  <TreesDesired.stages.trees_missed-1.description>It has been too long since I've seen a tree.</TreesDesired.stages.trees_missed-1.description>
+  <TreesDesired.stages.trees_missed-1.description>나무를 본지 너무 오래됐어.</TreesDesired.stages.trees_missed-1.description>
   <!-- EN: trees sorely missed -->
-  <TreesDesired.stages.trees_sorely_missed.label>trees sorely missed</TreesDesired.stages.trees_sorely_missed.label>
+  <TreesDesired.stages.trees_sorely_missed.label>나무들이 몹시 그리움</TreesDesired.stages.trees_sorely_missed.label>
   <!-- EN: It has been way too long since I've seen a tree! -->
-  <TreesDesired.stages.trees_sorely_missed.description>It has been way too long since I've seen a tree!</TreesDesired.stages.trees_sorely_missed.description>
+  <TreesDesired.stages.trees_sorely_missed.description>나무를 언제 봤는지도 기억하지 못하겠어!</TreesDesired.stages.trees_sorely_missed.description>
   
 </LanguageData>

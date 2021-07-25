@@ -10,7 +10,7 @@
   <!-- EN: cultureLeaderAdjective->high -->
   <LeaderTitleMaker_Corunan.rulePack.rulesStrings.3>cultureLeaderAdjective->고위</LeaderTitleMaker_Corunan.rulePack.rulesStrings.3>
   <!-- EN: cultureLeaderAdjective->first -->
-  <LeaderTitleMaker_Corunan.rulePack.rulesStrings.4>cultureLeaderAdjective->최고</LeaderTitleMaker_Corunan.rulePack.rulesStrings.4>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings.4>cultureLeaderAdjective->최초</LeaderTitleMaker_Corunan.rulePack.rulesStrings.4>
   <!-- EN: cultureLeaderAdjective->grand -->
   <LeaderTitleMaker_Corunan.rulePack.rulesStrings.5>cultureLeaderAdjective->거대</LeaderTitleMaker_Corunan.rulePack.rulesStrings.5>
   <!-- EN: cultureLeaderNoun->chief -->
@@ -21,9 +21,9 @@
   <!-- EN: cultureLeaderAdjective->great -->
   <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.1>cultureLeaderAdjective->위대한</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.1>
   <!-- EN: cultureLeaderAdjective->first -->
-  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.2>cultureLeaderAdjective->최고</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.2>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.2>cultureLeaderAdjective->최초</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.2>
   <!-- EN: cultureLeaderAdjective->prime -->
-  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.3>cultureLeaderAdjective->주</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.3>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.3>cultureLeaderAdjective->최고</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.3>
   <!-- EN: cultureLeaderNoun->president -->
   <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.4>cultureLeaderNoun->대통령</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.4>
   <!-- EN: cultureLeaderNoun->director -->
@@ -47,7 +47,7 @@
   <!-- EN: cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun] -->
   <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.1>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.1>
   <!-- EN: cultureLeaderAdjective->big -->
-  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.2>cultureLeaderAdjective->대</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.2>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.2>cultureLeaderAdjective->큰</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.2>
   <!-- EN: cultureLeaderAdjective->top -->
   <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.3>cultureLeaderAdjective->최상</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.3>
   <!-- EN: cultureLeaderAdjective->full -->
@@ -66,9 +66,9 @@
   <!-- EN: cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun] -->
   <LeaderTitleMaker_Rustican.rulePack.rulesStrings.0>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</LeaderTitleMaker_Rustican.rulePack.rulesStrings.0>
   <!-- EN: cultureLeaderAdjective->prime -->
-  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.1>cultureLeaderAdjective->주</LeaderTitleMaker_Rustican.rulePack.rulesStrings.1>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.1>cultureLeaderAdjective->최고</LeaderTitleMaker_Rustican.rulePack.rulesStrings.1>
   <!-- EN: cultureLeaderAdjective->first -->
-  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.2>cultureLeaderAdjective->최고</LeaderTitleMaker_Rustican.rulePack.rulesStrings.2>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.2>cultureLeaderAdjective->최초</LeaderTitleMaker_Rustican.rulePack.rulesStrings.2>
   <!-- EN: cultureLeaderNoun->councilor -->
   <LeaderTitleMaker_Rustican.rulePack.rulesStrings.3>cultureLeaderNoun->의원</LeaderTitleMaker_Rustican.rulePack.rulesStrings.3>
   <!-- EN: cultureLeaderNoun->leader -->

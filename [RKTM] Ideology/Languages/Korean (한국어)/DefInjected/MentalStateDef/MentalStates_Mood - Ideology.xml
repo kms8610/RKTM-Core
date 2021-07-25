@@ -15,6 +15,6 @@
   <!-- EN: {0} has reached a psychological limit and is going to induce other slaves to rebel. -->
   <Rebellion.beginLetter>{0} has reached a psychological limit and is going to induce other slaves to rebel.</Rebellion.beginLetter>
   <!-- EN: rebel -->
-  <Rebellion.beginLetterLabel>도시계 반란군</Rebellion.beginLetterLabel>
+  <Rebellion.beginLetterLabel>반란군</Rebellion.beginLetterLabel>
   
 </LanguageData>

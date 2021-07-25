@@ -34,9 +34,9 @@
   <!-- EN: place_massWeapon->remote-controlled welding drones -->
   <AturaStation.placeRules.rulesStrings.15>place_massWeapon->remote-controlled welding drones</AturaStation.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->crime boss -->
-  <AturaStation.placeRules.rulesStrings.16>place_foeLeader->crime boss</AturaStation.placeRules.rulesStrings.16>
+  <AturaStation.placeRules.rulesStrings.16>place_foeLeader->범죄조직 수장</AturaStation.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->thugs -->
-  <AturaStation.placeRules.rulesStrings.17>place_foeSoldiers->thugs</AturaStation.placeRules.rulesStrings.17>
+  <AturaStation.placeRules.rulesStrings.17>place_foeSoldiers->도적들</AturaStation.placeRules.rulesStrings.17>
   
   <!-- EN: place_name->Bagua 5 -->
   <Bagua5.placeRules.rulesStrings.0>place_name->Bagua 5</Bagua5.placeRules.rulesStrings.0>
@@ -55,11 +55,11 @@
   <!-- EN: place_job->scavenger -->
   <Bagua5.placeRules.rulesStrings.7>place_job->scavenger</Bagua5.placeRules.rulesStrings.7>
   <!-- EN: place_job->trader -->
-  <Bagua5.placeRules.rulesStrings.8>place_job->trader</Bagua5.placeRules.rulesStrings.8>
+  <Bagua5.placeRules.rulesStrings.8>place_job->상인</Bagua5.placeRules.rulesStrings.8>
   <!-- EN: place_job->tinkerer -->
-  <Bagua5.placeRules.rulesStrings.9>place_job->tinkerer</Bagua5.placeRules.rulesStrings.9>
+  <Bagua5.placeRules.rulesStrings.9>place_job->기계학자</Bagua5.placeRules.rulesStrings.9>
   <!-- EN: place_job->guard -->
-  <Bagua5.placeRules.rulesStrings.10>place_job->guard</Bagua5.placeRules.rulesStrings.10>
+  <Bagua5.placeRules.rulesStrings.10>place_job->경비원</Bagua5.placeRules.rulesStrings.10>
   <!-- EN: place_job->scrapper -->
   <Bagua5.placeRules.rulesStrings.11>place_job->scrapper</Bagua5.placeRules.rulesStrings.11>
   <!-- EN: place_personalWeapon->pipe rifle -->
@@ -71,16 +71,16 @@
   <!-- EN: place_massWeapon->a rust virus -->
   <Bagua5.placeRules.rulesStrings.15>place_massWeapon->a rust virus</Bagua5.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->junk lord -->
-  <Bagua5.placeRules.rulesStrings.16>place_foeLeader->junk lord</Bagua5.placeRules.rulesStrings.16>
+  <Bagua5.placeRules.rulesStrings.16>place_foeLeader->쓰레기의 군주</Bagua5.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->metal-heads -->
-  <Bagua5.placeRules.rulesStrings.17>place_foeSoldiers->metal-heads</Bagua5.placeRules.rulesStrings.17>
+  <Bagua5.placeRules.rulesStrings.17>place_foeSoldiers->강철머리들</Bagua5.placeRules.rulesStrings.17>
   
   <!-- EN: place_name->Boccocarro -->
   <Boccocarro.placeRules.rulesStrings.0>place_name->Boccocarro</Boccocarro.placeRules.rulesStrings.0>
   <!-- EN: place_adjective->Boccin -->
   <Boccocarro.placeRules.rulesStrings.1>place_adjective->Boccin</Boccocarro.placeRules.rulesStrings.1>
   <!-- EN: place_summary->cavernous shell-world -->
-  <Boccocarro.placeRules.rulesStrings.2>place_summary->cavernous shell-world</Boccocarro.placeRules.rulesStrings.2>
+  <Boccocarro.placeRules.rulesStrings.2>place_summary->속 빈 껍질 세계</Boccocarro.placeRules.rulesStrings.2>
   <!-- EN: place_community->surface tunnel -->
   <Boccocarro.placeRules.rulesStrings.3>place_community->surface tunnel</Boccocarro.placeRules.rulesStrings.3>
   <!-- EN: place_community->fungus cavern -->
@@ -90,7 +90,7 @@
   <!-- EN: place_powerCenter->speech-hall -->
   <Boccocarro.placeRules.rulesStrings.6>place_powerCenter->speech-hall</Boccocarro.placeRules.rulesStrings.6>
   <!-- EN: place_job->miner -->
-  <Boccocarro.placeRules.rulesStrings.7>place_job->miner</Boccocarro.placeRules.rulesStrings.7>
+  <Boccocarro.placeRules.rulesStrings.7>place_job->광부</Boccocarro.placeRules.rulesStrings.7>
   <!-- EN: place_job->fungus grower -->
   <Boccocarro.placeRules.rulesStrings.8>place_job->fungus grower</Boccocarro.placeRules.rulesStrings.8>
   <!-- EN: place_job->surface scavenger -->
@@ -98,7 +98,7 @@
   <!-- EN: place_job->community cook -->
   <Boccocarro.placeRules.rulesStrings.10>place_job->community cook</Boccocarro.placeRules.rulesStrings.10>
   <!-- EN: place_job->frog-hunter -->
-  <Boccocarro.placeRules.rulesStrings.11>place_job->frog-hunter</Boccocarro.placeRules.rulesStrings.11>
+  <Boccocarro.placeRules.rulesStrings.11>place_job->개구리 사냥꾼</Boccocarro.placeRules.rulesStrings.11>
   <!-- EN: place_personalWeapon->pickaxe -->
   <Boccocarro.placeRules.rulesStrings.12>place_personalWeapon->pickaxe</Boccocarro.placeRules.rulesStrings.12>
   <!-- EN: place_personalWeapon->hydraulic crossbow -->
@@ -108,9 +108,9 @@
   <!-- EN: place_massWeapon->a blackpowder bomb -->
   <Boccocarro.placeRules.rulesStrings.15>place_massWeapon->a blackpowder bomb</Boccocarro.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->mine hypervisor -->
-  <Boccocarro.placeRules.rulesStrings.16>place_foeLeader->mine hypervisor</Boccocarro.placeRules.rulesStrings.16>
+  <Boccocarro.placeRules.rulesStrings.16>place_foeLeader->채굴 고위감독자</Boccocarro.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->abyssal marines -->
-  <Boccocarro.placeRules.rulesStrings.17>place_foeSoldiers->abyssal marines</Boccocarro.placeRules.rulesStrings.17>
+  <Boccocarro.placeRules.rulesStrings.17>place_foeSoldiers->심연의 해병들</Boccocarro.placeRules.rulesStrings.17>
   
   <!-- EN: place_name->Chelis -->
   <Chelis.placeRules.rulesStrings.0>place_name->Chelis</Chelis.placeRules.rulesStrings.0>
@@ -127,13 +127,13 @@
   <!-- EN: place_powerCenter->high lifehall -->
   <Chelis.placeRules.rulesStrings.6>place_powerCenter->high lifehall</Chelis.placeRules.rulesStrings.6>
   <!-- EN: place_job->water gatherer -->
-  <Chelis.placeRules.rulesStrings.7>place_job->water gatherer</Chelis.placeRules.rulesStrings.7>
+  <Chelis.placeRules.rulesStrings.7>place_job->물 수집가</Chelis.placeRules.rulesStrings.7>
   <!-- EN: place_job->lizardskinner -->
   <Chelis.placeRules.rulesStrings.8>place_job->lizardskinner</Chelis.placeRules.rulesStrings.8>
   <!-- EN: place_job->oasis seeker -->
-  <Chelis.placeRules.rulesStrings.9>place_job->oasis seeker</Chelis.placeRules.rulesStrings.9>
+  <Chelis.placeRules.rulesStrings.9>place_job->오아시스 탐색자</Chelis.placeRules.rulesStrings.9>
   <!-- EN: place_job->cactus gatherer -->
-  <Chelis.placeRules.rulesStrings.10>place_job->cactus gatherer</Chelis.placeRules.rulesStrings.10>
+  <Chelis.placeRules.rulesStrings.10>place_job->선인장 채집가</Chelis.placeRules.rulesStrings.10>
   <!-- EN: place_job->scav-herder -->
   <Chelis.placeRules.rulesStrings.11>place_job->scav-herder</Chelis.placeRules.rulesStrings.11>
   <!-- EN: place_personalWeapon->sand-arrow -->
@@ -145,9 +145,9 @@
   <!-- EN: place_massWeapon->a spikelizard stampede -->
   <Chelis.placeRules.rulesStrings.15>place_massWeapon->a spikelizard stampede</Chelis.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->chief -->
-  <Chelis.placeRules.rulesStrings.16>place_foeLeader->chief</Chelis.placeRules.rulesStrings.16>
+  <Chelis.placeRules.rulesStrings.16>place_foeLeader->치프</Chelis.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->sand-warriors -->
-  <Chelis.placeRules.rulesStrings.17>place_foeSoldiers->sand-warriors</Chelis.placeRules.rulesStrings.17>
+  <Chelis.placeRules.rulesStrings.17>place_foeSoldiers->모래전사들</Chelis.placeRules.rulesStrings.17>
   
   <!-- EN: place_name->Creticon -->
   <Creticon.placeRules.rulesStrings.0>place_name->Creticon</Creticon.placeRules.rulesStrings.0>
@@ -188,9 +188,9 @@
   <!-- EN: place_massWeapon->hacked mechanoids -->
   <Creticon.placeRules.rulesStrings.18>place_massWeapon->hacked mechanoids</Creticon.placeRules.rulesStrings.18>
   <!-- EN: place_foeLeader->warlord -->
-  <Creticon.placeRules.rulesStrings.19>place_foeLeader->warlord</Creticon.placeRules.rulesStrings.19>
+  <Creticon.placeRules.rulesStrings.19>place_foeLeader->전쟁군주</Creticon.placeRules.rulesStrings.19>
   <!-- EN: place_foeSoldiers->mercenaries -->
-  <Creticon.placeRules.rulesStrings.20>place_foeSoldiers->mercenaries</Creticon.placeRules.rulesStrings.20>
+  <Creticon.placeRules.rulesStrings.20>place_foeSoldiers->용병들</Creticon.placeRules.rulesStrings.20>
   
   <!-- EN: place_name->Filson -->
   <Filson.placeRules.rulesStrings.0>place_name->Filson</Filson.placeRules.rulesStrings.0>
@@ -229,16 +229,16 @@
   <!-- EN: place_massWeapon->space lens -->
   <Filson.placeRules.rulesStrings.17>place_massWeapon->space lens</Filson.placeRules.rulesStrings.17>
   <!-- EN: place_foeLeader->landowner -->
-  <Filson.placeRules.rulesStrings.18>place_foeLeader->landowner</Filson.placeRules.rulesStrings.18>
+  <Filson.placeRules.rulesStrings.18>place_foeLeader->지주</Filson.placeRules.rulesStrings.18>
   <!-- EN: place_foeSoldiers->militia -->
-  <Filson.placeRules.rulesStrings.19>place_foeSoldiers->militia</Filson.placeRules.rulesStrings.19>
+  <Filson.placeRules.rulesStrings.19>place_foeSoldiers->민병단원들</Filson.placeRules.rulesStrings.19>
   
   <!-- EN: place_name->Ilwaba -->
   <Ilwaba.placeRules.rulesStrings.0>place_name->Ilwaba</Ilwaba.placeRules.rulesStrings.0>
   <!-- EN: place_adjective->Ilwaban -->
   <Ilwaba.placeRules.rulesStrings.1>place_adjective->Ilwaban</Ilwaba.placeRules.rulesStrings.1>
   <!-- EN: place_summary->regrown ruin-world -->
-  <Ilwaba.placeRules.rulesStrings.2>place_summary->regrown ruin-world</Ilwaba.placeRules.rulesStrings.2>
+  <Ilwaba.placeRules.rulesStrings.2>place_summary->재생된 폐허 세계</Ilwaba.placeRules.rulesStrings.2>
   <!-- EN: place_community->skyscraper village -->
   <Ilwaba.placeRules.rulesStrings.3>place_community->skyscraper village</Ilwaba.placeRules.rulesStrings.3>
   <!-- EN: place_community->highway trade-post -->
@@ -266,9 +266,9 @@
   <!-- EN: place_massWeapon->an ancient poison bomb -->
   <Ilwaba.placeRules.rulesStrings.15>place_massWeapon->an ancient poison bomb</Ilwaba.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->crypto-leader -->
-  <Ilwaba.placeRules.rulesStrings.16>place_foeLeader->crypto-leader</Ilwaba.placeRules.rulesStrings.16>
+  <Ilwaba.placeRules.rulesStrings.16>place_foeLeader->해석지도자</Ilwaba.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->crypto-soldiers -->
-  <Ilwaba.placeRules.rulesStrings.17>place_foeSoldiers->crypto-soldiers</Ilwaba.placeRules.rulesStrings.17>
+  <Ilwaba.placeRules.rulesStrings.17>place_foeSoldiers->해석군인들</Ilwaba.placeRules.rulesStrings.17>
   
   <!-- EN: place_name->Iwamura -->
   <Iwamura.placeRules.rulesStrings.0>place_name->Iwamura</Iwamura.placeRules.rulesStrings.0>
@@ -287,15 +287,15 @@
   <!-- EN: place_job->life-support engineer -->
   <Iwamura.placeRules.rulesStrings.7>place_job->life-support engineer</Iwamura.placeRules.rulesStrings.7>
   <!-- EN: place_job->merchant -->
-  <Iwamura.placeRules.rulesStrings.8>place_job->merchant</Iwamura.placeRules.rulesStrings.8>
+  <Iwamura.placeRules.rulesStrings.8>place_job->무역상</Iwamura.placeRules.rulesStrings.8>
   <!-- EN: place_job->flight controller -->
   <Iwamura.placeRules.rulesStrings.9>place_job->flight controller</Iwamura.placeRules.rulesStrings.9>
   <!-- EN: place_job->zero-g athlete -->
   <Iwamura.placeRules.rulesStrings.10>place_job->zero-g athlete</Iwamura.placeRules.rulesStrings.10>
   <!-- EN: place_job->radio host -->
-  <Iwamura.placeRules.rulesStrings.11>place_job->radio host</Iwamura.placeRules.rulesStrings.11>
+  <Iwamura.placeRules.rulesStrings.11>place_job->라디오 진행자</Iwamura.placeRules.rulesStrings.11>
   <!-- EN: place_personalWeapon->charge rifle -->
-  <Iwamura.placeRules.rulesStrings.12>place_personalWeapon->charge rifle</Iwamura.placeRules.rulesStrings.12>
+  <Iwamura.placeRules.rulesStrings.12>place_personalWeapon->전자기 소총</Iwamura.placeRules.rulesStrings.12>
   <!-- EN: place_personalWeapon->welding torch -->
   <Iwamura.placeRules.rulesStrings.13>place_personalWeapon->welding torch</Iwamura.placeRules.rulesStrings.13>
   <!-- EN: place_massWeapon->an aerosolized toxin -->
@@ -305,9 +305,9 @@
   <!-- EN: place_massWeapon->a life-support sabotage virus -->
   <Iwamura.placeRules.rulesStrings.16>place_massWeapon->a life-support sabotage virus</Iwamura.placeRules.rulesStrings.16>
   <!-- EN: place_foeLeader->mega-corp CEO -->
-  <Iwamura.placeRules.rulesStrings.17>place_foeLeader->mega-corp CEO</Iwamura.placeRules.rulesStrings.17>
+  <Iwamura.placeRules.rulesStrings.17>place_foeLeader->거대기업 CEO</Iwamura.placeRules.rulesStrings.17>
   <!-- EN: place_foeSoldiers->rent-a-cops -->
-  <Iwamura.placeRules.rulesStrings.18>place_foeSoldiers->rent-a-cops</Iwamura.placeRules.rulesStrings.18>
+  <Iwamura.placeRules.rulesStrings.18>place_foeSoldiers->사설경관들을</Iwamura.placeRules.rulesStrings.18>
   
   <!-- EN: place_name->Kemia -->
   <Kemia.placeRules.rulesStrings.0>place_name->Kemia</Kemia.placeRules.rulesStrings.0>
@@ -344,9 +344,9 @@
   <!-- EN: place_massWeapon->penetrating toxic bombs -->
   <Kemia.placeRules.rulesStrings.16>place_massWeapon->penetrating toxic bombs</Kemia.placeRules.rulesStrings.16>
   <!-- EN: place_foeLeader->poison lord -->
-  <Kemia.placeRules.rulesStrings.17>place_foeLeader->poison lord</Kemia.placeRules.rulesStrings.17>
+  <Kemia.placeRules.rulesStrings.17>place_foeLeader->맹독 군주</Kemia.placeRules.rulesStrings.17>
   <!-- EN: place_foeSoldiers->venom-soldiers -->
-  <Kemia.placeRules.rulesStrings.18>place_foeSoldiers->venom-soldiers</Kemia.placeRules.rulesStrings.18>
+  <Kemia.placeRules.rulesStrings.18>place_foeSoldiers->맹독군인들</Kemia.placeRules.rulesStrings.18>
   
   <!-- EN: place_name->Lutuni -->
   <Lutuni.placeRules.rulesStrings.0>place_name->Lutuni</Lutuni.placeRules.rulesStrings.0>
@@ -381,9 +381,9 @@
   <!-- EN: place_massWeapon->a smuggled orbital bombardment targetter -->
   <Lutuni.placeRules.rulesStrings.15>place_massWeapon->a smuggled orbital bombardment targetter</Lutuni.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->entertainment mogul -->
-  <Lutuni.placeRules.rulesStrings.16>place_foeLeader->entertainment mogul</Lutuni.placeRules.rulesStrings.16>
+  <Lutuni.placeRules.rulesStrings.16>place_foeLeader->엔터테인먼트의 황제</Lutuni.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->enforcers -->
-  <Lutuni.placeRules.rulesStrings.17>place_foeSoldiers->enforcers</Lutuni.placeRules.rulesStrings.17>
+  <Lutuni.placeRules.rulesStrings.17>place_foeSoldiers->집행자들</Lutuni.placeRules.rulesStrings.17>
   
   <!-- EN: place_name->Novaroma -->
   <Novaroma.placeRules.rulesStrings.0>place_name->Novaroma</Novaroma.placeRules.rulesStrings.0>
@@ -402,7 +402,7 @@
   <!-- EN: place_powerCenter->megacity overhall -->
   <Novaroma.placeRules.rulesStrings.7>place_powerCenter->megacity overhall</Novaroma.placeRules.rulesStrings.7>
   <!-- EN: place_job->clerk -->
-  <Novaroma.placeRules.rulesStrings.8>place_job->clerk</Novaroma.placeRules.rulesStrings.8>
+  <Novaroma.placeRules.rulesStrings.8>place_job->사무원</Novaroma.placeRules.rulesStrings.8>
   <!-- EN: place_job->official -->
   <Novaroma.placeRules.rulesStrings.9>place_job->official</Novaroma.placeRules.rulesStrings.9>
   <!-- EN: place_job->food courier -->
@@ -422,9 +422,9 @@
   <!-- EN: place_massWeapon->a nuclear suitcase-bomb -->
   <Novaroma.placeRules.rulesStrings.17>place_massWeapon->a nuclear suitcase-bomb</Novaroma.placeRules.rulesStrings.17>
   <!-- EN: place_foeLeader->high-underlord -->
-  <Novaroma.placeRules.rulesStrings.18>place_foeLeader->high-underlord</Novaroma.placeRules.rulesStrings.18>
+  <Novaroma.placeRules.rulesStrings.18>place_foeLeader->뒷세계의 지배자</Novaroma.placeRules.rulesStrings.18>
   <!-- EN: place_foeSoldiers->undertroops -->
-  <Novaroma.placeRules.rulesStrings.19>place_foeSoldiers->undertroops</Novaroma.placeRules.rulesStrings.19>
+  <Novaroma.placeRules.rulesStrings.19>place_foeSoldiers->비밀군인들</Novaroma.placeRules.rulesStrings.19>
   
   <!-- EN: place_name->Nuchadus -->
   <Nuchadus.placeRules.rulesStrings.0>place_name->Nuchadus</Nuchadus.placeRules.rulesStrings.0>
@@ -457,16 +457,16 @@
   <!-- EN: place_massWeapon->a chem-warfare bomb -->
   <Nuchadus.placeRules.rulesStrings.14>place_massWeapon->a chem-warfare bomb</Nuchadus.placeRules.rulesStrings.14>
   <!-- EN: place_foeLeader->lava lord -->
-  <Nuchadus.placeRules.rulesStrings.15>place_foeLeader->lava lord</Nuchadus.placeRules.rulesStrings.15>
+  <Nuchadus.placeRules.rulesStrings.15>place_foeLeader->용암 군주</Nuchadus.placeRules.rulesStrings.15>
   <!-- EN: place_foeSoldiers->stygian soldiers -->
-  <Nuchadus.placeRules.rulesStrings.16>place_foeSoldiers->stygian soldiers</Nuchadus.placeRules.rulesStrings.16>
+  <Nuchadus.placeRules.rulesStrings.16>place_foeSoldiers->칠흑의 병사들</Nuchadus.placeRules.rulesStrings.16>
   
   <!-- EN: place_name->Oubanyen -->
   <Oubanyen.placeRules.rulesStrings.0>place_name->Oubanyen</Oubanyen.placeRules.rulesStrings.0>
   <!-- EN: place_adjective->Oubanyeni -->
   <Oubanyen.placeRules.rulesStrings.1>place_adjective->Oubanyeni</Oubanyen.placeRules.rulesStrings.1>
   <!-- EN: place_summary->steamy jungle-world -->
-  <Oubanyen.placeRules.rulesStrings.2>place_summary->steamy jungle-world</Oubanyen.placeRules.rulesStrings.2>
+  <Oubanyen.placeRules.rulesStrings.2>place_summary->찌는 듯한 정글 세계</Oubanyen.placeRules.rulesStrings.2>
   <!-- EN: place_community->tree-top village -->
   <Oubanyen.placeRules.rulesStrings.3>place_community->tree-top village</Oubanyen.placeRules.rulesStrings.3>
   <!-- EN: place_community->shaman cave -->
@@ -476,15 +476,15 @@
   <!-- EN: place_powerCenter->city temple -->
   <Oubanyen.placeRules.rulesStrings.6>place_powerCenter->city temple</Oubanyen.placeRules.rulesStrings.6>
   <!-- EN: place_job->shaman -->
-  <Oubanyen.placeRules.rulesStrings.7>place_job->shaman</Oubanyen.placeRules.rulesStrings.7>
+  <Oubanyen.placeRules.rulesStrings.7>place_job->주술사</Oubanyen.placeRules.rulesStrings.7>
   <!-- EN: place_job->hunter -->
-  <Oubanyen.placeRules.rulesStrings.8>place_job->hunter</Oubanyen.placeRules.rulesStrings.8>
+  <Oubanyen.placeRules.rulesStrings.8>place_job->사냥꾼</Oubanyen.placeRules.rulesStrings.8>
   <!-- EN: place_job->fisher -->
-  <Oubanyen.placeRules.rulesStrings.9>place_job->fisher</Oubanyen.placeRules.rulesStrings.9>
+  <Oubanyen.placeRules.rulesStrings.9>place_job->어부</Oubanyen.placeRules.rulesStrings.9>
   <!-- EN: place_job->gatherer -->
-  <Oubanyen.placeRules.rulesStrings.10>place_job->gatherer</Oubanyen.placeRules.rulesStrings.10>
+  <Oubanyen.placeRules.rulesStrings.10>place_job->채집가</Oubanyen.placeRules.rulesStrings.10>
   <!-- EN: place_job->goat-herd -->
-  <Oubanyen.placeRules.rulesStrings.11>place_job->goat-herd</Oubanyen.placeRules.rulesStrings.11>
+  <Oubanyen.placeRules.rulesStrings.11>place_job->염소지기</Oubanyen.placeRules.rulesStrings.11>
   <!-- EN: place_personalWeapon->pila -->
   <Oubanyen.placeRules.rulesStrings.12>place_personalWeapon->pila</Oubanyen.placeRules.rulesStrings.12>
   <!-- EN: place_personalWeapon->ikwa -->
@@ -494,9 +494,9 @@
   <!-- EN: place_massWeapon->a neurotoxin bomb -->
   <Oubanyen.placeRules.rulesStrings.15>place_massWeapon->a neurotoxin bomb</Oubanyen.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->tree-harvester -->
-  <Oubanyen.placeRules.rulesStrings.16>place_foeLeader->tree-harvester</Oubanyen.placeRules.rulesStrings.16>
+  <Oubanyen.placeRules.rulesStrings.16>place_foeLeader->벌목대장</Oubanyen.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->henchmen -->
-  <Oubanyen.placeRules.rulesStrings.17>place_foeSoldiers->henchmen</Oubanyen.placeRules.rulesStrings.17>
+  <Oubanyen.placeRules.rulesStrings.17>place_foeSoldiers->심복들</Oubanyen.placeRules.rulesStrings.17>
   
   <!-- EN: place_name->Rhydell -->
   <Rhydell.placeRules.rulesStrings.0>place_name->Rhydell</Rhydell.placeRules.rulesStrings.0>
@@ -513,7 +513,7 @@
   <!-- EN: place_powerCenter->armored habitat -->
   <Rhydell.placeRules.rulesStrings.6>place_powerCenter->armored habitat</Rhydell.placeRules.rulesStrings.6>
   <!-- EN: place_job->frontier botanist -->
-  <Rhydell.placeRules.rulesStrings.7>place_job->frontier botanist</Rhydell.placeRules.rulesStrings.7>
+  <Rhydell.placeRules.rulesStrings.7>place_job->식물학 개척자</Rhydell.placeRules.rulesStrings.7>
   <!-- EN: place_job->trophy hunter -->
   <Rhydell.placeRules.rulesStrings.8>place_job->trophy hunter</Rhydell.placeRules.rulesStrings.8>
   <!-- EN: place_job->medic -->
@@ -531,9 +531,9 @@
   <!-- EN: place_massWeapon->an orbital laser strike -->
   <Rhydell.placeRules.rulesStrings.15>place_massWeapon->an orbital laser strike</Rhydell.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->deepcorp executive -->
-  <Rhydell.placeRules.rulesStrings.16>place_foeLeader->deepcorp executive</Rhydell.placeRules.rulesStrings.16>
+  <Rhydell.placeRules.rulesStrings.16>place_foeLeader->암흑기업 총괄</Rhydell.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->deepcorp enforcers -->
-  <Rhydell.placeRules.rulesStrings.17>place_foeSoldiers->deepcorp enforcers</Rhydell.placeRules.rulesStrings.17>
+  <Rhydell.placeRules.rulesStrings.17>place_foeSoldiers->암흑기업 집행자들</Rhydell.placeRules.rulesStrings.17>
   
   <!-- EN: place_name->Rogia -->
   <Rogia.placeRules.rulesStrings.0>place_name->Rogia</Rogia.placeRules.rulesStrings.0>
@@ -570,9 +570,9 @@
   <!-- EN: place_massWeapon->remote-controlled mechanoid workers -->
   <Rogia.placeRules.rulesStrings.16>place_massWeapon->remote-controlled mechanoid workers</Rogia.placeRules.rulesStrings.16>
   <!-- EN: place_foeLeader->corrupt bureaucrat -->
-  <Rogia.placeRules.rulesStrings.17>place_foeLeader->corrupt bureaucrat</Rogia.placeRules.rulesStrings.17>
+  <Rogia.placeRules.rulesStrings.17>place_foeLeader->부패한 관료</Rogia.placeRules.rulesStrings.17>
   <!-- EN: place_foeSoldiers->bionic guards -->
-  <Rogia.placeRules.rulesStrings.18>place_foeSoldiers->bionic guards</Rogia.placeRules.rulesStrings.18>
+  <Rogia.placeRules.rulesStrings.18>place_foeSoldiers->생체공학 경비들</Rogia.placeRules.rulesStrings.18>
   
   <!-- EN: place_name->Wavia -->
   <Wavia.placeRules.rulesStrings.0>place_name->Wavia</Wavia.placeRules.rulesStrings.0>
@@ -589,13 +589,13 @@
   <!-- EN: place_powerCenter->capitol bridge -->
   <Wavia.placeRules.rulesStrings.6>place_powerCenter->capitol bridge</Wavia.placeRules.rulesStrings.6>
   <!-- EN: place_job->fisher -->
-  <Wavia.placeRules.rulesStrings.7>place_job->fisher</Wavia.placeRules.rulesStrings.7>
+  <Wavia.placeRules.rulesStrings.7>place_job->어부</Wavia.placeRules.rulesStrings.7>
   <!-- EN: place_job->pearl diver -->
   <Wavia.placeRules.rulesStrings.8>place_job->pearl diver</Wavia.placeRules.rulesStrings.8>
   <!-- EN: place_job->sail maker -->
   <Wavia.placeRules.rulesStrings.9>place_job->sail maker</Wavia.placeRules.rulesStrings.9>
   <!-- EN: place_job->captain -->
-  <Wavia.placeRules.rulesStrings.10>place_job->captain</Wavia.placeRules.rulesStrings.10>
+  <Wavia.placeRules.rulesStrings.10>place_job->대장</Wavia.placeRules.rulesStrings.10>
   <!-- EN: place_job->sea-grass gatherer -->
   <Wavia.placeRules.rulesStrings.11>place_job->sea-grass gatherer</Wavia.placeRules.rulesStrings.11>
   <!-- EN: place_personalWeapon->harpoon -->
@@ -607,9 +607,9 @@
   <!-- EN: place_massWeapon->a baited [seaBeast] -->
   <Wavia.placeRules.rulesStrings.15>place_massWeapon->a baited [seaBeast]</Wavia.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->whaler admiral -->
-  <Wavia.placeRules.rulesStrings.16>place_foeLeader->whaler admiral</Wavia.placeRules.rulesStrings.16>
+  <Wavia.placeRules.rulesStrings.16>place_foeLeader->고래기수 제독</Wavia.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->whaler-marines -->
-  <Wavia.placeRules.rulesStrings.17>place_foeSoldiers->whaler-marines</Wavia.placeRules.rulesStrings.17>
+  <Wavia.placeRules.rulesStrings.17>place_foeSoldiers->고래기수 해병들</Wavia.placeRules.rulesStrings.17>
   <!-- EN: seaBeast->deep-kraken -->
   <Wavia.placeRules.rulesStrings.18>seaBeast->deep-kraken</Wavia.placeRules.rulesStrings.18>
   <!-- EN: seaBeast->Wavian leviathan -->
@@ -630,7 +630,7 @@
   <!-- EN: place_powerCenter->oxygen depot -->
   <Xanides.placeRules.rulesStrings.6>place_powerCenter->oxygen depot</Xanides.placeRules.rulesStrings.6>
   <!-- EN: place_job->miner -->
-  <Xanides.placeRules.rulesStrings.7>place_job->miner</Xanides.placeRules.rulesStrings.7>
+  <Xanides.placeRules.rulesStrings.7>place_job->광부</Xanides.placeRules.rulesStrings.7>
   <!-- EN: place_job->supervisor -->
   <Xanides.placeRules.rulesStrings.8>place_job->supervisor</Xanides.placeRules.rulesStrings.8>
   <!-- EN: place_job->technician -->
@@ -648,9 +648,9 @@
   <!-- EN: place_massWeapon->[anEMPAttack] -->
   <Xanides.placeRules.rulesStrings.15>place_massWeapon->[anEMPAttack]</Xanides.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->mine-corp boss -->
-  <Xanides.placeRules.rulesStrings.16>place_foeLeader->mine-corp boss</Xanides.placeRules.rulesStrings.16>
+  <Xanides.placeRules.rulesStrings.16>place_foeLeader->채굴기업 사장</Xanides.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->mine-corp troops -->
-  <Xanides.placeRules.rulesStrings.17>place_foeSoldiers->mine-corp troops</Xanides.placeRules.rulesStrings.17>
+  <Xanides.placeRules.rulesStrings.17>place_foeSoldiers->채굴기업 사병들</Xanides.placeRules.rulesStrings.17>
   
   <!-- EN: place_name->Yttak -->
   <Yttak.placeRules.rulesStrings.0>place_name->Yttak</Yttak.placeRules.rulesStrings.0>
@@ -669,7 +669,7 @@
   <!-- EN: place_job->detainee -->
   <Yttak.placeRules.rulesStrings.7>place_job->detainee</Yttak.placeRules.rulesStrings.7>
   <!-- EN: place_job->guard -->
-  <Yttak.placeRules.rulesStrings.8>place_job->guard</Yttak.placeRules.rulesStrings.8>
+  <Yttak.placeRules.rulesStrings.8>place_job->경비원</Yttak.placeRules.rulesStrings.8>
   <!-- EN: place_job->escapee -->
   <Yttak.placeRules.rulesStrings.9>place_job->escapee</Yttak.placeRules.rulesStrings.9>
   <!-- EN: place_job->maintenance worker -->
@@ -685,9 +685,9 @@
   <!-- EN: place_massWeapon->an orbital laser strike -->
   <Yttak.placeRules.rulesStrings.15>place_massWeapon->an orbital laser strike</Yttak.placeRules.rulesStrings.15>
   <!-- EN: place_foeLeader->prison warden -->
-  <Yttak.placeRules.rulesStrings.16>place_foeLeader->prison warden</Yttak.placeRules.rulesStrings.16>
+  <Yttak.placeRules.rulesStrings.16>place_foeLeader->고위 간수</Yttak.placeRules.rulesStrings.16>
   <!-- EN: place_foeSoldiers->corrupt guards -->
-  <Yttak.placeRules.rulesStrings.17>place_foeSoldiers->corrupt guards</Yttak.placeRules.rulesStrings.17>
+  <Yttak.placeRules.rulesStrings.17>place_foeSoldiers->부패한 경비들</Yttak.placeRules.rulesStrings.17>
   
   <!-- EN: place_name->Zoutera -->
   <Zoutera.placeRules.rulesStrings.0>place_name->Zoutera</Zoutera.placeRules.rulesStrings.0>
@@ -708,7 +708,7 @@
   <!-- EN: place_job->muffalo-herder -->
   <Zoutera.placeRules.rulesStrings.8>place_job->muffalo-herder</Zoutera.placeRules.rulesStrings.8>
   <!-- EN: place_job->hunter -->
-  <Zoutera.placeRules.rulesStrings.9>place_job->hunter</Zoutera.placeRules.rulesStrings.9>
+  <Zoutera.placeRules.rulesStrings.9>place_job->사냥꾼</Zoutera.placeRules.rulesStrings.9>
   <!-- EN: place_job->toughleather maker -->
   <Zoutera.placeRules.rulesStrings.10>place_job->toughleather maker</Zoutera.placeRules.rulesStrings.10>
   <!-- EN: place_personalWeapon->bamboo staff -->
@@ -720,9 +720,9 @@
   <!-- EN: place_massWeapon->a fertilizer bomb -->
   <Zoutera.placeRules.rulesStrings.14>place_massWeapon->a fertilizer bomb</Zoutera.placeRules.rulesStrings.14>
   <!-- EN: place_foeLeader->tusk-king -->
-  <Zoutera.placeRules.rulesStrings.15>place_foeLeader->tusk-king</Zoutera.placeRules.rulesStrings.15>
+  <Zoutera.placeRules.rulesStrings.15>place_foeLeader->엄니왕</Zoutera.placeRules.rulesStrings.15>
   <!-- EN: place_foeSoldiers->tusk-warriors -->
-  <Zoutera.placeRules.rulesStrings.16>place_foeSoldiers->tusk-warriors</Zoutera.placeRules.rulesStrings.16>
+  <Zoutera.placeRules.rulesStrings.16>place_foeSoldiers->엄니전사들</Zoutera.placeRules.rulesStrings.16>
   <!-- EN: megaFauna->ankylosaurs -->
   <Zoutera.placeRules.rulesStrings.17>megaFauna->ankylosaurs</Zoutera.placeRules.rulesStrings.17>
   <!-- EN: megaFauna->blue mammoths -->

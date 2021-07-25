@@ -4,12 +4,12 @@
   <!-- EN: scarification -->
   <Scarification.label>상흔 문신</Scarification.label>
   <!-- EN: An artistic scar carefully carved into the flesh for ritual or artistic purposes. -->
-  <Scarification.description>의식이나 예술적 목적을 위해 살에 조심스럽게 새긴 흉터입니다.</Scarification.description>
+  <Scarification.description>의식이나 예술적 목적을 위해 피부 위에 조심스럽게 새긴 문신입니다.</Scarification.description>
   <!-- EN: scarification -->
   <Scarification.comps.HediffComp_GetsPermanent.permanentLabel>상흔 문신</Scarification.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a scarification -->
   <Scarification.labelNoun>상흔 문신</Scarification.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Scarification.labelNounPretty>{0} in the {1}</Scarification.labelNounPretty>
+  <Scarification.labelNounPretty>{{0} 의 {1}</Scarification.labelNounPretty>
   
 </LanguageData>

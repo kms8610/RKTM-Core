@@ -4,7 +4,7 @@
   <!-- EN: dye -->
   <Dye.label>염료</Dye.label>
   <!-- EN: Dye extracted from a tinctoria plant. It can be transformed into various colors to dye apparel. -->
-  <Dye.description>틴토리아에서 추출한 염료입니다. 다양한 색상으로 변형하여 의류를 염색하는 데 사용할 수 있습니다.</Dye.description>
+  <Dye.description>틴토리아에서 추출한 염료입니다. 여기서 다양한 색상을 추출하여 의류 염색에 사용할 수 있습니다.</Dye.description>
   
   <!-- EN: Gauranlen seed -->
   <GauranlenSeed.label>요정씨앗</GauranlenSeed.label>
@@ -14,41 +14,41 @@
   <!-- EN: nutrifungus -->
   <Nutrifungus.label>영양버섯</Nutrifungus.label>
   <!-- EN: A meaty bioengineered mushroom grown for its nutritious value. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it. -->
-  <Nutrifungus.description>높은 영양가가 특징인, 생체공학적으로 육류와 같이 변형된 버섯. 진균 자갈에서 자랄 수 있지만, 어둠 속이어야 합니다. 암광을 포함한 모든 종류의 빛에 노출되면 죽습니다.</Nutrifungus.description>
+  <Nutrifungus.description>생체공학에 의해 육류의 맛을 내도록 변형된 영양가 있는 버섯. 진균 자갈 위에서 자랄 수 있지만, 빛을 멀리 해야 합니다. 희미한 빛을 포함하여 어떤 종류의 빛에 노출되어도 죽습니다.</Nutrifungus.description>
   
   <!-- EN: fibercorn -->
   <Plant_Fibercorn.label>섬유수수</Plant_Fibercorn.label>
   <!-- EN: An inedible, fibrous plant which produces a small amount of a wood-like substance. -->
-  <Plant_Fibercorn.description>소량의 나무 같은 물질을 생성하는 섬유질 식물입니다. 식용으로 쓰일 수는 없습니다.</Plant_Fibercorn.description>
+  <Plant_Fibercorn.description>진짜 목재와 거의 유사한 물질을 생성하는 식물입니다. 식용으로는 사용할 수 없습니다.</Plant_Fibercorn.description>
   
   <!-- EN: Gauranlen moss -->
   <Plant_MossGauranlen.label>요정 이끼</Plant_MossGauranlen.label>
   <!-- EN: Symbiotic moss that grows near Gauranlen trees. -->
-  <Plant_MossGauranlen.description>Symbiotic moss that grows near Gauranlen trees.</Plant_MossGauranlen.description>
+  <Plant_MossGauranlen.description>요정나무 근처에서 공생하는 이끼입니다.</Plant_MossGauranlen.description>
   
   <!-- EN: Gauranlen pod -->
   <Plant_PodGauranlen.label>요정열매</Plant_PodGauranlen.label>
   <!-- EN: A small pod that protects a single Gauranlen seed. This seed can be harvested and used to plant a Gauranlen tree. -->
-  <Plant_PodGauranlen.description>A small pod that protects a single Gauranlen seed. This seed can be harvested and used to plant a Gauranlen tree.</Plant_PodGauranlen.description>
+  <Plant_PodGauranlen.description>안에 들어있는 요정씨앗을 보호하는 작은 꼬투리입니다. 안에 씨앗을 채집해 새로운 요정나무를 심을 수 있습니다.</Plant_PodGauranlen.description>
   
   <!-- EN: timbershroom -->
   <Plant_Timbershroom.label>갈색버섯</Plant_Timbershroom.label>
   <!-- EN: A tall brown mushroom with a long stem. When harvested, it yields a wood-like substance. -->
-  <Plant_Timbershroom.description>A tall brown mushroom with a long stem. When harvested, it yields a wood-like substance.</Plant_Timbershroom.description>
+  <Plant_Timbershroom.description>긴 줄기를 가진 갈색 버섯입니다. 목재와 유사한 물질을 수확할 수 있습니다.</Plant_Timbershroom.description>
   
   <!-- EN: tinctoria -->
   <Plant_Tinctoria.label>틴토리아</Plant_Tinctoria.label>
   <!-- EN: A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to dye apparel. -->
-  <Plant_Tinctoria.description>꽃처럼 생긴 유전자 조작 작물입니다. 자가 변형 염료를 분비합니다. 틴토리아의 염료는 다양한 색상으로 변형할 수 있으며 의류를 염색하는 데 사용할 수 있습니다.</Plant_Tinctoria.description>
+  <Plant_Tinctoria.description>꽃처럼 생긴 유전자 조작 작물입니다. 염료를 분비합니다. 틴토리아의 염료에서는 다양한 색상을 추출할 수 있으며 의류 염색에 사용할 수 있습니다.</Plant_Tinctoria.description>
   
   <!-- EN: bonsai tree -->
-  <Plant_TreeBonsai.label>분재</Plant_TreeBonsai.label>
+  <Plant_TreeBonsai.label>분재목</Plant_TreeBonsai.label>
   <!-- EN: A small tree, pruned and shaped to look visually pleasing. -->
   <Plant_TreeBonsai.description>보기 좋게 가지를 치고 모양을 낸 작은 나무입니다.</Plant_TreeBonsai.description>
   
   <!-- EN: Gauranlen tree -->
   <Plant_TreeGauranlen.label>요정나무</Plant_TreeGauranlen.label>
   <!-- EN: A large, distinctive-looking tree with a unique life-cycle. Each Gauranlen tree contains a small non-conscious dryad queen. The queen births creatures called dryads which guard and tend the tree. In exchange, the tree nurtures its protectors by feeding them directly. From the outside, it appears the dryads are created by the tree directly and act as part of it.\n\nIt is possible for a person to form a connection with a Gauranlen tree and partially control the dryads it produces.\n\nSome say Gauranlen trees are the homes of nature spirits that follow humanity across worlds. -->
-  <Plant_TreeGauranlen.description>A large, distinctive-looking tree with a unique life-cycle. Each Gauranlen tree contains a small non-conscious dryad queen. The queen births creatures called dryads which guard and tend the tree. In exchange, the tree nurtures its protectors by feeding them directly. From the outside, it appears the dryads are created by the tree directly and act as part of it.\n\nIt is possible for a person to form a connection with a Gauranlen tree and partially control the dryads it produces.\n\nSome say Gauranlen trees are the homes of nature spirits that follow humanity across worlds.</Plant_TreeGauranlen.description>
+  <Plant_TreeGauranlen.description>커다랗고 독특한 외관을 지닌 이 나무는 아주 특별한 생태를 가지고 있습니다. 각 각의 요정나무는 작은 여왕 숲지기를 품고 있습니다. 이 여왕은 나무를 지키고 돌보는 숲지기라는 생명체를 출산하고, 요정나무는 보답으로 숲지기들에게 양분을 공급해줍니다. 밀접한 공생관계 때문에 숲지기들은 마치 요정나무의 일부처럼 보입니다.\n\n사람들은 요정나무와 특별한 관계를 맺어 거기에서 나오는 숲지기들을 일부 조종할 수 있습니다.\n\n몇몇 사람들은 요정나무가 인간들을 따라 세상을 여행하는 정령들의 집이라고 믿습니다.</Plant_TreeGauranlen.description>
   
 </LanguageData>

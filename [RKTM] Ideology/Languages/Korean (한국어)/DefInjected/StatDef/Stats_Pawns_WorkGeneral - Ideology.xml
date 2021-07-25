@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: hacking speed -->
-  <HackingSpeed.label>hacking speed</HackingSpeed.label>
+  <HackingSpeed.label>해킹 속도</HackingSpeed.label>
   <!-- EN: How fast this person can hack into computer terminals. -->
-  <HackingSpeed.description>How fast this person can hack into computer terminals.</HackingSpeed.description>
+  <HackingSpeed.description>이 사람이 컴퓨터 터미널을 얼마나 빨리 해킹할 수 있습니까?</HackingSpeed.description>
   
   <!-- EN: suppression power -->
-  <SuppressionPower.label>suppression power</SuppressionPower.label>
+  <SuppressionPower.label>진압력</SuppressionPower.label>
   <!-- EN: A multiplier on a warden's ability to suppress slaves. -->
-  <SuppressionPower.description>A multiplier on a warden's ability to suppress slaves.</SuppressionPower.description>
+  <SuppressionPower.description>간수들의 노예진압 기술에 대한 보정치입니다.</SuppressionPower.description>
   
 </LanguageData>

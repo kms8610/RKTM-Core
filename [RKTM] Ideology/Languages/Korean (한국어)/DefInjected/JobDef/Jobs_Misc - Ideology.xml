@@ -2,60 +2,60 @@
 <LanguageData>
   
   <!-- EN: invoking archotech. -->
-  <ActivateArchonexusCore.reportString>invoking archotech.</ActivateArchonexusCore.reportString>
+  <ActivateArchonexusCore.reportString>초월공학 작동 중.</ActivateArchonexusCore.reportString>
   
   <!-- EN: Blinding TargetA. -->
-  <Blind.reportString>Blinding TargetA.</Blind.reportString>
+  <Blind.reportString>TargetA의 눈을 멀게 하는 중.</Blind.reportString>
   
   <!-- EN: carrying TargetA to biosculpter pod. -->
-  <CarryToBiosculpterPod.reportString>carrying TargetA to biosculpter pod.</CarryToBiosculpterPod.reportString>
+  <CarryToBiosculpterPod.reportString>TargetA(을)를 생체 재구축기에 넣는 중.</CarryToBiosculpterPod.reportString>
   
   <!-- EN: delivering TargetA to altar. -->
-  <DeliverToAltar.reportString>delivering TargetA to altar.</DeliverToAltar.reportString>
+  <DeliverToAltar.reportString>TargetA(을)를 제단으로 옮기는 중.</DeliverToAltar.reportString>
   
   <!-- EN: dyeing hair -->
-  <DyeHair.reportString>dyeing hair</DyeHair.reportString>
+  <DyeHair.reportString>머리 염색하는 중.</DyeHair.reportString>
   
   <!-- EN: entering biosculpter pod. -->
-  <EnterBiosculpterPod.reportString>entering biosculpter pod.</EnterBiosculpterPod.reportString>
+  <EnterBiosculpterPod.reportString>생체 재구축기에 들어가기</EnterBiosculpterPod.reportString>
   
   <!-- EN: extracting TargetB from TargetA. -->
-  <ExtractRelic.reportString>extracting TargetB from TargetA.</ExtractRelic.reportString>
+  <ExtractRelic.reportString>TargetA에게서 TargetB(을)를 추출하는 중.</ExtractRelic.reportString>
   
   <!-- EN: extracting TargetA to inventory. -->
-  <ExtractToInventory.reportString>extracting TargetA to inventory.</ExtractToInventory.reportString>
+  <ExtractToInventory.reportString>TargetA(을)를 소지품에서 추출하는 중.</ExtractToInventory.reportString>
   
   <!-- EN: getting neural supercharge from TargetA -->
   <GetNeuralSupercharge.reportString>getting neural supercharge from TargetA</GetNeuralSupercharge.reportString>
   
   <!-- EN: giving TargetA to TargetB. -->
-  <GiveToPawn.reportString>giving TargetA to TargetB.</GiveToPawn.reportString>
+  <GiveToPawn.reportString>TargetB에게 TargetA(을)를 주는 중.</GiveToPawn.reportString>
   
   <!-- EN: inducing TargetA to rebel. -->
-  <InduceSlaveToRebel.reportString>inducing TargetA to rebel.</InduceSlaveToRebel.reportString>
+  <InduceSlaveToRebel.reportString>TargetA에게 반란을 일으키자고 설득하는 중.</InduceSlaveToRebel.reportString>
   
   <!-- EN: installing TargetA in TargetB -->
-  <InstallRelic.reportString>installing TargetA in TargetB</InstallRelic.reportString>
+  <InstallRelic.reportString>TargetA에 TargetB를 설치</InstallRelic.reportString>
   
   <!-- EN: praying. -->
-  <MeditatePray.reportString>기도 충.</MeditatePray.reportString>
+  <MeditatePray.reportString>기도 중.</MeditatePray.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <OpenStylingStationDialog.reportString>changing style at TargetA.</OpenStylingStationDialog.reportString>
+  <OpenStylingStationDialog.reportString>TargetA에서 화장하는 중.</OpenStylingStationDialog.reportString>
   
   <!-- EN: recoloring apparel -->
-  <RecolorApparel.reportString>recoloring apparel</RecolorApparel.reportString>
+  <RecolorApparel.reportString>의류 염색 중.</RecolorApparel.reportString>
   
   <!-- EN: Sacrificing TargetA. -->
-  <Sacrifice.reportString>Sacrificing TargetA.</Sacrifice.reportString>
+  <Sacrifice.reportString>TargetA(을)를 희생시키는 중.</Sacrifice.reportString>
   
   <!-- EN: Scarifying TargetA. -->
-  <Scarify.reportString>Scarifying TargetA.</Scarify.reportString>
+  <Scarify.reportString>TargetA에게 상흔 문신을 새기는 중.</Scarify.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <UseStylingStation.reportString>changing style at TargetA.</UseStylingStation.reportString>
+  <UseStylingStation.reportString>TargetA에서 화장하는 중.</UseStylingStation.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <UseStylingStationAutomatic.reportString>changing style at TargetA.</UseStylingStationAutomatic.reportString>
+  <UseStylingStationAutomatic.reportString>TargetA에서 화장하는 중.</UseStylingStationAutomatic.reportString>
   
 </LanguageData>

@@ -14,7 +14,7 @@
   <Cannibal_PainIsVirtue.label>식인주의 vs 고통주의</Cannibal_PainIsVirtue.label>
   
   <!-- EN: collectivist agreement -->
-  <Collectivist_Collectivist.label>집단주의</Collectivist_Collectivist.label>
+  <Collectivist_Collectivist.label>전체주의</Collectivist_Collectivist.label>
   
   <!-- EN: collectivist vs individualist -->
   <Collectivist_Individualist.label>집단주의 vs 개인주의</Collectivist_Individualist.label>
@@ -41,19 +41,19 @@
   <HighLife_FleshPurity.label>약물 선호주의 vs 신체 순수주의</HighLife_FleshPurity.label>
   
   <!-- EN: high life agreement -->
-  <HighLife_HighLife.label>약물 선호주의</HighLife_HighLife.label>
+  <HighLife_HighLife.label>약쟁이</HighLife_HighLife.label>
   
   <!-- EN: human primacy vs animal personhood -->
   <HumanPrimacy_AnimalPersonhood.label>인간 우월주의 vs 동물 인격주의</HumanPrimacy_AnimalPersonhood.label>
   
   <!-- EN: human primacy vs flesh purity -->
-  <HumanPrimacy_FleshPurity.label>인간 우월주의 vs 신체 순수주위</HumanPrimacy_FleshPurity.label>
+  <HumanPrimacy_FleshPurity.label>인간 우월주의 vs 신체 순수주의</HumanPrimacy_FleshPurity.label>
   
   <!-- EN: human primacy agreement -->
   <HumanPrimacy_HumanPrimacy.label>인간 우월주의</HumanPrimacy_HumanPrimacy.label>
   
   <!-- EN: human primacy vs transhumanist -->
-  <HumanPrimacy_Transhumanist.label>인간 우월주의 vs 신체 개조주의</HumanPrimacy_Transhumanist.label>
+  <HumanPrimacy_Transhumanist.label>인간 우월주의 vs 신체 초월주의</HumanPrimacy_Transhumanist.label>
   
   <!-- EN: individualist vs cannibal -->
   <Individualist_Cannibal.label>개인주의 vs 식인주의</Individualist_Cannibal.label>
@@ -65,7 +65,7 @@
   <Individualist_Proselytizer.label>개인주의 vs 개종주의</Individualist_Proselytizer.label>
   
   <!-- EN: loyalist -->
-  <Loyalist_All.label>충신</Loyalist_All.label>
+  <Loyalist_All.label>충성파</Loyalist_All.label>
   
   <!-- EN: male supremacy vs individualist -->
   <MaleSupremacy_Individualist.label>남성 우월주의 vs 개인주의</MaleSupremacy_Individualist.label>
@@ -92,7 +92,7 @@
   <PainIsVirtue_PainIsVirtue.label>고통 선호주의</PainIsVirtue_PainIsVirtue.label>
   
   <!-- EN: raider -->
-  <Raider_All.label>레이더</Raider_All.label>
+  <Raider_All.label>약탈자</Raider_All.label>
   
   <!-- EN: rancher vs animal personhood -->
   <Rancher_AnimalPersonhood.label>가축주의 vs 동물 인격주의</Rancher_AnimalPersonhood.label>
@@ -101,7 +101,7 @@
   <Rancher_NaturePrimacy.label>가축주의 vs 자연 우월주의</Rancher_NaturePrimacy.label>
   
   <!-- EN: both follow {0_name} -->
-  <SameIdeo.label>전부 {0_name} 을 따름</SameIdeo.label>
+  <SameIdeo.label>전부 {0_name}(을)를 따름</SameIdeo.label>
   
   <!-- EN: supremacist -->
   <Supremacist_All.label>우월주의자</Supremacist_All.label>

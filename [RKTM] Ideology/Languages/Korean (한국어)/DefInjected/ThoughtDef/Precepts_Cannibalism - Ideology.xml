@@ -2,59 +2,59 @@
 <LanguageData>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Abhorrent.stages.ate_human_meat.label>인육을 섭취함</AteHumanMeat_Abhorrent.stages.ate_human_meat.label>
+  <AteHumanMeat_Abhorrent.stages.ate_human_meat.label>인육 섭취</AteHumanMeat_Abhorrent.stages.ate_human_meat.label>
   <!-- EN: I had to eat human meat. This is an offense against everything I believe. -->
   <AteHumanMeat_Abhorrent.stages.ate_human_meat.description>인육을 먹어야만 했어. 이건 내가 믿는 모든 것에 대한 모욕이야.</AteHumanMeat_Abhorrent.stages.ate_human_meat.description>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Disapproved.stages.ate_human_meat.label>인육을 섭취함</AteHumanMeat_Disapproved.stages.ate_human_meat.label>
+  <AteHumanMeat_Disapproved.stages.ate_human_meat.label>인육 섭취</AteHumanMeat_Disapproved.stages.ate_human_meat.label>
   <!-- EN: I had to eat human meat. I believe such actions are wrong. -->
   <AteHumanMeat_Disapproved.stages.ate_human_meat.description>인육을 먹어야만 했어. 이런건 잘못된 짓이야.</AteHumanMeat_Disapproved.stages.ate_human_meat.description>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Horrible.stages.ate_human_meat.label>인육을 섭취함</AteHumanMeat_Horrible.stages.ate_human_meat.label>
+  <AteHumanMeat_Horrible.stages.ate_human_meat.label>인육 섭취</AteHumanMeat_Horrible.stages.ate_human_meat.label>
   <!-- EN: I had to eat human meat. This was a horrible thing. -->
   <AteHumanMeat_Horrible.stages.ate_human_meat.description>인육을 먹어야만 했어. 끔찍해.</AteHumanMeat_Horrible.stages.ate_human_meat.description>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>인육을 섭취함</AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>인육 섭취</AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>인육을 섭취함</AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>인육 섭취</AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>인육을 섭취함</AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>인육 섭취</AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Preferred.stages.ate_human_meat.label>인육을 섭취함</AteHumanMeat_Preferred.stages.ate_human_meat.label>
+  <AteHumanMeat_Preferred.stages.ate_human_meat.label>인육 섭취</AteHumanMeat_Preferred.stages.ate_human_meat.label>
   <!-- EN: I ate human meat. It makes me feel noble and strong. -->
   <AteHumanMeat_Preferred.stages.ate_human_meat.description>인육을 먹었어. 고귀하고 강해지는 기분이야.</AteHumanMeat_Preferred.stages.ate_human_meat.description>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>인육을 섭취함</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>
+  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>인육 섭취</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>
   <!-- EN: I ate human meat! The world is right, and I am as I should be. -->
   <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>인육을 먹었어! 세상이 이렇게 돌아가야지.</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>인육을 섭취함</AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>
+  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>인육 섭취</AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>
   <!-- EN: I ate human meat, as every real human should. -->
   <AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>인육을 먹었어. 진짜 인간답게 말이야.</AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>
   
   <!-- EN: ate non-cannibal food -->
-  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>인육이 아닌 음식을 섭취함</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>인육이 아닌 음식 섭취</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>
   <!-- EN: I had to eat food that wasn't taken from a human body. This is absolutely against my beliefs. -->
   <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>인간의 몸에서 나오지 않은 것을 먹어야만 했어. 이건 내 신념에 전혀 반대되는 짓이야.</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>
   
   <!-- EN: ate non-cannibal food -->
-  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>인육이 아닌 음식을 섭취함</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>인육이 아닌 음식 섭취</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>
   <!-- EN: I had to eat food that wasn't taken from a human body. My beliefs strictly forbid such things. -->
   <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>인간의 몸에서 나오지 않은 것을 먹어야만 했어. 내 신념에 엄격히 금지되는 짓이야.</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>
   
   <!-- EN: ate non-cannibal food -->
-  <AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>인육이 아닌 음식을 섭취함</AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>인육이 아닌 음식 섭취</AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>
   
   <!-- EN: ate non-cannibal food -->
-  <AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>인육이 아닌 음식을 섭취함</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>인육이 아닌 음식 섭취</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>
   
   <!-- EN: I butchered humanlike -->
   <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>내가 사람을 도축했어</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>

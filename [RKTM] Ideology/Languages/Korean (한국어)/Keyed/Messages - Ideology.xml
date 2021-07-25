@@ -7,6 +7,10 @@
   <MessageIdeoNameCantBeEmpty>사상의 이름을 비울 수 없습니다.</MessageIdeoNameCantBeEmpty>
   <!-- EN: {PRECEPT1} and {PRECEPT2} are incompatible. -->
   <MessageIdeoIncompatiblePrecepts>{PRECEPT1}(와)과 {PRECEPT2}(을)를 함께 선택할 수 없습니다.</MessageIdeoIncompatiblePrecepts>
+  <!-- EN: {DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement. -->
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <!-- EN: {DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together. -->
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
   <!-- EN: {PRECEPT} needs one of these buildings -->
   <MessageRitualMissingTarget>{PRECEPT}에는 다음 건물 중 하나 필요</MessageRitualMissingTarget>
   <!-- EN: {PRECEPT} needs an associated ritual. -->
@@ -43,7 +47,7 @@
 
   <!-- Slave interactions -->
   <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
-  <MessageSlaveEmancipated>{1_nameDef}(이)가 {0_nameDef}(을)를 노예에서 해방시켰습니다.</MessageSlaveEmancipated>
+  <MessageSlaveEmancipated>{1_nameDef}(이)가 {0_nameDef}(을)를 해방시켰습니다.</MessageSlaveEmancipated>
   <!-- EN: {0_nameDef} has been enslaved by {1_nameDef}. -->
   <MessagePrisonerEnslaved>{1_nameDef}(이)가 {0_nameDef}(을)를 노예로 삼았습니다.</MessagePrisonerEnslaved>
   <!-- EN: Prisoner {1_nameDef}'s will has been broken by {0_nameDef}. -->
@@ -55,7 +59,7 @@
   <!-- EN: No warden is capable of this enslavement. -->
   <MessageNoWardenCapableOfEnslavement>어떤 간수도 이 사람을 노예로 삼지 않을 것입니다.</MessageNoWardenCapableOfEnslavement>
   <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
-  <MessageNoWardenOfIdeo>{PRISONER_nameDef}(을)를 교화할 수 있는 {MEMBERNAME} 간수가 없습니다. {PRISONER_possessive}의 처우를 "상호작용 없음"으로 재설정했습니다.</MessageNoWardenOfIdeo>
+  <MessageNoWardenOfIdeo>{PRISONER_nameDef}(을)를 교화할 수 있는 {MEMBERNAME} 간수가 없습니다. {PRISONER_possessive} 처우를 "상호작용 없음"으로 재설정했습니다.</MessageNoWardenOfIdeo>
 
   <!-- Camps -->
   <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->
@@ -90,6 +94,8 @@
   <CannotRemoveMemeRequiredPlayer>{MEME}(을)를 제거할 수 없음: 플레이어 세력 요구사항</CannotRemoveMemeRequiredPlayer>
   <!-- EN: Required by {FACTION_name}. -->
   <RequiredByFaction>{FACTION_name} 요구사항</RequiredByFaction>
+  <!-- EN: Roles cannot have overlapping apparel requirements. -->
+  <OverlappingRoleApparel>Roles cannot have overlapping apparel requirements.</OverlappingRoleApparel>
   
   <!-- EN: {0_label} will self-destruct in {1}. -->
   <SelfDestructCountdown>{0_label}(이)가 {1} 후 자폭합니다.</SelfDestructCountdown>
@@ -106,7 +112,7 @@
 
   <!-- Ancient altar -->
   <!-- EN: All security systems are waking up! -->
-  <MessageAncientAltarThreatsWokenUp>보안 시스템의 모든 구성 요소가 깨어나고 있습니다!</MessageAncientAltarThreatsWokenUp>
+  <MessageAncientAltarThreatsWokenUp>모든 보안 시스템이 활성화되고 있습니다!</MessageAncientAltarThreatsWokenUp>
   <!-- EN: All security systems are alerted to your presence. -->
   <MessageAncientAltarThreatsAlerted>보안 시스템의 모든 구성 요소에 존재가 노출됐습니다.</MessageAncientAltarThreatsAlerted>
 

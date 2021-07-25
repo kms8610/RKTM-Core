@@ -12,28 +12,28 @@
   <!-- EN: droneDetectionMethod(enemyFactionNeolithic==false)->detect the drone's energy signature -->
   <Hack_Spacedrone.questDescriptionRules.rulesStrings.4>droneDetectionMethod(enemyFactionNeolithic==false)->detect the drone's energy signature</Hack_Spacedrone.questDescriptionRules.rulesStrings.4>
   <!-- EN: questName->[droneAdj] [drone] hack -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.0>questName->[droneAdj] [drone] hack</Hack_Spacedrone.questNameRules.rulesStrings.0>
+  <Hack_Spacedrone.questNameRules.rulesStrings.0>questName->[droneAdj] [drone] 해킹</Hack_Spacedrone.questNameRules.rulesStrings.0>
   <!-- EN: questName->[drone] [data] hack -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.1>questName->[drone] [data] hack</Hack_Spacedrone.questNameRules.rulesStrings.1>
+  <Hack_Spacedrone.questNameRules.rulesStrings.1>questName->[drone] [data] 해킹</Hack_Spacedrone.questNameRules.rulesStrings.1>
   <!-- EN: droneAdj->orbital -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.2>droneAdj->orbital</Hack_Spacedrone.questNameRules.rulesStrings.2>
+  <Hack_Spacedrone.questNameRules.rulesStrings.2>droneAdj->궤도</Hack_Spacedrone.questNameRules.rulesStrings.2>
   <!-- EN: droneAdj->data -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.3>droneAdj->data</Hack_Spacedrone.questNameRules.rulesStrings.3>
+  <Hack_Spacedrone.questNameRules.rulesStrings.3>droneAdj->기록용</Hack_Spacedrone.questNameRules.rulesStrings.3>
   <!-- EN: droneAdj->ancient -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.4>droneAdj->ancient</Hack_Spacedrone.questNameRules.rulesStrings.4>
+  <Hack_Spacedrone.questNameRules.rulesStrings.4>droneAdj->고대</Hack_Spacedrone.questNameRules.rulesStrings.4>
   <!-- EN: drone->drone -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.5>drone->drone</Hack_Spacedrone.questNameRules.rulesStrings.5>
+  <Hack_Spacedrone.questNameRules.rulesStrings.5>drone->무인함선</Hack_Spacedrone.questNameRules.rulesStrings.5>
   <!-- EN: drone->spacecraft -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.6>drone->spacecraft</Hack_Spacedrone.questNameRules.rulesStrings.6>
+  <Hack_Spacedrone.questNameRules.rulesStrings.6>drone->우주선</Hack_Spacedrone.questNameRules.rulesStrings.6>
   <!-- EN: drone->spacedrone -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.7>drone->spacedrone</Hack_Spacedrone.questNameRules.rulesStrings.7>
+  <Hack_Spacedrone.questNameRules.rulesStrings.7>drone->무인 우주선</Hack_Spacedrone.questNameRules.rulesStrings.7>
   <!-- EN: drone->cryptodrone -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.8>drone->cryptodrone</Hack_Spacedrone.questNameRules.rulesStrings.8>
+  <Hack_Spacedrone.questNameRules.rulesStrings.8>drone->동면드론</Hack_Spacedrone.questNameRules.rulesStrings.8>
   <!-- EN: data->data -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.9>data->data</Hack_Spacedrone.questNameRules.rulesStrings.9>
+  <Hack_Spacedrone.questNameRules.rulesStrings.9>data->데이터</Hack_Spacedrone.questNameRules.rulesStrings.9>
   <!-- EN: data->intel -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.10>data->intel</Hack_Spacedrone.questNameRules.rulesStrings.10>
+  <Hack_Spacedrone.questNameRules.rulesStrings.10>data->기밀</Hack_Spacedrone.questNameRules.rulesStrings.10>
   <!-- EN: data->info -->
-  <Hack_Spacedrone.questNameRules.rulesStrings.11>data->info</Hack_Spacedrone.questNameRules.rulesStrings.11>
+  <Hack_Spacedrone.questNameRules.rulesStrings.11>data->정보</Hack_Spacedrone.questNameRules.rulesStrings.11>
   
 </LanguageData>

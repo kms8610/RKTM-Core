@@ -7,8 +7,12 @@
   <CreateCustom>새로 생성</CreateCustom>
   <!-- EN: Create new -->
   <CreateNew>새로 생성</CreateNew>
+  <!-- EN: Load existing -->
+  <LoadExisting>Load existing</LoadExisting>
   <!-- EN: Create custom ideoligion -->
   <CreateCustomIdeoligion>새로운 사상 만들기</CreateCustomIdeoligion>
+  <!-- EN: Load saved ideoligion -->
+  <LoadExistingIdeoligion>Load saved ideoligion</LoadExistingIdeoligion>
   <!-- EN: Select an ideoligion for your faction on the left, or -->
   <SelectAnIdeo>왼쪽에서 기존 사상을 선택하세요. 또는</SelectAnIdeo>
   <!-- EN: ideoligion -->
@@ -142,7 +146,7 @@
   <RitualBlindingWarnWimp>{PAWN_labelShort}(은)는 약골이므로 눈이 멀게 되는 것을 좋아하지 않을 것입니다.</RitualBlindingWarnWimp>
   
   <!-- EN: Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)! -->
-  <RitualOutcomeExtraDesc_DancePartyWorkFocus>의식에 참여한 모든 사람의 작업 속도가 하루 동안 향상됩니다! (전역 작업 속도 {PERCENTAGE})</RitualOutcomeExtraDesc_DancePartyWorkFocus>
+  <RitualOutcomeExtraDesc_DancePartyWorkFocus>의식에 참여한 모든 사람의 작업 속도가 하루 동안 증가합니다! (전역 작업 속도 {PERCENTAGE})</RitualOutcomeExtraDesc_DancePartyWorkFocus>
   <!-- EN: Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level! -->
   <RitualOutcomeExtraDesc_BlindingPsylink>만족스러운 실명 의식 덕분에 {PAWN_labelShort}의 정신 증폭 단계가 상승했습니다!</RitualOutcomeExtraDesc_BlindingPsylink>
   <!-- EN: With a new pyslink level {PAWN_pronoun} gained a {0} psycast. -->
@@ -251,7 +255,7 @@
   <!-- EN: Required apparel -->
   <RoleRequiredApparelLabel>필요 의복</RoleRequiredApparelLabel>
   <!-- EN: Has role in rituals -->
-  <RoleRitualsLabel>역할을 맡는 의식</RoleRitualsLabel>
+  <RoleRitualsLabel>의식에서의 맡는 역할</RoleRitualsLabel>
   <!-- EN: This role becomes active when your faction has {1} {0}. It becomes inactive when your faction has only {3} {2}. -->
   <RoleBelieverCountDesc>이 보직은 세력에 {1}명의 {0}(이)가 있으면 활성화됩니다. {3}명의 {2}만 있으면 비활성화됩니다.</RoleBelieverCountDesc>
   <!-- EN: Raised by {0} levels. -->
@@ -269,7 +273,7 @@
   <TextMote_WillReduced>의지\n{0}에서 {1}로</TextMote_WillReduced>
 
   <!-- EN: Accepting this join offer is an act of charity. If you refuse, the following people will be unhappy due to their pro-charity beliefs:\n{0}\n\nAre you sure you want to reject this join offer? -->
-  <ConfirmationCharityJoiner>이 합류 요청은 자선 행동입니다. 거절하면 자선적 사상을 가진 아래 사람의 기분이 나빠질 것입니다:\n{0}\n\n정말 합류 요청을 거절하시겠습니까?</ConfirmationCharityJoiner>
+  <ConfirmationCharityJoiner>이 합류 요청을 거절하면 이타적 사상을 가진 다음 정착민의 기분이 나빠질 것입니다.\n{0}\n\n정말 합류 요청을 거절하시겠습니까?</ConfirmationCharityJoiner>
 
   <!-- EN: Believers in {0} ({1}) -->
   <BelieversIn>{0}(을)를 믿는 사람 ({1})</BelieversIn>
@@ -325,7 +329,7 @@
   <!-- EN: You've stayed in the village too long. The people of {FACTION_name} are attacking! -->
   <WorshippedTerminalFactionBecameHostileTimed>이 마을에 너무 오래 머물렀습니다. {FACTION_name}의 사람들이 공격을 시작합니다!</WorshippedTerminalFactionBecameHostileTimed>
   <!-- EN: Villagers are returning from nearby to protect the venerated terminal! -->
-  <WorshippedTerminalRaidIncoming>주민들이 신성한 단말기를 지키기 위해 인근 지역에서 돌아오고 있습니다!</WorshippedTerminalRaidIncoming>
+  <WorshippedTerminalRaidIncoming>주민들이 성스러운 단말기를 지키기 위해 인근 지역에서 돌아오고 있습니다!</WorshippedTerminalRaidIncoming>
 
   <!-- Relic hunt -->
   <!-- EN: First, you need to find the {0}. Watch for opportunities to gather information about it. -->
@@ -467,8 +471,8 @@
 
   <!-- EN: Assign colonists to your ideoligion -->
   <AssignColonists>사상에 정착민 할당</AssignColonists>
-  <!-- EN: Delete new ideoligion -->
-  <DeleteNewIdeoligion>신규 사상 삭제</DeleteNewIdeoligion>
+  <!-- EN: Remove new ideoligion -->
+  <RemoveNewIdeoligion>Remove new ideoligion</RemoveNewIdeoligion>
   <!-- EN: Make this your primary ideologion -->
   <MakeIdeoligionPrimary>주 사상으로 설정</MakeIdeoligionPrimary>
 
@@ -476,7 +480,7 @@
   <!-- EN: You've invoked the archonexus core. The world fills with a blinding light and time seems to slow...\n\n -->
   <GameOverArchotechInvokedIntro>초월연결체가 움직이기 시작합니다. 온 세상이 밝은 빛으로 가득 차고, 시간이 느려지는 듯 합니다...\n\n</GameOverArchotechInvokedIntro>
   <!-- EN: The machine god has noticed you. Nobody can predict what happens next. It may destroy you, or communicate with you directly, or transport your consciousness to another plane of reality.\n\nYou sense a vast, inhuman structure of infinite fractal complexity flowing into your mind. Time and scale begin to dissolve. It's terrifying. It's beautiful... -->
-  <GameOverArchotechInvokedEnding>기계 신이 당신의 존재를 알아차렸습니다. 이제 아무도 무슨 일이 일어날지 예상할 수 없습니다. 기계 신은 당신을 파괴할 수도, 당신과 직접 소통할 수도, 당신의 의식을 현실의 다른 차원으로 옮길 수도 있습니다.\n\n당신의 마음에 무한한 기하복잡도의 인공 구조가 흘러들어오는 것이 느껴집니다. 시간과 공간의 개념이 점차 사라집니다. 두렵지만, 아름답습니다...</GameOverArchotechInvokedEnding>
+  <GameOverArchotechInvokedEnding>기계 신이 당신의 존재를 알아차렸습니다. 이제 아무도 무슨 일이 일어날지 예상할 수 없습니다. 기계 신은 당신을 파괴할 수도, 당신과 직접 소통할 수도, 당신의 의식을 현실의 다른 차원으로 옮길 수도 있습니다.\n\n당신의 머릿속에 무한한 기하학적 인공 구조가 흘러 들어오는 것이 느껴집니다. 시간과 공간의 개념이 점차 사라집니다. 두렵지만, 아름답습니다...</GameOverArchotechInvokedEnding>
   <!-- EN: These colonists have transcended:\n\n{0} -->
   <GameOverColonistsTranscended>초월한 정착민\n\n{0}</GameOverColonistsTranscended>
   <!-- EN: An archonexus map part -->
@@ -495,7 +499,7 @@
   <SupplySatellite>보급 위성</SupplySatellite>
 
   <!-- EN: Colonist is not willing to extract skull from corpse (missing pro-skullspike precept) -->
-  <CannotExtractSkull>두개골을 꺼내고 싶지  않아 함 (머리장대 규율 없음)</CannotExtractSkull>
+  <CannotExtractSkull>두개골을 꺼내고 싶지  않아 함 (효수대 규율 없음)</CannotExtractSkull>
   <!-- EN: Preview the ritual ambience sound -->
   <TipPreviewRitualAmbienceSound>의식 배경음 미리듣기</TipPreviewRitualAmbienceSound>
 
@@ -520,9 +524,9 @@
   <!-- EN: Interrupt cycle -->
   <BiosculpterInteruptCycle>절차 중단</BiosculpterInteruptCycle>
   <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
-  <BiosculpterInteruptCycleDesc>현재 절차를 중단합니다. 탑승자는 생체 재구축 절차로 인한 긍정적 효과를 받지 못하고 나오게 되며, 짧은 시간 재구축 후유증을 겪습니다.</BiosculpterInteruptCycleDesc>
+  <BiosculpterInteruptCycleDesc>절차를 중단합니다. 탑승자는 생체 조율로 인한 긍정적 효과를 받지 못하고 바깥에 나오게 되며, 짧은 시간 후유증을 겪습니다.</BiosculpterInteruptCycleDesc>
   <!-- EN: Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle. -->
-  <BiosculpterLoadingStartedMessage>생체 재구축기에 {NUTRITION}의 열량을 다 채우면, 정착민을 선택 후 생체 재구축기나 쓰러진 사람을 오른쪽 클릭해서 절차를 시작하세요.</BiosculpterLoadingStartedMessage>
+  <BiosculpterLoadingStartedMessage>생체 조율기에 {NUTRITION} 열량을 다 채우면, 정착민을 선택 후 생체 조율기나 환자를 우클릭해서 절차를 시작하세요.</BiosculpterLoadingStartedMessage>
   <!-- EN: {PAWN_labelShort} was ejected from a biosculpter pod due to lack of power. -->
   <BiosculpterNoPowerEjectedMessage>전력 부족으로 인해 {PAWN_labelShort}(이)가 생체 재구축기에서 나왔습니다.</BiosculpterNoPowerEjectedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle. -->
@@ -530,7 +534,7 @@
   <!-- EN: {PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured. -->
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort}(이)가 치유 절차를 끝냈습니다. {HEDIFF_label}(이)가 회복됐습니다.</BiosculpterHealCompletedWithCureMessage>
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
-  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}(이)가 노화 역행 절차를 끝냈습니다. {PAWN_pronoun}는 다음 노화 역행을 {DEADLINE}일 안에 받길 원합니다.</BiosculpterAgeReversalCompletedMessage>
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}(이)가 노화 역전 절차를 끝냈습니다. {PAWN_pronoun}는 다음 노화 역전을 {DEADLINE}일 안에 받길 원합니다.</BiosculpterAgeReversalCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed pleasure cycle. -->
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}(이)가 쾌락 절차를 끝냈습니다.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->

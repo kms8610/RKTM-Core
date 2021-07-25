@@ -20,11 +20,11 @@
   <Scarification_Heavy.comps.1.thoughtStageDescriptions.0>Scarification (3 scars required)</Scarification_Heavy.comps.1.thoughtStageDescriptions.0>
   
   <!-- EN: horrible -->
-  <Scarification_Horrible.label>horrible</Scarification_Horrible.label>
+  <Scarification_Horrible.label>끔찍함</Scarification_Horrible.label>
   <!-- EN: Scarifying people for ideoligious reasons is horrible. -->
-  <Scarification_Horrible.description>Scarifying people for ideoligious reasons is horrible.</Scarification_Horrible.description>
+  <Scarification_Horrible.description>사상적 이유로 상흔 문신을 새기는 것은 끔찍하다.</Scarification_Horrible.description>
   <!-- EN: someone got scarified -->
-  <Scarification_Horrible.comps.0.description>someone got scarified</Scarification_Horrible.comps.0.description>
+  <Scarification_Horrible.comps.0.description>누군가가 상흔 문신을 새김</Scarification_Horrible.comps.0.description>
   
   <!-- EN: minor -->
   <Scarification_Minor.label>가벼움</Scarification_Minor.label>

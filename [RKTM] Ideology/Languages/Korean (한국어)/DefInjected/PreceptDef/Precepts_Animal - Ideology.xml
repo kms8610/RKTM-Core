@@ -6,7 +6,7 @@
   <!-- EN: This animal is considered by believers to hold a special spiritual or moral status, which means it must be venerated and may never be harmed. -->
   <AnimalVenerated.description>이 동물은 신자들에게 영적 지혜와 도덕적 지위를 가진 것으로 존경받고 있습니다. 그것은 이 동물이 공경 받아야 하고, 절대 다치지 않아야 한다는 것을 의미합니다.</AnimalVenerated.description>
   <!-- EN: Tame venerated animal died -->
-  <AnimalVenerated.comps.2.description>길들여진 신성한 동물이 죽음</AnimalVenerated.comps.2.description>
+  <AnimalVenerated.comps.2.description>길들여진 성스러운 동물이 죽음</AnimalVenerated.comps.2.description>
   <!-- EN: Scarce animals {STAGE1} -->
   <AnimalVenerated.comps.4.thoughtStageDescriptions.0>동물이 부족함 {STAGE1}</AnimalVenerated.comps.4.thoughtStageDescriptions.0>
   <!-- EN: Few animals {STAGE2} -->

@@ -4,7 +4,7 @@
   <!-- EN: emancipate -->
   <Emancipate.label>해방</Emancipate.label>
   <!-- EN: A warden will free this slave. -->
-  <Emancipate.description>간수가 이 노예를 해방시킵니다.</Emancipate.description>
+  <Emancipate.description>간수가 노예를 해방시킵니다.</Emancipate.description>
   
   <!-- EN: execute -->
   <Execute.label>처형</Execute.label>
@@ -14,7 +14,7 @@
   <!-- EN: imprison -->
   <Imprison.label>감금</Imprison.label>
   <!-- EN: A warden will imprison this slave. Once imprisoned, they can be recruited, or enslaved once again. -->
-  <Imprison.description>간수가 노예를 감금시킵니다. 감금된 이후에는 포섭을 하거나 다시 노예화 시킬 수 있습니다.</Imprison.description>
+  <Imprison.description>간수가 노예를 감금합니다. 이후 포섭하거나 다시 노예화할 수 있습니다.</Imprison.description>
   
   <!-- EN: no interaction -->
   <NoInteraction.label>상호작용 없음</NoInteraction.label>

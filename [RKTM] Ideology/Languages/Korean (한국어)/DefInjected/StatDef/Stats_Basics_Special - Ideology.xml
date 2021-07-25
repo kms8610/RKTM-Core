@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: slave suppression offset -->
-  <SlaveSuppressionOffset.label>slave suppression offset</SlaveSuppressionOffset.label>
+  <SlaveSuppressionOffset.label>노예 억제 오프셋</SlaveSuppressionOffset.label>
   <!-- EN: An offset applied to the wearer's slave suppression. Higher values suppress slaves longer, while lower values make slaves rebel more often. -->
   <SlaveSuppressionOffset.description>An offset applied to the wearer's slave suppression. Higher values suppress slaves longer, while lower values make slaves rebel more often.</SlaveSuppressionOffset.description>
   
   <!-- EN: terror -->
-  <TerrorSource.label>terror</TerrorSource.label>
+  <TerrorSource.label>공포</TerrorSource.label>
   <!-- EN: The intensity of terror this object induces when viewed. -->
   <TerrorSource.description>The intensity of terror this object induces when viewed.</TerrorSource.description>
   <!-- EN: {0}% -->

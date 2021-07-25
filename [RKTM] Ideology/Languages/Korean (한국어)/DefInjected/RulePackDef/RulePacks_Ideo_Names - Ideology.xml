@@ -12,15 +12,15 @@
   <!-- EN: globalHyphenPrefix->astro -->
   <CultureSpacer.rulePack.rulesStrings.4>globalHyphenPrefix->우주</CultureSpacer.rulePack.rulesStrings.4>
   <!-- EN: globalHyphenPrefix->stello -->
-  <CultureSpacer.rulePack.rulesStrings.5>globalHyphenPrefix->항성</CultureSpacer.rulePack.rulesStrings.5>
+  <CultureSpacer.rulePack.rulesStrings.5>globalHyphenPrefix->성간</CultureSpacer.rulePack.rulesStrings.5>
   
   <!-- EN: globalAdjective(p=15)->Tribal -->
-  <NamerIdeoCorunan.rulePack.rulesStrings.0>globalAdjective(p=15)->토속</NamerIdeoCorunan.rulePack.rulesStrings.0>
+  <NamerIdeoCorunan.rulePack.rulesStrings.0>globalAdjective(p=15)->부족</NamerIdeoCorunan.rulePack.rulesStrings.0>
   
   <!-- EN: r_ideoName->[keyDeity]ism -->
   <NamerIdeoGlobal.rulePack.rulesStrings.0>r_ideoName->[keyDeity]교</NamerIdeoGlobal.rulePack.rulesStrings.0>
   <!-- EN: r_ideoName->[hyphenPrefix]-[keyDeity]ism -->
-  <NamerIdeoGlobal.rulePack.rulesStrings.1>r_ideoName->[hyphenPrefix]-[keyDeity]교</NamerIdeoGlobal.rulePack.rulesStrings.1>
+  <NamerIdeoGlobal.rulePack.rulesStrings.1>r_ideoName->[hyphenPrefix] [keyDeity]교</NamerIdeoGlobal.rulePack.rulesStrings.1>
   <!-- EN: r_ideoName->[keyDeity]'s [creed] -->
   <NamerIdeoGlobal.rulePack.rulesStrings.2>r_ideoName->[keyDeity]의 [creed]</NamerIdeoGlobal.rulePack.rulesStrings.2>
   <!-- EN: r_ideoName->[creed] of [keyDeity] -->
@@ -34,7 +34,7 @@
   <!-- EN: r_ideoName(p=2)->[globalAdjective] [packIdeoName] -->
   <NamerIdeoGlobal.rulePack.rulesStrings.7>r_ideoName(p=2)->[globalAdjective] [packIdeoName]</NamerIdeoGlobal.rulePack.rulesStrings.7>
   <!-- EN: r_ideoName(p=1.5,forcePrefix==False)->[hyphenPrefix]-[packIdeoName] -->
-  <NamerIdeoGlobal.rulePack.rulesStrings.8>r_ideoName(p=1.5,forcePrefix==False)->[hyphenPrefix]-[packIdeoName]</NamerIdeoGlobal.rulePack.rulesStrings.8>
+  <NamerIdeoGlobal.rulePack.rulesStrings.8>r_ideoName(p=1.5,forcePrefix==False)->[hyphenPrefix] [packIdeoName]</NamerIdeoGlobal.rulePack.rulesStrings.8>
   <!-- EN: r_ideoName->[memeAdjective] [packIdeoName] -->
   <NamerIdeoGlobal.rulePack.rulesStrings.9>r_ideoName->[memeAdjective] [packIdeoName]</NamerIdeoGlobal.rulePack.rulesStrings.9>
   <!-- EN: r_ideoName(p=0.5)->[memeAdjective] [creed] -->
@@ -94,7 +94,7 @@
   <!-- EN: globalHyphenPrefix(p=2)->post -->
   <NamerIdeoGlobal.rulePack.rulesStrings.37>globalHyphenPrefix(p=2)->구</NamerIdeoGlobal.rulePack.rulesStrings.37>
   <!-- EN: globalHyphenPrefix->nova -->
-  <NamerIdeoGlobal.rulePack.rulesStrings.38>globalHyphenPrefix->초신성</NamerIdeoGlobal.rulePack.rulesStrings.38>
+  <NamerIdeoGlobal.rulePack.rulesStrings.38>globalHyphenPrefix->신성</NamerIdeoGlobal.rulePack.rulesStrings.38>
   <!-- EN: globalHyphenPrefix->archaeo -->
   <NamerIdeoGlobal.rulePack.rulesStrings.39>globalHyphenPrefix->초월</NamerIdeoGlobal.rulePack.rulesStrings.39>
   <!-- EN: globalHyphenPrefix->hyper -->

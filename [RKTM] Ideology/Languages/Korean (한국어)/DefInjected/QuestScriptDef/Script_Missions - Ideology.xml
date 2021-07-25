@@ -2,35 +2,35 @@
 <LanguageData>
   
   <!-- EN: terminalHackedMessage->Terminal hacked. {COUNT} / [terminalCount] complete. -->
-  <AncientComplex_Mission.questContentRules.rulesStrings.0>terminalHackedMessage->Terminal hacked. {COUNT} / [terminalCount] complete.</AncientComplex_Mission.questContentRules.rulesStrings.0>
+  <AncientComplex_Mission.questContentRules.rulesStrings.0>terminalHackedMessage->단말기 해킹. {COUNT} / [terminalCount] 완료됨.</AncientComplex_Mission.questContentRules.rulesStrings.0>
   <!-- EN: passengersIncapableOfHackingDialogLabel->[passengersSingularOrPlural] incapable of hacking. -->
   <AncientComplex_Mission.questContentRules.rulesStrings.1>passengersIncapableOfHackingDialogLabel->[passengersSingularOrPlural] incapable of hacking.</AncientComplex_Mission.questContentRules.rulesStrings.1>
   <!-- EN: passengersIncapableOfHackingDialogText->The shuttle for the quest '[resolvedQuestName]' has no passenger capable of hacking. You must send at least one person capable of hacking to investigate the ancient complex. -->
   <AncientComplex_Mission.questContentRules.rulesStrings.2>passengersIncapableOfHackingDialogText->The shuttle for the quest '[resolvedQuestName]' has no passenger capable of hacking. You must send at least one person capable of hacking to investigate the ancient complex.</AncientComplex_Mission.questContentRules.rulesStrings.2>
   <!-- EN: passengersSingularOrPlural(colonistCount==1)->passenger -->
-  <AncientComplex_Mission.questContentRules.rulesStrings.3>passengersSingularOrPlural(colonistCount==1)->passenger</AncientComplex_Mission.questContentRules.rulesStrings.3>
+  <AncientComplex_Mission.questContentRules.rulesStrings.3>passengersSingularOrPlural(colonistCount==1)->탑승자</AncientComplex_Mission.questContentRules.rulesStrings.3>
   <!-- EN: passengersSingularOrPlural(colonistCount>=2)->passengers -->
-  <AncientComplex_Mission.questContentRules.rulesStrings.4>passengersSingularOrPlural(colonistCount>=2)->passengers</AncientComplex_Mission.questContentRules.rulesStrings.4>
+  <AncientComplex_Mission.questContentRules.rulesStrings.4>passengersSingularOrPlural(colonistCount>=2)->탑승자들</AncientComplex_Mission.questContentRules.rulesStrings.4>
   <!-- EN: complex->complex -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.0>complex->complex</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.0>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.0>complex->복합 단지</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.0>
   <!-- EN: complex->compound -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.1>complex->compound</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.1>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.1>complex->복합지</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.1>
   <!-- EN: complex->installation -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.2>complex->installation</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.2>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.2>complex->시설</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.2>
   <!-- EN: complex->structure -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.3>complex->structure</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.3>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.3>complex->구조물</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.3>
   <!-- EN: complex->construction -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.4>complex->construction</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.4>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.4>complex->건물</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.4>
   <!-- EN: investigation->investigation -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.5>investigation->investigation</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.5>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.5>investigation->수사</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.5>
   <!-- EN: investigation->examination -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.6>investigation->examination</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.6>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.6>investigation->조사</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.6>
   <!-- EN: investigation->mission -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.7>investigation->mission</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.7>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.7>investigation->임무</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.7>
   <!-- EN: investigation->excavation -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.8>investigation->excavation</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.8>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.8>investigation->발굴</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.8>
   <!-- EN: investigation->hacking -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.9>investigation->hacking</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.9>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.9>investigation->해킹</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.9>
   <!-- EN: questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has discovered an ancient complex a long distance away. [asker_pronoun] believes it contains information about the relic known as [relic_name].\n\n[asker_nameDef] can't spare people to look into it, but hopes you can help by supplying exactly [colonistCount] [colonistsSingularOrPlural] to carry out the investigation.\n\nThe complex contains unknown threats and is also being sought by [asker_nameDef]'s enemies, [enemyFaction_name].\n\n[asker_pronoun] will send a shuttle to pick up your colonists, bring them to the complex, and take them home afterward. They will be fed and tended to en-route.\n\nOnce you have landed, you must hack all terminals in the complex within [timeoutTicks_duration]. -->
   <AncientComplex_Mission.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has discovered an ancient complex a long distance away. [asker_pronoun] believes it contains information about the relic known as [relic_name].\n\n[asker_nameDef] can't spare people to look into it, but hopes you can help by supplying exactly [colonistCount] [colonistsSingularOrPlural] to carry out the investigation.\n\nThe complex contains unknown threats and is also being sought by [asker_nameDef]'s enemies, [enemyFaction_name].\n\n[asker_pronoun] will send a shuttle to pick up your colonists, bring them to the complex, and take them home afterward. They will be fed and tended to en-route.\n\nOnce you have landed, you must hack all terminals in the complex within [timeoutTicks_duration].</AncientComplex_Mission.questDescriptionRules.rulesStrings.0>
   <!-- EN: colonistsSingularOrPlural(colonistCount==1)->colonist -->
@@ -40,10 +40,10 @@
   <!-- EN: questName->[missionAdj] [complex] [investigation] -->
   <AncientComplex_Mission.questNameRules.rulesStrings.0>questName->[missionAdj] [complex] [investigation]</AncientComplex_Mission.questNameRules.rulesStrings.0>
   <!-- EN: missionAdj->hidden -->
-  <AncientComplex_Mission.questNameRules.rulesStrings.1>missionAdj->hidden</AncientComplex_Mission.questNameRules.rulesStrings.1>
+  <AncientComplex_Mission.questNameRules.rulesStrings.1>missionAdj->숨겨진</AncientComplex_Mission.questNameRules.rulesStrings.1>
   <!-- EN: missionAdj->covert -->
-  <AncientComplex_Mission.questNameRules.rulesStrings.2>missionAdj->covert</AncientComplex_Mission.questNameRules.rulesStrings.2>
+  <AncientComplex_Mission.questNameRules.rulesStrings.2>missionAdj->은밀한</AncientComplex_Mission.questNameRules.rulesStrings.2>
   <!-- EN: missionAdj->secret -->
-  <AncientComplex_Mission.questNameRules.rulesStrings.3>missionAdj->secret</AncientComplex_Mission.questNameRules.rulesStrings.3>
+  <AncientComplex_Mission.questNameRules.rulesStrings.3>missionAdj->비밀의</AncientComplex_Mission.questNameRules.rulesStrings.3>
   
 </LanguageData>

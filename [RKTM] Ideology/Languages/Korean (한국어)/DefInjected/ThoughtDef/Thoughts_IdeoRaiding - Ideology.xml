@@ -12,21 +12,21 @@
   <ParticipatedInRaid_Respected.stages.participated_in_raid.description>습격에 참여했어! 이게 우리들 방식이지!</ParticipatedInRaid_Respected.stages.participated_in_raid.description>
   
   <!-- EN: recent conquest -->
-  <RecentConquest_Required.stages.recent_conquest.label>recent conquest</RecentConquest_Required.stages.recent_conquest.label>
+  <RecentConquest_Required.stages.recent_conquest.label>최근에 정복활동을 함</RecentConquest_Required.stages.recent_conquest.label>
   <!-- EN: We recently raided another faction. Their suffering will be their teacher. -->
-  <RecentConquest_Required.stages.recent_conquest.description>We recently raided another faction. Their suffering will be their teacher.</RecentConquest_Required.stages.recent_conquest.description>
+  <RecentConquest_Required.stages.recent_conquest.description>최근에 다른 세력을 정복했어. 이 고통으로 삶의 교훈을 얻었겠지.</RecentConquest_Required.stages.recent_conquest.description>
   <!-- EN: no recent conquest -->
-  <RecentConquest_Required.stages.no_recent_conquest.label>no recent conquest</RecentConquest_Required.stages.no_recent_conquest.label>
+  <RecentConquest_Required.stages.no_recent_conquest.label>최근 정복활동 없음</RecentConquest_Required.stages.no_recent_conquest.label>
   <!-- EN: We haven't raided anyone for so long. We're despicable - helpless worms like the rest. -->
   <RecentConquest_Required.stages.no_recent_conquest.description>We haven't raided anyone for so long. We're despicable - helpless worms like the rest.</RecentConquest_Required.stages.no_recent_conquest.description>
   
   <!-- EN: recent conquest -->
-  <RecentConquest_Respected.stages.recent_conquest.label>recent conquest</RecentConquest_Respected.stages.recent_conquest.label>
+  <RecentConquest_Respected.stages.recent_conquest.label>최근에 정복활동을 함</RecentConquest_Respected.stages.recent_conquest.label>
   <!-- EN: We recently raided another faction. That'll show them who's boss. -->
-  <RecentConquest_Respected.stages.recent_conquest.description>We recently raided another faction. That'll show them who's boss.</RecentConquest_Respected.stages.recent_conquest.description>
+  <RecentConquest_Respected.stages.recent_conquest.description>최근에 다른 세력을 정복했어. 이제 놈들의 두목이 누군지 똑똑히 알겠지.</RecentConquest_Respected.stages.recent_conquest.description>
   <!-- EN: no recent conquest -->
-  <RecentConquest_Respected.stages.no_recent_conquest.label>no recent conquest</RecentConquest_Respected.stages.no_recent_conquest.label>
+  <RecentConquest_Respected.stages.no_recent_conquest.label>최근 정복활동 없음</RecentConquest_Respected.stages.no_recent_conquest.label>
   <!-- EN: It's been far too long since we raided anyone. They might stop fearing and respecting us. -->
-  <RecentConquest_Respected.stages.no_recent_conquest.description>It's been far too long since we raided anyone. They might stop fearing and respecting us.</RecentConquest_Respected.stages.no_recent_conquest.description>
+  <RecentConquest_Respected.stages.no_recent_conquest.description>우리가 누군가를 습격한지 너무 오래되었어. 그들이 우릴 두려워하고 존경하는것을 그만둘지도 몰라.</RecentConquest_Respected.stages.no_recent_conquest.description>
   
 </LanguageData>

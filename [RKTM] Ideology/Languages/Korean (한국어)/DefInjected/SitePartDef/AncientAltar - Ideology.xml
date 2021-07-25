@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: relic complex -->
-  <AncientAltar.label>relic complex</AncientAltar.label>
+  <AncientAltar.label>유물 유적지</AncientAltar.label>
   <!-- EN: An ancient complex housing a relic. -->
   <AncientAltar.description>유물이 존재하는 고대의 유적입니다.</AncientAltar.description>
   <!-- EN: Investigate {0} -->
@@ -10,6 +10,6 @@
   <!-- EN: Investigate {0} -->
   <AncientAltar.approachOrderString>{0} 조사</AncientAltar.approachOrderString>
   <!-- EN: There is an ancient structure holding a relic in this area. -->
-  <AncientAltar.arrivedLetter>There is an ancient structure holding a relic in this area.</AncientAltar.arrivedLetter>
+  <AncientAltar.arrivedLetter>이 지역에는 유물을 품고있는 고대의 건물들이 있습니다.</AncientAltar.arrivedLetter>
   
 </LanguageData>

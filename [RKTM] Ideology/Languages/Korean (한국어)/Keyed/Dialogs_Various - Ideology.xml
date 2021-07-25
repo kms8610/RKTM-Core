@@ -67,6 +67,8 @@
   <YourLeaderTradeBonus>지도자 보너스</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
   <CannotNotAddRoleApparelDueToMeme>{MEME} 가르침으로 인해 이 보직에 의복 요구사항을 추가할 수 없습니다.</CannotNotAddRoleApparelDueToMeme>
+  <!-- EN: cannot be worn with {0_label} -->
+  <CannotBeWornWith>cannot be worn with {0_label}</CannotBeWornWith>
 
   <!-- EN: Certainty reduction -->
   <AbilityIdeoConvertBreakdownLabel>확신 감소</AbilityIdeoConvertBreakdownLabel>
@@ -89,7 +91,7 @@
   <!-- EN: {PAWN_nameDef}'s ideoligion -->
   <AbilityIdeoConvertBreakdownPawnIdeo>{PAWN_nameDef}의 사상</AbilityIdeoConvertBreakdownPawnIdeo>
   <!-- EN: {MEME} vs {TRAIT} trait -->
-  <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} vs {TRAIT} 특성</AbilityIdeoConvertBreakdownMemeVsTrait>
+  <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} 가르침 vs {TRAIT} 특성</AbilityIdeoConvertBreakdownMemeVsTrait>
 
   <!-- EN: {PAWN_labelShort} was already counselled recently. -->
   <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort}(은)는 이미 최근에 상담을 받았습니다.</AbilityCantApplyAlreadyCounselled>
@@ -177,7 +179,7 @@
   <!-- EN: Frequent -->
   <StyleItemFrequencyFrequent>자주</StyleItemFrequencyFrequent>
   <!-- EN: Edit appearance -->
-  <EditAppearanceItems>외형 수정</EditAppearanceItems>
+  <EditAppearanceItems>의류 편집</EditAppearanceItems>
   <!-- EN: {0} in use -->
   <NumAvailable>{0} 사용 중</NumAvailable>
   <!-- EN: Expand all -->

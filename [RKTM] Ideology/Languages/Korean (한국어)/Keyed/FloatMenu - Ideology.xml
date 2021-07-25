@@ -62,6 +62,8 @@
   <FactionOrIdeoIncompatible>호환 되지 않음</FactionOrIdeoIncompatible>
   <!-- EN: cannot be worn with assigned apparel -->
   <BodyPartAlreadyCovered>현재 할당한 의복과 함께 입을 수 없음</BodyPartAlreadyCovered>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>already assigned</AlreadyAssigned>
   <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
   <NoteRoleApparelRequirementEffects>의류 요구사항을 충족하면 행복해하고, 위반하면 기분이 나빠집니다.</NoteRoleApparelRequirementEffects>
   <!-- EN: supercharge not ready -->

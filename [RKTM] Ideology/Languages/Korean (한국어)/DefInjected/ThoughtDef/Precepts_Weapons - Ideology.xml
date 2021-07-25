@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: victory by noble weapon -->
-  <KillWithNobleWeapon.stages.victory_by_noble_weapon.label>victory by noble weapon</KillWithNobleWeapon.stages.victory_by_noble_weapon.label>
+  <KillWithNobleWeapon.stages.victory_by_noble_weapon.label>고귀한 무기로 승리</KillWithNobleWeapon.stages.victory_by_noble_weapon.label>
   <!-- EN: I have claimed victory while wielding a noble weapon! -->
-  <KillWithNobleWeapon.stages.victory_by_noble_weapon.description>I have claimed victory while wielding a noble weapon!</KillWithNobleWeapon.stages.victory_by_noble_weapon.description>
+  <KillWithNobleWeapon.stages.victory_by_noble_weapon.description>고귀한 무기를 휘두르며 승리를 주장했어!</KillWithNobleWeapon.stages.victory_by_noble_weapon.description>
   
   <!-- EN: used despised weapon -->
-  <UsedDespisedWeapon.stages.used_despised_weapon.label>used despised weapon</UsedDespisedWeapon.stages.used_despised_weapon.label>
+  <UsedDespisedWeapon.stages.used_despised_weapon.label>멸시받는 무기 사용</UsedDespisedWeapon.stages.used_despised_weapon.label>
   <!-- EN: I used a filthy weapon which ought never to be used. How humiliating. -->
-  <UsedDespisedWeapon.stages.used_despised_weapon.description>I used a filthy weapon which ought never to be used. How humiliating.</UsedDespisedWeapon.stages.used_despised_weapon.description>
+  <UsedDespisedWeapon.stages.used_despised_weapon.description>절대 사용해서는 안 될 멸시받는 무기를 사용했어. 치욕적이야.</UsedDespisedWeapon.stages.used_despised_weapon.description>
   
   <!-- EN: wielding {WEAPON_label} -->
-  <WieldingNobleOrDespisedWeapon.stages.wielding-0.label>wielding {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.wielding-0.label>
+  <WieldingNobleOrDespisedWeapon.stages.wielding-0.label>고귀한 {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.wielding-0.label>
   <!-- EN: I am wielding a {WEAPON_label}. Such a noble weapon! -->
-  <WieldingNobleOrDespisedWeapon.stages.wielding-0.description>I am wielding a {WEAPON_label}. Such a noble weapon!</WieldingNobleOrDespisedWeapon.stages.wielding-0.description>
+  <WieldingNobleOrDespisedWeapon.stages.wielding-0.description>내가 {WEAPON_label}(을)를 들고 있어. 이 얼마나 고귀한 무기인가!</WieldingNobleOrDespisedWeapon.stages.wielding-0.description>
   <!-- EN: wielding {WEAPON_label} -->
-  <WieldingNobleOrDespisedWeapon.stages.wielding-1.label>wielding {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.wielding-1.label>
+  <WieldingNobleOrDespisedWeapon.stages.wielding-1.label>고귀한 {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.wielding-1.label>
   <!-- EN: I am wielding a {WEAPON_label}. Such a detestable weapon! -->
   <WieldingNobleOrDespisedWeapon.stages.wielding-1.description>I am wielding a {WEAPON_label}. Such a detestable weapon!</WieldingNobleOrDespisedWeapon.stages.wielding-1.description>
   

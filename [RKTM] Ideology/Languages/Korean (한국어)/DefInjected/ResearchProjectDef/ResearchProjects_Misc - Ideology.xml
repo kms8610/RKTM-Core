@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: biosculpting -->
-  <Biosculpting.label>biosculpting</Biosculpting.label>
+  <Biosculpting.label>생체 재구성</Biosculpting.label>
   <!-- EN: Construct biosculpter pods which can perform various biological alterations to colonists. These are especially important to believers in transhumanism. -->
-  <Biosculpting.description>Construct biosculpting pods which can perform various biological alterations to colonists. These are especially important to believers in transhumanism.</Biosculpting.description>
+  <Biosculpting.description>Construct biosculpter pods which can perform various biological alterations to colonists. These are especially important to believers in transhumanism.</Biosculpting.description>
   
   <!-- EN: neural supercharger -->
   <NeuralSupercharger.label>신경 과충전기</NeuralSupercharger.label>

@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: Gauranlen pod sprout -->
-  <GauranlenPodSpawn.label>요정 포드 새싹</GauranlenPodSpawn.label>
+  <GauranlenPodSpawn.label>요정열매 새싹</GauranlenPodSpawn.label>
   <!-- EN: Gauranlen pod sprout -->
-  <GauranlenPodSpawn.letterLabel>요정 포드 새싹</GauranlenPodSpawn.letterLabel>
+  <GauranlenPodSpawn.letterLabel>요정열매 새싹</GauranlenPodSpawn.letterLabel>
   <!-- EN: A Gauranlen pod has sprouted nearby!\n\nHarvest it to collect a Gauranlen seed. This special seed can be used to plant the majestic Gauranlen tree.\n\nYour colonists can connect with Gauranlen trees and make them spawn resources and helpful dryads to work or fight for you. -->
-  <GauranlenPodSpawn.letterText>요정 포드가 주변에 자라났습니다!\n\n수확하여 요정 씨앗을 획득하세요. 이 특별한 씨앗은 마법적인 요정 나무를 심는데 필요합니다.\n\n당신의 정착민들은 요정 나무와 함께 자원을 생성하거나 숲지기를 소환할 수 있습니다.</GauranlenPodSpawn.letterText>
+  <GauranlenPodSpawn.letterText>요정열매가 주변에 자라났습니다!\n\n수확하여 요정 씨앗을 획득하세요. 이 특별한 씨앗은 마법적인 요정 나무를 심는데 필요합니다.\n\n당신의 정착민들은 요정 나무와 함께 자원을 생성하거나 숲지기를 소환할 수 있습니다.</GauranlenPodSpawn.letterText>
   
   <!-- EN: beggars arrive -->
-  <GiveQuest_Beggars.label>거지 도착</GiveQuest_Beggars.label>
+  <GiveQuest_Beggars.label>거지떼 도착</GiveQuest_Beggars.label>
   <!-- EN: beggars arrive -->
-  <GiveQuest_Beggars.letterLabel>거지 도착</GiveQuest_Beggars.letterLabel>
+  <GiveQuest_Beggars.letterLabel>거지떼 도착</GiveQuest_Beggars.letterLabel>
   
   <!-- EN: pilgrims arrive -->
   <GiveQuest_ReliquaryPilgrims.label>순례자 도착</GiveQuest_ReliquaryPilgrims.label>
@@ -23,7 +23,7 @@
   <!-- EN: Insect jelly -->
   <Infestation_Jelly.letterLabel>곤충 젤리</Infestation_Jelly.letterLabel>
   <!-- EN: Giant insects have tunneled up from underneath and deposited some surplus insect jelly on the surface. -->
-  <Infestation_Jelly.letterText>거대 곤충들이 지하에서 땅을 파고 올라와 지상에 잉여 곤충 젤리 약간을 놓고 갔습니다.</Infestation_Jelly.letterText>
+  <Infestation_Jelly.letterText>땅을 파고 올라온 거대한 곤충들이 지상에 약간의 젤리를 남기고 갔습니다.</Infestation_Jelly.letterText>
   
   <!-- EN: Wanderers -->
   <WanderersSkylantern.label>방랑자</WanderersSkylantern.label>

@@ -4,7 +4,7 @@
   <!-- EN: Need slave beds -->
   <NeedSlaveBeds>노예 침대 부족</NeedSlaveBeds>
   <!-- EN: You have more slaves than you have slave beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a colonist or prisoner bed to a slave bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedSlaveBedsDesc>침대 수보다 더 많은 노예가 머물고 있습니다.\n\n침대를 더 만들거나 수감자 또는 정착민 전용 침대를 정착민 전용 침대로 전환하세요.\n\n침대를 만들 재료나 시간이 없다면 잠자리를 지정하세요.</NeedSlaveBedsDesc>
+  <NeedSlaveBedsDesc>침대 수보다 더 많은 노예가 존재합니다.\n\n침대를 더 만들거나, 기존의 침대를 노예 전용 침대로 전환하세요.\n\n침대를 만들 재료나 시간이 없다면 잠자리를 지정하세요.</NeedSlaveBedsDesc>
 
   <!-- EN: Slave unsuppressed -->
   <SlavesUnsuppressedLabel>억압되지 않은 노예</SlavesUnsuppressedLabel>
@@ -69,7 +69,7 @@
   <!-- EN: Security threats activated in {0} -->
   <AncientAltarThreatsWaking>{0} 후 보안 시스템 활성화</AncientAltarThreatsWaking>
   <!-- EN: Security threats will activate in {0}. They will attack any who may threaten the relic. -->
-  <AncientAltarThreatsWakingDesc>보안 시스템이 {0} 후 발동합니다. 유물을 위협하는 자를 모두 공격할 것입니다.</AncientAltarThreatsWakingDesc>
+  <AncientAltarThreatsWakingDesc>보안 시스템이 {0} 후 발동합니다. 유물을 위협하는 자가 누구든 공격할 것입니다.</AncientAltarThreatsWakingDesc>
 
   <!-- EN: No recent slaughter -->
   <AlertNoRecentSlaughter>최근 도축 없음</AlertNoRecentSlaughter>
@@ -90,11 +90,11 @@
   <AlertRitualComingEntry>{0}({1}), {2} 남음</AlertRitualComingEntry>
 
   <!-- EN: Age reversal demanded -->
-  <AlertAgeReversalDemandNear>노화 역행 요구</AlertAgeReversalDemandNear>
+  <AlertAgeReversalDemandNear>노화 역전 요구</AlertAgeReversalDemandNear>
   <!-- EN: Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment -->
-  <AlertAgeReversalDemandDesc>일부 정착민이 그들의 사상에 따라 생체 재구축기에서의 주기적인 노화 역행 시술을 요구하고 있습니다. 시술을 받지 못하면 아래 사람들의 기분이 나빠질 것입니다</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc>몇몇 정착민이 생체 조율기를 통해 주기적인 노화 역전 시술을 해줄 것을 요구하고 있습니다. 요구를 들어주지 않으면 불만이 생길 것입니다.\n\n시술을 원하는 정착민의 목록은 다음과 같습니다.</AlertAgeReversalDemandDesc>
   <!-- EN: {PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Recruit>최근 {FACTION}에 합류한 {PAWN}(이)가 {DURATION} 후 노화 역행 시술을 받고 싶어 합니다.</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Recruit>최근 {FACTION}에 합류한 {PAWN}(이)가 {DURATION} 후 노화 역전 시술을 받고 싶어 합니다.</AlertAgeReversalDemandDesc_Recruit>
   <!-- EN: {PAWN} wants their next treatment in {DURATION}. -->
   <AlertAgeReversalDemandDesc_Next>{PAWN}(이)가 다음 시술을 {DURATION} 후 받고 싶어 합니다.</AlertAgeReversalDemandDesc_Next>
   <!-- EN: {PAWN} wants their first treatment in {DURATION}. -->
@@ -122,7 +122,7 @@
   <!-- EN: Insects arriving in {0} -->
   <AlertInfestationArriving>곤충 도착까지 {0}</AlertInfestationArriving>
   <!-- EN: Giant insects have sensed your activity and are burrowing up from underground to attack. Infestations are about to begin. -->
-  <AlertInfestationArrivingDesc>거대 곤충 무리가 이 지역에서의 활동을 감지해서 지하로부터 접근하고 있습니다. 곧 곤충군락 감염이 시작됩니다.</AlertInfestationArrivingDesc>
+  <AlertInfestationArrivingDesc>거대 곤충 무리가 당신의 활동을 감지하고 지하로부터 접근하고 있습니다. 곧 곤충군락 감염이 시작됩니다.</AlertInfestationArrivingDesc>
 
   <!-- EN: {0_pawnsPlural} waking in {1} -->
   <AlertHostilesWakingUp>{1} 후 {0_pawnsPlural} 깨어남</AlertHostilesWakingUp>
