@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: conversion resentment -->
-  <FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>conversion resentment</FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>
+  <FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>교화 시도에 분노함</FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>
   <!-- EN: Someone tried to convert me. I hate being proselytized this way. -->
   <FailedConvertIdeoAttemptResentment.stages.conversion_resentment.description>누군가 날 개종시키려 했어. 이런 방식은 질색인데.</FailedConvertIdeoAttemptResentment.stages.conversion_resentment.description>
   

@@ -6,16 +6,16 @@
   <!-- EN: buildingName->shrine -->
   <NamerAltar.rulePack.rulesStrings.1>buildingName->신전</NamerAltar.rulePack.rulesStrings.1>
   <!-- EN: buildingName->chancel -->
-  <NamerAltar.rulePack.rulesStrings.2>buildingName->성단소</NamerAltar.rulePack.rulesStrings.2>
+  <NamerAltar.rulePack.rulesStrings.2>buildingName->성단</NamerAltar.rulePack.rulesStrings.2>
   <!-- EN: buildingName->platform -->
   <NamerAltar.rulePack.rulesStrings.3>buildingName->토대</NamerAltar.rulePack.rulesStrings.3>
   
   <!-- EN: buildingName->totem -->
   <NamerBurnTarget.rulePack.rulesStrings.0>buildingName->토템</NamerBurnTarget.rulePack.rulesStrings.0>
   <!-- EN: buildingName->effigy -->
-  <NamerBurnTarget.rulePack.rulesStrings.1>buildingName->인형상</NamerBurnTarget.rulePack.rulesStrings.1>
+  <NamerBurnTarget.rulePack.rulesStrings.1>buildingName->인형</NamerBurnTarget.rulePack.rulesStrings.1>
   <!-- EN: buildingName->pyre -->
-  <NamerBurnTarget.rulePack.rulesStrings.2>buildingName->불제단</NamerBurnTarget.rulePack.rulesStrings.2>
+  <NamerBurnTarget.rulePack.rulesStrings.2>buildingName->장작</NamerBurnTarget.rulePack.rulesStrings.2>
   
   <!-- EN: buildingName->platter -->
   <NamerCannibalPlatter.rulePack.rulesStrings.0>buildingName->대접</NamerCannibalPlatter.rulePack.rulesStrings.0>
@@ -47,11 +47,11 @@
   <NamerIdeoBuilding.rulePack.rulesStrings.6>r_ideoBuildingName->[chosenIdeoName]의 [buildingName]</NamerIdeoBuilding.rulePack.rulesStrings.6>
   
   <!-- EN: buildingName->ideogram -->
-  <NamerIdeogram.rulePack.rulesStrings.0>buildingName->문자</NamerIdeogram.rulePack.rulesStrings.0>
+  <NamerIdeogram.rulePack.rulesStrings.0>buildingName->상징문양</NamerIdeogram.rulePack.rulesStrings.0>
   <!-- EN: buildingName->symbol -->
-  <NamerIdeogram.rulePack.rulesStrings.1>buildingName->심볼</NamerIdeogram.rulePack.rulesStrings.1>
+  <NamerIdeogram.rulePack.rulesStrings.1>buildingName->상징</NamerIdeogram.rulePack.rulesStrings.1>
   <!-- EN: buildingName->mark -->
-  <NamerIdeogram.rulePack.rulesStrings.2>buildingName->문양</NamerIdeogram.rulePack.rulesStrings.2>
+  <NamerIdeogram.rulePack.rulesStrings.2>buildingName->흔적</NamerIdeogram.rulePack.rulesStrings.2>
   <!-- EN: buildingName->shape -->
   <NamerIdeogram.rulePack.rulesStrings.3>buildingName->모양</NamerIdeogram.rulePack.rulesStrings.3>
   <!-- EN: buildingName->emblem -->
@@ -83,6 +83,6 @@
   <!-- EN: buildingName->fumer -->
   <NamerSmoker.rulePack.rulesStrings.2>buildingName->훈연기</NamerSmoker.rulePack.rulesStrings.2>
   <!-- EN: buildingName->smolderer -->
-  <NamerSmoker.rulePack.rulesStrings.3>buildingName->발연대</NamerSmoker.rulePack.rulesStrings.3>
+  <NamerSmoker.rulePack.rulesStrings.3>buildingName->연통</NamerSmoker.rulePack.rulesStrings.3>
   
 </LanguageData>

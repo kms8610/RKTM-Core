@@ -13,7 +13,7 @@
   <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>다양한 주변 환경</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>
   
   <!-- EN: appreciated -->
-  <IdeoDiversity_Approved.label>appreciated</IdeoDiversity_Approved.label>
+  <IdeoDiversity_Approved.label>반김</IdeoDiversity_Approved.label>
   <!-- EN: Other beliefs are worth understanding. It's good to live with others who think differently. -->
   <IdeoDiversity_Approved.description>다른 믿음들도 이해할 가치가 있다. 다르게 생각하는 사람들과 사는 것은 좋은 일이다.</IdeoDiversity_Approved.description>
   <!-- EN: Uniform surroundings -->
@@ -31,7 +31,7 @@
   <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>다양한 주변 환경</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>
   
   <!-- EN: exalted -->
-  <IdeoDiversity_Exalted.label>exalted</IdeoDiversity_Exalted.label>
+  <IdeoDiversity_Exalted.label>기쁨</IdeoDiversity_Exalted.label>
   <!-- EN: Working through disagreement is the height of morality. It's very moral to live with others who think differently. -->
   <IdeoDiversity_Exalted.description>불일치함을 해결하는 것은 높은 도덕성의 증거이다. 다르게 생각하는 사람들과 사는 것은 매우 도덕적이다.</IdeoDiversity_Exalted.description>
   <!-- EN: Uniform surroundings -->
@@ -49,7 +49,7 @@
   <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>다양한 주변 환경</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>
   
   <!-- EN: highly appreciated -->
-  <IdeoDiversity_Respected.label>highly appreciated</IdeoDiversity_Respected.label>
+  <IdeoDiversity_Respected.label>매우 반김</IdeoDiversity_Respected.label>
   <!-- EN: Other beliefs hold unique knowledge. It's great to live with others who think differently. -->
   <IdeoDiversity_Respected.description>다른 믿음도 특별한 지식을 가지고 있다. 다르게 생각하는 사람들과 사는 것은 좋은 일이다.</IdeoDiversity_Respected.description>
   <!-- EN: Uniform surroundings -->

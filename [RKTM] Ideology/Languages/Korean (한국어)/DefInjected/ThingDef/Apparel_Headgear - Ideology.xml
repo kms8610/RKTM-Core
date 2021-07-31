@@ -4,7 +4,7 @@
   <!-- EN: authority cap -->
   <Apparel_AuthorityCap.label>지휘모</Apparel_AuthorityCap.label>
   <!-- EN: A hat with a stiff brim and peaked top. It's not particularly protective, but it creates a sense of authority and makes the wearer more effective in suppressing slaves. -->
-  <Apparel_AuthorityCap.description>꼭대기가 뾰족하고, 뻣뻣한 챙을 가진 모자입니다. 특별한 방호력은 없지만, 권위적인 분위기를 조성하여 착용자가 노예들을 더 효과적으로 억압하게 만듭니다.</Apparel_AuthorityCap.description>
+  <Apparel_AuthorityCap.description>꼭대기가 뾰족하고, 뻣뻣한 챙을 가진 모자입니다. 특별한 방호력은 없지만, 권위적인 분위기를 조성하여 착용자가 노예들을 더 효과적으로 복종시킬 수 있게 합니다.</Apparel_AuthorityCap.description>
   
   <!-- EN: broadwrap -->
   <Apparel_Broadwrap.label>히잡</Apparel_Broadwrap.label>
@@ -24,7 +24,7 @@
   <!-- EN: headwrap -->
   <Apparel_Headwrap.label>머리싸개</Apparel_Headwrap.label>
   <!-- EN: A wrapped piece of fabric which covers the wearer's hair. -->
-  <Apparel_Headwrap.description>직물조각을 말아 만든것으로, 착용자의 머리카락을 가려줍니다.</Apparel_Headwrap.description>
+  <Apparel_Headwrap.description>착용자의 머리카락을 가려주는 천입니다.</Apparel_Headwrap.description>
   
   <!-- EN: shadecone -->
   <Apparel_Shadecone.label>삿갓</Apparel_Shadecone.label>

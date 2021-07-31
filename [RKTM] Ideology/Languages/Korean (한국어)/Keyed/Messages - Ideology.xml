@@ -8,13 +8,13 @@
   <!-- EN: {PRECEPT1} and {PRECEPT2} are incompatible. -->
   <MessageIdeoIncompatiblePrecepts>{PRECEPT1}(와)과 {PRECEPT2}(을)를 함께 선택할 수 없습니다.</MessageIdeoIncompatiblePrecepts>
   <!-- EN: {DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement. -->
-  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL}(이)가 {ROLE}의 예복과 충돌합니다.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
   <!-- EN: {DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together. -->
-  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL}(은)는 {ROLE}의 예복인 {ROLEAPPAREL}(와)과 충돌합니다. 이것은 {ROLE}(이)가 필요로 하고 원하는 옷을 같이 입을 수 없게 만듭니다.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
   <!-- EN: {PRECEPT} needs one of these buildings -->
   <MessageRitualMissingTarget>{PRECEPT}에는 다음 건물 중 하나 필요</MessageRitualMissingTarget>
   <!-- EN: {PRECEPT} needs an associated ritual. -->
-  <MessageBuildingMissingRitual>{PRECEPT}에는 관련 의식이 필요합니다.</MessageBuildingMissingRitual>
+  <MessageBuildingMissingRitual>{PRECEPT}에는 관련된 행사가 필요합니다.</MessageBuildingMissingRitual>
   <!-- EN: {0_labelShort} refuses to do this because of {0_possessive} ideoligion. -->
   <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort}의 사상으로 인해 이 일을 거부했습니다.</MessagePawnUnwillingToDoDueToIdeo>
   <!-- EN: {INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt. -->
@@ -32,10 +32,10 @@
   <!-- EN: You need {0} to start the {1}. -->
   <MessageNoRequiredRolePawnToBeginRitual>{1}(을)를 시작하려면 {0}(이)가 필요합니다.</MessageNoRequiredRolePawnToBeginRitual>
   <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
-  <MessageNeedAssignedRoleToBeginRitual>{1}(을)를 시작하기 전에 누군가에게 {0}의 역할을 맡겨야 합니다.</MessageNeedAssignedRoleToBeginRitual>
+  <MessageNeedAssignedRoleToBeginRitual>{1}(을)를 시작하기 전에 누군가에게 {0} 지위를 맡겨야 합니다.</MessageNeedAssignedRoleToBeginRitual>
   
   <!-- EN: {0_labelShort} now holds the role of {1}. -->
-  <MessageRoleAssigned>{0_labelShort}(이)가 이제 {1}의 보직을 맡습니다.</MessageRoleAssigned>
+  <MessageRoleAssigned>{0_labelShort}(이)가 {1}의 지위에 올랐습니다.</MessageRoleAssigned>
   <!-- EN: Since {0_labelShort} became a prisoner, {0_pronoun} no longer can hold the role of {1}. -->
   <MessageRoleUnassignedPrisoner>{0_labelShort}(이)가 수감되었으므로 더 이상 {1}(이)가 아닙니다.</MessageRoleUnassignedPrisoner>
   <!-- EN: Warning: {0} will be upset if a tree is cut. -->
@@ -43,7 +43,7 @@
   <!-- EN: Warning: {0} will be upset if mining occurs. -->
   <MessageWarningPlayerDesignatedMining>경고: 채굴하면 {0}(이)가 분노할 것입니다.</MessageWarningPlayerDesignatedMining>
   <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
-  <MessageConnectedPawnDied>{TREE_label}(와)과 {PAWN_nameDef}의 교감이 끊어졌습니다. {TREE_label}(와)과 다시 교감하려면 {DURATION}을 기다려야 합니다.</MessageConnectedPawnDied>
+  <MessageConnectedPawnDied>{TREE_label}(와)과 {PAWN_nameDef}의 교감이 끊어졌습니다. {TREE_label}(와)과 다시 교감하려면 {DURATION}(을)를 기다려야 합니다.</MessageConnectedPawnDied>
 
   <!-- Slave interactions -->
   <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
@@ -53,7 +53,7 @@
   <!-- EN: Prisoner {1_nameDef}'s will has been broken by {0_nameDef}. -->
   <MessagePrisonerWillBroken>{0_nameDef}(이)가 수감자 {1_nameDef}의 의지를 꺾었습니다.</MessagePrisonerWillBroken>
   <!-- EN: Enslavement will follow. -->
-  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>곧 노예로 삼을 수 있습니다.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>이제 노예로 삼을 수 있습니다.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
 
   <!-- Prisoner interactions -->
   <!-- EN: No warden is capable of this enslavement. -->
@@ -67,9 +67,9 @@
 
   <!-- Charity -->
   <!-- EN: Charity refused -->
-  <MessageCharityEventRefused>자선적 행동 실패</MessageCharityEventRefused>
+  <MessageCharityEventRefused>이타적 사상 위배</MessageCharityEventRefused>
   <!-- EN: Charity fulfilled -->
-  <MessageCharityEventFulfilled>자선적 행동 완수</MessageCharityEventFulfilled>
+  <MessageCharityEventFulfilled>이타적 사상 충족</MessageCharityEventFulfilled>
   <!-- EN: {0} leaving empty-handed. -->
   <MessageBeggarsLeavingWithNoItems>{0}(이)가 빈손으로 떠나고 있습니다.</MessageBeggarsLeavingWithNoItems>
   <!-- EN: {0} leaving with requested items. -->
@@ -95,16 +95,16 @@
   <!-- EN: Required by {FACTION_name}. -->
   <RequiredByFaction>{FACTION_name} 요구사항</RequiredByFaction>
   <!-- EN: Roles cannot have overlapping apparel requirements. -->
-  <OverlappingRoleApparel>Roles cannot have overlapping apparel requirements.</OverlappingRoleApparel>
+  <OverlappingRoleApparel>각각의 지위는 서로 같은 예복을 가질 수 없습니다.</OverlappingRoleApparel>
   
   <!-- EN: {0_label} will self-destruct in {1}. -->
   <SelfDestructCountdown>{0_label}(이)가 {1} 후 자폭합니다.</SelfDestructCountdown>
 
   <!-- Ancient complex -->
   <!-- EN: You've discovered an ancient terminal with info about the {0}! -->
-  <MessageAncientTerminalDiscovered>{0}에 대한 정보를 포함한 고대 단말기를 발견했습니다!</MessageAncientTerminalDiscovered>
+  <MessageAncientTerminalDiscovered>{0}의 정보가 담긴 고대 단말기를 발견했습니다!</MessageAncientTerminalDiscovered>
   <!-- EN: You've discovered secret information about {0}! Get back on the shuttle to launch it. -->
-  <MessageAncientComplexBackToShuttle>{0}에 대한 비밀 정보를 발견했습니다! 왕복선에 돌아가서 출발하세요.</MessageAncientComplexBackToShuttle>
+  <MessageAncientComplexBackToShuttle>{0}에 대한 비밀 정보를 입수했습니다! 왕복선에 탑승하여 출발하세요.</MessageAncientComplexBackToShuttle>
   <!-- EN: An ancient supply satellite has been activated. Supplies will drop nearby. -->
   <MessageAncientSignalActivated>고대 보급 위성이 활성화됐습니다. 보급품이 근처로 낙하합니다.</MessageAncientSignalActivated>
   <!-- EN: {0} from the {1} have detected the supply signal and are attacking. -->
@@ -118,7 +118,7 @@
 
   <!-- Animals -->
   <!-- EN: Warning: {PAWNKINDLABELPLURAL} are venerated by all {PAWNS}, and will not be harmed. -->
-  <MessageAnimalIsVeneratedForAllColonists>경고: 모든 {PAWNS}이 {PAWNKINDLABELPLURAL}(을)를 신성하게 여기므로 아무도 해를 끼치지 않을 것입니다.</MessageAnimalIsVeneratedForAllColonists>
+  <MessageAnimalIsVeneratedForAllColonists>경고: 모든 {PAWNS}이 {PAWNKINDLABELPLURAL}(을)를 존경합니다. 아무도 해를 끼치지 않을 것입니다.</MessageAnimalIsVeneratedForAllColonists>
 
   <!-- Archonexus -->
   <!-- EN: Select at most {0} {1} to bring to the new colony. -->

@@ -11,19 +11,19 @@
   <!-- EN: No auto-use -->
   <CommandNeuralSuperchargerNoAutoUse>자동 사용 금지</CommandNeuralSuperchargerNoAutoUse>
   <!-- EN: None of your people will use this neural supercharger automatically. -->
-  <CommandNeuralSuperchargerNoAutoUseDescription>아무도 신경 과충전기를 스스로 사용하지 않을 것입니다.</CommandNeuralSuperchargerNoAutoUseDescription>
+  <CommandNeuralSuperchargerNoAutoUseDescription>누구도 스스로 신경 과충전기를 사용할 수 없도록 금지합니다.</CommandNeuralSuperchargerNoAutoUseDescription>
   <!-- EN: Auto-use with desire -->
-  <CommandNeuralSuperchargerAutoUseWithDesire>희망 시 자동 사용</CommandNeuralSuperchargerAutoUseWithDesire>
+  <CommandNeuralSuperchargerAutoUseWithDesire>희망시 자동 사용</CommandNeuralSuperchargerAutoUseWithDesire>
   <!-- EN: Your people may use this neural supercharger automatically, if they want to because of their beliefs. -->
-  <CommandNeuralSuperchargerAutoUseWithDesireDescription>신경 과충전을 권장하는 사상의 사람들이 스스로 과충전기를 사용할 것입니다.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
+  <CommandNeuralSuperchargerAutoUseWithDesireDescription>초월주의 성향의 정착민들만 신경 과충전기를 사용하도록 허용합니다.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
   <!-- EN: Auto-use for everyone -->
   <CommandNeuralSuperchargerAutoForEveryone>모두가 자동 사용</CommandNeuralSuperchargerAutoForEveryone>
   <!-- EN: All of your people will use this neural supercharger if they get the chance. -->
-  <CommandNeuralSuperchargerAutoForEveryoneDescription>사용할 수 있다면 모두가 신경 과충전기를 스스로 사용합니다.</CommandNeuralSuperchargerAutoForEveryoneDescription>
+  <CommandNeuralSuperchargerAutoForEveryoneDescription>정착민 모두가 신경 과충전기를 사용하도록 허용합니다.</CommandNeuralSuperchargerAutoForEveryoneDescription>
   <!-- EN: Allow guests -->
   <CommandNeuralSuperchargerAllowGuests>방문객 허용</CommandNeuralSuperchargerAllowGuests>
   <!-- EN: Allow this neural supercharger to be used by temporary faction members. -->
-  <CommandNeuralSuperchargerAllowGuestsDescription>임시 세력 구성원들도 이 신경 과충전기를 사용할 수 있도록 허가합니다.</CommandNeuralSuperchargerAllowGuestsDescription>
+  <CommandNeuralSuperchargerAllowGuestsDescription>정착지 일원이 아닌 사람들도 신경 과충전기를 사용할 수 있도록 허용합니다.</CommandNeuralSuperchargerAllowGuestsDescription>
 
   <!-- EN: Select connected tree -->
   <CommandSelectConnectedTree>교감한 나무 선택</CommandSelectConnectedTree>

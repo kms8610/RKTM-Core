@@ -310,7 +310,7 @@
   <!-- EN: Scanned underground -->
   <LetterLabelDeepScannerFoundLump>지하구조 스캔</LetterLabelDeepScannerFoundLump>
   <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
-  <LetterDeepScannerFoundLump>{FINDER_nameDef}(은)는 지면 투과 스캐너를 사용하여 {0} 광맥을 발견했습니다!</LetterDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>{FINDER_nameDef}(은)는 지면 투과 탐색기를 사용하여 {0} 광맥을 발견했습니다!</LetterDeepScannerFoundLump>
 
   <!-- Ambush -->
   <!-- EN: Ambush -->

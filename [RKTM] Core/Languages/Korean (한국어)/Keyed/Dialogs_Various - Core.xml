@@ -457,7 +457,7 @@
   <!-- EN: {0} / day -->
   <PerDay>{0} / 일</PerDay>
   <!-- EN: {0} / hour -->
-  <PerHour>{0}/시</PerHour>
+  <PerHour>{0}/시간</PerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>짐꾼</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->

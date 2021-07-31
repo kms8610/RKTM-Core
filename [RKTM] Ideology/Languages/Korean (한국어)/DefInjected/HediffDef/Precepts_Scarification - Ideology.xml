@@ -10,6 +10,6 @@
   <!-- EN: a scarification -->
   <Scarification.labelNoun>상흔 문신</Scarification.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Scarification.labelNounPretty>{{0} 의 {1}</Scarification.labelNounPretty>
+  <Scarification.labelNounPretty>{1}의 {0}</Scarification.labelNounPretty>
   
 </LanguageData>

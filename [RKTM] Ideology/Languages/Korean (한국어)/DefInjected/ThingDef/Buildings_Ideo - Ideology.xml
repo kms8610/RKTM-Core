@@ -22,11 +22,11 @@
   <Altar_Small.description>종교적 의식에 사용되는 작은 지지대입니다.</Altar_Small.description>
   
   <!-- EN: biosculpter pod -->
-  <BiosculpterPod.label>생체 조율기</BiosculpterPod.label>
+  <BiosculpterPod.label>생체 재구축기</BiosculpterPod.label>
   <!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations. -->
-  <BiosculpterPod.description>액상 영양 주입기와 생체 조작 시스템이 장착된 완전 밀폐형 포드입니다. 정착민에게 치유, 노화 역전, 욕구 해소 등 강력한 효과를 제공합니다. 각각의 포드는 한 번에 한 명의 사용자만을 위해 조율되어, 다른 사람들은 이용할 수 없습니다. 생체 조율은 60일 후 초기화됩니다. 초월주의 신봉자들은 인간의 물리적 한계를 넘어서기 위한 그들의 여정에 생체 조율기가 필수적이라고 믿습니다.</BiosculpterPod.description>
+  <BiosculpterPod.description>액상 영양 주입기와 생체 조작 시스템이 장착된 완전 밀폐형 포드입니다. 정착민에게 치유, 노화 역전, 욕구 해소 등 강력한 효과를 제공합니다. 각각의 포드는 한 번에 한 명의 사용자만을 위해 조율되어, 다른 사람들은 이용할 수 없습니다. 생체 조율은 60일 후 초기화됩니다. 초월주의 신봉자들은 인간의 물리적 한계를 넘어서기 위한 그들의 여정에 생체 재구축기가 필수적이라고 믿습니다.</BiosculpterPod.description>
   <!-- EN: healing -->
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>치유</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>신체 치유</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
   <!-- EN: Heal all fresh wounds and one random permanent injury. -->
   <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>정착민의 모든 상처와 무작위 흉터 하나를 치유합니다.</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
   <!-- EN: age reversal -->
@@ -39,7 +39,7 @@
   <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>정착민의 신경계를 일시적으로 조작해 일정 시간 행복도를 증가시킵니다.</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
   
   <!-- EN: burnbong -->
-  <Burnbong.label>환각 향로</Burnbong.label>
+  <Burnbong.label>번봉</Burnbong.label>
   <!-- EN: A wood structure packed with smokeleaf. It can be ignited during a ritual and produce a huge amount of smokeleaf smoke for a few hours, after which it is destroyed. -->
   <Burnbong.description>연초로 가득 찬 나무 구조물 입니다. 의식에 사용될 수 있으며 몇 시간 동안 상당량의 연초 연기를 뿜어냅니다. 이후에는 파괴됩니다.</Burnbong.description>
   
@@ -49,9 +49,9 @@
   <CannibalPlatter.description>식인 잔치를 위해 사람 고기를 잔뜩 쌓아둔 공간입니다.</CannibalPlatter.description>
   
   <!-- EN: christmas tree -->
-  <ChristmasTree.label>성탄절 나무</ChristmasTree.label>
+  <ChristmasTree.label>성탄 나무</ChristmasTree.label>
   <!-- EN: A celebratory tree decorated with ornaments and lights traditionally made as part of Christmas celebrations. -->
-  <ChristmasTree.description>전통적인 크리스마스 기념 행사의 일부로서 만들어진, 장식품과 전구들로 꾸민 기념물입니다.</ChristmasTree.description>
+  <ChristmasTree.description>전통적인 성탄절 기념 행사의 일부로서 만들어진, 장식품과 전구들로 꾸민 기념물입니다.</ChristmasTree.description>
   
   <!-- EN: standing darklamp -->
   <Darklamp.label>희미한 스탠드 조명</Darklamp.label>
@@ -65,8 +65,8 @@
   
   <!-- EN: fungus darktorch -->
   <DarktorchFungus.label>희미한 버섯 횃불</DarktorchFungus.label>
-  <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <DarktorchFungus.description>넓은 면적에 희미한 빛을 발산하는 특수 처리된 버섯 횃불입니다. 어두운 곳을 선호하는 사람들은 이 정도 광원으로도 만족합니다. 나무로 연료를 보급할 수 있습니다. 소량의 열이 발생합니다.</DarktorchFungus.description>
+  <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with raw fungus. Produces a small amount of heat. -->
+  <DarktorchFungus.description>넓은 면적에 희미한 빛을 발산하는 특수 처리된 버섯 횃불입니다. 어두운 곳을 선호하는 사람들은 이 정도 광원으로도 만족합니다. 버섯으로 연료를 보급할 수 있습니다. 소량의 열이 발생합니다.</DarktorchFungus.description>
   
   <!-- EN: effigy -->
   <Effigy.label>저주 인형</Effigy.label>
@@ -74,14 +74,14 @@
   <Effigy.description>사람 형태로 대강 만들어진 목상입니다. 의식에서 불태워지게 됩니다.</Effigy.description>
   
   <!-- EN: ideogram -->
-  <Ideogram.label>상징 문양</Ideogram.label>
+  <Ideogram.label>상징문양</Ideogram.label>
   <!-- EN: A large image drawn on the ground and reinforced with metal edges. It is used as a focus for rituals. -->
   <Ideogram.description>땅에 그린 뒤 금속으로 테두리를 보강한 큰 문양입니다. 의식에 참여한 이들을 집중시키기 위해 사용됩니다.</Ideogram.description>
   
   <!-- EN: incense shrine -->
   <IncenseShrine.label>향로 제단</IncenseShrine.label>
   <!-- EN: A collection of packed incense containers. It can be ignited and produce a powerful incense effect as a focus for rituals. It is destroyed after it burns down. -->
-  <IncenseShrine.description>향 보관함을 모아둔 것입니다. 불태움으로써 의식을 집중하기 위한 강력한 향의 효과를 만들어냅니다. 불에 탄 이후 파괴됩니다.</IncenseShrine.description>
+  <IncenseShrine.description>대량의 향료 상자를 모아둔 것입니다. 이것을 불태워 의식에 사용하는 강력한 향을 자아냅니다. 타고 나면 파괴됩니다.</IncenseShrine.description>
   
   <!-- EN: neural supercharger -->
   <NeuralSupercharger.label>신경 과충전기</NeuralSupercharger.label>
@@ -96,9 +96,9 @@
   <Pyre.description>번제를 위해 쌓아둔 나무 탑입니다.</Pyre.description>
   
   <!-- EN: ritual spot -->
-  <RitualSpot.label>의식 장소</RitualSpot.label>
+  <RitualSpot.label>행사 장소</RitualSpot.label>
   <!-- EN: A spot for carrying out certain kinds of rituals. -->
-  <RitualSpot.description>의식을 행하는데 사용될 장소입니다.</RitualSpot.description>
+  <RitualSpot.description>행사나 의식을 행하는데 사용될 장소입니다.</RitualSpot.description>
   
   <!-- EN: sacrificial flag -->
   <SacrificialFlag.label>희생제 깃발</SacrificialFlag.label>

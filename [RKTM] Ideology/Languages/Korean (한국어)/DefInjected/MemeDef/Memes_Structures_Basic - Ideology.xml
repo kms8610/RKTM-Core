@@ -4,11 +4,11 @@
   <!-- EN: animist -->
   <Structure_Animist.label>정령숭배</Structure_Animist.label>
   <!-- EN: Spirits live in everything around us. In the plants and animals, rivers and trees, sky and stars. The moral structure of the universe springs from the necessity of respecting them. -->
-  <Structure_Animist.description>영혼은 우리 주변의 모든 것에 살고 있습니다. 식물과 동물, 강과 나무, 하늘과 별. 우주의 도덕적 구조는 그것들을 존중할 필요성에서 비롯됩니다.</Structure_Animist.description>
+  <Structure_Animist.description>혼령은 식물과 동물, 강과 나무, 하늘과 별 같은 주변 만물에 깃들어 있습니다. 우주의 도덕적 구조는 혼령들을 존중하는 필요성에서 비롯됩니다.</Structure_Animist.description>
   <!-- EN: memeLeaderNoun->curate -->
-  <Structure_Animist.generalRules.rulesStrings.0>memeLeaderNoun->보좌신부</Structure_Animist.generalRules.rulesStrings.0>
+  <Structure_Animist.generalRules.rulesStrings.0>memeLeaderNoun->인도자</Structure_Animist.generalRules.rulesStrings.0>
   <!-- EN: memeLeaderNoun->speaker -->
-  <Structure_Animist.generalRules.rulesStrings.1>memeLeaderNoun->말하는자</Structure_Animist.generalRules.rulesStrings.1>
+  <Structure_Animist.generalRules.rulesStrings.1>memeLeaderNoun->대리자</Structure_Animist.generalRules.rulesStrings.1>
   <!-- EN: memeLeaderAdjective->universe -->
   <Structure_Animist.generalRules.rulesStrings.2>memeLeaderAdjective->우주의</Structure_Animist.generalRules.rulesStrings.2>
   <!-- EN: memeLeaderAdjective->spirit -->
@@ -16,13 +16,13 @@
   <!-- EN: memeLeaderAdjective->anima -->
   <Structure_Animist.generalRules.rulesStrings.4>memeLeaderAdjective->영혼의</Structure_Animist.generalRules.rulesStrings.4>
   <!-- EN: memeHyphenPrefix->ani -->
-  <Structure_Animist.generalRules.rulesStrings.5>memeHyphenPrefix->애니</Structure_Animist.generalRules.rulesStrings.5>
+  <Structure_Animist.generalRules.rulesStrings.5>memeHyphenPrefix->영혼</Structure_Animist.generalRules.rulesStrings.5>
   <!-- EN: memeMoralist->shaman -->
-  <Structure_Animist.generalRules.rulesStrings.6>memeMoralist->샤먼</Structure_Animist.generalRules.rulesStrings.6>
+  <Structure_Animist.generalRules.rulesStrings.6>memeMoralist->주술사</Structure_Animist.generalRules.rulesStrings.6>
   <!-- EN: memeMoralist->priest -->
   <Structure_Animist.generalRules.rulesStrings.7>memeMoralist->성직자</Structure_Animist.generalRules.rulesStrings.7>
   <!-- EN: memeMoralist->elder -->
-  <Structure_Animist.generalRules.rulesStrings.8>memeMoralist->엘더</Structure_Animist.generalRules.rulesStrings.8>
+  <Structure_Animist.generalRules.rulesStrings.8>memeMoralist->장로</Structure_Animist.generalRules.rulesStrings.8>
   <!-- EN: animist -->
   <Structure_Animist.symbolPacks.0.adjective>정령숭배</Structure_Animist.symbolPacks.0.adjective>
   <!-- EN: animist -->
@@ -41,7 +41,7 @@
   <!-- EN: archist -->
   <Structure_Archist.label>초월숭배</Structure_Archist.label>
   <!-- EN: Archotechs are the true gods. They know the moral structure of the universe, and serving them is how we will connect with it. -->
-  <Structure_Archist.description>초월공학은 진정한 신입니다. 그들은 우주의 도덕적 구조를 알고 있으며 그들을 섬기는 것이 우리가 우주와 연결하는 방법입니다.</Structure_Archist.description>
+  <Structure_Archist.description>초월공학은 진정한 신입니다. 그들은 우주의 도덕적 구조를 알고 있기에, 그들을 섬기는 것만이 우리가 우주와 연결되는 유일한 방법입니다.</Structure_Archist.description>
   <!-- EN: memeAdjective->archic -->
   <Structure_Archist.generalRules.rulesStrings.0>memeAdjective->초월의</Structure_Archist.generalRules.rulesStrings.0>
   <!-- EN: memeAdjective->archotechnic -->
@@ -55,7 +55,7 @@
   <!-- EN: memeLeaderNoun->archist -->
   <Structure_Archist.generalRules.rulesStrings.5>memeLeaderNoun->초월교주</Structure_Archist.generalRules.rulesStrings.5>
   <!-- EN: memeLeaderNoun->archotechnist -->
-  <Structure_Archist.generalRules.rulesStrings.6>memeLeaderNoun->초월대장</Structure_Archist.generalRules.rulesStrings.6>
+  <Structure_Archist.generalRules.rulesStrings.6>memeLeaderNoun->초월공학자</Structure_Archist.generalRules.rulesStrings.6>
   <!-- EN: memeLeaderAdjective->archic -->
   <Structure_Archist.generalRules.rulesStrings.7>memeLeaderAdjective->초월의</Structure_Archist.generalRules.rulesStrings.7>
   <!-- EN: memeLeaderAdjective->exochrome -->
@@ -69,21 +69,21 @@
   <!-- EN: memeMoralist->abbot -->
   <Structure_Archist.generalRules.rulesStrings.12>memeMoralist->초월도사</Structure_Archist.generalRules.rulesStrings.12>
   <!-- EN: archotechnic -->
-  <Structure_Archist.symbolPacks.0.adjective>고고학</Structure_Archist.symbolPacks.0.adjective>
+  <Structure_Archist.symbolPacks.0.adjective>초월공학적</Structure_Archist.symbolPacks.0.adjective>
   <!-- EN: Archotechnics -->
-  <Structure_Archist.symbolPacks.0.ideoName>고고학</Structure_Archist.symbolPacks.0.ideoName>
+  <Structure_Archist.symbolPacks.0.ideoName>초월공학</Structure_Archist.symbolPacks.0.ideoName>
   <!-- EN: archotechnist -->
-  <Structure_Archist.symbolPacks.0.member>고고학자</Structure_Archist.symbolPacks.0.member>
+  <Structure_Archist.symbolPacks.0.member>초월공학자</Structure_Archist.symbolPacks.0.member>
   <!-- EN: archotechnology -->
-  <Structure_Archist.symbolPacks.0.theme>고고학</Structure_Archist.symbolPacks.0.theme>
+  <Structure_Archist.symbolPacks.0.theme>초월공학</Structure_Archist.symbolPacks.0.theme>
   <!-- EN: archist -->
-  <Structure_Archist.symbolPacks.1.adjective>초월 숭배</Structure_Archist.symbolPacks.1.adjective>
+  <Structure_Archist.symbolPacks.1.adjective>초월주의적</Structure_Archist.symbolPacks.1.adjective>
   <!-- EN: Archism -->
   <Structure_Archist.symbolPacks.1.ideoName>초월주의</Structure_Archist.symbolPacks.1.ideoName>
   <!-- EN: archist -->
-  <Structure_Archist.symbolPacks.1.member>초월숭배</Structure_Archist.symbolPacks.1.member>
+  <Structure_Archist.symbolPacks.1.member>초월주의자</Structure_Archist.symbolPacks.1.member>
   <!-- EN: archism -->
-  <Structure_Archist.symbolPacks.1.theme>초월주의자</Structure_Archist.symbolPacks.1.theme>
+  <Structure_Archist.symbolPacks.1.theme>초월주의</Structure_Archist.symbolPacks.1.theme>
   <!-- EN: shrine -->
   <Structure_Archist.worshipRoomLabel>신전</Structure_Archist.worshipRoomLabel>
   
@@ -100,7 +100,7 @@
   <!-- EN: memeCreed->belief -->
   <Structure_Ideological.generalRules.rulesStrings.3>memeCreed->믿음</Structure_Ideological.generalRules.rulesStrings.3>
   <!-- EN: memeCreed->ideology -->
-  <Structure_Ideological.generalRules.rulesStrings.4>memeCreed->이데올로기</Structure_Ideological.generalRules.rulesStrings.4>
+  <Structure_Ideological.generalRules.rulesStrings.4>memeCreed->이념</Structure_Ideological.generalRules.rulesStrings.4>
   <!-- EN: memeCreed->creed -->
   <Structure_Ideological.generalRules.rulesStrings.5>memeCreed->신조</Structure_Ideological.generalRules.rulesStrings.5>
   <!-- EN: memeCreed->philosophy -->
@@ -124,7 +124,7 @@
   <!-- EN: memeLeaderNoun->decider -->
   <Structure_Ideological.generalRules.rulesStrings.15>memeLeaderNoun->선택하는자</Structure_Ideological.generalRules.rulesStrings.15>
   <!-- EN: memeLeaderNoun->leader -->
-  <Structure_Ideological.generalRules.rulesStrings.16>memeLeaderNoun->리더</Structure_Ideological.generalRules.rulesStrings.16>
+  <Structure_Ideological.generalRules.rulesStrings.16>memeLeaderNoun->통솔자</Structure_Ideological.generalRules.rulesStrings.16>
   <!-- EN: memeLeaderAdjective->ethical -->
   <Structure_Ideological.generalRules.rulesStrings.17>memeLeaderAdjective->윤리적인</Structure_Ideological.generalRules.rulesStrings.17>
   <!-- EN: memeLeaderAdjective->moral -->
@@ -154,28 +154,28 @@
   <!-- EN: ethics -->
   <Structure_Ideological.symbolPacks.0.theme>윤리학</Structure_Ideological.symbolPacks.0.theme>
   <!-- EN: ideological -->
-  <Structure_Ideological.symbolPacks.1.adjective>이념</Structure_Ideological.symbolPacks.1.adjective>
+  <Structure_Ideological.symbolPacks.1.adjective>이념적</Structure_Ideological.symbolPacks.1.adjective>
   <!-- EN: Ideology -->
-  <Structure_Ideological.symbolPacks.1.ideoName>이데올로기</Structure_Ideological.symbolPacks.1.ideoName>
+  <Structure_Ideological.symbolPacks.1.ideoName>이념</Structure_Ideological.symbolPacks.1.ideoName>
   <!-- EN: ideologist -->
   <Structure_Ideological.symbolPacks.1.member>이데올로기 학파</Structure_Ideological.symbolPacks.1.member>
   <!-- EN: ideology -->
-  <Structure_Ideological.symbolPacks.1.theme>이데올로기</Structure_Ideological.symbolPacks.1.theme>
+  <Structure_Ideological.symbolPacks.1.theme>이념</Structure_Ideological.symbolPacks.1.theme>
   <!-- EN: just -->
-  <Structure_Ideological.symbolPacks.2.adjective>정의의</Structure_Ideological.symbolPacks.2.adjective>
+  <Structure_Ideological.symbolPacks.2.adjective>정의로운</Structure_Ideological.symbolPacks.2.adjective>
   <!-- EN: Justice -->
   <Structure_Ideological.symbolPacks.2.ideoName>정의</Structure_Ideological.symbolPacks.2.ideoName>
   <!-- EN: justicar -->
-  <Structure_Ideological.symbolPacks.2.member>정의의 심판관</Structure_Ideological.symbolPacks.2.member>
+  <Structure_Ideological.symbolPacks.2.member>심판관</Structure_Ideological.symbolPacks.2.member>
   <!-- EN: justice -->
   <Structure_Ideological.symbolPacks.2.theme>정의</Structure_Ideological.symbolPacks.2.theme>
   <!-- EN: sanctuary -->
   <Structure_Ideological.worshipRoomLabel>성역</Structure_Ideological.worshipRoomLabel>
   
   <!-- EN: abstract theist -->
-  <Structure_TheistAbstract.label>추상적 다신교</Structure_TheistAbstract.label>
+  <Structure_TheistAbstract.label>추상적 신앙</Structure_TheistAbstract.label>
   <!-- EN: The god(s) do not have physical form, but are everywhere at once. They know all, and can do anything. Their will defines the moral structure of the universe. -->
-  <Structure_TheistAbstract.description>신(들) 은 물리적 형태가 없지만 동시에 어디에나 있습니다. 그들은 모든 것을 알고 있고 무엇이든 할 수 있습니다. 그들의 의지는 우주의 도덕적 구조를 정의합니다.</Structure_TheistAbstract.description>
+  <Structure_TheistAbstract.description>신(들)은 물리적 형태가 없지만 동시에 어디에나 있습니다. 그들은 전지전능합니다. 그들의 의지가 우주의 도덕적 구조를 결정합니다.</Structure_TheistAbstract.description>
   <!-- EN: memeAdjective->godly -->
   <Structure_TheistAbstract.generalRules.rulesStrings.0>memeAdjective->경건한</Structure_TheistAbstract.generalRules.rulesStrings.0>
   <!-- EN: memeAdjective->holy -->
@@ -183,7 +183,7 @@
   <!-- EN: memeAdjective->sacred -->
   <Structure_TheistAbstract.generalRules.rulesStrings.2>memeAdjective->신성한</Structure_TheistAbstract.generalRules.rulesStrings.2>
   <!-- EN: memeAdjective->divine -->
-  <Structure_TheistAbstract.generalRules.rulesStrings.3>memeAdjective->신이 내린</Structure_TheistAbstract.generalRules.rulesStrings.3>
+  <Structure_TheistAbstract.generalRules.rulesStrings.3>memeAdjective->신성한</Structure_TheistAbstract.generalRules.rulesStrings.3>
   <!-- EN: memeAdjective->faithful -->
   <Structure_TheistAbstract.generalRules.rulesStrings.4>memeAdjective->독실한</Structure_TheistAbstract.generalRules.rulesStrings.4>
   <!-- EN: memeCreed->temple -->
@@ -197,7 +197,7 @@
   <!-- EN: memeHyphenPrefix->theo -->
   <Structure_TheistAbstract.generalRules.rulesStrings.9>memeHyphenPrefix->테오</Structure_TheistAbstract.generalRules.rulesStrings.9>
   <!-- EN: memeConcept->creation -->
-  <Structure_TheistAbstract.generalRules.rulesStrings.10>memeConcept->생성</Structure_TheistAbstract.generalRules.rulesStrings.10>
+  <Structure_TheistAbstract.generalRules.rulesStrings.10>memeConcept->창조</Structure_TheistAbstract.generalRules.rulesStrings.10>
   <!-- EN: memeConcept->life -->
   <Structure_TheistAbstract.generalRules.rulesStrings.11>memeConcept->삶</Structure_TheistAbstract.generalRules.rulesStrings.11>
   <!-- EN: memeLeaderNoun->bishop -->
@@ -237,7 +237,7 @@
   <!-- EN: Faith -->
   <Structure_TheistAbstract.symbolPacks.1.ideoName>믿음주의</Structure_TheistAbstract.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
-  <Structure_TheistAbstract.symbolPacks.1.member>신자</Structure_TheistAbstract.symbolPacks.1.member>
+  <Structure_TheistAbstract.symbolPacks.1.member>믿음주의자</Structure_TheistAbstract.symbolPacks.1.member>
   <!-- EN: faith -->
   <Structure_TheistAbstract.symbolPacks.1.theme>믿음주의</Structure_TheistAbstract.symbolPacks.1.theme>
   <!-- EN: divinist -->
@@ -257,12 +257,12 @@
   <!-- EN: holiness -->
   <Structure_TheistAbstract.symbolPacks.3.theme>신성한</Structure_TheistAbstract.symbolPacks.3.theme>
   <!-- EN: temple -->
-  <Structure_TheistAbstract.worshipRoomLabel>신전</Structure_TheistAbstract.worshipRoomLabel>
+  <Structure_TheistAbstract.worshipRoomLabel>성전</Structure_TheistAbstract.worshipRoomLabel>
   
   <!-- EN: embodied theist -->
-  <Structure_TheistEmbodied.label>실존적 다신교</Structure_TheistEmbodied.label>
+  <Structure_TheistEmbodied.label>실존적 신앙</Structure_TheistEmbodied.label>
   <!-- EN: The god(s) walk the planets like us, yet they are powerful and immortal as we are not. They decide the moral structure of the universe. -->
-  <Structure_TheistEmbodied.description>신(들) 은 우리와 같은 행성을 걷고 있지만 그들은 우리처럼 강력하고 불사합니다. 그들은 우주의 도덕적 구조를 결정합니다.</Structure_TheistEmbodied.description>
+  <Structure_TheistEmbodied.description>신(들)은 우리와 같은 땅 위를 걷지만 강력하고 불멸합니다. 그들이 우주의 도덕적 구조를 결정합니다.</Structure_TheistEmbodied.description>
   <!-- EN: memeCreed->sect -->
   <Structure_TheistEmbodied.generalRules.rulesStrings.0>memeCreed->분파</Structure_TheistEmbodied.generalRules.rulesStrings.0>
   <!-- EN: memeCreed->cult -->
@@ -274,7 +274,7 @@
   <!-- EN: memeHyphenPrefix->theo -->
   <Structure_TheistEmbodied.generalRules.rulesStrings.4>memeHyphenPrefix->테오</Structure_TheistEmbodied.generalRules.rulesStrings.4>
   <!-- EN: memeConcept->creation -->
-  <Structure_TheistEmbodied.generalRules.rulesStrings.5>memeConcept->생성</Structure_TheistEmbodied.generalRules.rulesStrings.5>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.5>memeConcept->창조</Structure_TheistEmbodied.generalRules.rulesStrings.5>
   <!-- EN: memeConcept->life -->
   <Structure_TheistEmbodied.generalRules.rulesStrings.6>memeConcept->인생</Structure_TheistEmbodied.generalRules.rulesStrings.6>
   <!-- EN: memeLeaderNoun->templar -->
@@ -298,7 +298,7 @@
   <!-- EN: Faith -->
   <Structure_TheistEmbodied.symbolPacks.1.ideoName>믿음주의</Structure_TheistEmbodied.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
-  <Structure_TheistEmbodied.symbolPacks.1.member>신자</Structure_TheistEmbodied.symbolPacks.1.member>
+  <Structure_TheistEmbodied.symbolPacks.1.member>믿음주의자</Structure_TheistEmbodied.symbolPacks.1.member>
   <!-- EN: faith -->
   <Structure_TheistEmbodied.symbolPacks.1.theme>믿음</Structure_TheistEmbodied.symbolPacks.1.theme>
   <!-- EN: pantheon -->

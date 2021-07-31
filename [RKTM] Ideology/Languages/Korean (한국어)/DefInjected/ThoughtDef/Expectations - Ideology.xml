@@ -12,7 +12,7 @@
   <!-- EN: meager slave expectations -->
   <ExpectationsSlave.stages.meager_slave_expectations.label>낮은 노예의 기대</ExpectationsSlave.stages.meager_slave_expectations.label>
   <!-- EN: I'm a slave of a group with meager holdings. I expect little. -->
-  <ExpectationsSlave.stages.meager_slave_expectations.description>난 소소한 정착지의 노예야. 바라는건 작지.</ExpectationsSlave.stages.meager_slave_expectations.description>
+  <ExpectationsSlave.stages.meager_slave_expectations.description>난 소소한 정착지의 노예야. 바라는 건 별로 없어.</ExpectationsSlave.stages.meager_slave_expectations.description>
   <!-- EN: slave expectations -->
   <ExpectationsSlave.stages.slave_expectations.label>노예의 기대</ExpectationsSlave.stages.slave_expectations.label>
   <!-- EN: I'm a slave. I don't expect much. -->

@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: questDescription->You've detected a [siteLabel] nearby controlled by [faction_name].\n\nIf you wish, you can raid the camp to collect loot ([loot]). [raidConsequences]\n\nThe camp will pack up and move on in [timeout_duration]. -->
-  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.0>questDescription->You've detected a [siteLabel] nearby controlled by [faction_name].\n\nIf you wish, you can raid the camp to collect loot ([loot]). [raidConsequences]\n\nThe camp will pack up and move on in [timeout_duration].</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.0>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.0>questDescription->근처에서 [faction_name](이)가 통제하는 [siteLabel](을)를 발견했습니다.\n\n캠프를 습격하면 전리품([loot])을 얻을 수 있습니다. [raidConsequences]\n\n[timeout_duration] 후에는 짐을 꾸려 다른 곳으로 이동합니다.</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.0>
   <!-- EN: raidConsequences(faction_temporary==false)->If you do, [faction_name] will become hostile. -->
-  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.1>raidConsequences(faction_temporary==false)->그렇게 하면 [faction_name] 이(가) 적대적이 됩니다.</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.1>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.1>raidConsequences(faction_temporary==false)->그러나 공격하면 [faction_name](이)가 적대할 것입니다.</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.1>
   <!-- EN: raidConsequences(faction_temporary==true)->Since [faction_name] is just a small, independent group, you can attack them without any broader diplomatic consequences. -->
-  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.2>raidConsequences(faction_temporary==true)->Since [faction_name] is just a small, independent group, you can attack them without any broader diplomatic consequences.</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.2>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.2>raidConsequences(faction_temporary==true)->[faction_name](은)는 소규모 독립 집단이므로 외교적 문제 없이 공격할 수 있습니다.</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.2>
   <!-- EN: questName->[site_label] [detected] -->
   <OpportunitySite_WorkSite.questNameRules.rulesStrings.0>questName->[detected] [site_label]</OpportunitySite_WorkSite.questNameRules.rulesStrings.0>
   <!-- EN: detected->detected -->

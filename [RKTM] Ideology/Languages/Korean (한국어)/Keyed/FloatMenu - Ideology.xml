@@ -6,13 +6,13 @@
   <!-- EN: Only {0}s can build -->
   <OnlyMembersCanBuild>{0}만 건설 가능</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
-  <CantStartRitualAlreadyInProgress>이미 {0}(을)를 거행 중입니다.</CantStartRitualAlreadyInProgress>
+  <CantStartRitualAlreadyInProgress>이미 {0}(을)를 진행하고 있습니다.</CantStartRitualAlreadyInProgress>
   <!-- EN: {0} is already participating in a ritual. -->
-  <CantStartRitualTargetIsAlreadyInRitual>{0}(은)는 이미 의식에 참여하고 있습니다.</CantStartRitualTargetIsAlreadyInRitual>
+  <CantStartRitualTargetIsAlreadyInRitual>{0}(은)는 이미 행사에 참여하고 있습니다.</CantStartRitualTargetIsAlreadyInRitual>
   <!-- EN: You must assign the role of {0} in order to start this ritual. -->
-  <CantStartRitualRoleNotAssigned>이 의식을 거행하려면 {0} 보직을 할당해야 합니다.</CantStartRitualRoleNotAssigned>
+  <CantStartRitualRoleNotAssigned>이 행사를 진행하려면 {0} 지위를 할당해야 합니다.</CantStartRitualRoleNotAssigned>
   <!-- EN: There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion. -->
-  <CantStartRitualNoConvertee>{0}(으)로 교화해야 할 사람이 없습니다. 다른 사상을 믿는 정착민이나 죄수 또는 노예가 필요합니다.</CantStartRitualNoConvertee>
+  <CantStartRitualNoConvertee>{0}(으)로 교화할 사람이 없습니다. 다른 사상을 믿는 정착민, 수감자, 노예가 필요합니다.</CantStartRitualNoConvertee>
   <!-- EN: {PAWN_nameDef} cannot be {ROLE}. -->
   <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef}(은)는 {ROLE}(을)를 맡을 수 없습니다.</CantStartRitualSelectedPawnCannotBeRole>
   <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
@@ -22,9 +22,9 @@
   <!-- EN: Not enough space. There must be a clear circle of radius {MINRADIUS}. -->
   <CantStartNotEnoughSpaceDuel>공간이 부족합니다. 반지름 {MINRADIUS}칸의 원형 공간이 비어있어야 합니다.</CantStartNotEnoughSpaceDuel>
   <!-- EN: {0_labelShort} is a slave. Slaves don't get funerals. -->
-  <CantStartFuneralForSlave>{0_labelShort}(은)는 노예입니다. 노예의 장례식은 치르지 않습니다.</CantStartFuneralForSlave>
+  <CantStartFuneralForSlave>{0_labelShort}(은)는 노예입니다. 노예의 장례식은 진행할 수 없습니다.</CantStartFuneralForSlave>
   <!-- EN: Need a slave bed that is reachable, not reserved, and in safe temperature. -->
-  <NoSlaveBed>도달 가능하고, 사용 중이지 않고, 안전한 온도의 노예 침대 없음</NoSlaveBed>
+  <NoSlaveBed>접근 가능하고, 주인이 없으며, 안전한 온도의 노예 침대가 필요합니다.</NoSlaveBed>
   <!-- EN: Return to slave bed -->
   <ReturnToSlaveBed>노예 침대로 돌려보내기</ReturnToSlaveBed>
   <!-- EN: not allowed for faction -->
@@ -45,11 +45,11 @@
   <!-- EN: Required -->
   <Required>필요</Required>
   <!-- EN: Style category -->
-  <StyleCategory>스타일 범주</StyleCategory>
+  <StyleCategory>양식 범주</StyleCategory>
   <!-- EN: Add style category -->
-  <AddStyleCategory>스타일 범주 추가</AddStyleCategory>
+  <AddStyleCategory>양식 범주 추가</AddStyleCategory>
   <!-- EN: Can't add more than {0} rituals. -->
-  <MaxRitualCount>의식은 {0}개까지만 추가할 수 있습니다.</MaxRitualCount>
+  <MaxRitualCount>행사는 {0}개까지만 추가할 수 있습니다.</MaxRitualCount>
   <!-- EN: Can't add more than {0} relics. -->
   <MaxRelicCount>유물은 {0}개까지만 추가할 수 있습니다.</MaxRelicCount>
   <!-- EN: can't have more than {0} specialists. -->
@@ -58,12 +58,18 @@
   <MaxPreceptCount>최대 {0}</MaxPreceptCount>
   <!-- EN: Set gender -->
   <SetTargetGender>성별 지정</SetTargetGender>
-  <!-- EN: incompatible -->
-  <FactionOrIdeoIncompatible>호환 되지 않음</FactionOrIdeoIncompatible>
+  <!-- EN: must be {0} faction -->
+  <RoleApparelRequirementIncompatibleFaction>{0} 세력이어야 함</RoleApparelRequirementIncompatibleFaction>
+  <!-- EN: tribal -->
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>부족민</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <!-- EN: non-tribal -->
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>부족 의상 제외</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <!-- EN: requires any of these memes -->
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>다음 가르침 중 하나 필요</RoleApparelRequirementIncompatibleAnyMemeRequired>
   <!-- EN: cannot be worn with assigned apparel -->
   <BodyPartAlreadyCovered>현재 할당한 의복과 함께 입을 수 없음</BodyPartAlreadyCovered>
   <!-- EN: already assigned -->
-  <AlreadyAssigned>already assigned</AlreadyAssigned>
+  <AlreadyAssigned>이미 할당됨</AlreadyAssigned>
   <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
   <NoteRoleApparelRequirementEffects>의류 요구사항을 충족하면 행복해하고, 위반하면 기분이 나빠집니다.</NoteRoleApparelRequirementEffects>
   <!-- EN: supercharge not ready -->
@@ -74,7 +80,7 @@
   <SetApparelType>유형 설정</SetApparelType>
 
   <!-- EN: change style -->
-  <ChangeStyle>스타일 바꾸기</ChangeStyle>
+  <ChangeStyle>외형 바꾸기</ChangeStyle>
   <!-- EN: {0} {DEITYNOUN} required -->
   <DeitiesRequired>{0} {DEITYNOUN} 필요</DeitiesRequired>
   <!-- EN: deity -->
@@ -88,14 +94,14 @@
   <!-- EN: conflicts with memes -->
   <ConflictsWithMemes>충돌하는 가르침</ConflictsWithMemes>
   <!-- EN: can only have one altar/ideogram -->
-  <IdeoAlreadyHasAltar>하나의 제단/이데오그램만 가능</IdeoAlreadyHasAltar>
+  <IdeoAlreadyHasAltar>오직 하나의 제단/상징문양만 보유 가능</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
   <RecolorApparel>의류 염색</RecolorApparel>
 
   <!-- EN: Hack {0} -->
   <Hack>{0} 해킹</Hack>
   <!-- EN: Cannot hack {0} -->
-  <CannotHack>{0} 해킹 불가</CannotHack>
+  <CannotHack>{0}(을)를 해킹할 수 없음</CannotHack>
   <!-- EN: Already hacked -->
   <AlreadyHacked>이미 해킹함</AlreadyHacked>
   <!-- EN: Incapable of hacking -->
@@ -120,12 +126,14 @@
   <NoWardenOfIdeo>{MEMBERNAME}의 간수 없음</NoWardenOfIdeo>
 
   <!-- EN: Remove current role -->
-  <RemoveCurrentRole>현재 보직 해임</RemoveCurrentRole>
+  <RemoveCurrentRole>현재 지위 해임</RemoveCurrentRole>
 
   <!-- EN: Enter biosculpter pod -->
-  <EnterBiosculpterPod>생체 재구축기에 탑승</EnterBiosculpterPod>
+  <EnterBiosculpterPod>생체 재구축기에 들어가기</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
   <BiosculpterBiotunedToAnother>다른 사람에 맞춰짐</BiosculpterBiotunedToAnother>
+  <!-- EN: Must be {0} years old for age reversal. -->
+  <UnderMinBiosculpterAgeReversalAge>노화 역전을 받으려면 {0}살 이상이어야 합니다.</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_label} to biosculpter pod ({CYCLE}) -->
   <CarryToBiosculpterPod>{PAWN_label}(을)를 생체 재구축기로 이송 ({CYCLE})</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->

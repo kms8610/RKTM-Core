@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Biosculpting sickness -->
-  <BiosculptingSickness.label>생체 조율 후유증</BiosculptingSickness.label>
+  <BiosculptingSickness.label>생체 재구축 후유증</BiosculptingSickness.label>
   <!-- EN: The after-effects of an incomplete biosculpting cycle. It causes nausea, dizziness, and fuzzy thinking. -->
-  <BiosculptingSickness.description>불완전한 생체 조율에 의한 후유증입니다. 메스꺼움, 현기증, 모호한 생각을 유발합니다.</BiosculptingSickness.description>
+  <BiosculptingSickness.description>불완전한 생체 재구축에 의한 후유증입니다. 메스꺼움, 현기증, 모호한 생각을 유발합니다.</BiosculptingSickness.description>
   
   <!-- EN: blindfolded -->
   <Blindfold.label>안대 착용</Blindfold.label>
@@ -24,6 +24,6 @@
   <!-- EN: work focus -->
   <WorkFocus.label>작업 집중</WorkFocus.label>
   <!-- EN: This person was energized by a ritual or event they participated in. The energy means they can now work harder. -->
-  <WorkFocus.description>이 정착민은 의식 혹은 행사에 참여하여 삶의 활력을 얻었습니다. 이는 평소보다 더 작업에 열중할 수 있음을 의미합니다.</WorkFocus.description>
+  <WorkFocus.description>이 정착민은 행사에 참여하여 삶의 활력을 얻었습니다. 평소보다 더 작업에 열중할 수 있게 되었습니다.</WorkFocus.description>
   
 </LanguageData>

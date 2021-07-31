@@ -19,10 +19,10 @@
   <!-- EN: robe -->
   <Apparel_Robe.label>로브</Apparel_Robe.label>
   <!-- EN: A long, flowing robe without a hood. -->
-  <Apparel_Robe.description>모자가 없는 길고 헐렁한 로브입니다.</Apparel_Robe.description>
+  <Apparel_Robe.description>두건이 없는 길고 헐렁한 로브입니다.</Apparel_Robe.description>
   
   <!-- EN: torture crown -->
-  <Apparel_TortureCrown.label>가시왕관</Apparel_TortureCrown.label>
+  <Apparel_TortureCrown.label>가시관</Apparel_TortureCrown.label>
   <!-- EN: A crown-like headpiece with stubby inward-facing spikes that poke the head. It is used to induce pain in the wearer. -->
   <Apparel_TortureCrown.description>날카로운 가시들이 안쪽을 향해 뻗어 머리를 찌르도록 되어 있는 왕관 형태의 장비입니다. 착용자에게 고통을 주기 위해 사용됩니다.</Apparel_TortureCrown.description>
   

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: questDescription->You've learned that a relic of [ideo_name] is nearby.\n\nThe [relic_name] is an ancient object venerated by all [ideo_memberNamePlural]. If you could collect it, you could build a great reliquary to make [ideo_memberNamePlural] happy, attract wealthy pilgrims, and bring more people to [ideo_name]. -->
-  <RelicHunt.questDescriptionRules.rulesStrings.0>questDescription->You've learned that a relic of [ideo_name] is nearby.\n\nThe [relic_name] is an ancient object venerated by all [ideo_memberNamePlural]. If you could collect it, you could build a great reliquary to make [ideo_memberNamePlural] happy, attract wealthy pilgrims, and bring more people to [ideo_name].</RelicHunt.questDescriptionRules.rulesStrings.0>
+  <RelicHunt.questDescriptionRules.rulesStrings.0>questDescription->[ideo_name]의 유물이 근처에 있는 것을 알게 되었습니다.\n\n[relic_name](은)는 모든 [ideo_memberNamePlural](이)가 숭배하는 고대의 물건입니다. 그것을 가져온다면 [ideo_memberNamePlural](을)를 행복하게 만들고, 부유한 순례자를 끌어들이고, 더 많은 사람들을 [ideo_name]에 끌어들일 수 있을 것입니다.</RelicHunt.questDescriptionRules.rulesStrings.0>
   <!-- EN: questName->The [hunt] for the [item] -->
   <RelicHunt.questNameRules.rulesStrings.0>questName->[item]의 [hunt]</RelicHunt.questNameRules.rulesStrings.0>
   <!-- EN: questName->The [item] of [ideo_name] -->

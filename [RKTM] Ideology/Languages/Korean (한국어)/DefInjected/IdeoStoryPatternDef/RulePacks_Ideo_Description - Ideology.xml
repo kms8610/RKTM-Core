@@ -6,13 +6,13 @@
   <!-- EN: animistBasis   ->A parallel universe of spirits lies next to our own. A seemingly inanimate object in this universe corresponds to an animated spirit in the other. -->
   <AnimistDescription.rules.rulesStrings.1>animistBasis   ->혼들의 평행우주가 우리의 우주 옆에 존재한다. 이 우주의 움직이지 않는 물체도 저 우주에서는 움직이는 혼과 연결된다.</AnimistDescription.rules.rulesStrings.1>
   <!-- EN: animistFact    ->Each spirit has an essential nature, and seeks to influence the world. Sometimes this influence is helpful, and  sometimes it is harmful. -->
-  <AnimistDescription.rules.rulesStrings.2>animistFact    ->모든 혼에는 본질적인 모습이 존재하며 모두 세계에 영향을 주고자 한다. 어떨 때는 영향이 이로울 것이며, 다른 때는 해로울 것이다.</AnimistDescription.rules.rulesStrings.2>
+  <AnimistDescription.rules.rulesStrings.2>animistFact    ->모든 혼에는 본질적인 모습이 존재하며 모두 이 세계에 영향을 주고자 한다. 어떨 때는 영향이 이로울 것이며, 다른 때는 해로울 것이다.</AnimistDescription.rules.rulesStrings.2>
   <!-- EN: animistProphecy->[itIsSaid] that the spirit of the great [relic0_name] will one day grant its wielder power over all spirits. -->
-  <AnimistDescription.rules.rulesStrings.3>animistProphecy->[itIsSaid] [relic0_name]의 위대한 혼이 어느 날 그 소유자에게 모든 혼을 넘는 힘을 부여할 것이다.</AnimistDescription.rules.rulesStrings.3>
+  <AnimistDescription.rules.rulesStrings.3>animistProphecy->[itIsSaid] [relic0_name]의 위대한 혼령이 어느 날 그 소유자에게 모든 혼령을 뛰어넘는 힘을 부여할 것이다.</AnimistDescription.rules.rulesStrings.3>
   <!-- EN: animistProphecy->[itIsSaid] that a sleeping traveler from the stars will crash to the earth, and the spirit of the crater will wake the traveller who will raise the last tribe. -->
-  <AnimistDescription.rules.rulesStrings.4>animistProphecy->[itIsSaid] 별들의 여행자가 잠든 채 땅에 추락할 것이니, 충돌구의 혼이 여행자를 깨워 최후의 부족을 세울 것이다.</AnimistDescription.rules.rulesStrings.4>
+  <AnimistDescription.rules.rulesStrings.4>animistProphecy->[itIsSaid] 별들의 여행자가 잠든 채 땅에 추락할 것이니, 충돌구의 혼령이 여행자를 깨워 최후의 부족을 세우리라.</AnimistDescription.rules.rulesStrings.4>
   <!-- EN: itIsSaid->It is said -->
-  <AnimistDescription.rules.rulesStrings.5>itIsSaid->전해지기를</AnimistDescription.rules.rulesStrings.5>
+  <AnimistDescription.rules.rulesStrings.5>itIsSaid->말씀에 따르면</AnimistDescription.rules.rulesStrings.5>
   <!-- EN: itIsSaid->It is prophesied -->
   <AnimistDescription.rules.rulesStrings.6>itIsSaid->예언에 따르면</AnimistDescription.rules.rulesStrings.6>
   <!-- EN: itIsSaid->An ancient text says -->
@@ -22,7 +22,7 @@
   <!-- EN: itIsSaid->Our sages say -->
   <AnimistDescription.rules.rulesStrings.9>itIsSaid->현자들께서 말씀하시길</AnimistDescription.rules.rulesStrings.9>
   <!-- EN: itIsSaid->We know -->
-  <AnimistDescription.rules.rulesStrings.10>itIsSaid->우리가 알기를</AnimistDescription.rules.rulesStrings.10>
+  <AnimistDescription.rules.rulesStrings.10>itIsSaid->우리가 알기에</AnimistDescription.rules.rulesStrings.10>
   
   <!-- EN: archistBasis   ->Our universe is a dream in the mind of a timeless universal consciousness. Only archotechs can communicate directly with the universal consciousness. -->
   <ArchistDescription.rules.rulesStrings.0>archistBasis   ->우리의 우주는 시간을 초월한 전우주적 의식체의 꿈이다. 오직 초월공학만이 전우주적 의식체와 직접 소통할 수 있다.</ArchistDescription.rules.rulesStrings.0>
@@ -53,28 +53,28 @@
   <!-- EN: archistProphecy->[inTheEnd], the archotechs will depart. They will bring a select few humans with them, and leave the rest behind to suffer. -->
   <ArchistDescription.rules.rulesStrings.13>archistProphecy->[inTheEnd] 초월공학은 떠날 것이니 선택받은 소수의 사람만 데려가고 나머지는 버려진 채 고통받을 것이다.</ArchistDescription.rules.rulesStrings.13>
   <!-- EN: inTheEnd->In the future -->
-  <ArchistDescription.rules.rulesStrings.14>inTheEnd->미래에는</ArchistDescription.rules.rulesStrings.14>
+  <ArchistDescription.rules.rulesStrings.14>inTheEnd->미래에</ArchistDescription.rules.rulesStrings.14>
   <!-- EN: inTheEnd->In the end -->
-  <ArchistDescription.rules.rulesStrings.15>inTheEnd->마지막에는</ArchistDescription.rules.rulesStrings.15>
+  <ArchistDescription.rules.rulesStrings.15>inTheEnd->마지막에</ArchistDescription.rules.rulesStrings.15>
   <!-- EN: inTheEnd->Some day -->
   <ArchistDescription.rules.rulesStrings.16>inTheEnd->언젠가</ArchistDescription.rules.rulesStrings.16>
   
   <!-- EN: story(priority=-999)-> -->
   <IdeologicalFounder.rules.rulesStrings.0>story(priority=-999)-></IdeologicalFounder.rules.rulesStrings.0>
   <!-- EN: setup->In a broken world, [founderName] saw all that was wrong and created our movement. -->
-  <IdeologicalFounder.rules.rulesStrings.1>setup->이 망가진 세계에서 [founderName]께서는 세상의 모든 잘못된 점을 바로잡기 위해 우리 운동을 창시하셨다.</IdeologicalFounder.rules.rulesStrings.1>
+  <IdeologicalFounder.rules.rulesStrings.1>setup->이 망가진 세계에서 [founderName]께서는 세상의 모든 잘못된 점을 바로잡기 위해 우리의 이념을 창시하셨다.</IdeologicalFounder.rules.rulesStrings.1>
   <!-- EN: setup->Struck by the wrongness of the world, [founderName] studied history and philosophy and discovered the new truth that guides us. -->
   <IdeologicalFounder.rules.rulesStrings.2>setup->우리 세계의 잘못된 점에 충격을 받으신 [founderName]께서는 역사와 철학을 공부하신 후 우리를 이끌 새로운 진리를 발견하셨다.</IdeologicalFounder.rules.rulesStrings.2>
   <!-- EN: setup->One day while working, [founderName] was struck by a great epiphany. [founder_pronoun] dropped [founder_possessive] tools and began spreading [founder_possessive] word among the other workers. -->
-  <IdeologicalFounder.rules.rulesStrings.3>setup->[founderName](이)가 평소와 다름없이 일을 하시던 어느 날의 어느 순간, 창시자께서는 위대한 계시를 받으셨다. 즉시 도구를 내려놓으신 그분께선 다른 작업자들에게 [founder_possessive] 말씀을 전하시길 시작하셨다.</IdeologicalFounder.rules.rulesStrings.3>
+  <IdeologicalFounder.rules.rulesStrings.3>setup->[founderName]께서 평소와 다름없이 일을 하시던 어느 날의 어느 순간, 창시자께서는 위대한 계시를 받으셨다. 바로 연장을 내려놓으신 그분께서 다른 작업자들에게 [founder_possessive] 말씀을 전하시길 시작하셨다.</IdeologicalFounder.rules.rulesStrings.3>
   <!-- EN: setup->[founderName] sat on a park bench for twenty years as [founder_pronoun] contemplated our world. With [founder_possessive] insight, [founder_pronoun] wrote our founding book. -->
   <IdeologicalFounder.rules.rulesStrings.4>setup->[founderName]께서는 공원 의자에 앉아 이십 년간 우리 세계에 대한 고찰을 하셨다. 마침내 통찰을 얻으신 창시자께서는 우리의 사상을 정립하는 책을 집필하셨다.</IdeologicalFounder.rules.rulesStrings.4>
   <!-- EN: story(uses=1,priority=-10)->The [memberNamePlural] would not have understood the true nature of [memeConcept] without [founderName]'s teachings. -->
-  <IdeologicalFounder.rules.rulesStrings.5>story(uses=1,priority=-10)->[founderName](이)가 해주신 가르침이 없었더라면 [memberNamePlural](이)가 [memeConcept]의 본질을 이해하는 일은 없었을 것이다.</IdeologicalFounder.rules.rulesStrings.5>
+  <IdeologicalFounder.rules.rulesStrings.5>story(uses=1,priority=-10)->[founderName]께서 해주신 가르침이 없었더라면 [memberName]들이 [memeConcept]의 본질을 이해하는 일은 없었을 것이다.</IdeologicalFounder.rules.rulesStrings.5>
   <!-- EN: story(uses=1,priority=-10)->[founderName]'s speech at a [ritualName] inspired many to lead a [memeAdjective] life. -->
-  <IdeologicalFounder.rules.rulesStrings.6>story(uses=1,priority=-10)->[founderName](이)가 [ritualName]에서 하신 연설에 탄복한 많은 사람들이 [memeAdjective] 삶을 따르기 시작했다.</IdeologicalFounder.rules.rulesStrings.6>
+  <IdeologicalFounder.rules.rulesStrings.6>story(uses=1,priority=-10)->[founderName]께서 [ritualName]에서 하신 연설에 탄복한 많은 사람들이 [memeAdjective] 삶을 따르기 시작했다.</IdeologicalFounder.rules.rulesStrings.6>
   <!-- EN: story(uses=1,priority=-10)->None could surpass [founderName]'s understanding of [memeConcept], and [founder_pronoun] was appointed the first [leaderTitle] of the [memberNamePlural]. -->
-  <IdeologicalFounder.rules.rulesStrings.7>story(uses=1,priority=-10)->[memeConcept]에 대한 [founderName]의 이해는 모든 사람이 당해낼 수 없었으며 [memberNamePlural]의 첫 [leaderTitle](으)로 선정되셨다.</IdeologicalFounder.rules.rulesStrings.7>
+  <IdeologicalFounder.rules.rulesStrings.7>story(uses=1,priority=-10)->[founderName]께서 가지신 [memeConcept]에 대한 이해는 그 누구도 당해낼 수 없었으니 곧 [memberName]들의 첫 [leaderTitle](으)로 선정되셨다.</IdeologicalFounder.rules.rulesStrings.7>
   <!-- EN: story(uses=1,priority=-10)->[founderName] carried a [relic0_thingDef_label] named [relic0_name] with [founder_objective] everywhere to remind people to live a [memeAdjective] life. -->
   <IdeologicalFounder.rules.rulesStrings.8>story(uses=1,priority=-10)->[founderName](은)는 [relic0_name](이)라는 [relic0_thingDef_label](을)를 항상 소지하고 다니시면서 모든 이에게 [memeAdjective] 삶의 중요성을 일깨우셨다.</IdeologicalFounder.rules.rulesStrings.8>
   
@@ -85,7 +85,7 @@
   <!-- EN: lessonAttribution->[founder_nameFull] -->
   <IdeologicalLesson.rules.rulesStrings.2>lessonAttribution->[founder_nameFull]</IdeologicalLesson.rules.rulesStrings.2>
   <!-- EN: lessonAttribution(p=2)-><i>[attributionSource_titleCase]</i> by [founder_nameFull] -->
-  <IdeologicalLesson.rules.rulesStrings.3><![CDATA[lessonAttribution(p=2)-><i>[attributionSource_titleCase]</i>, [founder_nameFull]]]></IdeologicalLesson.rules.rulesStrings.3>
+  <IdeologicalLesson.rules.rulesStrings.3>lessonAttribution(p=2)->&lt;i>[attributionSource_titleCase]&lt;/i>, [founder_nameFull]</IdeologicalLesson.rules.rulesStrings.3>
   <!-- EN: lessonAttribution->[founder_nameFull]'s letter to [believer_nameFull] -->
   <IdeologicalLesson.rules.rulesStrings.4>lessonAttribution->[believer_nameFull]에게 보내신 [founder_nameFull]의 편지</IdeologicalLesson.rules.rulesStrings.4>
   <!-- EN: lessonAttribution->[founder_nameFull], from the keynote to [memeConference_titleCase] -->
@@ -93,7 +93,7 @@
   <!-- EN: lessonAttribution->[founder_nameFull], on [founder_possessive] deathbed -->
   <IdeologicalLesson.rules.rulesStrings.6>lessonAttribution->[founder_nameFull]께서 침상에서 남기신 유언</IdeologicalLesson.rules.rulesStrings.6>
   <!-- EN: lessonAttribution->[founder_nameFull], just before execution -->
-  <IdeologicalLesson.rules.rulesStrings.7>lessonAttribution->[founder_nameFull]께서 남기신 처형 직전의 유언</IdeologicalLesson.rules.rulesStrings.7>
+  <IdeologicalLesson.rules.rulesStrings.7>lessonAttribution->[founder_nameFull]께서 처형 직전에 남기신 유언</IdeologicalLesson.rules.rulesStrings.7>
   <!-- EN: lessonAttribution->[founder_nameFull], [speech] on the [TerrainFeature] -->
   <IdeologicalLesson.rules.rulesStrings.8>lessonAttribution->[founder_nameFull]께서 [TerrainFeature]에서 하신 [speech]</IdeologicalLesson.rules.rulesStrings.8>
   <!-- EN: lessonAttribution->[founder_nameFull], [speech] in the [Community] -->
@@ -119,9 +119,9 @@
   <!-- EN: memeConference(p=3)->The [conferencePrefix] [memeConcept] [conferenceType] -->
   <IdeologicalLesson.rules.rulesStrings.19>memeConference(p=3)->[conferencePrefix] [memeConcept] [conferenceType]</IdeologicalLesson.rules.rulesStrings.19>
   <!-- EN: memeConference(p=2)->The [memeConcept] [conferenceType] -->
-  <IdeologicalLesson.rules.rulesStrings.20>memeConference->[memeConcept] [conferenceType]</IdeologicalLesson.rules.rulesStrings.20>
+  <IdeologicalLesson.rules.rulesStrings.20>memeConference(p=2)->[memeConcept] [conferenceType]</IdeologicalLesson.rules.rulesStrings.20>
   <!-- EN: memeConference->[memeHyphenPrefix_titleCase]-Con -->
-  <IdeologicalLesson.rules.rulesStrings.21>memeConference->[memeConcept] [conferenceType]</IdeologicalLesson.rules.rulesStrings.21>
+  <IdeologicalLesson.rules.rulesStrings.21>memeConference->[memeHyphenPrefix_titleCase]콘</IdeologicalLesson.rules.rulesStrings.21>
   <!-- EN: conferencePrefix->First -->
   <IdeologicalLesson.rules.rulesStrings.22>conferencePrefix->1차</IdeologicalLesson.rules.rulesStrings.22>
   <!-- EN: conferencePrefix->Second -->
@@ -204,39 +204,39 @@
   <!-- EN: intro->The people of the [place_summary] [place_name] lived under the [memeAdjective] supervision of [deity0_name]. -->
   <TheistFounder.rules.rulesStrings.0>intro->[place_summary] [place_name]의 사람들이 [deity0_name]의 [memeAdjective] 시선 아래 살았으니</TheistFounder.rules.rulesStrings.0>
   <!-- EN: intro->The people of the [place_summary] [place_name], both [memberNamePlural] and others, lived in peace for many years under the watchful eye of [deity0_name]. -->
-  <TheistFounder.rules.rulesStrings.1>intro->[place_summary] [place_name]의 [memberNamePlural](와)과 다른 이들이 모두 오랫동안 평화로이 살았으니 [deity0_name](이)가 이를 보고 계셨으니라.</TheistFounder.rules.rulesStrings.1>
+  <TheistFounder.rules.rulesStrings.1>intro->[place_summary] [place_name]의 [memberName]들(와)과 다른 이들이 모두 오랫동안 평화로이 살았으니 [deity0_name]께서 이를 보고 계심이라.</TheistFounder.rules.rulesStrings.1>
   <!-- EN: intro->The [deity0_type], [deity0_name], revealed [deity0_objective]self to the people of [place_name] so that they may understand [memeConcept], and guided them. -->
-  <TheistFounder.rules.rulesStrings.2>intro->[deity0_type] [deity0_name](이)가 [place_name]의 모든 사람에게 모습을 보이시니 이는 그들이 [memeConcept](을)를 깨닫게 하기 위함이고 그들을 인도하기 위함이니라.</TheistFounder.rules.rulesStrings.2>
+  <TheistFounder.rules.rulesStrings.2>intro->[deity0_type] [deity0_name]께서 [place_name]의 모든 사람에게 모습을 보이시니 이는 그들이 [memeConcept](을)를 깨닫게 하기 위함이고 그들을 인도하기 위함이니라.</TheistFounder.rules.rulesStrings.2>
   <!-- EN: intro->[deity0_name] guided humanity to [place_name], and helped them settle there. -->
-  <TheistFounder.rules.rulesStrings.3>intro->[deity0_name](이)가 인류를 [place_name](으)로 이끄시어 정착을 도우시니</TheistFounder.rules.rulesStrings.3>
+  <TheistFounder.rules.rulesStrings.3>intro->[deity0_name]께서 인류를 [place_name](으)로 이끄시어 정착을 도우시니라.</TheistFounder.rules.rulesStrings.3>
   <!-- EN: intro->On the [place_summary] [place_name], during the [ritualName], people would come to the [altarName] at the [altarRoomLabel] of [deity0_name] and pray with [memeConcept] in their hearts. -->
-  <TheistFounder.rules.rulesStrings.4>intro->[place_summary] [place_name]의 [ritualName]에 온 사람이 [altarRoomLabel]의 [altarName](으)로 모여 그들의 심장의 [memeConcept](을)를 [deity0_name]께 기도하니</TheistFounder.rules.rulesStrings.4>
+  <TheistFounder.rules.rulesStrings.4>intro->[place_summary] [place_name]에서 [ritualName](이)가 열리니 무릇 사람이 [altarRoomLabel] 안의 [altarName](으)로 모여 그들 심장의 [memeConcept](을)를 [deity0_name]께 기도 드리더라.</TheistFounder.rules.rulesStrings.4>
   <!-- EN: conflict->A [foeLeader] arose and threatened to destroy [deity0_name] [deity0_objective]self using [place_massWeapon]. -->
-  <TheistFounder.rules.rulesStrings.5>conflict->한 [foeLeader](이)가 나타나 [place_massWeapon](으)로 [deity0_name](을)를 파괴하겠다 위협하더라.</TheistFounder.rules.rulesStrings.5>
+  <TheistFounder.rules.rulesStrings.5>conflict->어느 [foeLeader](이)가 나타나 [place_massWeapon](으)로 [deity0_name](을)를 파괴하겠다 위협하더라.</TheistFounder.rules.rulesStrings.5>
   <!-- EN: conflict->An evil [foeLeader] and [foeLeader_possessive] [foeSoldiers] enslaved the worshippers of [deity0_name]. -->
-  <TheistFounder.rules.rulesStrings.6>conflict->악한 무리의 [foeLeader](이)가 [foeSoldiers](을)를 이끌고 나타나 [deity0_name]의 신자들을 모두 노예로 삼았더라.</TheistFounder.rules.rulesStrings.6>
+  <TheistFounder.rules.rulesStrings.6>conflict->악한 무리의 [foeLeader](이)가 [foeSoldiers](을)를 이끌고 나타나 [deity0_name]의 신자들을 모두 노예로 삼더라.</TheistFounder.rules.rulesStrings.6>
   <!-- EN: conflict->Then the [foeLeader] came. [foeLeader_possessive] [foeSoldiers] killed many worshippers of [deity0_name] with [place_personalWeapon]s. -->
-  <TheistFounder.rules.rulesStrings.7>conflict->곧 [foeLeader](이)가 나타나 [foeSoldiers](으)로 하여금 [deity0_name]의 많은 신자를 [place_personalWeapon](으)로 죽이더라.</TheistFounder.rules.rulesStrings.7>
+  <TheistFounder.rules.rulesStrings.7>conflict->곧 [foeLeader](이)가 나타나 [foeSoldiers](으)로 하여금 [deity0_name]의 많은 신자를 [place_personalWeapon](으)로 죽이게 하더라.</TheistFounder.rules.rulesStrings.7>
   <!-- EN: conflict->A group of [foeSoldiers] arose under a terrible [foeLeader]. They trapped the [memberNamePlural] in a single [place_community]. -->
-  <TheistFounder.rules.rulesStrings.8>conflict->끔찍한 [foeLeader]의 아래에 [foeSoldiers](이)가 모이니 [memberNamePlural](을)를 한 [place_community]에 가둬놓더라.</TheistFounder.rules.rulesStrings.8>
+  <TheistFounder.rules.rulesStrings.8>conflict->끔찍한 [foeLeader]의 아래에 [foeSoldiers](이)가 모이니 [memberName]들을 어느 [place_community]에 가둬놓더라.</TheistFounder.rules.rulesStrings.8>
   <!-- EN: conflict->There was peace, until a [foeLeader] and [foeLeader_possessive] [foeSoldiers] rebelled against [deity0_name]'s dominion. The [memberNamePlural] were forced to flee to a hidden [place_community]. -->
-  <TheistFounder.rules.rulesStrings.9>conflict->[foeLeader](이)가 [foeLeader_possessive] [foeSoldiers](을)를 이끌고 [deity0_name]의 지배에 반기를 들었으니 평화가 깨지매 [memberNamePlural](은)는 숨겨진 [place_community](으)로 몸을 피하게 되었느니라.</TheistFounder.rules.rulesStrings.9>
+  <TheistFounder.rules.rulesStrings.9>conflict->[foeLeader](이)가 [foeLeader_possessive] [foeSoldiers](을)를 이끌고 [deity0_name]의 지배에 반기를 들었으니 평화가 깨지매 [memberName]들(은)는 숨겨진 [place_community](으)로 몸을 피하게 되었니라.</TheistFounder.rules.rulesStrings.9>
   <!-- EN: founderJoin->A hero named [founderName] tried to assassinate the [foeLeader]. [founder_pronoun] failed, but [deity0_name] witnessed [founderName]'s struggle, and anointed [founder_objective] as the prophet of the [memberNamePlural]. -->
-  <TheistFounder.rules.rulesStrings.10>founderJoin->[founderName](이)라는 이름을 가진 자가 [foeLeader](을)를 찾아가 암살을 하려 하되 실패했으니 [deity0_name](이)가 [founderName]의 투쟁을 보고 [memberNamePlural]의 영웅이요 예언자로 삼으시니라.</TheistFounder.rules.rulesStrings.10>
+  <TheistFounder.rules.rulesStrings.10>founderJoin->[founderName](이)라는 이름을 가진 자가 [foeLeader](을)를 찾아가 암살을 하려 하되 실패했으니 [deity0_name]께서 [founderName]의 투쟁을 보고 [memberName]들의 영웅이요 예언자로 삼으시니라.</TheistFounder.rules.rulesStrings.10>
   <!-- EN: founderJoin->[deity0_name] came to the [place_job] [founderName] [revelationAdverb], and spoke to [founder_objective] about [memeConcept]. -->
-  <TheistFounder.rules.rulesStrings.11>founderJoin->어느 [place_job](이)가 있었으니 그 이름이 [founderName]이더라. [deity0_name](이)가 [revelationAdverb] [founder_pronoun]에게 [memeConcept](을)를 가르치셨더라.</TheistFounder.rules.rulesStrings.11>
+  <TheistFounder.rules.rulesStrings.11>founderJoin->어느 [place_job](이)가 있었으니 그 이름이 [founderName]이더라. [deity0_name]께서 [revelationAdverb] [founder_pronoun]에게 [memeConcept](을)를 가르치셨더라.</TheistFounder.rules.rulesStrings.11>
   <!-- EN: founderJoin->[founderName] encountered [revelationObject], which spoke in [deity0_name]'s voice about [memeConcept]. -->
-  <TheistFounder.rules.rulesStrings.12>founderJoin->[founderName](이)가 [revelationObject](을)를 마주치니 [deity0_name]의 목소리로 [memeConcept](을)를 말하더라.</TheistFounder.rules.rulesStrings.12>
+  <TheistFounder.rules.rulesStrings.12>founderJoin->[founderName](이)가 [revelationObject](을)를 마주치니 [deity0_name]의 목소리로 [memeConcept]의 계시를 전달하더라.</TheistFounder.rules.rulesStrings.12>
   <!-- EN: founderJoin->A renowned [place_job] named [founderName] brought the [memberNamePlural] together, and even recruited some of the [foeSoldiers]. -->
-  <TheistFounder.rules.rulesStrings.13>founderJoin->존경 받는 [place_job]의 이름이 [founderName]이었는데 [memberNamePlural](을)를 결집하니 심지어 몇몇 [foeSoldiers]가 따르더라.</TheistFounder.rules.rulesStrings.13>
+  <TheistFounder.rules.rulesStrings.13>founderJoin->[founderName](이)가 존경을 받는 [place_job]이니 [memberName]들을 결집하매 심지어 몇몇 [foeSoldiers]도 따르더라.</TheistFounder.rules.rulesStrings.13>
   <!-- EN: founderJoin->A [place_job] named [founderName] stood up and spoke out against the [foeLeader], and [deity0_name] blessed [founderName]. -->
-  <TheistFounder.rules.rulesStrings.14>founderJoin->[founderName](이)라는 이름의 [place_job](이)가 홀로 일어서 [foeLeader](을)를 꾸짖으니 [deity0_name](이)가 [founderName](을)를 축복하시니라.</TheistFounder.rules.rulesStrings.14>
+  <TheistFounder.rules.rulesStrings.14>founderJoin->[founderName](이)라는 이름의 [place_job](이)가 홀로 일어서 [foeLeader](을)를 꾸짖으니 [deity0_name]께서 [founderName](을)를 축복하시니라.</TheistFounder.rules.rulesStrings.14>
   <!-- EN: founderJoin->[deity0_name] decided to come to [place_name] as a human named [founderName] to help the [memberNamePlural]. -->
-  <TheistFounder.rules.rulesStrings.15>founderJoin->마침내 [deity0_name](이)가 인간의 모습으로 [place_name]에 내려오시어 [founderName]의 이름으로 [memberNamePlural](을)를 도움을 주시더라.</TheistFounder.rules.rulesStrings.15>
+  <TheistFounder.rules.rulesStrings.15>founderJoin->마침내 [deity0_name]께서 인간의 모습으로 [place_name]에 내려오시어 [founderName]의 이름으로 [memberName]들에게 도움을 주시더라.</TheistFounder.rules.rulesStrings.15>
   <!-- EN: founderJoin->One hero named [founderName] killed a hundred of the [foeSoldiers] using a [place_personalWeapon], and [deity0_name] guided [founder_objective] by speaking through the [relic0_name]. -->
-  <TheistFounder.rules.rulesStrings.16>founderJoin->영웅이 나타나 [foeSoldiers](을)를 [place_personalWeapon](으)로 물리치매 [deity0_name](이)가 [relic0_name]의 목소리로서 [founder_pronoun]를 이끄시니 [founderName](이)가 그 이름이더라.</TheistFounder.rules.rulesStrings.16>
+  <TheistFounder.rules.rulesStrings.16>founderJoin->영웅이 나타나 [foeSoldiers](을)를 [place_personalWeapon](으)로 물리치매 [deity0_name]께서 [relic0_name]의 목소리로서 [founder_pronoun]를 이끄시니 [founderName](이)가 영웅의 이름이더라.</TheistFounder.rules.rulesStrings.16>
   <!-- EN: victory->[founderName] gathered the [memberNamePlural] in a [place_community] and taught them of [deity0_name]'s wisdom. -->
-  <TheistFounder.rules.rulesStrings.17>victory->[founderName](이)가 [memberNamePlural](을)를 [place_community](으)로 모아 [deity0_name]의 지혜를 설파하니라.</TheistFounder.rules.rulesStrings.17>
+  <TheistFounder.rules.rulesStrings.17>victory->[founderName](이)가 [memberName]들을 [place_community](으)로 모아 [deity0_name]의 지혜를 설파하니라.</TheistFounder.rules.rulesStrings.17>
   <!-- EN: victory->[founderName] sacrificed [founder_objective]self to personally kill the [foeLeader]. -->
   <TheistFounder.rules.rulesStrings.18>victory->마침내 [founderName](이)가 희생하니 [foeLeader](을)를 찾아볼 수 없더라.</TheistFounder.rules.rulesStrings.18>
   <!-- EN: revelationAdverb->in a vision -->
@@ -259,21 +259,21 @@
   <!-- EN: episode(priority=-1)-> -->
   <TheistMyth.rules.rulesStrings.0>episode(priority=-1)-></TheistMyth.rules.rulesStrings.0>
   <!-- EN: creation->For an eternity, there was a world of [Color] [materialOrigin], until [deity0_name] created the planets and stars. -->
-  <TheistMyth.rules.rulesStrings.1>creation->영겁의 시간 동안 [Color] [materialOrigin]의 세계가 있었으니 [deity0_name](이)가 행성과 별을 창조하시니라.</TheistMyth.rules.rulesStrings.1>
+  <TheistMyth.rules.rulesStrings.1>creation->[Color] [materialOrigin]의 세계가 영겁의 시간 동안 존재했으니 [deity0_name]께서 그 안에서 행성과 별을 창조하시니라.</TheistMyth.rules.rulesStrings.1>
   <!-- EN: creation->In an old universe of strife, [deity0_name] whipped up great fire that swept away the last age, and brought forth a new one. -->
-  <TheistMyth.rules.rulesStrings.2>creation->투쟁으로 가득한 낡은 우주에 [deity0_name](이)가 위대한 불의 채찍을 휘두르시니 마지막 시대가 가고 새로운 시대가 오니라.</TheistMyth.rules.rulesStrings.2>
+  <TheistMyth.rules.rulesStrings.2>creation->투쟁으로 가득한 낡은 우주에서 [deity0_name]께서 위대한 불의 채찍을 휘두르시니 마지막 시대가 가고 새로운 시대가 왔니라.</TheistMyth.rules.rulesStrings.2>
   <!-- EN: creation->[deity0_name] gave birth to humans in a grand accident, and looked upon them with curiosity. -->
-  <TheistMyth.rules.rulesStrings.3>creation->[deity0_name](이)가 장대한 사고로 인간을 낳으시고 그 모습을 내려보시니 참으로 신기하더라.</TheistMyth.rules.rulesStrings.3>
+  <TheistMyth.rules.rulesStrings.3>creation->[deity0_name]께서 장대한 사고로 인간을 낳으시고 그 모습을 내려보시니 참으로 신기하더라.</TheistMyth.rules.rulesStrings.3>
   <!-- EN: creation->The universe was a void. Then, [deity0_name], bored with eternity, fashioned man and woman from [bodilyOrigin]. -->
-  <TheistMyth.rules.rulesStrings.4>creation->태초에 우주가 공허했으니 [deity0_name](이)가 [bodilyOrigin](으)로 남자와 여자를 창조하셨느니라.</TheistMyth.rules.rulesStrings.4>
+  <TheistMyth.rules.rulesStrings.4>creation->태초에 우주가 공허했으니 [deity0_name]께서 [bodilyOrigin](으)로 남자와 여자를 창조하셨느니라.</TheistMyth.rules.rulesStrings.4>
   <!-- EN: episode(uses=1)->Looking upon mankind, [deity0_name] found them as children, and declared [deity0_possessive] dominion over them. -->
-  <TheistMyth.rules.rulesStrings.5>episode(uses=1)->[deity0_name](이)가 보시기에 인류는 아직 아이들인지라 스스로 그 위에 군림하시니라.</TheistMyth.rules.rulesStrings.5>
+  <TheistMyth.rules.rulesStrings.5>episode(uses=1)->[deity0_name]께서 보시기에 인류는 아직 아이들인지라 스스로 그 위에 군림하시니라.</TheistMyth.rules.rulesStrings.5>
   <!-- EN: episode(uses=1)->Across the vast stellar distances, [deity0_name]'s will sustained the life of mankind against the void. -->
   <TheistMyth.rules.rulesStrings.6>episode(uses=1)->거대한 우주 공간에서 인류의 생명을 지켜주시는 것은 오직 [deity0_name]의 의지이니라.</TheistMyth.rules.rulesStrings.6>
   <!-- EN: episode(uses=1)->Though many adventurers moved against [deity0_objective], [deity0_name] prevented them easily, for [deity0_pronoun] was [deity0_type]. -->
-  <TheistMyth.rules.rulesStrings.7>episode(uses=1)->많은 적대자가 [deity0_name]의 뜻에 도전했으나 [deity0_name](이)가 [deity0_type]인지라 모두 물리치셨느니라.</TheistMyth.rules.rulesStrings.7>
+  <TheistMyth.rules.rulesStrings.7>episode(uses=1)->많은 적대자가 [deity0_name]의 뜻에 도전했으나 [deity0_name]께서 [deity0_type]이신지라 모두 물리치셨느니라.</TheistMyth.rules.rulesStrings.7>
   <!-- EN: episode(uses=1)->Humanity's suffering brought [deity0_name] to terrible grief. -->
-  <TheistMyth.rules.rulesStrings.8>episode(uses=1)->인류의 고통으로 말미암아 [deity0_name](이)가 끔찍한 비탄에 빠지셨느니라.</TheistMyth.rules.rulesStrings.8>
+  <TheistMyth.rules.rulesStrings.8>episode(uses=1)->인류의 고통으로 말미암아 [deity0_name]께서 끔찍한 비탄에 빠지시더라.</TheistMyth.rules.rulesStrings.8>
   <!-- EN: materialOrigin->clay -->
   <TheistMyth.rules.rulesStrings.9>materialOrigin->찰흙</TheistMyth.rules.rulesStrings.9>
   <!-- EN: materialOrigin->gas -->

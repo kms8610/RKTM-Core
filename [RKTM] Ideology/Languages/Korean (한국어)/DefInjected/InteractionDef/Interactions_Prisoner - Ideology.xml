@@ -6,18 +6,18 @@
   <!-- EN: r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work for the colony. -->
   <EnslaveAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 이제 [RECIPIENT_pronoun](은)는 정착지를 위해 일해야 한다고 말함.</EnslaveAttempt.logRulesInitiator.rulesStrings.0>
   <!-- EN: r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must obey orders and work. -->
-  <EnslaveAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 [RECIPIENT_pronoun](은)는 명령에 복종하고 일해야 한다고 알려줌.</EnslaveAttempt.logRulesInitiator.rulesStrings.1>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 [RECIPIENT_pronoun](은)는 명령에 복종하고 일해야 한다고 가르침.</EnslaveAttempt.logRulesInitiator.rulesStrings.1>
   <!-- EN: r_logentry->[INITIATOR_nameDef] ordered [RECIPIENT_nameDef] to prepare for a life of forced labour. -->
-  <EnslaveAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 강제 노동이나 하며 일생을 보낼 준비를 하라고 명령함.</EnslaveAttempt.logRulesInitiator.rulesStrings.2>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 강제 노동이나 하며 일생을 보낼 준비를 하라고 선포함.</EnslaveAttempt.logRulesInitiator.rulesStrings.2>
   <!-- EN: r_logentry->[INITIATOR_nameDef] explained to [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work or face punishment. -->
-  <EnslaveAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 [RECIPIENT_pronoun](이)가 일하지 않는다면 처벌 받을 것이라고 설명함.</EnslaveAttempt.logRulesInitiator.rulesStrings.3>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 [RECIPIENT_pronoun]가 일하지 않는다면 처벌 받을 것이라고 협박함.</EnslaveAttempt.logRulesInitiator.rulesStrings.3>
   
   <!-- EN: try to reduce will -->
   <ReduceWill.label>의지 꺾기를 시도함.</ReduceWill.label>
   <!-- EN: r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative]. -->
-  <ReduceWill.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 [RECIPIENT_pronoun][negative] 말함.</ReduceWill.logRulesInitiator.rulesStrings.0>
+  <ReduceWill.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 너는 [negative] 말함.</ReduceWill.logRulesInitiator.rulesStrings.0>
   <!-- EN: r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative]. -->
-  <ReduceWill.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef][negative] 설명해 줌.</ReduceWill.logRulesInitiator.rulesStrings.1>
+  <ReduceWill.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](은)는 [negative] 설명해 줌.</ReduceWill.logRulesInitiator.rulesStrings.1>
   <!-- EN: r_logentry->[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused]. -->
   <ReduceWill.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 [RECIPIENT_pronoun](이)가 [refused] [threat] 위협함.</ReduceWill.logRulesInitiator.rulesStrings.2>
   <!-- EN: r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment]. -->
@@ -27,17 +27,17 @@
   <!-- EN: negative->had no future -->
   <ReduceWill.logRulesInitiator.rulesStrings.5>negative->미래가 없다고</ReduceWill.logRulesInitiator.rulesStrings.5>
   <!-- EN: negative->had no way to escape -->
-  <ReduceWill.logRulesInitiator.rulesStrings.6>negative->도망칠 곳은 없다고</ReduceWill.logRulesInitiator.rulesStrings.6>
+  <ReduceWill.logRulesInitiator.rulesStrings.6>negative->도망칠 곳이 없다고</ReduceWill.logRulesInitiator.rulesStrings.6>
   <!-- EN: negative->had no future outside of the colony -->
-  <ReduceWill.logRulesInitiator.rulesStrings.7>negative->정착지 밖에는 미래가 없다고</ReduceWill.logRulesInitiator.rulesStrings.7>
+  <ReduceWill.logRulesInitiator.rulesStrings.7>negative->이 정착지 밖에서는 미래가 없다고</ReduceWill.logRulesInitiator.rulesStrings.7>
   <!-- EN: negative->didn't have the means to escape -->
   <ReduceWill.logRulesInitiator.rulesStrings.8>negative->탈출 수단이 없다고</ReduceWill.logRulesInitiator.rulesStrings.8>
   <!-- EN: negative->should submit immediately -->
-  <ReduceWill.logRulesInitiator.rulesStrings.9>negative->즉시 복종하라고</ReduceWill.logRulesInitiator.rulesStrings.9>
+  <ReduceWill.logRulesInitiator.rulesStrings.9>negative->즉시 복종해야 한다고</ReduceWill.logRulesInitiator.rulesStrings.9>
   <!-- EN: negative->should forget [RECIPIENT_possessive] aspirations -->
-  <ReduceWill.logRulesInitiator.rulesStrings.10>negative->[RECIPIENT_possessive] 열망을 잊으라고</ReduceWill.logRulesInitiator.rulesStrings.10>
+  <ReduceWill.logRulesInitiator.rulesStrings.10>negative->희망을 포기해야 한다고</ReduceWill.logRulesInitiator.rulesStrings.10>
   <!-- EN: negative->should submit to the colony -->
-  <ReduceWill.logRulesInitiator.rulesStrings.11>negative->정착지에 복종하라고</ReduceWill.logRulesInitiator.rulesStrings.11>
+  <ReduceWill.logRulesInitiator.rulesStrings.11>negative->이 정착지에 복종하라고</ReduceWill.logRulesInitiator.rulesStrings.11>
   <!-- EN: threat->torture -->
   <ReduceWill.logRulesInitiator.rulesStrings.12>threat->고문하겠다고</ReduceWill.logRulesInitiator.rulesStrings.12>
   <!-- EN: threat->punishment -->

@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: victory with despised weapon -->
-  <KillWithDespisedWeapon.label>멸시받는 무기로 승리</KillWithDespisedWeapon.label>
+  <KillWithDespisedWeapon.label>천박한 무기로 승리함</KillWithDespisedWeapon.label>
   
   <!-- EN: victory with noble weapon -->
-  <KillWithNobleWeapon.label>고귀한 무기로 승리</KillWithNobleWeapon.label>
+  <KillWithNobleWeapon.label>고결한 무기로 승리함</KillWithNobleWeapon.label>
   
   <!-- EN: used despised weapon -->
-  <UsedDespisedWeapon.label>멸시받는 무기 사용</UsedDespisedWeapon.label>
+  <UsedDespisedWeapon.label>천박한 무기를 사용함</UsedDespisedWeapon.label>
   
   <!-- EN: used noble weapon -->
-  <UsedNobleWeapon.label>used noble weapon</UsedNobleWeapon.label>
+  <UsedNobleWeapon.label>고결한 무기를 사용함</UsedNobleWeapon.label>
   
 </LanguageData>

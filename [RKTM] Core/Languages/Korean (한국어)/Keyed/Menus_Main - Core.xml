@@ -459,11 +459,11 @@
   <Difficulty_FixedWealthTimeFactor_Info>재산 독립모드가 최대 위협 수준에 도달할 때까지의 게임 연수입니다.\n\n이야기꾼은 정착민 수와 기타 요인에 따라 위협 규모를 계속 확장합니다.</Difficulty_FixedWealthTimeFactor_Info>
 
   <!-- EN: Ideology -->
-  <DifficultyIdeologySection>이데올로기</DifficultyIdeologySection>
+  <DifficultyIdeologySection>이념</DifficultyIdeologySection>
   <!-- EN: Low pop conversion boost -->
-  <Difficulty_LowPopConversionBoost_Label>Low pop conversion boost</Difficulty_LowPopConversionBoost_Label>
+  <Difficulty_LowPopConversionBoost_Label>낮은 정착민 수에 대한 교화 위력 증가</Difficulty_LowPopConversionBoost_Label>
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
-  <Difficulty_LowPopConversionBoost_Info>With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect.</Difficulty_LowPopConversionBoost_Info>
+  <Difficulty_LowPopConversionBoost_Info>정착지에 플레이어가 처음 선택한 사상을 믿는 정착민이 한 명이면 다른 사상을 교화시킬 확률에 이 수를 곱합니다. 반대로 그 정착민에 대한 교화 시도에는 확률을 이 수로 나눕니다.\n\n처음 선택한 사상을 믿는 정착민이 두 명이면 효과가 절반으로 줄어듭니다.\n\n처음 선택한 사상을 믿는 정착민이 세 명 이상일 경우 아무런 효과도 없습니다.</Difficulty_LowPopConversionBoost_Info>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->

@@ -11,29 +11,29 @@
   <!-- EN: berserk trance -->
   <BerserkTrance.label>광적인 폭주</BerserkTrance.label>
   <!-- EN: The caster fills himself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
-  <BerserkTrance.description>사용자가 사상의 고충으로 인한 분노로 가득찹니다. 신체는 일반적인 한계를 뛰어넘게 되겠지만, 자제력을 잃고 멈추지 않는 분노 속에서 모든 적들을 닥치는대로 찢어발길 것입니다. 이 상태는 3시간동안 지속됩니다.</BerserkTrance.description>
+  <BerserkTrance.description>사용자의 내면이 분노로 가득찹니다. 멈추지 않는 분노 속에서 신체가 한계를 뛰어넘게 되지만, 자제력을 잃고 모든 적들을 닥치는 대로 공격하려 들 것입니다. 이 상태는 3시간 동안 지속됩니다.</BerserkTrance.description>
   
   <!-- EN: combat command -->
-  <CombatCommand.label>전투 명령</CombatCommand.label>
+  <CombatCommand.label>전투 지휘</CombatCommand.label>
   <!-- EN: Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration. -->
   <CombatCommand.description>주위 모든 아군의 전투 기술을 높여주는 영향력을 발산합니다. 이 효과는 24시간 동안 지도자를 중심으로 지속하며, 영향 범위에서 멀어지면 효과가 사라집니다.</CombatCommand.description>
   
   <!-- EN: conversion ritual -->
   <ConversionRitual.label>교화의식</ConversionRitual.label>
   <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
-  <ConversionRitual.description>다른 이에게 당신의 사상을 받아들이도록 설득해 보세요. 잘 진행된다면, 그들은 자신들의 사상에 대한 믿음을 잃게 될 것이고, 전향할지도 모릅니다. 만약 역효과를 낸다면, 그들은 그들의 오래된 믿음에 확신을 얻게 될 것입니다.\n\n특정 장소에서 이 의식을 시작하려면 의식 장소 또는 일치하는 제단, 혹은 이데오그램을 선택하세요.</ConversionRitual.description>
+  <ConversionRitual.description>다른 이에게 당신의 사상을 받아들이도록 설득해 보세요. 잘 진행된다면, 그들은 자신들의 사상에 대한 믿음을 잃게 될 것이고, 전향할지도 모릅니다. 만약 역효과를 낸다면, 그들은 그들의 오래된 믿음에 확신을 얻게 될 것입니다.\n\n특정 장소에서 이 의식을 시작하려면 의식 장소 또는 일치하는 제단, 혹은 상징문양을 선택하세요.</ConversionRitual.description>
   
   <!-- EN: convert -->
   <Convert.label>교화</Convert.label>
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
   <Convert.description>대상을 전도사의 사상으로 교화하도록 시도합니다. 대상의 사상에 대한 믿음을 감소시킵니다. 믿음의 감소는 전도사의 협상 능력에 따릅니다.</Convert.description>
   <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(을)를 개종시키는 데 실패하였습니다. {RECIPIENT_labelShort}(은)는 그러한 시도에 분노하였지만, {RECIPIENT_possessive} 믿음은 {CERTAINTYBEFORE}에서 {CERTAINTYAFTER}(으)로 감소하였습니다.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort} 교화에 실패했습니다. {RECIPIENT_labelShort}(은)는 분노했지만, {RECIPIENT_possessive} 믿음은 {CERTAINTYBEFORE}에서 {CERTAINTYAFTER}(으)로 감소했습니다.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
   <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(을)를 {IDEO}(으)로 교화시켰습니다.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   
   <!-- EN: Counsel -->
-  <Counsel.label>상담</Counsel.label>
+  <Counsel.label>심리 상담</Counsel.label>
   <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
   <Counsel.description>대상자와 상담을 통해 나쁜 기억을 제거합니다. 성공 확률은 상담사의 사교 기술과 상담자와의 사회적 관계에 영향을 받습니다.</Counsel.description>
   <!-- EN: {INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset. -->
@@ -59,7 +59,7 @@
   <LeaderSpeech.description>지도자가 연설을 시작합니다. 연설이 잘 진행된다면 청자들은 기분이 향상되고, 지도자에 대한 존경심을 가지며, 때때로 영감을 얻게 됩니다. 그러나 반대로 연설이 끔찍하다고 느낀다면 사교적 손해를 입게 될 것입니다.</LeaderSpeech.description>
   
   <!-- EN: marksman command -->
-  <MarksmanCommand.label>명사수의 지휘</MarksmanCommand.label>
+  <MarksmanCommand.label>사수 감독</MarksmanCommand.label>
   <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <MarksmanCommand.description>주위 모든 아군의 사격 기술을 높여주는 영향력을 발산합니다. 이 효과는 24시간 동안 지도자를 중심으로 지속하며, 영향 범위에서 멀어지면 효과가 사라집니다.</MarksmanCommand.description>
   
@@ -69,9 +69,9 @@
   <MiningCommand.description>주위 모든 아군에게 채굴 기술에 대한 적절한 조언을 통해 채굴 능력을 증가시킵니다. 이 효과는 24시간 동안 지도자를 중심으로 지속하며, 영향 범위에서 멀어지면 효과가 사라집니다.</MiningCommand.description>
   
   <!-- EN: preach health -->
-  <PreachHealth.label>건강 관리</PreachHealth.label>
+  <PreachHealth.label>건강 상담</PreachHealth.label>
   <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
-  <PreachHealth.description>당신이 가진 사상의 관념을 통해 환자에게 가르침을 전파하세요. 이 행위는 그들의 상처 재생력과 면역 획득 속도를 증가시켜 줄 것입니다.</PreachHealth.description>
+  <PreachHealth.description>대상의 생존 의지를 자극하여 상처 재생 능력과 면역 획득 속도를 증가시킵니다.</PreachHealth.description>
   
   <!-- EN: production command -->
   <ProductionCommand.label>생산 감독</ProductionCommand.label>
@@ -79,7 +79,7 @@
   <ProductionCommand.description>주위 모든 아군에게 생산 기술에 대한 적절한 조언을 통해 건축 및 제작 능력을 증가시킵니다. 이 효과는 24시간 동안 지도자를 중심으로 지속하며, 영향 범위에서 멀어지면 효과가 사라집니다.</ProductionCommand.description>
   
   <!-- EN: reassure -->
-  <Reassure.label>사상교육</Reassure.label>
+  <Reassure.label>사상 교육</Reassure.label>
   <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
   <Reassure.description>대상자의 사상에 대한 믿음을 강화합니다. 회복되는 믿음의 수치는 전도사의 협상 능력에 따릅니다.</Reassure.description>
   <!-- EN: {INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}. -->

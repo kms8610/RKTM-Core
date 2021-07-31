@@ -21,7 +21,7 @@
   <!-- EN: r_logentry->[INITIATOR_nameDef] warned [RECIPIENT_nameDef] that disobedience would be punished. -->
   <Suppress.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 복종하지 않으면 처벌 받을 것이라고 위협함.</Suppress.logRulesInitiator.rulesStrings.1>
   <!-- EN: r_logentry->[INITIATOR_nameDef] cautioned [RECIPIENT_nameDef] against infractions of any kind. -->
-  <Suppress.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]이(가) [RECIPIENT_nameDef]에게 어떤 종류의 위반도 저지르지 말라고 경고함.</Suppress.logRulesInitiator.rulesStrings.2>
+  <Suppress.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 어떤 종류의 위반도 저지르지 말라고 경고함.</Suppress.logRulesInitiator.rulesStrings.2>
   <!-- EN: r_logentry->[INITIATOR_nameDef] suggested that [RECIPIENT_nameDef] follow orders and not ask questions. -->
   <Suppress.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 명령은 따르되 질문은 삼가는 것이 좋다고 제안함.</Suppress.logRulesInitiator.rulesStrings.3>
   

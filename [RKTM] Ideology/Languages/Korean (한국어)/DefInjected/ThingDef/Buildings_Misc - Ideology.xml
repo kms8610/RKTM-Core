@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: autobong -->
-  <Autobong.label>자동연통</Autobong.label>
+  <Autobong.label>연통 기계</Autobong.label>
   <!-- EN: An automatic smokeleaf-burning device which generates a smoke cloud around itself. Anyone in the cloud will become high on smokeleaf over time. -->
-  <Autobong.description>주위에 증기 구름을 생성하는 자동 연초 연소 기계입니다. 구름 속의 사람들은 서서히 연초에 취할 것입니다.</Autobong.description>
+  <Autobong.description>주위에 증기 구름을 생성하는 자동 연초 연소 기계입니다. 연초의 구름 속에서 사람들은 서서히 취해 갈 것입니다.</Autobong.description>
   
   <!-- EN: drum -->
   <Drum.label>북</Drum.label>
@@ -12,19 +12,19 @@
   <Drum.description>부족의 의식이나 파티의 음악을 담당하기 위해 사용되는 커다란 나무 북입니다.</Drum.description>
   
   <!-- EN: dryad cocoon -->
-  <DryadCocoon.label>숲지기 고치</DryadCocoon.label>
+  <DryadCocoon.label>나무지기 고치</DryadCocoon.label>
   <!-- EN: A sphere of fibrous plant matter. A dryad inside is slowly morphing into a new form. Gauranlen trees grow these spheres to help protect the dryads as they morph. -->
-  <DryadCocoon.description>변이 중인 숲지기를 지키기 위하여 요정 나무가 만들어내는 섬유질의 구체. 안에서는 숲지기 한 마리가 새로운 형태로 서서히 성장하고 있습니다.</DryadCocoon.description>
+  <DryadCocoon.description>변이 중인 나무지기를 지키기 위하여 요정 나무가 만들어내는 섬유질의 구체. 안에서는 나무지기 한 마리가 새로운 형태로 서서히 성장하고 있습니다.</DryadCocoon.description>
   
   <!-- EN: gaumaker pod -->
-  <GaumakerCocoon.label>가우메이커 고치</GaumakerCocoon.label>
+  <GaumakerCocoon.label>요정단지 고치</GaumakerCocoon.label>
   <!-- EN: The result of the merging of several Gaumaker dryads, this symbiotic plant/animal pod is an essential part of the Gauranlen life cycle. After some time, it will flower into a mature Gauranlen pod which can be harvested to plant a new Gauranlen tree. -->
-  <GaumakerCocoon.description>몇몇 Gaumaker 숲지기들의 합류로, 이 공생 식물/동물 꼬투리는 요정들의 생애 주기에서 필수적인 부분입니다. 시간이 지나면, 새로운 요정나무를 심을 수 있는 성숙한 요정 꼬투리로 꽃핍니다.</GaumakerCocoon.description>
+  <GaumakerCocoon.description>여러 요정단지 나무지기의 융합체. 이 고치는 요정들의 생명 주기에서 가장 중요한 부분입니다. 시간이 지나면 이곳에 돋아난 요정 열매를 수확하여 새로운 요정나무를 키워낼 수 있을 겁니다.</GaumakerCocoon.description>
   
   <!-- EN: gibbet cage -->
-  <GibbetCage.label>시체 철장</GibbetCage.label>
+  <GibbetCage.label>시체 우리</GibbetCage.label>
   <!-- EN: A steel cage for holding and displaying corpses. This horrifying sight inspires terror and disgust in observers. It is an especially brutal and effective way to terrorize slaves. -->
-  <GibbetCage.description>시체를 넣어두거나 전시하는 강철로 만든 우리입니다. 이 끔찍한 광격은 보는 이들로 하여금 공포와 혐오감을 불러일으킵니다. 노예들에게 공포를 심어주기에 특히 강력하고 효과적입니다.</GibbetCage.description>
+  <GibbetCage.description>시체를 넣어두거나 전시하기 위해 만든 철제 우리입니다. 이 끔찍한 물건은 보는 이들로 하여금 공포와 혐오감을 불러일으킵니다. 노예들에게 공포를 심어주기에 특히 강력하고 효과적입니다.</GibbetCage.description>
   
   <!-- EN: kneel pillow -->
   <KneelPillow.label>방석</KneelPillow.label>
@@ -37,9 +37,9 @@
   <KneelSheet.description>신자들이 기도할 때나 대화할 때 무릎을 편히 받쳐줍니다.</KneelSheet.description>
   
   <!-- EN: lectern -->
-  <Lectern.label>독서대</Lectern.label>
+  <Lectern.label>단상</Lectern.label>
   <!-- EN: A slanted platform that holds a text in front of a speaker. Place it near the focus of rituals and speeches to extend the duration of their positive effects. -->
-  <Lectern.description>연설가의 앞에 읽을 문서를 세워줄 기울어진 단상입니다. 의식이나 연설의 중심지에 배치하여 긍정적 효과의 지속시간을 늘릴 수 있습니다.</Lectern.description>
+  <Lectern.description>연설문을 놓을 기울어진 단상입니다. 의식이나 행사가 진행되는 곳의 중심에 배치하여 긍정적 효과의 지속시간을 늘릴 수 있습니다.</Lectern.description>
   
   <!-- EN: lightball -->
   <LightBall.label>미러볼</LightBall.label>
@@ -54,17 +54,17 @@
   <!-- EN: pew -->
   <Pew.label>벤치 의자</Pew.label>
   <!-- EN: A long bench where ritual participants can sit while listening to a speaker. Place it facing rituals and speeches to extend the duration of their positive effects. -->
-  <Pew.description>의식의 참가자들이 앉을 수 있는 긴 벤치입니다. 긍정적 효과를 얻기 위해서는 의식이 진행되는 곳 또는 주최자를 바라보도록 설치해야 합니다.</Pew.description>
+  <Pew.description>의식 참여자들이 앉을 수 있는 긴 벤치입니다. 긍정적 효과를 얻기 위해서는 의식이 진행되는 곳 또는 주최자를 바라보도록 설치해야 합니다.</Pew.description>
   
   <!-- EN: bonsai pot -->
   <PlantPot_Bonsai.label>분재 화분</PlantPot_Bonsai.label>
   <!-- EN: This special pot is suitable for planting bonsai trees, which can improve the mood of people nearby and satisfy ideoligious requirements. -->
-  <PlantPot_Bonsai.description>분재목을 심기에 적절한 화분입니다. 주변 사람들의 기분을 환기해주고 몇몇 이데올로기 요구 조건을 충족시켜줍니다.</PlantPot_Bonsai.description>
+  <PlantPot_Bonsai.description>분재목을 심기에 적절한 화분입니다. 주변 사람들의 기분을 환기해주고 일부 사상의 요구 조건을 충족시킵니다.</PlantPot_Bonsai.description>
   
   <!-- EN: reliquary -->
-  <Reliquary.label>성유물함</Reliquary.label>
+  <Reliquary.label>성물함</Reliquary.label>
   <!-- EN: A ceremonial building that protects and displays a relic. Relics are ancient objects venerated by believers of a specific ideoligion. -->
-  <Reliquary.description>유물을 보호하고 전시하는 예식 건축물입니다. 유물은 특정 사상의 추종자들이 성스럽게 여기는 고대의 물품입니다.</Reliquary.description>
+  <Reliquary.description>성스러운 유물을 거치하고 전시하는 의식 건축물입니다.</Reliquary.description>
   
   <!-- EN: skullspike -->
   <Skullspike.label>효수대</Skullspike.label>

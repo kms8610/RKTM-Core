@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: change dryad types -->
-  <ChangeTreeMode.label>change dryad types</ChangeTreeMode.label>
+  <ChangeTreeMode.label>나무지기 계급 변경</ChangeTreeMode.label>
   <!-- EN: changing dryad caste for -->
-  <ChangeTreeMode.gerund>changing dryad caste for</ChangeTreeMode.gerund>
+  <ChangeTreeMode.gerund>나무지기 계급 변경 중:</ChangeTreeMode.gerund>
   <!-- EN: change dryad caste for -->
-  <ChangeTreeMode.verb>change dryad caste for</ChangeTreeMode.verb>
+  <ChangeTreeMode.verb>나무지기 계급 변경:</ChangeTreeMode.verb>
   
   <!-- EN: convert prisoners -->
   <ConvertPrisoner.label>수감자 교화</ConvertPrisoner.label>
   <!-- EN: converting -->
-  <ConvertPrisoner.gerund>교화중</ConvertPrisoner.gerund>
+  <ConvertPrisoner.gerund>설득 중</ConvertPrisoner.gerund>
   <!-- EN: convert -->
   <ConvertPrisoner.verb>교화</ConvertPrisoner.verb>
   
@@ -44,16 +44,16 @@
   <ExtractSkull.verb>추출</ExtractSkull.verb>
   
   <!-- EN: carry to biosculpter pod -->
-  <HaulToBiosculpterPod.label>carry to biosculpter pod</HaulToBiosculpterPod.label>
+  <HaulToBiosculpterPod.label>생체 재구축기로 옮기는 중.</HaulToBiosculpterPod.label>
   <!-- EN: filling -->
-  <HaulToBiosculpterPod.gerund>재료 넣는중</HaulToBiosculpterPod.gerund>
+  <HaulToBiosculpterPod.gerund>에 양분 채우기</HaulToBiosculpterPod.gerund>
   <!-- EN: fill -->
-  <HaulToBiosculpterPod.verb>재료 넣기</HaulToBiosculpterPod.verb>
+  <HaulToBiosculpterPod.verb>양분 채우기</HaulToBiosculpterPod.verb>
   
   <!-- EN: imprison slaves -->
   <ImprisonSlave.label>노예 감금</ImprisonSlave.label>
   <!-- EN: imprisoning -->
-  <ImprisonSlave.gerund>감금중</ImprisonSlave.gerund>
+  <ImprisonSlave.gerund>감금</ImprisonSlave.gerund>
   <!-- EN: imprison -->
   <ImprisonSlave.verb>감금</ImprisonSlave.verb>
   
@@ -72,10 +72,10 @@
   <PruneGauranlenTree.verb>가지치기</PruneGauranlenTree.verb>
   
   <!-- EN: suppress slaves -->
-  <SuppressSlave.label>노예 억압</SuppressSlave.label>
+  <SuppressSlave.label>노예 복종시키기</SuppressSlave.label>
   <!-- EN: suppressing -->
-  <SuppressSlave.gerund>억압중</SuppressSlave.gerund>
+  <SuppressSlave.gerund>복종시키는 중</SuppressSlave.gerund>
   <!-- EN: suppress -->
-  <SuppressSlave.verb>억압</SuppressSlave.verb>
+  <SuppressSlave.verb>복종시키기</SuppressSlave.verb>
   
 </LanguageData>

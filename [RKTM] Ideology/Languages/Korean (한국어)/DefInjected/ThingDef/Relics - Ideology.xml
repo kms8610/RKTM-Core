@@ -12,14 +12,14 @@
   <RelicInertBox.description>종교적 상징물입니다.</RelicInertBox.description>
   
   <!-- EN: cube -->
-  <RelicInertCube.label>정육면체</RelicInertCube.label>
+  <RelicInertCube.label>큐브</RelicInertCube.label>
   <!-- EN: An object with ideoligious significance. -->
   <RelicInertCube.description>종교적 상징물입니다.</RelicInertCube.description>
   
   <!-- EN: chalice -->
   <RelicInertCup.label>성배</RelicInertCup.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertCup.description>사상적인 상징성을 지닌 물건입니다.</RelicInertCup.description>
+  <RelicInertCup.description>종교적 상징물입니다.</RelicInertCup.description>
   
   <!-- EN: fragment -->
   <RelicInertFragment.label>파편</RelicInertFragment.label>

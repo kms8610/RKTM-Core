@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: central -->
-  <Ranching_Central.label>central</Ranching_Central.label>
+  <Ranching_Central.label>집중됨</Ranching_Central.label>
   <!-- EN: We must raise and consume many large animals, and we must not eat plants. -->
-  <Ranching_Central.description>우리는 많은 대형 동물들을 길러 잡아먹어야 한다. 풀은 동물 사료로나 줘라.</Ranching_Central.description>
+  <Ranching_Central.description>우리는 커다란 동물들을 키우고 먹어야 한다. 풀 따위는 동물 사료로나 써라.</Ranching_Central.description>
   <!-- EN: No animals -->
-  <Ranching_Central.comps.0.thoughtStageDescriptions.0>No animals</Ranching_Central.comps.0.thoughtStageDescriptions.0>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.0>동물 없음</Ranching_Central.comps.0.thoughtStageDescriptions.0>
   <!-- EN: Scarce animals {STAGE1} -->
   <Ranching_Central.comps.0.thoughtStageDescriptions.1>동물이 부족함 {STAGE1}</Ranching_Central.comps.0.thoughtStageDescriptions.1>
   <!-- EN: Few animals {STAGE2} -->
-  <Ranching_Central.comps.0.thoughtStageDescriptions.2>적은 동물 {STAGE2}</Ranching_Central.comps.0.thoughtStageDescriptions.2>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.2>적은 동물들 {STAGE2}</Ranching_Central.comps.0.thoughtStageDescriptions.2>
   <!-- EN: Some animals {STAGE4} -->
   <Ranching_Central.comps.0.thoughtStageDescriptions.3>몇몇의 동물들 {STAGE4}</Ranching_Central.comps.0.thoughtStageDescriptions.3>
   <!-- EN: Lots of animals {STAGE5} -->

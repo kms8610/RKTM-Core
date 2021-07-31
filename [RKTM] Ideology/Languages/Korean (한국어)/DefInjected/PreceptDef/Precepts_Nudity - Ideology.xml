@@ -12,7 +12,7 @@
   <Nudity_Female_Mandatory.description>여자는 항상 벌거벗어야 한다. 보호막 벨트나 점프 팩 같은 다용도구는 허용한다.</Nudity_Female_Mandatory.description>
   
   <!-- EN: no rules -->
-  <Nudity_Female_NoRules.label>자유롭게</Nudity_Female_NoRules.label>
+  <Nudity_Female_NoRules.label>자유로움</Nudity_Female_NoRules.label>
   <!-- EN: A woman may display or cover any part of her body. -->
   <Nudity_Female_NoRules.description>여자는 어떤 신체 부위건 노출하거나 가릴 수 있다.</Nudity_Female_NoRules.description>
   
@@ -47,7 +47,7 @@
   <Nudity_Male_Mandatory.description>남자는 항상 벌거벗어야 한다. 보호막 벨트나 점프 팩 같은 다용도구는 허용한다.</Nudity_Male_Mandatory.description>
   
   <!-- EN: no rules -->
-  <Nudity_Male_NoRules.label>자유롭게</Nudity_Male_NoRules.label>
+  <Nudity_Male_NoRules.label>자유로움</Nudity_Male_NoRules.label>
   <!-- EN: A man may display or cover any part of his body. -->
   <Nudity_Male_NoRules.description>남자는 어떤 신체 부위건 노출하거나 가릴 수 있다.</Nudity_Male_NoRules.description>
   

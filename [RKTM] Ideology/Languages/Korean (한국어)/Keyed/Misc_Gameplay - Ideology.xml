@@ -1,24 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: Choose your faction's ideoligion -->
-  <ChooseIdeoligion>정착지의 사상 선택</ChooseIdeoligion>
+  <!-- EN: Customize ideoligion -->
+  <CustomizeIdeoligion>사상 생성</CustomizeIdeoligion> <!-- text_todo -->
+  <!-- EN: Choose your ideoligion -->
+  <ChooseYourIdeoligion>사상 선택</ChooseYourIdeoligion>
+  <!-- EN: Random -->
+  <Random>무작위</Random>
+  <!-- EN: A random structure will be used for your ideoligion. -->
+  <RandomStructureTip>사상의 구조를 무작위로 선택합니다.</RandomStructureTip> <!-- text_todo -->
+  <!-- EN: A random style will be used for your ideoligion. -->
+  <RandomStyleTip>사상의 양식을 무작위로 선택합니다.</RandomStyleTip> <!-- text_todo -->
+  <!-- EN: Customize -->
+  <Customize>만들기</Customize>
+  <!-- EN: Play classic -->
+  <PlayClassic>플레이</PlayClassic>
+  <!-- EN: Load saved -->
+  <LoadSaved>불러오기</LoadSaved>
+  <!-- EN: Structure -->
+  <Structure>구조</Structure>
+  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs. -->
+  <ChooseYourIdeoligionDesc>시작 정착민이 어떤 것을 믿나요? 사상은 게임 플레이와 시각 효과를 바꿀 수 있습니다. 다른 이들이 당신의 사상을 믿도록 교화할 수도 있고, 당신이 다른 사상으로 전향할 수도 있습니다.</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
   <CreateCustom>새로 생성</CreateCustom>
   <!-- EN: Create new -->
   <CreateNew>새로 생성</CreateNew>
   <!-- EN: Load existing -->
-  <LoadExisting>Load existing</LoadExisting>
+  <LoadExisting>기존 저장 불러오기</LoadExisting>
   <!-- EN: Create custom ideoligion -->
   <CreateCustomIdeoligion>새로운 사상 만들기</CreateCustomIdeoligion>
   <!-- EN: Load saved ideoligion -->
-  <LoadExistingIdeoligion>Load saved ideoligion</LoadExistingIdeoligion>
+  <LoadExistingIdeoligion>저장한 사상 불러오기</LoadExistingIdeoligion>
   <!-- EN: Select an ideoligion for your faction on the left, or -->
   <SelectAnIdeo>왼쪽에서 기존 사상을 선택하세요. 또는</SelectAnIdeo>
   <!-- EN: ideoligion -->
   <Ideo>사상</Ideo> 
   <!-- EN: Randomize all -->
-  <RandomizeAll>모두 무작위로</RandomizeAll>
+  <RandomizeAll>무작위 사상</RandomizeAll>
   <!-- EN: Appearance -->
   <Appearance>외형</Appearance>
   <!-- EN: Done -->
@@ -28,9 +46,9 @@
   <!-- EN: Belief in -->
   <BeliefInIdeo>사상</BeliefInIdeo>
   <!-- EN: Information about {0} -->
-  <Reward_RelicInfo>{0}에 대한 정보</Reward_RelicInfo>
+  <Reward_RelicInfo>{0}에 관한 정보</Reward_RelicInfo>
   <!-- EN: Info about {0} -->
-  <Reward_RelicInfoLabel>{0}에 대한 정보</Reward_RelicInfoLabel>
+  <Reward_RelicInfoLabel>{0}에 관한 정보</Reward_RelicInfoLabel>
   <!-- EN: Relic of {IDEO_name} -->
   <RelicOf>{IDEO_name}의 유물</RelicOf>
   <!-- EN: altar -->
@@ -66,35 +84,52 @@
   <!-- EN: Required precepts -->
   <RequiredPrecepts>필요한 규율</RequiredPrecepts>
   <!-- EN: Required rituals -->
-  <RequiredRituals>필요한 의식</RequiredRituals>
+  <RequiredRituals>행사 진행 요소</RequiredRituals>
   <!-- EN: Disables precepts -->
   <DisablesPrecepts>규율 비활성화</DisablesPrecepts>
   <!-- EN: Disables {0} precepts. -->
   <DisablesPreceptsCount>{0} 규율을 비활성화합니다.</DisablesPreceptsCount>
   <!-- EN: Styles -->
-  <Styles>스타일</Styles>
+  <Styles>양식</Styles>
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>규율을 포함할 가능성</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort}(이)가 좋아하는 색입니다. 입은 옷의 {PERCENTAGE} 이상을 이 색이나 {PAWN_pronoun}가 가진 사상의 색으로 맞추면 기분이 약간 좋아질 것입니다.\n\n화장대에서 틴토리아 염료를 사용해 옷의 색을 바꿀 수 있습니다.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>{PAWN_labelShort}(이)가 좋아하는 색입니다. 입은 옷의 {PERCENTAGE} 이상을 이 색이나 {PAWN_pronoun}가 가진 사상의 상징색으로 맞추면 기분이 약간 좋아질 것입니다.\n\n화장대에서 틴토리아 염료를 사용해 옷의 색을 바꿀 수 있습니다.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>사상 색 설정</SetIdeoColor>
-  <!-- EN: Set favorite color -->
+  <!-- EN: Set to favorite color -->
   <SetFavoriteColor>좋아하는 색 설정</SetFavoriteColor>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>정착지의 사상 설정</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
   <NotEnoughDye>염료가 부족합니다.</NotEnoughDye>
+  <!-- EN: {PAWN_nameDef} is unwilling to recolor {PAWN_possessive} {APPAREL_labelShort}. -->
+  <ApparelLockedCannotRecolor>{PAWN_nameDef}(은)는 {APPAREL_labelShort}(을)를 염색하기 싫어합니다.</ApparelLockedCannotRecolor>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
-  <NotEnoughDyeWillRecolorApparel>염료를 쓸 수 있게 되면 의복을 염색할 것입니다.</NotEnoughDyeWillRecolorApparel>
+  <NotEnoughDyeWillRecolorApparel>염료를 쓸 수 있는 경우 의복을 염색할 것입니다.</NotEnoughDyeWillRecolorApparel>
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
-  <NotEnoughDyeWillRecolorHair>염료를 쓸 수 있게 되면 머리카락을 염색할 것입니다.</NotEnoughDyeWillRecolorHair>
+  <NotEnoughDyeWillRecolorHair>염료를 쓸 수 있는 경우 머리카락을 염색할 것입니다.</NotEnoughDyeWillRecolorHair>
   <!-- EN: {PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE} -->
   <IdeoCertaintyTooltip>{PAWN_labelShort}(이)가 {IDEO}에 갖는 확신: {PERCENTAGE}</IdeoCertaintyTooltip>
   <!-- EN: Disabled by precept {0} -->
   <DisabledByPrecept>{0} 규율로 인해 비활성화</DisabledByPrecept>
   <!-- EN: Everyone -->
   <Everyone>모두</Everyone>
+  <!-- EN: Narrative -->
+  <Narrative>구절</Narrative>
+  <!-- EN: narrative -->
+  <NarrativeLower>구절</NarrativeLower>
+  <!-- EN: Precept name -->
+  <PreceptName>규율 이름</PreceptName>
+  <!-- EN: precept name -->
+  <PreceptNameLower>규율 이름</PreceptNameLower>
+  <!-- EN: Changing -->
+  <Changing>변경:</Changing>
+  <!-- EN: structures -->
+  <StructuresLower>구조</StructuresLower>
+  <!-- EN: memes -->
+  <MemesLower>가르침</MemesLower>
+  
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
   <RitualTargetGraveInfo>{PAWN_labelShort}의 시체가 묻힌 묘지</RitualTargetGraveInfo>
@@ -109,9 +144,9 @@
   <!-- EN: Any gathering spot, like a table -->
   <RitualTargetGatherSpotInfo>식탁 등 모임 장소</RitualTargetGatherSpotInfo>
   <!-- EN: Altar or any ritual spot. -->
-  <RitualTargetGatherAltarOrRitualSpotInfo>제단 또는 임의의 의식 장소</RitualTargetGatherAltarOrRitualSpotInfo>
+  <RitualTargetGatherAltarOrRitualSpotInfo>제단 또는 임의의 의식 장소.</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: A lightball or ritual spot. Lightball and loudspeakers must be powered. -->
-  <RitualTargetLightBallInfo>미러볼 또는 의식 장소. 미러볼과 대형 스피커에 전력이 들어와야 합니다.</RitualTargetLightBallInfo>
+  <RitualTargetLightBallInfo>미러볼 또는 의식 장소. 미러볼과 대형 스피커는 전력이 필요합니다.</RitualTargetLightBallInfo>
   <!-- EN: Lightball is not powered. -->
   <RitualTargetLightBallIsNotPowered>미러볼에 전력이 공급되지 않습니다.</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
@@ -127,36 +162,38 @@
   <!-- EN: A lit campfire or ritual spot. -->
   <RitualTargetCampfirePartyInfo>불이 붙은 모닥불 또는 의식 장소.</RitualTargetCampfirePartyInfo>
   <!-- EN: A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area. -->
-  <RitualTargetCampfireSkylanternsInfo>불이 붙은 모닥불 또는 의식 장소. 의식 지점을 포함한 25칸이 지붕으로 덮이지 않은 곳이 필요합니다.</RitualTargetCampfireSkylanternsInfo>
+  <RitualTargetCampfireSkylanternsInfo>불이 붙은 모닥불 또는 의식 장소. 행사 지점 주변 25칸은 지붕으로 덮여있지 않아야 합니다.</RitualTargetCampfireSkylanternsInfo>
   <!-- EN: An unconnected Gauranlen tree. -->
-  <RitualTargetUnconnectedGaruanlenTreeInfo>교감하지 않은 요정나무</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <RitualTargetUnconnectedGaruanlenTreeInfo>교감되지 않은 요정나무</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>이미 {PAWN_nameDef}(와)과 교감함</RitualTargetConnectedGauranlenTree>
+  <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
+  <RitualTargetConnectionTornGauranlenTree>{TREE_definite}(은)는 최근에 교감이 끊겼습니다. {1}(와)과 다시 교감할 수 있습니다.</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>각 참여자마다 {0}개의 목재가 필요합니다(총 {2}명). 보유 중인 목재는 {1}개입니다.</RitualTargeWoodInfo>
   <!-- EN: Accuse -->
   <Accuse>고발</Accuse>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified. -->
-  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort}(은)는 상흔 문신을 하는 사상을 믿지 않기 때문에 상흔 문신을 새기는 것을 좋아하지 않을 것입니다.</RitualScarificationWarnNonScarificationIdeo>
+  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort}은 자신의 사상에 위배되는 상흔 의식을 좋아하지 않을 것입니다.</RitualScarificationWarnNonScarificationIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being scarified. -->
-  <RitualScarificationWarnWimp>{PAWN_labelShort}(은)는 약골이므로 상흔 문신을 새기는 것을 좋아하지 않을 것입니다.</RitualScarificationWarnWimp>
+  <RitualScarificationWarnWimp>{PAWN_labelShort}(은)는 약골이기에 상흔 의식을 좋아하지 않을 것입니다.</RitualScarificationWarnWimp>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded. -->
-  <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort}(은)는 사상으로 인한 실명에 부정적이므로 이를 좋아하지 않을 것입니다.</RitualBlindingWarnNonBlindingIdeo>
+  <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort}(은)는 자신의 사상에 위배되는 실명 의식을 좋아하지 않을 것입니다.</RitualBlindingWarnNonBlindingIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
-  <RitualBlindingWarnWimp>{PAWN_labelShort}(은)는 약골이므로 눈이 멀게 되는 것을 좋아하지 않을 것입니다.</RitualBlindingWarnWimp>
+  <RitualBlindingWarnWimp>{PAWN_labelShort}(은)는 약골이기에 실명 의식을 좋아하지 않을 것입니다.</RitualBlindingWarnWimp>
   
   <!-- EN: Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)! -->
-  <RitualOutcomeExtraDesc_DancePartyWorkFocus>의식에 참여한 모든 사람의 작업 속도가 하루 동안 증가합니다! (전역 작업 속도 {PERCENTAGE})</RitualOutcomeExtraDesc_DancePartyWorkFocus>
+  <RitualOutcomeExtraDesc_DancePartyWorkFocus>행사에 참여한 모든 사람의 작업 속도가 하루 동안 증가합니다! (전역 작업 속도 {PERCENTAGE})</RitualOutcomeExtraDesc_DancePartyWorkFocus>
   <!-- EN: Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level! -->
   <RitualOutcomeExtraDesc_BlindingPsylink>만족스러운 실명 의식 덕분에 {PAWN_labelShort}의 정신 증폭 단계가 상승했습니다!</RitualOutcomeExtraDesc_BlindingPsylink>
   <!-- EN: With a new pyslink level {PAWN_pronoun} gained a {0} psycast. -->
-  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>새로운 정신력 증폭 등급과 함께 {0} 초능력도 획득했습니다.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
+  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>{0} 초능력과 새로운 정신력 증폭 등급을 획득했습니다.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
   <!-- EN: Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}! -->
   <RitualOutcomeExtraDesc_ConsumableInspiration>만족스러운 {RITUAL}(으)로 인해 {PAWN_labelShort}(이)가 {INSPIRATION}(을)를 얻었습니다!</RitualOutcomeExtraDesc_ConsumableInspiration>
   <!-- EN: Your skylanterns have attracted some friendly travelers. They will visit and leave a gift. -->
   <RitualOutcomeExtraDesc_SkylanternWanderers>날아간 풍등을 보고 우호적인 여행자들이 찾아왔습니다. 정착지를 방문한 후 선물을 남길 것입니다.</RitualOutcomeExtraDesc_SkylanternWanderers>
   <!-- EN: All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level. -->
-  <RitualOutcomeExtraDesc_Execution>의식에 참여한 모든 노예의 마음이 죽음을 목도한 후 꺾였습니다. 억압 수치가 최대치까지 올라갔습니다.</RitualOutcomeExtraDesc_Execution>
+  <RitualOutcomeExtraDesc_Execution>처형식에 참여한 모든 노예의 마음이 꺾였습니다. 복종심이 최대치까지 올라갑니다.</RitualOutcomeExtraDesc_Execution>
 
   <!-- EN: Additional reward -->
   <RitualAttachedReward>추가 보상</RitualAttachedReward>
@@ -173,7 +210,7 @@
   <!-- EN: negative -->
   <RitualAttachedOutcomes_Negative>부정적</RitualAttachedOutcomes_Negative>
   <!-- EN: If the {0} is {1} -->
-  <RitualAttachedOutcomesInfo>만약 {0}(이)가 {1}(이)라면</RitualAttachedOutcomesInfo>
+  <RitualAttachedOutcomesInfo>만약 {0}에서 {1} 결과를 얻는다면</RitualAttachedOutcomesInfo>
   <!-- EN: Upon any {0} outcome -->
   <RitualAttachedApplliesForOutcome>모든 {0} 결과에</RitualAttachedApplliesForOutcome>
   <!-- EN: Upon any {0} outcome -->
@@ -181,7 +218,7 @@
   <!-- EN: The commotion from the {0} has attracted some curious animals!\n\nThey seem accustomed to human contact and are joining the colony. -->
   <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>{0}의 소동으로 호기심 많은 동물들을 끌어들였습니다!\n\n누군가에게 이미 길들여진 상태인 것처럼 보이며 정착지에 합류합니다.</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
   <!-- EN: The {0} has induced a Gauranlen pod to sprout nearby. -->
-  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>{0}(으)로 인해 근처에 요정열매가 자라났습니다.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>{0}(이)가 근처에 요정열매가 자라나도록 유도했습니다.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
   <!-- EN: Can't apply reward -->
   <RitualAttachedOutcomeCantApply>보상 적용 불가</RitualAttachedOutcomeCantApply>
   <!-- EN: No valid spot -->
@@ -212,13 +249,13 @@
   <!-- EN: Focus objects -->
   <RitualFocusObjects>집중 대상</RitualFocusObjects>
   <!-- EN: Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now. -->
-  <RitualRepeatPenaltyTip>의식을 {0}일 내에 반복하면 품질이 감소합니다. 마지막 의식으로부터 {1}일이 지난 지금은 품질이 {2} 감소할 것입니다. {3}일 후에는 품질이 감소하지 않습니다.</RitualRepeatPenaltyTip>
+  <RitualRepeatPenaltyTip>의식을 {0}일 내에 반복하면 품질이 감소합니다. 마지막 의식으로부터 {1}일이 지난 지금은 품질이 {2} 감소할 것입니다. {3}일 후부터는 감소하지 않습니다.</RitualRepeatPenaltyTip>
   <!-- EN: Participating roles -->
-  <RitualParticipatingRoles>참여 보직</RitualParticipatingRoles>
+  <RitualParticipatingRoles>필요한 지위</RitualParticipatingRoles>
   <!-- EN: For best quality, start the {0} at {1}. -->
-  <RitualOutcomeCompTip_RitualTargetDefsPart1>최고의 품질을 얻으려면 {0}(을)를 {1}에서 시작하세요.</RitualOutcomeCompTip_RitualTargetDefsPart1>
+  <RitualOutcomeCompTip_RitualTargetDefsPart1>의식의 질을 높이려면 {0}(을)를 {1}에서 시작하세요.</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
-  <RitualOutcomeCompTip_RitualTargetDefsPart2>현재 {0}(을)를 {1_labelShortIndef}에서 거행하고 있습니다.</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <RitualOutcomeCompTip_RitualTargetDefsPart2>현재 {0}(을)를 {1_labelShortIndef}에서 진행하고 있습니다.</RitualOutcomeCompTip_RitualTargetDefsPart2>
 
   <!-- EN: For slave use -->
   <ForSlaveUse>노예용</ForSlaveUse>
@@ -230,13 +267,13 @@
   <SellingAsRansom>누군가를 그 사람이 속한 세력에 판매하면 몸값을 받는 것이며 노예가 되지 않습니다.</SellingAsRansom>
 
   <!-- EN: We are {0} -->
-  <MemeGoodwillImpact_Player>우리가 {0}임</MemeGoodwillImpact_Player>
+  <MemeGoodwillImpact_Player>우리가 {0} 가르침을 따름</MemeGoodwillImpact_Player>
   <!-- EN: They are {0} -->
-  <MemeGoodwillImpact_Other>저들이 {0}임</MemeGoodwillImpact_Other>
+  <MemeGoodwillImpact_Other>저들이 {0} 가르침을 따름</MemeGoodwillImpact_Other>
 
   <!-- TextMotes -->
   <!-- EN: Slave suppression: {0} -->
-  <TextMote_SuppressionIncreased>노예 억압: {0}</TextMote_SuppressionIncreased>
+  <TextMote_SuppressionIncreased>복종심: {0}</TextMote_SuppressionIncreased>
 
   <!-- Role requirements -->
   <!-- EN: Requirements -->
@@ -255,13 +292,13 @@
   <!-- EN: Required apparel -->
   <RoleRequiredApparelLabel>필요 의복</RoleRequiredApparelLabel>
   <!-- EN: Has role in rituals -->
-  <RoleRitualsLabel>의식에서의 맡는 역할</RoleRitualsLabel>
+  <RoleRitualsLabel>의식에서 맡는 역할</RoleRitualsLabel>
   <!-- EN: This role becomes active when your faction has {1} {0}. It becomes inactive when your faction has only {3} {2}. -->
-  <RoleBelieverCountDesc>이 보직은 세력에 {1}명의 {0}(이)가 있으면 활성화됩니다. {3}명의 {2}만 있으면 비활성화됩니다.</RoleBelieverCountDesc>
+  <RoleBelieverCountDesc>이 지위는 세력에 {1}명의 {0}(이)가 있으면 활성화됩니다. {3}명의 {2}만 있으면 비활성화됩니다.</RoleBelieverCountDesc>
   <!-- EN: Raised by {0} levels. -->
   <RoleExpectationOffset>{0}등급 상승.</RoleExpectationOffset>
   <!-- EN: The {0} has higher expectations. -->
-  <RoleRaisedExpectation>{0}(으)로서 기대치가 높아짐</RoleRaisedExpectation>
+  <RoleRaisedExpectation>{0} 지위에 의해 높아진 기대치</RoleRaisedExpectation>
   <!-- EN: Led by {0} -->
   <IdeoLeaderDifferentIdeoThoughtLabel>{0}(이)가 지도자임</IdeoLeaderDifferentIdeoThoughtLabel>
   <!-- EN: {PAWN_nameDef} will not do {1} work. -->
@@ -327,17 +364,17 @@
   <EmancipateCololonistTooltip>노예가 다시 정착민의 지위를 회복합니다.</EmancipateCololonistTooltip>
 
   <!-- EN: You've stayed in the village too long. The people of {FACTION_name} are attacking! -->
-  <WorshippedTerminalFactionBecameHostileTimed>이 마을에 너무 오래 머물렀습니다. {FACTION_name}의 사람들이 공격을 시작합니다!</WorshippedTerminalFactionBecameHostileTimed>
+  <WorshippedTerminalFactionBecameHostileTimed>이 마을에 너무 오래 머물렀습니다. {FACTION_name} 사람들이 공격을 시작합니다!</WorshippedTerminalFactionBecameHostileTimed>
   <!-- EN: Villagers are returning from nearby to protect the venerated terminal! -->
-  <WorshippedTerminalRaidIncoming>주민들이 성스러운 단말기를 지키기 위해 인근 지역에서 돌아오고 있습니다!</WorshippedTerminalRaidIncoming>
+  <WorshippedTerminalRaidIncoming>주민들이 성스러운 단말기를 지키기 위해 모여들고 있습니다!</WorshippedTerminalRaidIncoming>
 
   <!-- Relic hunt -->
   <!-- EN: First, you need to find the {0}. Watch for opportunities to gather information about it. -->
   <RelicHuntFindRelicSite>우선 {0}(을)를 찾아야 합니다. 관련 정보를 수집할 기회를 주시하세요.</RelicHuntFindRelicSite>
   <!-- EN: The relic is housed in an ancient structure protected by a multi-unit security system.\n\nYou can defeat the security forces one unit at a time, or grab the relic and try to flee before they get you. -->
-  <RelicHuntFoundRelicSite>유물이 고대 구조물에 보관되어 있습니다. 다수의 독립된 부대로 구성된 보안 시스템이 주변을 보호하고 있습니다.\n\n보안 부대를 한 번에 하나씩 상대하거나, 유물을 들고 잡히기 전에 도망치세요.</RelicHuntFoundRelicSite>
+  <RelicHuntFoundRelicSite>다수의 독립 부대로 구성된 보안 시스템이 유물이 보관된 고대 시설을 둘러싸고 있습니다.\n\n보안 부대를 하나씩 상대하거나, 유물을 훔쳐 도망치세요.</RelicHuntFoundRelicSite>
   <!-- EN: The relic rests in an ancient structure nearby. -->
-  <RelicHuntFoundRelicSitePeaceful>유물이 인근의 고대 구조물에 잠들어 있습니다.</RelicHuntFoundRelicSitePeaceful>
+  <RelicHuntFoundRelicSitePeaceful>유물이 인근의 고대 시설에 잠들어 있습니다.</RelicHuntFoundRelicSitePeaceful>
 
   <!-- EN: relic -->
   <Relic>유물</Relic>
@@ -363,58 +400,58 @@
   <!-- EN: Starting quality -->
   <StartingQuality>시작 품질</StartingQuality>
   <!-- EN: Conviction chance -->
-  <ExpectedConvictionChance>유죄 판결 확률</ExpectedConvictionChance>
+  <ExpectedConvictionChance>유죄 판결을 받을 확률</ExpectedConvictionChance>
  
   <!-- EN: Must be placed indoors. -->
   <MustBePlacedIndoors>실내에 배치해야 합니다.</MustBePlacedIndoors>
 
   <!-- Gauranlen trees/Dryads -->
   <!-- EN: Connected to -->
-  <ConnectedPawn>교감함</ConnectedPawn>
+  <ConnectedPawn>교감:</ConnectedPawn>
   <!-- EN: Nobody -->
   <Nobody>아무도 없음</Nobody>
   <!-- EN: The person this {TREE_label} is connected to. If the connected person dies, this {TREE_label} will be unable to connect to another for {DURATION}. -->
-  <ConnectedPawnDesc>{TREE_label}(와)과 교감한 사람입니다. 교감자가 사망 시 {DURATION}동안 {TREE_label}(와)과 다시 교감할 수 없습니다.</ConnectedPawnDesc>
+  <ConnectedPawnDesc>이 정착민은 {TREE_label}(와)과 교감하고 있습니다. 교감자가 사망할 경우 {DURATION} 동안 {TREE_label}(와)과 다시 교감할 수 없습니다.</ConnectedPawnDesc>
   <!-- EN: Connection torn. Can connect in {0}. -->
   <ConnectionTorn>교감 끊어짐. {0} 후 다시 교감할 수 있습니다.</ConnectionTorn>
   <!-- EN: {PAWN_nameDef} is too far away -->
   <ConnectedPawnAway>{PAWN_nameDef}(이)가 너무 멂</ConnectedPawnAway>
   <!-- EN: Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here? -->
-  <TreeBlockedByNearbyBuildingsDesc>{PLANT_definite}(을)를 인공 구조물 옆에 심으면 교감 강도가 점차 약해집니다. 교감 강도는 {PLANT_definite}(이)가 수용할 수 있는 숲지기의 최대 수를 결정합니다.\n\n정말 여기에 심으시겠습니까?</TreeBlockedByNearbyBuildingsDesc>
+  <TreeBlockedByNearbyBuildingsDesc>{PLANT_definite}(을)를 인공 구조물 옆에 심으면 교감 수준이 빠르게 떨어집니다. 교감 수준은 {PLANT_definite}(이)가 수용할 수 있는 나무지기의 최대 수를 결정합니다.\n\n정말 여기에 심으시겠습니까?</TreeBlockedByNearbyBuildingsDesc>
   <!-- EN: Changing {TREE_definite}'s dryad caste takes time and energy.\n\nAfter the connected person interacts with the tree, all dryads will spend {DURATION} days inside cocoons while they morph to the selected caste.\n\nExisting cocoons will cancel their transformation so they can morph to the current caste. -->
-  <GauranlenModeChangeDescFull>{TREE_definite}의 숲지기 계급을 바꾸는 것은 시간과 에너지가 필요한 일입니다.\n\n나무와 교감한 사람의 상호작용이 끝나면, 모든 숲지기가 {DURATION}일간 고치 속에 들어가서 선택한 계급으로 변이합니다.\n\n이미 변이 중인 고치 또한 새로 선택한 계급으로 변이하기 위해 과정을 처음부터 다시 시작합니다.</GauranlenModeChangeDescFull>
+  <GauranlenModeChangeDescFull>{TREE_definite}의 계급을 바꾸는 데에는 시간과 에너지가 필요합니다.\n\n상호작용이 끝나면, 모든 나무지기는 {DURATION}일간 고치 속에 들어가 선택된 계급으로 변이합니다.\n\n이미 변이 중인 고치 또한 선택된 계급으로 변이하기 위해 과정을 처음부터 다시 시작합니다.</GauranlenModeChangeDescFull>
   <!-- EN: Change the type of dryads created by {TREE_definite}. -->
-  <ChangeModeDesc>{TREE_definite}(이)가 생성한 숲지기의 유형을 바꿉니다.</ChangeModeDesc>
+  <ChangeModeDesc>{TREE_definite}(이)가 생성한 나무지기의 유형을 바꿉니다.</ChangeModeDesc>
   <!-- EN: Connection strength fall -->
-  <ConnectionStrengthFall>교감 강도 약화율</ConnectionStrengthFall>
+  <ConnectionStrengthFall>교감 수준 감소율</ConnectionStrengthFall>
   <!-- EN: Connection strength -->
-  <ConnectionStrength>교감 강도</ConnectionStrength>
+  <ConnectionStrength>교감 수준</ConnectionStrength>
   <!-- EN: {0} strength -->
   <ConnectionStrengthDisplay>{0} 강도</ConnectionStrengthDisplay>
   <!-- EN: Determines how many dryads this tree can support. -->
-  <ConnectionStrengthDesc>이 나무가 수용할 수 있는 숲지기의 수입니다.</ConnectionStrengthDesc>
+  <ConnectionStrengthDesc>이 나무가 수용할 수 있는 나무지기의 수입니다.</ConnectionStrengthDesc>
   <!-- EN: Max dryads -->
-  <MaximumDryads>숲지기 최대 수</MaximumDryads>
+  <MaximumDryads>나무지기 최대 수</MaximumDryads>
   <!-- EN: The maximum number of dryads this tree can support. -->
-  <MaximumDryadsDesc>이 나무가 수용할 수 있는 숲지기의 최대 수입니다.</MaximumDryadsDesc>
+  <MaximumDryadsDesc>이 나무가 수용할 수 있는 나무지기의 최대 수입니다.</MaximumDryadsDesc>
   <!-- EN: Max dryads based on connection strength -->
-  <MaxDryadsBasedOnConnectionStrength>교감 강도에 따른 최대 숲지기 수</MaxDryadsBasedOnConnectionStrength>
+  <MaxDryadsBasedOnConnectionStrength>교감 수준에 따른 최대 나무지기 수</MaxDryadsBasedOnConnectionStrength>
   <!-- EN: Pruning connection strength gain -->
-  <PruningConnectionStrength>관리로 인한 교감 강도 상승률</PruningConnectionStrength>
+  <PruningConnectionStrength>관리를 통한 교감 수준 상승률</PruningConnectionStrength>
   <!-- EN: Hours per day to maintain -->
   <PruningHoursToMaintain>매일 관리에 필요한 시간</PruningHoursToMaintain>
   <!-- EN: Desired -->
   <DesiredConnectionStrength>희망</DesiredConnectionStrength>
   <!-- EN: {CONNECTEDPAWN_nameDef} will prune {TREE_definite} often enough to keep connection strength above this level.\n\nHigher connection strength allows supporting more dryads, but also falls faster and thus takes more frequent pruning to maintain.\n\nYou can click on the bar to adjust the desired target connection strength.\n\nConnection strength fall per day: {FALL}\n\nConnection strength is affected by nearby buildings. -->
-  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef}(이)가 이 교감 강도를 유지하기에 충분한 빈도로 {TREE_definite}(을)를 다듬을 것입니다.\n\n높은 교감 강도는 더 많은 숲지기를 수용할 수 있지만 더 빠르게 약해지므로 더 자주 다듬어줘야 합니다.\n\n교감 강도 게이지를 클릭해서 희망 강도를 설정할 수 있습니다.\n\n매일 약화하는 교감 강도: {FALL}\n\n교감 강도는 주위 건물의 영향을 받습니다.</DesiredConnectionStrengthDesc>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef}(이)가 이 교감 수준 유지에 충분할 때까지 {TREE_definite}(을)를 다듬을 것입니다.\n\n높은 교감 수준에서는 더 많은 나무지기를 수용할 수 있지만 그만큼 더 자주 다듬어줘야 합니다.\n\n교감 수준 게이지를 클릭해서 희망 강도를 설정할 수 있습니다.\n\n일간 교감 수준 감소량: {FALL}\n\n교감 수준은 주변 건물의 영향을 받습니다.</DesiredConnectionStrengthDesc>
   <!-- EN: Waiting for {CONNECTEDPAWN_nameDef} to change dryad caste. -->
-  <WaitingForConnectorToChangeCaste>{CONNECTEDPAWN_nameDef}(이)가 숲지기 계급을 바꾸길 기다리는 중.</WaitingForConnectorToChangeCaste>
+  <WaitingForConnectorToChangeCaste>{CONNECTEDPAWN_nameDef}(이)가 나무지기 계급 교체를 기다리는 중.</WaitingForConnectorToChangeCaste>
   <!-- EN: Dryad caste -->
-  <GauranlenTreeMode>숲지기 계급</GauranlenTreeMode>
+  <GauranlenTreeMode>나무지기 계급</GauranlenTreeMode>
   <!-- EN: no caste -->
   <NoCaste>계급 없음</NoCaste>
   <!-- EN: Determines the currently created dryad caste. -->
-  <GauranlenTreeModeDesc>현재 생성하는 숲지기 계급을 결정합니다.</GauranlenTreeModeDesc>
+  <GauranlenTreeModeDesc>생성될 나무지기 계급을 결정합니다.</GauranlenTreeModeDesc>
   <!-- EN: Spawning {DRYAD_label} in {TIME} -->
   <SpawningDryadIn>{TIME} 후 {DRYAD_label} 탄생</SpawningDryadIn>
   <!-- EN: Morphing {DRYAD_labelShort} into {TYPE_label}. -->
@@ -426,19 +463,19 @@
   <!-- EN: {DRYAD_labelPlural} produce {RESOURCES} every {DURATION}. -->
   <DryadProducesResourcesDesc>{DRYAD_labelPlural}(은)는 {RESOURCES}(을)를 매 {DURATION}마다 생산합니다.</DryadProducesResourcesDesc>
   <!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Gauranlen tree. {ANIMAL_possessive} master cannot be changed. -->
-  <DryadCannotChangeMaster>{ANIMAL_nameDef}(은)는 자신이 속한 요정나무를 통해 {MASTER_nameDef}(와)과 연결되어있습니다. {ANIMAL_nameDef}의 주인을 바꿀 수 없습니다.</DryadCannotChangeMaster>
+  <DryadCannotChangeMaster>{ANIMAL_nameDef}(은)는 요정나무를 통해 {MASTER_nameDef}(와)과 정신적으로 연결되어 있습니다. {ANIMAL_nameDef}의 주인을 바꿀 수 없습니다.</DryadCannotChangeMaster>
   <!-- EN: Connection strength too low to create Gauranlen pod. -->
-  <ConnectionStrengthTooWeakForGaumakerPod>요정열매를 생성하기에는 교감 강도가 너무 낮습니다.</ConnectionStrengthTooWeakForGaumakerPod>
+  <ConnectionStrengthTooWeakForGaumakerPod>요정열매를 생성하기에는 교감 수준이 너무 낮습니다.</ConnectionStrengthTooWeakForGaumakerPod>
   <!-- EN: Unconnected -->
   <Unconnected>교감하지 않음</Unconnected>
   <!-- EN: Dryads -->
-  <DryadPlural>숲지기</DryadPlural>
+  <DryadPlural>나무지기</DryadPlural>
   <!-- EN: Connection strength affected by -->
-  <ConnectionStrengthAffectedBy>교감 강도가 영향 받음</ConnectionStrengthAffectedBy>
+  <ConnectionStrengthAffectedBy>교감에 영향을 줌:</ConnectionStrengthAffectedBy>
   <!-- EN: Currently affected by -->
-  <CurrentlyAffectedBy>현재 영향 받음</CurrentlyAffectedBy>
+  <CurrentlyAffectedBy>영향받음:</CurrentlyAffectedBy>
   <!-- EN: {0} connection strength needed to support a dryad. -->
-  <NotEnoughConnectionStrengthForSingleDryad>숲지기를 수용하려면 {0}의 교감 강도가 필요합니다.</NotEnoughConnectionStrengthForSingleDryad>
+  <NotEnoughConnectionStrengthForSingleDryad>나무지기를 수용하려면 {0}의 교감 수준이 필요합니다.</NotEnoughConnectionStrengthForSingleDryad>
 
   <!-- Shooting report -->
   <!-- EN: Target outdoors and night-time -->
@@ -465,14 +502,14 @@
   <!-- EN: {0} quality to crafting or construction -->
   <RoleEffectProductionQualityOffset>제작 또는 건설에 품질 {0}</RoleEffectProductionQualityOffset>
   <!-- EN: Hunting revenge chance {0} -->
-  <RoleEffectHuntingRevengeChance>사냥 중 복수 확률 {0}</RoleEffectHuntingRevengeChance>
+  <RoleEffectHuntingRevengeChance>사냥 중 반격당할 확률 {0}</RoleEffectHuntingRevengeChance>
   <!-- EN: Give thought -->
   <RoleEffectGiveThoughtOnTended>생각 부여</RoleEffectGiveThoughtOnTended>
 
   <!-- EN: Assign colonists to your ideoligion -->
   <AssignColonists>사상에 정착민 할당</AssignColonists>
   <!-- EN: Remove new ideoligion -->
-  <RemoveNewIdeoligion>Remove new ideoligion</RemoveNewIdeoligion>
+  <RemoveNewIdeoligion>신규 사상 제거</RemoveNewIdeoligion>
   <!-- EN: Make this your primary ideologion -->
   <MakeIdeoligionPrimary>주 사상으로 설정</MakeIdeoligionPrimary>
 
@@ -494,14 +531,14 @@
   <RelicLower>유물</RelicLower>
 
   <!-- EN: Linked to -->
-  <LinkedTo>연결됨</LinkedTo>
+  <LinkedTo>연결됨:</LinkedTo>
   <!-- EN: Supply satellite -->
   <SupplySatellite>보급 위성</SupplySatellite>
 
   <!-- EN: Colonist is not willing to extract skull from corpse (missing pro-skullspike precept) -->
-  <CannotExtractSkull>두개골을 꺼내고 싶지  않아 함 (효수대 규율 없음)</CannotExtractSkull>
+  <CannotExtractSkull>두개골을 꺼내고 싶지 않아 함 (효수대 규율 없음)</CannotExtractSkull>
   <!-- EN: Preview the ritual ambience sound -->
-  <TipPreviewRitualAmbienceSound>의식 배경음 미리듣기</TipPreviewRitualAmbienceSound>
+  <TipPreviewRitualAmbienceSound>행사 배경음 미리 듣기</TipPreviewRitualAmbienceSound>
 
   <!-- EN: Choose -->
   <ChooseStuffForRelic>선택</ChooseStuffForRelic>
@@ -516,27 +553,29 @@
   <!-- EN: ready -->
   <BiosculpterPodCycleLabelReady>준비됨</BiosculpterPodCycleLabelReady>
   <!-- EN: Prepare {0} cycle -->
-  <BiosculpterPodCycleCommand>{0} 절차 준비</BiosculpterPodCycleCommand>
+  <BiosculpterPodCycleCommand>{0} 준비</BiosculpterPodCycleCommand>
   <!-- EN: Ends in -->
   <BiosculpterCycleTimeRemaining>종료</BiosculpterCycleTimeRemaining>
   <!-- EN: Biotuned to -->
-  <BiosculpterBiotunedTo>생체조정됨</BiosculpterBiotunedTo>
+  <BiosculpterBiotunedTo>사용자 고정됨</BiosculpterBiotunedTo>
   <!-- EN: Interrupt cycle -->
   <BiosculpterInteruptCycle>절차 중단</BiosculpterInteruptCycle>
   <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
-  <BiosculpterInteruptCycleDesc>절차를 중단합니다. 탑승자는 생체 조율로 인한 긍정적 효과를 받지 못하고 바깥에 나오게 되며, 짧은 시간 후유증을 겪습니다.</BiosculpterInteruptCycleDesc>
+  <BiosculpterInteruptCycleDesc>절차를 중단합니다. 탑승자는 생체 재구축 효과를 받지 못하고 바깥에 나오게 되며, 짧은 시간 후유증을 겪습니다.</BiosculpterInteruptCycleDesc>
+  <!-- EN: Warning: Age reversal cycle cannot be run while biosculpter is tuned to {PAWN_labelShort} because {PAWN_labelShort} is under {ADULTAGE} years old. -->
+  <BiosculpterUnderageAgeReversalMessage>경고: {PAWN_labelShort}(이)가 {ADULTAGE}살 미만입니다. 생체 재구축기가 {PAWN_labelShort}에게 조정되면 노화 역전 절차를 진행하지 못할 것입니다.</BiosculpterUnderageAgeReversalMessage>
   <!-- EN: Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle. -->
-  <BiosculpterLoadingStartedMessage>생체 조율기에 {NUTRITION} 열량을 다 채우면, 정착민을 선택 후 생체 조율기나 환자를 우클릭해서 절차를 시작하세요.</BiosculpterLoadingStartedMessage>
+  <BiosculpterLoadingStartedMessage>생체 재구축기에 {NUTRITION} 열량을 채운 뒤, 정착민을 직접 들여보내거나 들어가야 할 환자를 우클릭하여 절차를 시작하세요.</BiosculpterLoadingStartedMessage>
   <!-- EN: {PAWN_labelShort} was ejected from a biosculpter pod due to lack of power. -->
-  <BiosculpterNoPowerEjectedMessage>전력 부족으로 인해 {PAWN_labelShort}(이)가 생체 재구축기에서 나왔습니다.</BiosculpterNoPowerEjectedMessage>
+  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort}(이)가 전력 부족으로 인해 생체 조율을 완전히 마치지 못하고 나왔습니다.</BiosculpterNoPowerEjectedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle. -->
-  <BiosculpterHealCompletedMessage>{PAWN_labelShort}(이)가 치유 절차를 마쳤습니다.</BiosculpterHealCompletedMessage>
+  <BiosculpterHealCompletedMessage>{PAWN_labelShort}(이)가 신체 치유 절차를 마쳤습니다.</BiosculpterHealCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured. -->
-  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort}(이)가 치유 절차를 끝냈습니다. {HEDIFF_label}(이)가 회복됐습니다.</BiosculpterHealCompletedWithCureMessage>
+  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort}(이)가 신체 치유 절차를 끝냈습니다. {HEDIFF_label}(이)가 회복됐습니다.</BiosculpterHealCompletedWithCureMessage>
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
-  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}(이)가 노화 역전 절차를 끝냈습니다. {PAWN_pronoun}는 다음 노화 역전을 {DEADLINE}일 안에 받길 원합니다.</BiosculpterAgeReversalCompletedMessage>
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}(이)가 깨어났습니다. {PAWN_pronoun}는 {DEADLINE}일 내에 다음 노화 역전 절차를 받기를 원합니다.</BiosculpterAgeReversalCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed pleasure cycle. -->
-  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}(이)가 쾌락 절차를 끝냈습니다.</BiosculpterPleasureCompletedMessage>
+  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}(이)가 욕구 충족 절차를 끝냈습니다.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>청결함으로 인한 속도 계수</BiosculpterCleanlinessSpeedFactor>
 

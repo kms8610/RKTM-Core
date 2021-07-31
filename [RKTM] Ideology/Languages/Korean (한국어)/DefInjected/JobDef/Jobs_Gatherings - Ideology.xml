@@ -5,10 +5,10 @@
   <Dance.reportString>춤추는 중.</Dance.reportString>
   
   <!-- EN: eating at TargetA. -->
-  <EatAtCannibalPlatter.reportString>targetA 먹는 중</EatAtCannibalPlatter.reportString>
+  <EatAtCannibalPlatter.reportString>TargetA 먹는 중.</EatAtCannibalPlatter.reportString>
   
   <!-- EN: relaxing socially. -->
-  <GotoAndBeSociallyActive.reportString>사회적으로 휴식 중.</GotoAndBeSociallyActive.reportString>
+  <GotoAndBeSociallyActive.reportString>사회적 휴식 중.</GotoAndBeSociallyActive.reportString>
   
   <!-- EN: making a skylantern. -->
   <PrepareSkylantern.reportString>풍등 제작 중.</PrepareSkylantern.reportString>

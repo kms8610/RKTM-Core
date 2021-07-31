@@ -11,12 +11,12 @@
   <!-- EN: elevated -->
   <Blindness_Elevated.label>고상함</Blindness_Elevated.label>
   <!-- EN: The blind stand pure above the sighted. -->
-  <Blindness_Elevated.description>눈이 먼 것이 눈이 보이는 것 보다 순수하다.</Blindness_Elevated.description>
+  <Blindness_Elevated.description>눈이 먼 것이 보이는 것보다 순수하다.</Blindness_Elevated.description>
   
   <!-- EN: respected -->
   <Blindness_Respected.label>존중받음</Blindness_Respected.label>
   <!-- EN: To be blind is a moral thing worthy of respect. -->
-  <Blindness_Respected.description>맹인이 되는 것은 존중 받을 만 한 도덕적인 행위이다.</Blindness_Respected.description>
+  <Blindness_Respected.description>맹인이 되는 것은 존경스러운 행위이다.</Blindness_Respected.description>
   
   <!-- EN: sublime -->
   <Blindness_Sublime.label>숭고함</Blindness_Sublime.label>

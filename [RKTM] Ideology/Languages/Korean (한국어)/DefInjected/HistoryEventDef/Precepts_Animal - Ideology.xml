@@ -8,9 +8,9 @@
   <HuntedVeneratedAnimal.label>성스러운 동물을 사냥함</HuntedVeneratedAnimal.label>
   
   <!-- EN: slaughtered venerated animal -->
-  <SlaughteredVeneratedAnimal.label>숭배하는 동물 도축</SlaughteredVeneratedAnimal.label>
+  <SlaughteredVeneratedAnimal.label>성스러운 동물을 도축함</SlaughteredVeneratedAnimal.label>
   
   <!-- EN: tame venerated animal died -->
-  <TameVeneratedAnimalDied.label>길들여진 성스러운 동물이 죽음</TameVeneratedAnimalDied.label>
+  <TameVeneratedAnimalDied.label>성스러운 가축이 죽음</TameVeneratedAnimalDied.label>
   
 </LanguageData>
