@@ -483,7 +483,7 @@
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>보복 확률</HarmedRevengeChance>
   <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
-  <HarmedRevengeChanceExplanation>의도든 의도가 아니든 피해를 받으면 공격자를 보복하게 될 확률입니다.\n\n거리가 가까울수록 확률은 증가하며 근접시 3배의 확률로 보복합니다.\n\n피해를 입힐때마다 적용되기 때문에 느린 발사체나 높은 피해량을 가진 무기일수록 가능성이 적습니다.\n\n보복행위를 최소화 하려면 소총범위의 느린 발사체로 공격하시길 바랍니다.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>이 생물이 피해를 입었을 때 반격 할 확률입니다.\n\n이 확률은 최대 3배까지 증가합니다.\n\n이 확률은 피해를 입을 때마다 적용됩니다. 즉 발사 속도가 느리고, 데미지가 높은 무기는 상대적으로 반격할 확률이 적습니다.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>길들이기 실패시 보복 확률</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->

@@ -9,6 +9,7 @@
     <li IfModActive="Ludeon.RimWorld">[RKTM] Core</li>
 	<li IfModActive="Ludeon.RimWorld.Royalty">[RKTM] Royalty</li>
 	<li IfModActive="Ludeon.RimWorld.Ideology">[RKTM] Ideology</li>
+	<li IfModActive="Ludeon.RimWorld.Ideology">[RKTM] Ideology2</li>
   </v1.3>
 
 </loadFolders>

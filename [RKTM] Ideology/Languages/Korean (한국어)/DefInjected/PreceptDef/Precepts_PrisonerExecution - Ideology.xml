@@ -4,7 +4,7 @@
   <!-- EN: always abhorrent -->
   <Execution_Abhorrent.label>항상 혐오함</Execution_Abhorrent.label>
   <!-- EN: Executing a prisoner is an abhorrent evil under any circumstances. -->
-  <Execution_Abhorrent.description>어떤 상황에서도 수감자를 처형하는 것은 정말로 혐오스럽고 사악한 행위이다.</Execution_Abhorrent.description>
+  <Execution_Abhorrent.description>어떤 상황이라도 수감자를 처형하는 것은 정말로 혐오스럽고 사악한 행위이다.</Execution_Abhorrent.description>
   <!-- EN: Executed prisoner -->
   <Execution_Abhorrent.comps.2.description>수감자를 처형함</Execution_Abhorrent.comps.2.description>
   <!-- EN: Responsible for prisoner death -->

@@ -50,13 +50,13 @@
   <!-- EN: memeLeaderNoun->woman -->
   <FemaleSupremacy.generalRules.rulesStrings.9>memeLeaderNoun->여성</FemaleSupremacy.generalRules.rulesStrings.9>
   <!-- EN: gynist -->
-  <FemaleSupremacy.symbolPacks.0.adjective>산부주의적</FemaleSupremacy.symbolPacks.0.adjective>
+  <FemaleSupremacy.symbolPacks.0.adjective>남성혐오주의적</FemaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Gynism -->
-  <FemaleSupremacy.symbolPacks.0.ideoName>산부주의</FemaleSupremacy.symbolPacks.0.ideoName>
+  <FemaleSupremacy.symbolPacks.0.ideoName>남성혐오주의</FemaleSupremacy.symbolPacks.0.ideoName>
   <!-- EN: gynist -->
-  <FemaleSupremacy.symbolPacks.0.member>산부주의자</FemaleSupremacy.symbolPacks.0.member>
+  <FemaleSupremacy.symbolPacks.0.member>남성혐오주의자</FemaleSupremacy.symbolPacks.0.member>
   <!-- EN: gynism -->
-  <FemaleSupremacy.symbolPacks.0.theme>산부주의</FemaleSupremacy.symbolPacks.0.theme>
+  <FemaleSupremacy.symbolPacks.0.theme>남성혐오주의</FemaleSupremacy.symbolPacks.0.theme>
   <!-- EN: femist -->
   <FemaleSupremacy.symbolPacks.1.adjective>여성주의적</FemaleSupremacy.symbolPacks.1.adjective>
   <!-- EN: Femism -->
@@ -147,12 +147,12 @@
   <!-- EN: man -->
   <MaleSupremacy.symbolPacks.1.theme>남성</MaleSupremacy.symbolPacks.1.theme>
   <!-- EN: virile -->
-  <MaleSupremacy.symbolPacks.2.adjective>남성주의적</MaleSupremacy.symbolPacks.2.adjective>
+  <MaleSupremacy.symbolPacks.2.adjective>마초주의적</MaleSupremacy.symbolPacks.2.adjective>
   <!-- EN: Virilism -->
   <MaleSupremacy.symbolPacks.2.ideoName>마초주의</MaleSupremacy.symbolPacks.2.ideoName>
   <!-- EN: virilor -->
-  <MaleSupremacy.symbolPacks.2.member>남성주의자</MaleSupremacy.symbolPacks.2.member>
+  <MaleSupremacy.symbolPacks.2.member>마초주의자</MaleSupremacy.symbolPacks.2.member>
   <!-- EN: virility -->
-  <MaleSupremacy.symbolPacks.2.theme>남성성</MaleSupremacy.symbolPacks.2.theme>
+  <MaleSupremacy.symbolPacks.2.theme>마초주의</MaleSupremacy.symbolPacks.2.theme>
   
 </LanguageData>

@@ -32,7 +32,7 @@
   <!-- EN: memeMoralist(p=2)->bhikkhu -->
   <Structure_OriginBuddhist.generalRules.rulesStrings.12>memeMoralist(p=2)->수도사</Structure_OriginBuddhist.generalRules.rulesStrings.12>
   <!-- EN: memeMoralist->priest -->
-  <Structure_OriginBuddhist.generalRules.rulesStrings.13>memeMoralist->성직자</Structure_OriginBuddhist.generalRules.rulesStrings.13>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.13>memeMoralist->사제</Structure_OriginBuddhist.generalRules.rulesStrings.13>
   <!-- EN: memeMoralist->monk -->
   <Structure_OriginBuddhist.generalRules.rulesStrings.14>memeMoralist->수도승</Structure_OriginBuddhist.generalRules.rulesStrings.14>
   <!-- EN: Buddhist -->
@@ -117,27 +117,27 @@
   <!-- EN: memeLeaderNoun->cardinal -->
   <Structure_OriginChristian.generalRules.rulesStrings.5>memeLeaderNoun->추기경</Structure_OriginChristian.generalRules.rulesStrings.5>
   <!-- EN: memeLeaderNoun->pope -->
-  <Structure_OriginChristian.generalRules.rulesStrings.6>memeLeaderNoun->교황</Structure_OriginChristian.generalRules.rulesStrings.6>
+  <Structure_OriginChristian.generalRules.rulesStrings.6>memeLeaderNoun->교주</Structure_OriginChristian.generalRules.rulesStrings.6>
   <!-- EN: memeLeaderNoun->pontiff -->
   <Structure_OriginChristian.generalRules.rulesStrings.7>memeLeaderNoun->제사장</Structure_OriginChristian.generalRules.rulesStrings.7>
   <!-- EN: memeLeaderNoun->legate -->
-  <Structure_OriginChristian.generalRules.rulesStrings.8>memeLeaderNoun->사절</Structure_OriginChristian.generalRules.rulesStrings.8>
+  <Structure_OriginChristian.generalRules.rulesStrings.8>memeLeaderNoun->특사</Structure_OriginChristian.generalRules.rulesStrings.8>
   <!-- EN: memeLeaderNoun->nuncio -->
-  <Structure_OriginChristian.generalRules.rulesStrings.9>memeLeaderNoun->교황의 사절</Structure_OriginChristian.generalRules.rulesStrings.9>
+  <Structure_OriginChristian.generalRules.rulesStrings.9>memeLeaderNoun->사절</Structure_OriginChristian.generalRules.rulesStrings.9>
   <!-- EN: memeLeaderNoun->divus -->
-  <Structure_OriginChristian.generalRules.rulesStrings.10>memeLeaderNoun->디부스</Structure_OriginChristian.generalRules.rulesStrings.10>
+  <Structure_OriginChristian.generalRules.rulesStrings.10>memeLeaderNoun->성자</Structure_OriginChristian.generalRules.rulesStrings.10>
   <!-- EN: memeLeaderNoun->ecclesiast -->
-  <Structure_OriginChristian.generalRules.rulesStrings.11>memeLeaderNoun->성직자</Structure_OriginChristian.generalRules.rulesStrings.11>
+  <Structure_OriginChristian.generalRules.rulesStrings.11>memeLeaderNoun->전도사</Structure_OriginChristian.generalRules.rulesStrings.11>
   <!-- EN: memeLeaderAdjective->holy -->
   <Structure_OriginChristian.generalRules.rulesStrings.12>memeLeaderAdjective->신성한</Structure_OriginChristian.generalRules.rulesStrings.12>
   <!-- EN: memeLeaderAdjective->divine -->
   <Structure_OriginChristian.generalRules.rulesStrings.13>memeLeaderAdjective->신성한</Structure_OriginChristian.generalRules.rulesStrings.13>
   <!-- EN: memeLeaderAdjective->Christ's -->
-  <Structure_OriginChristian.generalRules.rulesStrings.14>memeLeaderAdjective->예수의</Structure_OriginChristian.generalRules.rulesStrings.14>
+  <Structure_OriginChristian.generalRules.rulesStrings.14>memeLeaderAdjective->그리스도의</Structure_OriginChristian.generalRules.rulesStrings.14>
   <!-- EN: memeLeaderAdjective->God's -->
   <Structure_OriginChristian.generalRules.rulesStrings.15>memeLeaderAdjective->신의</Structure_OriginChristian.generalRules.rulesStrings.15>
   <!-- EN: memeMoralist->priest -->
-  <Structure_OriginChristian.generalRules.rulesStrings.16>memeMoralist->성직자</Structure_OriginChristian.generalRules.rulesStrings.16>
+  <Structure_OriginChristian.generalRules.rulesStrings.16>memeMoralist->사제</Structure_OriginChristian.generalRules.rulesStrings.16>
   <!-- EN: memeMoralist->pastor -->
   <Structure_OriginChristian.generalRules.rulesStrings.17>memeMoralist->목사</Structure_OriginChristian.generalRules.rulesStrings.17>
   <!-- EN: memeMoralist->cleric -->
@@ -145,9 +145,9 @@
   <!-- EN: memeMoralist->preacher -->
   <Structure_OriginChristian.generalRules.rulesStrings.19>memeMoralist->설교자</Structure_OriginChristian.generalRules.rulesStrings.19>
   <!-- EN: memeMoralist->rector -->
-  <Structure_OriginChristian.generalRules.rulesStrings.20>memeMoralist->교구 신부</Structure_OriginChristian.generalRules.rulesStrings.20>
+  <Structure_OriginChristian.generalRules.rulesStrings.20>memeMoralist->신부</Structure_OriginChristian.generalRules.rulesStrings.20>
   <!-- EN: memeMoralist->abbot -->
-  <Structure_OriginChristian.generalRules.rulesStrings.21>memeMoralist->대수도원장</Structure_OriginChristian.generalRules.rulesStrings.21>
+  <Structure_OriginChristian.generalRules.rulesStrings.21>memeMoralist->수도원장</Structure_OriginChristian.generalRules.rulesStrings.21>
   <!-- EN: Christian -->
   <Structure_OriginChristian.symbolPacks.0.adjective>기독교적</Structure_OriginChristian.symbolPacks.0.adjective>
   <!-- EN: Christianity -->
@@ -380,7 +380,7 @@
   <!-- EN: memeLeaderNoun->ishvara -->
   <Structure_OriginHindu.generalRules.rulesStrings.5>memeLeaderNoun->이시바라</Structure_OriginHindu.generalRules.rulesStrings.5>
   <!-- EN: memeLeaderNoun->yogi -->
-  <Structure_OriginHindu.generalRules.rulesStrings.6>memeLeaderNoun->수행자</Structure_OriginHindu.generalRules.rulesStrings.6>
+  <Structure_OriginHindu.generalRules.rulesStrings.6>memeLeaderNoun->요기</Structure_OriginHindu.generalRules.rulesStrings.6>
   <!-- EN: memeLeaderNoun->pandit -->
   <Structure_OriginHindu.generalRules.rulesStrings.7>memeLeaderNoun->판딧</Structure_OriginHindu.generalRules.rulesStrings.7>
   <!-- EN: memeLeaderNoun->avatar -->
@@ -394,7 +394,7 @@
   <!-- EN: memeLeaderAdjective->yogic -->
   <Structure_OriginHindu.generalRules.rulesStrings.12>memeLeaderAdjective->요가의</Structure_OriginHindu.generalRules.rulesStrings.12>
   <!-- EN: memeLeaderAdjective->tirth -->
-  <Structure_OriginHindu.generalRules.rulesStrings.13>memeLeaderAdjective->십일조의</Structure_OriginHindu.generalRules.rulesStrings.13>
+  <Structure_OriginHindu.generalRules.rulesStrings.13>memeLeaderAdjective->티르타</Structure_OriginHindu.generalRules.rulesStrings.13>
   <!-- EN: memeMoralist(p=3)->pujari -->
   <Structure_OriginHindu.generalRules.rulesStrings.14>memeMoralist(p=3)->성직자</Structure_OriginHindu.generalRules.rulesStrings.14>
   <!-- EN: memeMoralist->purohit -->
@@ -410,13 +410,13 @@
   <!-- EN: Hindu -->
   <Structure_OriginHindu.symbolPacks.0.member>힌두교도</Structure_OriginHindu.symbolPacks.0.member>
   <!-- EN: Indu -->
-  <Structure_OriginHindu.symbolPacks.1.adjective>인더스교적</Structure_OriginHindu.symbolPacks.1.adjective>
+  <Structure_OriginHindu.symbolPacks.1.adjective>인더스교</Structure_OriginHindu.symbolPacks.1.adjective>
   <!-- EN: Induism -->
   <Structure_OriginHindu.symbolPacks.1.ideoName>인더스교</Structure_OriginHindu.symbolPacks.1.ideoName>
   <!-- EN: Indu -->
   <Structure_OriginHindu.symbolPacks.1.member>인더스교도</Structure_OriginHindu.symbolPacks.1.member>
   <!-- EN: Sindu -->
-  <Structure_OriginHindu.symbolPacks.2.adjective>신두교적</Structure_OriginHindu.symbolPacks.2.adjective>
+  <Structure_OriginHindu.symbolPacks.2.adjective>신두교</Structure_OriginHindu.symbolPacks.2.adjective>
   <!-- EN: Sinduism -->
   <Structure_OriginHindu.symbolPacks.2.ideoName>신두교</Structure_OriginHindu.symbolPacks.2.ideoName>
   <!-- EN: Sindu -->
@@ -509,11 +509,11 @@
   <!-- EN: memeLeaderNoun->caliph -->
   <Structure_OriginIslamic.generalRules.rulesStrings.6>memeLeaderNoun->칼리프</Structure_OriginIslamic.generalRules.rulesStrings.6>
   <!-- EN: memeLeaderNoun->mufti -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.7>memeLeaderNoun->법 해석관</Structure_OriginIslamic.generalRules.rulesStrings.7>
+  <Structure_OriginIslamic.generalRules.rulesStrings.7>memeLeaderNoun->무프티</Structure_OriginIslamic.generalRules.rulesStrings.7>
   <!-- EN: memeLeaderNoun->almami -->
   <Structure_OriginIslamic.generalRules.rulesStrings.8>memeLeaderNoun->알마미</Structure_OriginIslamic.generalRules.rulesStrings.8>
   <!-- EN: memeLeaderNoun->kyai -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.9>memeLeaderNoun->캬이</Structure_OriginIslamic.generalRules.rulesStrings.9>
+  <Structure_OriginIslamic.generalRules.rulesStrings.9>memeLeaderNoun->키아이</Structure_OriginIslamic.generalRules.rulesStrings.9>
   <!-- EN: memeLeaderNoun->ayatollah -->
   <Structure_OriginIslamic.generalRules.rulesStrings.10>memeLeaderNoun->아야톨라</Structure_OriginIslamic.generalRules.rulesStrings.10>
   <!-- EN: memeLeaderAdjective->grand -->
@@ -529,7 +529,7 @@
   <!-- EN: memeMoralist->muezzin -->
   <Structure_OriginIslamic.generalRules.rulesStrings.16>memeMoralist->무에진</Structure_OriginIslamic.generalRules.rulesStrings.16>
   <!-- EN: memeMoralist->mujtahid -->
-  <Structure_OriginIslamic.generalRules.rulesStrings.17>memeMoralist->무지타히드</Structure_OriginIslamic.generalRules.rulesStrings.17>
+  <Structure_OriginIslamic.generalRules.rulesStrings.17>memeMoralist->무즈타히드</Structure_OriginIslamic.generalRules.rulesStrings.17>
   <!-- EN: memeMoralist->cleric -->
   <Structure_OriginIslamic.generalRules.rulesStrings.18>memeMoralist->성직자</Structure_OriginIslamic.generalRules.rulesStrings.18>
   <!-- EN: Islamic -->
@@ -543,7 +543,7 @@
   <!-- EN: Islamism -->
   <Structure_OriginIslamic.symbolPacks.1.ideoName>이슬람주의</Structure_OriginIslamic.symbolPacks.1.ideoName>
   <!-- EN: Islamist -->
-  <Structure_OriginIslamic.symbolPacks.1.member>이슬람주의자</Structure_OriginIslamic.symbolPacks.1.member>
+  <Structure_OriginIslamic.symbolPacks.1.member>무슬림</Structure_OriginIslamic.symbolPacks.1.member>
   <!-- EN: Shiite -->
   <Structure_OriginIslamic.symbolPacks.2.adjective>시아파</Structure_OriginIslamic.symbolPacks.2.adjective>
   <!-- EN: Shiism -->
@@ -623,6 +623,6 @@
   <!-- EN: Caliphist -->
   <Structure_OriginIslamic.symbolPacks.14.member>칼리파 교인</Structure_OriginIslamic.symbolPacks.14.member>
   <!-- EN: mosque -->
-  <Structure_OriginIslamic.worshipRoomLabel>회교 사원</Structure_OriginIslamic.worshipRoomLabel>
+  <Structure_OriginIslamic.worshipRoomLabel>모스크</Structure_OriginIslamic.worshipRoomLabel>
   
 </LanguageData>

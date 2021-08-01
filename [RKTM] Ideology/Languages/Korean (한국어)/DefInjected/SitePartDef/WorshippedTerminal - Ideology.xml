@@ -6,7 +6,7 @@
   <!-- EN: A village containing an ancient terminal which the locals worship. -->
   <WorshippedTerminal.description>고대 단말기 숭배자들의 마을입니다.</WorshippedTerminal.description>
   <!-- EN: Attacking {0} -->
-  <WorshippedTerminal.approachingReportString>{0} 공격 중</WorshippedTerminal.approachingReportString>
+  <WorshippedTerminal.approachingReportString>TODO</WorshippedTerminal.approachingReportString>
   <!-- EN: Investigate {0} -->
   <WorshippedTerminal.approachOrderString>{0} 조사</WorshippedTerminal.approachOrderString>
   <!-- EN: You may stay here for {TIMER} as long as you do not violate their rules. -->
