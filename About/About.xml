@@ -10,7 +10,7 @@
   </supportedVersions>
   <url>https://discord.gg/5UPyCtz</url>
   <description>
-<![CDATA[최종 업데이트: <color=green>2021.08.01</color>
+<![CDATA[최종 업데이트: <color=green>2021.08.04</color>
 
 =====================================
 이 모드는 <color=orange>바닐라와 DLC 번역</color> 합본팩입니다.
@@ -19,10 +19,6 @@
 이 모드는 공식번역에 포함되기 전까지 비공개 테스팅 목적으로 사용 중입니다.
 게임 상에 사용되는 단어는 언제든지 변경될 수 있습니다.
 
-<color=red>1.2 버전부터 번역을 읽는 방식이 변경</color>되어 모드 배열도 불가피하게 바뀌게 되었습니다.
-원래는 모드 목록 중 최상위의 번역만 적용이 되었다면
-이제는 모드 목록 중 아래로 내려갈수록 위의 번역을 덮어쓰게 됩니다.
-
 RKTM 권장 모드배열
 
 1. Core
@@ -30,15 +26,7 @@ RKTM 권장 모드배열
 3. Ideology (선택)
 <color=orange>4. [RKTM] Core</color>
 
-<color=orange>[RKTM] Mod</color>도 같이 구독을 해주시면 바닐라인 Core와 함께 다른 모드들도 번역이 적용됩니다.
-
-언어를 변경하는 법
-1. 본 모드 적용
-2. 우측의 언어 선택 상자 클릭
-3. 원하는 언어 선택
-4. 자동으로 재시작 후 적용확인
-
-만약 English나 Korean 이외에 아무것도 나오지 않는다면 RunTimeGC 옵션 때문이니 [설정 - 모드 옵션]에서 RunTimeGC를 찾아 번역관련 체크를 해제하셔야 다른 언어도 고를 수 있습니다.]]>
+<color=green>[RKTM] Mod</color>도 같이 구독을 해주시면 바닐라인 Core와 함께 다른 모드들도 번역이 적용됩니다.]]>
   </description>
   <incompatibleWith>
     <li>Milsu.Rimwaldo.Vanilla</li>

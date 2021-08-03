@@ -105,7 +105,7 @@
   <!-- EN: Only those who are blind can perceive the true reality. -->
   <Blindsight.description>앞이 보이지 않을 때 진정한 현실을 마주할 수 있다.</Blindsight.description>
   <!-- EN: creation(tag=meme_Blindsight)        ->[deity0_name] looked over the dust of the void for an eternity, and there was nothing. Then [deity0_pronoun] tore out [deity0_possessive] eyes, and the universe formed inside [deity0_possessive] mind. -->
-  <Blindsight.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Blindsight)        ->[deity0_name]께서 공허에서 무한히 티끌을 찾으나 그것이 어디서도 없으니 [deity0_name]께서 스스로 눈을 뽑아 생각하시니 그 마음 속에서 우주가 피어났느니라.</Blindsight.descriptionMaker.rules.rulesStrings.0>
+  <Blindsight.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Blindsight)        ->[deity0_name]께서 공허에서 무한히 티끌을 찾으나 그것이 어디에도 없으매 [deity0_name]께서 스스로 눈을 뽑아 생각하시니 그 마음 속에서 우주가 피어났니라.</Blindsight.descriptionMaker.rules.rulesStrings.0>
   <!-- EN: episode(uses=1,tag=meme_Blindsight)  ->A blind beggar asked [deity0_objective], "Why have you forsaken me? I cannot even see what you have created." [deity0_name] replied, "You see more, not less, for my truth lies in the mind." -->
   <Blindsight.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Blindsight)  ->눈 먼 걸인이 [deity0_name]께 이르되 왜 저를 버리셨나이까 당신이 만드신 것도 볼 수 없지 않사옵니까 하니 [deity0_name]께서 이르시되 나의 진리는 마음 속에 있나니 너는 더 적은 것이 아니라 더 많은 것을 보고 있느니라 하셨느니라.</Blindsight.descriptionMaker.rules.rulesStrings.1>
   <!-- EN: intro(tag=meme_Blindsight)           ->The [deity0_type] [deity0_name] used a pathogen to strike the settlers of the [place_summary] [place_name] blind, forcing them to understand that sight is a barrier to divine knowledge. -->
@@ -119,7 +119,7 @@
   <!-- EN: setup(tag=meme_Blindsight)           ->[founderName] was a healer of the poor. Seeing so much daily suffering, [founder_pronoun] could take it no longer. [founder_pronoun] gouged [founder_possessive] eyes out with a blade, and found tranquility in blindness. [founder_pronoun] began to spread [founder_possessive] discovery to the sighted. -->
   <Blindsight.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Blindsight)           ->[founderName]께서는 가난한 자들을 돌보시는 자였다. 나날이 고통받는 그들을 보며 [founder_pronoun]께서는 더이상 버티실 수 없었다. [founder_pronoun]께서는 칼날로 눈알을 파내고 어둠 속에서 평정을 찾으셨다. [founder_pronoun]께서는 볼 수 있는 자들에게 깨달음을 퍼뜨리기 시작하셨다.</Blindsight.descriptionMaker.rules.rulesStrings.6>
   <!-- EN: story(uses=1,tag=meme_Blindsight)    ->[founderName] visited a blind healer, and instead of teaching the man, found [founder_objective]self being taught, and came to understand that physical sight obscures true vision. -->
-  <Blindsight.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Blindsight)    ->[founderName]께서는 눈 먼 치유사를 찾아갔습니다. [founderName]께서는 치유사를 가르치기는 커녕 가르침을 받는 자신을 발견하셨습니다. 결국 [founderName]께서 육신의 시야는 진정한 가치를 모호하게 할 뿐이라는 것을 이해하셨습니다.</Blindsight.descriptionMaker.rules.rulesStrings.7>
+  <Blindsight.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Blindsight)    ->[founderName]께서 어느 눈먼 치유사에게 가르침을 주고자 찾아가셨으나, 가르치기는 커녕 가르침을 받는 자신을 발견하셨으니 이때가 [founderName]께서 육신의 시야가 진정한 가치를 모호하게 할 뿐이라는 것을 이해하신 때다.</Blindsight.descriptionMaker.rules.rulesStrings.7>
   <!-- EN: story(uses=1,tag=meme_Blindsight)    ->[founderName] was blind and took wisdom from sightlessness. [founder_pronoun] once personally removed the eyes of an entire family so that they may see as [founder_pronoun] does. -->
   <Blindsight.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_Blindsight)    ->[founderName]께서는 눈먼 자셨고 눈멂으로부터 지혜를 찾으셨다. 한 번은 [founderName]께서 어느 가족의 눈을 모두 적출하셨으니 이는 모두가 [founder_pronoun]께서 보시는 것처럼 볼 수 있도록 함이다.</Blindsight.descriptionMaker.rules.rulesStrings.8>
   <!-- EN: lessonIntro(tag=meme_Blindsight)         ->I walked strong but my soul stumbled on every step. I could just see too much. The acid on my eyes showed me that -->
@@ -141,19 +141,19 @@
   <!-- EN: animistFact(tag=meme_Blindsight)     ->To see through the eyes of a spirit is the only way to see the true nature of the world. -->
   <Blindsight.descriptionMaker.rules.rulesStrings.17>animistFact(tag=meme_Blindsight)     ->영혼의 눈으로 바라보는 것만이 세계의 본성을 알 수 있는 방법이다.</Blindsight.descriptionMaker.rules.rulesStrings.17>
   <!-- EN: memeAdjective->blind -->
-  <Blindsight.generalRules.rulesStrings.0>memeAdjective->장님</Blindsight.generalRules.rulesStrings.0>
+  <Blindsight.generalRules.rulesStrings.0>memeAdjective->맹인의</Blindsight.generalRules.rulesStrings.0>
   <!-- EN: memeAdjective->sightless -->
-  <Blindsight.generalRules.rulesStrings.1>memeAdjective->시력을 잃은</Blindsight.generalRules.rulesStrings.1>
+  <Blindsight.generalRules.rulesStrings.1>memeAdjective->실명한</Blindsight.generalRules.rulesStrings.1>
   <!-- EN: memeAdjective->visionary -->
-  <Blindsight.generalRules.rulesStrings.2>memeAdjective->공상가</Blindsight.generalRules.rulesStrings.2>
+  <Blindsight.generalRules.rulesStrings.2>memeAdjective->예언하는</Blindsight.generalRules.rulesStrings.2>
   <!-- EN: memeAdjective->farsighted -->
   <Blindsight.generalRules.rulesStrings.3>memeAdjective->원시안의</Blindsight.generalRules.rulesStrings.3>
   <!-- EN: memeCreed->view -->
-  <Blindsight.generalRules.rulesStrings.4>memeCreed->보기</Blindsight.generalRules.rulesStrings.4>
+  <Blindsight.generalRules.rulesStrings.4>memeCreed->본보기</Blindsight.generalRules.rulesStrings.4>
   <!-- EN: memeCreed->cult -->
   <Blindsight.generalRules.rulesStrings.5>memeCreed->숭배자</Blindsight.generalRules.rulesStrings.5>
   <!-- EN: memeHyphenPrefix->blind -->
-  <Blindsight.generalRules.rulesStrings.6>memeHyphenPrefix->장님</Blindsight.generalRules.rulesStrings.6>
+  <Blindsight.generalRules.rulesStrings.6>memeHyphenPrefix->눈먼</Blindsight.generalRules.rulesStrings.6>
   <!-- EN: memeConcept->blindness -->
   <Blindsight.generalRules.rulesStrings.7>memeConcept->맹목</Blindsight.generalRules.rulesStrings.7>
   <!-- EN: memeConcept->vision -->
@@ -165,13 +165,13 @@
   <!-- EN: memeLeaderNoun->visionary -->
   <Blindsight.generalRules.rulesStrings.11>memeLeaderNoun->예언자</Blindsight.generalRules.rulesStrings.11>
   <!-- EN: memeLeaderAdjective->blind -->
-  <Blindsight.generalRules.rulesStrings.12>memeLeaderAdjective->실명의</Blindsight.generalRules.rulesStrings.12>
+  <Blindsight.generalRules.rulesStrings.12>memeLeaderAdjective->눈먼</Blindsight.generalRules.rulesStrings.12>
   <!-- EN: memeMoralist->seer -->
-  <Blindsight.generalRules.rulesStrings.13>memeMoralist->보는자</Blindsight.generalRules.rulesStrings.13>
+  <Blindsight.generalRules.rulesStrings.13>memeMoralist->보는 자</Blindsight.generalRules.rulesStrings.13>
   <!-- EN: memeMoralist->gouger -->
   <Blindsight.generalRules.rulesStrings.14>memeMoralist->가우거</Blindsight.generalRules.rulesStrings.14>
   <!-- EN: memeMoralist->blindfolder -->
-  <Blindsight.generalRules.rulesStrings.15>memeMoralist->눈을 가리는자</Blindsight.generalRules.rulesStrings.15>
+  <Blindsight.generalRules.rulesStrings.15>memeMoralist->눈 가리는 자</Blindsight.generalRules.rulesStrings.15>
   
   <!-- EN: cannibal -->
   <Cannibal.label>식인</Cannibal.label>
@@ -736,7 +736,7 @@
   <!-- EN: setup(tag=meme_Proselytizer)           ->Our founder [founderName] was a great orator, converting thousands as [founder_pronoun] traveled between the cities. -->
   <Proselytizer.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Proselytizer)           ->우리의 창시자이신 [founderName]께서는 도시들을 순회하시며 위대한 웅변으로 수천 명을 교화하셨다.</Proselytizer.descriptionMaker.rules.rulesStrings.6>
   <!-- EN: story(uses=1,tag=meme_Proselytizer)    ->The believers moved between cities and institutions, spreading word of the new righteousness. -->
-  <Proselytizer.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Proselytizer)    ->신자들은 도시와 기관을 갈마들며 새 가르침을 퍼뜨렸습니다.</Proselytizer.descriptionMaker.rules.rulesStrings.7>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Proselytizer)    ->믿는 자들은 도시와 기관을 갈마들며 새로운 가르침을 널리 퍼뜨렸다.</Proselytizer.descriptionMaker.rules.rulesStrings.7>
   <!-- EN: lessonIntro(tag=meme_Proselytizer)         ->In all my years spreading our truth, I learned one lesson that stands over all: -->
   <Proselytizer.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Proselytizer)         ->우리의 진실을 전파하는 것에 내 평생을 바쳤으니 다양한 것을 배울 수 있었다. 하지만 그 중에서도 제일 와닿는 것이 있다.</Proselytizer.descriptionMaker.rules.rulesStrings.8>
   <!-- EN: lesson(tag=meme_Proselytizer)              ->keeping this good news to ourselves would be a crime -->
@@ -807,7 +807,7 @@
   <!-- EN: victory(tag=meme_Raider)         ->[founderName] and the [memberNamePlural] carried out a raiding campaign against the [foeSoldiers]' camps for many years, and eventually the [foeLeader] was forced to surrender. -->
   <Raider.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Raider)         ->[founderName](와)과 [memberName]들이 [foeSoldiers]의 막사에 수년간 습격을 하니 [foeLeader](은)는 달리 항복할 수밖에 없더라.</Raider.descriptionMaker.rules.rulesStrings.5>
   <!-- EN: setup(tag=meme_Raider)           ->Persecuted and imprisoned, [founderName] boiled with rage. [founder_pronoun] escaped, formed [founder_possessive] gang, and returned to ruin the weak who had taken so much from [founder_objective]. -->
-  <Raider.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Raider)           ->[founderName]께서는 박해받고 감옥에 갇히며 분노에 들끓으셨다. [founder_pronoun]께서는 도망쳐 당신의 패거리를 만드시고 [founder_objective]에게서 많은 것을 빼앗은 나약한 자들을 파멸시키러 돌아오셨다.</Raider.descriptionMaker.rules.rulesStrings.6>
+  <Raider.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Raider)           ->창시자 [founderName]께서는 온갖 박해와 수난을 받으셨으니 마땅히 분노하셨다. 그리하여 창시자께서 도망하셨으나 따르는 이들과 함께 다시 돌아가셨으니 [founder_possessive] 많은 것을 빼앗은 나약한 자들을 파멸케 하셨다.</Raider.descriptionMaker.rules.rulesStrings.6>
   <!-- EN: story(uses=1,tag=meme_Raider)    ->One day while walking the streets, [founderName] was surrounded by filthy beggars. [founder_pronoun] beat them down, taking the money from the weak and worthless that it might be put to good use. -->
   <Raider.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Raider)    ->어느 날, 더러운 걸인 무리가 [founderName](을)를 둘러싸고 구걸했으나, 창시자께서는 그 모두를 때려눕히시고는 돈을 취하셨으니 이는 나약하고 쓸모없는 이들보다 창시자께서 더 유용한 곳에 돈을 사용하실 수 있기 때문이다.</Raider.descriptionMaker.rules.rulesStrings.7>
   <!-- EN: lessonIntro(tag=meme_Raider)         ->The prey people can teach you things even as they die under your knife. One old lady taught me that -->

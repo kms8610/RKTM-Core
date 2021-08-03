@@ -139,9 +139,9 @@
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <CelebrationPartyDanceDrum.description>의식의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</CelebrationPartyDanceDrum.description>
   <!-- EN: participant count -->
-  <CelebrationPartyDanceDrum.comps.0.label>참여자 수</CelebrationPartyDanceDrum.comps.0.label>
+  <CelebrationPartyDanceDrum.comps.0.label>연주된 북 갯수</CelebrationPartyDanceDrum.comps.0.label>
   <!-- EN: room impressiveness -->
-  <CelebrationPartyDanceDrum.comps.1.label>방 인상</CelebrationPartyDanceDrum.comps.1.label>
+  <CelebrationPartyDanceDrum.comps.1.label>모닥불 이용</CelebrationPartyDanceDrum.comps.1.label>
   <!-- EN: played drum count -->
   <CelebrationPartyDanceDrum.comps.2.label>TODO</CelebrationPartyDanceDrum.comps.2.label>
   <!-- EN: started at campfire -->
@@ -174,9 +174,9 @@
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <CelebrationPartyDanceTech.description>의식의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</CelebrationPartyDanceTech.description>
   <!-- EN: participant count -->
-  <CelebrationPartyDanceTech.comps.0.label>참여자 수</CelebrationPartyDanceTech.comps.0.label>
+  <CelebrationPartyDanceTech.comps.0.label>사용된 스피커 수</CelebrationPartyDanceTech.comps.0.label>
   <!-- EN: room impressiveness -->
-  <CelebrationPartyDanceTech.comps.1.label>방 인상</CelebrationPartyDanceTech.comps.1.label>
+  <CelebrationPartyDanceTech.comps.1.label>미러볼 사용</CelebrationPartyDanceTech.comps.1.label>
   <!-- EN: active speaker count -->
   <CelebrationPartyDanceTech.comps.2.label>TODO</CelebrationPartyDanceTech.comps.2.label>
   <!-- EN: started at lightball -->
@@ -520,7 +520,7 @@
   <!-- EN: Spectacular -->
   <ScarificationCeremony.outcomeChances.3.label>훌륭한</ScarificationCeremony.outcomeChances.3.label>
   <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy as the bladeholder artfully rended living flesh. -->
-  <ScarificationCeremony.outcomeChances.3.description>{0}(은)는 장관이었습니다! 살 위에서 칼이 아름다운 춤을 추며 상흔을 남길때의 연설은 모두를 환호케 했습니다.</ScarificationCeremony.outcomeChances.3.description>
+  <ScarificationCeremony.outcomeChances.3.description>{0}(은)는 장관이었습니다! 살 위에서 칼이 춤추며 아름다운 상처를 남겼고 모두가 환호했습니다.</ScarificationCeremony.outcomeChances.3.description>
   
   <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
   <Trial.description>재판의 품질은 피고가 유죄 판결을 받을 확률을 결정합니다.</Trial.description>

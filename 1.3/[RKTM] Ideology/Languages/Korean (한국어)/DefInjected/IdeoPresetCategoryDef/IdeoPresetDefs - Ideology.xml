@@ -4,7 +4,7 @@
   <!-- EN: classic -->
   <Classic.label>클래식</Classic.label>
   <!-- EN: Your colonists get a belief system like classic RimWorld. Good for your first few games. -->
-  <Classic.description>정착민이 클래식 림월드와 비슷한 사상을 가집니다. 처음 몇 번의 게임에 적합합니다.</Classic.description>
+  <Classic.description>정착민이 클래식 림월드와 비슷한 사상을 가집니다. 게임을 처음 경험해볼 때 적합합니다.</Classic.description>
   <!-- EN: Classic -->
   <Classic.groupLabel>클래식</Classic.groupLabel>
   
@@ -18,7 +18,7 @@
   <!-- EN: intense -->
   <Intense.label>강한 영향</Intense.label>
   <!-- EN: These give your colonists extremely disruptive beliefs. Your game will be very different from traditional RimWorld. -->
-  <Intense.description>정착민이 극도로 변형된 사상을 가집니다. 게임 플레이가 클래식과 크게 달라집니다.</Intense.description>
+  <Intense.description>정착민이 극도로 변형된 사상을 가집니다. 게임 플레이가 클래식 림월드와 크게 달라집니다.</Intense.description>
   <!-- EN: Presets -->
   <Intense.groupLabel>사전설정</Intense.groupLabel>
   
@@ -32,7 +32,7 @@
   <!-- EN: strong -->
   <Strong.label>보통 영향</Strong.label>
   <!-- EN: These give your colonists strong beliefs and support playstyles significantly different from classic RimWorld. -->
-  <Strong.description>정착민이 뚜렷한 사상을 가집니다. 게임 플레이가 클래식과 크게 달라집니다.</Strong.description>
+  <Strong.description>정착민이 뚜렷한 사상을 가집니다. 게임 플레이가 클래식 림월드와 크게 달라집니다.</Strong.description>
   <!-- EN: Presets -->
   <Strong.groupLabel>사전설정</Strong.groupLabel>
   

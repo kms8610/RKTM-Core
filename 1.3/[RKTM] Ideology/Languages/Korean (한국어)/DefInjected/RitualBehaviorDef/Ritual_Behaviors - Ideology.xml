@@ -125,30 +125,30 @@
   <LeaderSpeech.roles.0.label>연설자</LeaderSpeech.roles.0.label>
   
   <!-- EN: cutter -->
-  <SacrificeAnimal.roles.0.label>절단자</SacrificeAnimal.roles.0.label>
+  <SacrificeAnimal.roles.0.label>산제물</SacrificeAnimal.roles.0.label>
   <SacrificeAnimal.roles.0.missingDesc>몸 크기가 0.8 이상인 동물</SacrificeAnimal.roles.0.missingDesc>
   <!-- EN: sacrifice -->
-  <SacrificeAnimal.roles.1.label>산제물</SacrificeAnimal.roles.1.label>
+  <SacrificeAnimal.roles.1.label>TODO</SacrificeAnimal.roles.1.label>
   <!-- EN: an animal with body size of at least 0.8 -->
-  <SacrificeAnimal.roles.1.missingDesc>몸 크기가 0.8 이상인 동물</SacrificeAnimal.roles.1.missingDesc>
+  <SacrificeAnimal.roles.1.missingDesc>TODO</SacrificeAnimal.roles.1.missingDesc>
   <!-- EN: participate -->
-  <SacrificeAnimal.spectatorGerund>참여자</SacrificeAnimal.spectatorGerund>
+  <SacrificeAnimal.spectatorGerund>TODO</SacrificeAnimal.spectatorGerund>
   <!-- EN: Participants -->
-  <SacrificeAnimal.spectatorsLabel>참여자들</SacrificeAnimal.spectatorsLabel>
+  <SacrificeAnimal.spectatorsLabel>TODO</SacrificeAnimal.spectatorsLabel>
   <!-- EN: Animal is not reachable. -->
   <SacrificeAnimal.stages.0.failTriggers.0.desc>동물에게 도달할 수 없습니다.</SacrificeAnimal.stages.0.failTriggers.0.desc>
   
   <!-- EN: cutter -->
-  <SacrificePrisoner.roles.0.label>절단자</SacrificePrisoner.roles.0.label>
+  <SacrificePrisoner.roles.0.label>산제물</SacrificePrisoner.roles.0.label>
   <SacrificePrisoner.roles.0.missingDesc>수감자</SacrificePrisoner.roles.0.missingDesc>
   <!-- EN: sacrifice -->
-  <SacrificePrisoner.roles.1.label>산제물</SacrificePrisoner.roles.1.label>
+  <SacrificePrisoner.roles.1.label>TODO</SacrificePrisoner.roles.1.label>
   <!-- EN: a prisoner -->
-  <SacrificePrisoner.roles.1.missingDesc>수감자</SacrificePrisoner.roles.1.missingDesc>
+  <SacrificePrisoner.roles.1.missingDesc>TODO</SacrificePrisoner.roles.1.missingDesc>
   <!-- EN: participate -->
-  <SacrificePrisoner.spectatorGerund>참여자</SacrificePrisoner.spectatorGerund>
+  <SacrificePrisoner.spectatorGerund>TODO</SacrificePrisoner.spectatorGerund>
   <!-- EN: Participants -->
-  <SacrificePrisoner.spectatorsLabel>참여자들</SacrificePrisoner.spectatorsLabel>
+  <SacrificePrisoner.spectatorsLabel>TODO</SacrificePrisoner.spectatorsLabel>
   <!-- EN: Prisoner is not reachable. -->
   <SacrificePrisoner.stages.0.failTriggers.0.desc>수감자가 접근할 수 없는 위치에 있습니다.</SacrificePrisoner.stages.0.failTriggers.0.desc>
   
@@ -167,7 +167,7 @@
   <SmokeCircle.spectatorsLabel>참여자</SmokeCircle.spectatorsLabel>
   
   <!-- EN: connector -->
-  <TreeConnection.roles.0.label>결속자</TreeConnection.roles.0.label>
+  <TreeConnection.roles.0.label>교감자</TreeConnection.roles.0.label>
   <!-- EN: spectate -->
   <TreeConnection.spectatorGerund>관전</TreeConnection.spectatorGerund>
   <!-- EN: Spectators -->

@@ -4,7 +4,7 @@
   <!-- EN: infinite chemreactor -->
   <InfiniteChemreactor.label>무한 화학연료 생성기</InfiniteChemreactor.label>
   <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
-  <InfiniteChemreactor.description>공기중의 원소를 포집하여 천천히 화학연료를 생산하는 고대 장치입니다.</InfiniteChemreactor.description>
+  <InfiniteChemreactor.description>공기 중의 원소를 포집하여 천천히 화학연료를 생산하는 고대 장치입니다.</InfiniteChemreactor.description>
   
   <!-- EN: psychic emanator -->
   <PsychicEmanator.label>정신파동 발생장치</PsychicEmanator.label>

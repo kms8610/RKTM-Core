@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: participant count -->
+  <CelebrationPartyDanceDrum.comps.0.label>참여자 수</CelebrationPartyDanceDrum.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebrationPartyDanceDrum.comps.1.label>방 인상</CelebrationPartyDanceDrum.comps.1.label>
   <!-- EN: played drum count -->
   <CelebrationPartyDanceDrum.comps.2.label>연주된 북 갯수</CelebrationPartyDanceDrum.comps.2.label>
   <!-- EN: started at campfire -->
@@ -8,6 +12,10 @@
   <!-- EN: a campfire -->
   <CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>모닥불</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
 
+  <!-- EN: participant count -->
+  <CelebrationPartyDanceTech.comps.0.label>참여자 수</CelebrationPartyDanceTech.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebrationPartyDanceTech.comps.1.label>방 인상</CelebrationPartyDanceTech.comps.1.label>
   <!-- EN: active speaker count -->
   <CelebrationPartyDanceTech.comps.2.label>사용된 스피커 수</CelebrationPartyDanceTech.comps.2.label>
   <!-- EN: started at lightball -->

@@ -2,15 +2,15 @@
 <LanguageData>
 
   <!-- EN: Customize ideoligion -->
-  <CustomizeIdeoligion>사상 생성</CustomizeIdeoligion> <!-- text_todo -->
+  <CustomizeIdeoligion>사상 생성</CustomizeIdeoligion>
   <!-- EN: Choose your ideoligion -->
   <ChooseYourIdeoligion>사상 선택</ChooseYourIdeoligion>
   <!-- EN: Random -->
   <Random>무작위</Random>
   <!-- EN: A random structure will be used for your ideoligion. -->
-  <RandomStructureTip>사상의 구조를 무작위로 선택합니다.</RandomStructureTip> <!-- text_todo -->
+  <RandomStructureTip>사상의 구조를 무작위로 선택합니다.</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
-  <RandomStyleTip>사상의 양식을 무작위로 선택합니다.</RandomStyleTip> <!-- text_todo -->
+  <RandomStyleTip>사상의 양식을 무작위로 선택합니다.</RandomStyleTip>
   <!-- EN: Customize -->
   <Customize>만들기</Customize>
   <!-- EN: Play classic -->
@@ -168,7 +168,7 @@
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>이미 {PAWN_nameDef}(와)과 교감함</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
-  <RitualTargetConnectionTornGauranlenTree>{TREE_definite}(은)는 최근에 교감이 끊겼습니다. {1}(와)과 다시 교감할 수 있습니다.</RitualTargetConnectionTornGauranlenTree>
+  <RitualTargetConnectionTornGauranlenTree>{TREE_definite}의 교감이 최근 끊어졌습니다. {1} 후 다시 교감할 수 있습니다.</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>각 참여자마다 {0}개의 목재가 필요합니다(총 {2}명). 보유 중인 목재는 {1}개입니다.</RitualTargeWoodInfo>
   <!-- EN: Accuse -->
@@ -407,11 +407,11 @@
 
   <!-- Gauranlen trees/Dryads -->
   <!-- EN: Connected to -->
-  <ConnectedPawn>교감:</ConnectedPawn>
+  <ConnectedPawn>교감</ConnectedPawn>
   <!-- EN: Nobody -->
   <Nobody>아무도 없음</Nobody>
   <!-- EN: The person this {TREE_label} is connected to. If the connected person dies, this {TREE_label} will be unable to connect to another for {DURATION}. -->
-  <ConnectedPawnDesc>이 정착민은 {TREE_label}(와)과 교감하고 있습니다. 교감자가 사망할 경우 {DURATION} 동안 {TREE_label}(와)과 다시 교감할 수 없습니다.</ConnectedPawnDesc>
+  <ConnectedPawnDesc>{TREE_label}(와)과 교감한 사람입니다. 교감자가 사망할 경우 {DURATION}동안 {TREE_label}(와)과 다시 교감할 수 없습니다.</ConnectedPawnDesc>
   <!-- EN: Connection torn. Can connect in {0}. -->
   <ConnectionTorn>교감 끊어짐. {0} 후 다시 교감할 수 있습니다.</ConnectionTorn>
   <!-- EN: {PAWN_nameDef} is too far away -->
@@ -429,7 +429,7 @@
   <!-- EN: {0} strength -->
   <ConnectionStrengthDisplay>{0} 강도</ConnectionStrengthDisplay>
   <!-- EN: Determines how many dryads this tree can support. -->
-  <ConnectionStrengthDesc>이 나무가 수용할 수 있는 나무지기의 수입니다.</ConnectionStrengthDesc>
+  <ConnectionStrengthDesc>이 나무가 수용할 수 있는 나무지기의 수를 결정합니다.</ConnectionStrengthDesc>
   <!-- EN: Max dryads -->
   <MaximumDryads>나무지기 최대 수</MaximumDryads>
   <!-- EN: The maximum number of dryads this tree can support. -->
@@ -445,7 +445,7 @@
   <!-- EN: {CONNECTEDPAWN_nameDef} will prune {TREE_definite} often enough to keep connection strength above this level.\n\nHigher connection strength allows supporting more dryads, but also falls faster and thus takes more frequent pruning to maintain.\n\nYou can click on the bar to adjust the desired target connection strength.\n\nConnection strength fall per day: {FALL}\n\nConnection strength is affected by nearby buildings. -->
   <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef}(이)가 이 교감 수준 유지에 충분할 때까지 {TREE_definite}(을)를 다듬을 것입니다.\n\n높은 교감 수준에서는 더 많은 나무지기를 수용할 수 있지만 그만큼 더 자주 다듬어줘야 합니다.\n\n교감 수준 게이지를 클릭해서 희망 강도를 설정할 수 있습니다.\n\n일간 교감 수준 감소량: {FALL}\n\n교감 수준은 주변 건물의 영향을 받습니다.</DesiredConnectionStrengthDesc>
   <!-- EN: Waiting for {CONNECTEDPAWN_nameDef} to change dryad caste. -->
-  <WaitingForConnectorToChangeCaste>{CONNECTEDPAWN_nameDef}(이)가 나무지기 계급 교체를 기다리는 중.</WaitingForConnectorToChangeCaste>
+  <WaitingForConnectorToChangeCaste>{CONNECTEDPAWN_nameDef}(이)가 나무지기 계급을 바꾸길 기다리는 중.</WaitingForConnectorToChangeCaste>
   <!-- EN: Dryad caste -->
   <GauranlenTreeMode>나무지기 계급</GauranlenTreeMode>
   <!-- EN: no caste -->
