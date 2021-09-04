@@ -7,7 +7,7 @@
   <BlindingCeremony.description>의식을 통해 대상의 눈을 적출하여 실명시킵니다. 관중들은 절단자가 연설하고, 대상의 눈을 모두 적출한 뒤 의식을 마칠 때까지 지켜볼 것입니다. 대상은 의식 직후에 출혈 상태가 되므로 즉시 치료해야 합니다.</BlindingCeremony.description>
   
   <!-- EN: conversion ritual -->
-  <Conversion.label>교화의식</Conversion.label>
+  <Conversion.label>교화 의식</Conversion.label>
   <!-- EN: Try to persuade someone into joining your ideoligion. -->
   <Conversion.description>누군가가 당신의 사상을 따르도록 설득합니다.</Conversion.description>
   
@@ -33,7 +33,7 @@
   <!-- EN: A gathering that occurs around a believer's grave after they die and are buried. If the body is destroyed, an empty grave can be used. Slaves don't get funerals. -->
   <Funeral.description>이 사상을 믿는 사람이 죽어 묻힐 때 치러지는 행사입니다. 육체가 파괴됐다면 빈 무덤도 사용될 수 있습니다. 노예는 장례식을 치러주지 않습니다.</Funeral.description>
   <!-- EN: {PAWN_nameDef} should be buried and given a funeral so {PAWN_possessive} friends and family can say farewell. -->
-  <Funeral.extraTextPawnDeathLetter>{PAWN_nameDef}(은)는 매장되고 장례식을 치러야 {PAWN_possessive}친구와 가족이 작별할 수 있습니다.</Funeral.extraTextPawnDeathLetter>
+  <Funeral.extraTextPawnDeathLetter>{PAWN_nameDef}(은)는 매장되고 장례식을 치러야 {PAWN_possessive} 친구와 가족이 작별할 수 있습니다.</Funeral.extraTextPawnDeathLetter>
   
   <!-- EN: funeral (no corpse) -->
   <FuneralNoCorpse.label>장례식 (시신 없음)</FuneralNoCorpse.label>
@@ -52,8 +52,13 @@
   <!-- EN: A rousing speech intended to improve morale. Colonists will gather, and the leader will speak for a few hours. If all goes well, listeners will feel inspired, and gain respect for the leader. If it goes poorly, the speech will do social damage. -->
   <LeaderSpeech.description>정착민들의 사기를 고양하기 위한 연설입니다. 연설이 잘 진행된다면 청자들은 기분이 향상되고, 지도자에 대한 존경심을 가지며, 때때로 영감을 얻게 됩니다. 그러나 연설이 끔찍하다고 느낀다면 실망할 것입니다.</LeaderSpeech.description>
   
+  <!-- EN: role change -->
+  <RoleChange.label>취임식</RoleChange.label>
+  <!-- EN: A ceremony for changing social roles. The person changing roles will give a speech while others gather around. The required number of spectators must attend. -->
+  <RoleChange.description>정착민의 지위 변경을 인정받기 위한 행사입니다. 새로운 지위를 인정받기 위해서는 최소한의 인원이 행사에 참석해야 합니다.</RoleChange.description>
+  
   <!-- EN: scarification -->
-  <ScarificationCeremony.label>상흔 의식</ScarificationCeremony.label>
+  <ScarificationCeremony.label>상흔 문신</ScarificationCeremony.label>
   <!-- EN: A ritualistic scarring where a cutter carves ideoligious symbols into a target. The audience will watch as the cutter gives a speech, performs the cutting, then says some finishing words. -->
   <ScarificationCeremony.description>의식을 통해 대상의 피부에 사상이 담긴 상흔 문신을 새깁니다. 관중들은 절단자가 연설하고, 살을 베고, 의식을 마칠 때까지 지켜볼 것입니다.</ScarificationCeremony.description>
   

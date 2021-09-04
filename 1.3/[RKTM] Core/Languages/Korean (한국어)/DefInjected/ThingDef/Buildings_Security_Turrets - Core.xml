@@ -9,10 +9,10 @@
   <Artillery_Mortar.verbs.Verb_Shoot.label>박격포</Artillery_Mortar.verbs.Verb_Shoot.label>
   
   <!-- EN: autocannon shell -->
-  <Bullet_AutocannonTurret.label>중형 포탑 기관포탄</Bullet_AutocannonTurret.label>
+  <Bullet_AutocannonTurret.label>대형 기관포탄</Bullet_AutocannonTurret.label>
   
   <!-- EN: mini-turret bullet -->
-  <Bullet_MiniTurret.label>소형 포탑 기관포탄</Bullet_MiniTurret.label>
+  <Bullet_MiniTurret.label>소형 기관포탄</Bullet_MiniTurret.label>
   
   <!-- EN: uranium slug -->
   <Bullet_TurretSniper.label>우라늄 탄</Bullet_TurretSniper.label>
@@ -22,14 +22,14 @@
   <!-- EN: A self-loading large-bore cannon designed to attach to a turret. -->
   <Gun_AutocannonTurret.description>자동 장전이 가능한 대구경 기관포가 장착된 포탑입니다.</Gun_AutocannonTurret.description>
   <!-- EN: autocannon -->
-  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>기관포</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
+  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>대형 포탑</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: mini-turret gun -->
   <Gun_MiniTurret.label>소형 포탑</Gun_MiniTurret.label>
   <!-- EN: A simple automatic gun made to be mounted on a turret. -->
   <Gun_MiniTurret.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_MiniTurret.description>
   <!-- EN: mini-turret gun -->
-  <Gun_MiniTurret.verbs.Verb_Shoot.label>기관총</Gun_MiniTurret.verbs.Verb_Shoot.label>
+  <Gun_MiniTurret.verbs.Verb_Shoot.label>소형 포탑</Gun_MiniTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: uranium slug cannon -->
   <Gun_TurretSniper.label>저격 포탑</Gun_TurretSniper.label>
@@ -65,11 +65,11 @@
   <!-- EN: A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
   <Turret_Mortar.description>모든 종류의 포탄을 발사하는 유인 박격포. 파괴적인 피해를 입힐 수 있지만, 박격포 고유의 부정확성은 전장의 적 집단보다 큰 요새를 공격하는데 더 유용합니다.</Turret_Mortar.description>
   <!-- EN: Barrel durability -->
-  <Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>배럴 내구도</Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>남은 포탄</Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shots until barrel change -->
-  <Turret_Mortar.comps.CompRefuelable.fuelLabel>배럴이 변형될 때까지</Turret_Mortar.comps.CompRefuelable.fuelLabel>
+  <Turret_Mortar.comps.CompRefuelable.fuelLabel>재장전까지 남은 포탄</Turret_Mortar.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs new reinforced barrel -->
-  <Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>쏠 수 없음: 새 강화 배럴 필요</Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>발사 불가: 새 강화 포신 필요</Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: uranium slug turret -->
   <Turret_Sniper.label>저격포</Turret_Sniper.label>

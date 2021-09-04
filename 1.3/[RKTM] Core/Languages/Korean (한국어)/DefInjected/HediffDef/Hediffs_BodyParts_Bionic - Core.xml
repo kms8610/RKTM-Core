@@ -52,6 +52,13 @@
   <!-- EN: a bionic stomach -->
   <BionicStomach.labelNoun>생체공학 위</BionicStomach.labelNoun>
   
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>생체공학 혀</BionicTongue.label>
+  <!-- EN: An installed bionic tongue. -->
+  <BionicTongue.description>생체공학 혀가 설치되어 있습니다.</BionicTongue.description>
+  <!-- EN: a bionic tongue -->
+  <BionicTongue.labelNoun>생체공학 혀</BionicTongue.labelNoun>
+  
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>사후 처리장치</DeathAcidifier.label>
   <!-- EN: An installed death acidifier. -->

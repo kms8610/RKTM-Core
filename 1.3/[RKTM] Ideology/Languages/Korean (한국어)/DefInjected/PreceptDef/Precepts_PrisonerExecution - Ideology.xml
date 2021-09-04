@@ -65,10 +65,14 @@
   <Execution_Required.comps.5.description>누군가가 방문객을 처형함</Execution_Required.comps.5.description>
   <!-- EN: No execution for {MINDAYSLASTEXECUTION} days -->
   <Execution_Required.comps.6.description>{MINDAYSLASTEXECUTION}일 동안 처형 하지 않았음</Execution_Required.comps.6.description>
+  <!-- EN: executed someone -->
+  <Execution_Required.comps.7.eventLabel>누군가를 처형</Execution_Required.comps.7.eventLabel>
   
   <!-- EN: respected if guilty -->
   <Execution_RespectedIfGuilty.label>유죄일 경우 존중받음</Execution_RespectedIfGuilty.label>
   <!-- EN: Executing prisoners is acceptable. If the prisoner is guilty, it is cause for great happiness. -->
   <Execution_RespectedIfGuilty.description>죄의 유무와 상관없이 모든 수감자는 처형할 수 있다. 범죄를 저지른 자라면 그만큼 즐거운 일도 없을 것이다.</Execution_RespectedIfGuilty.description>
+  <!-- EN: executed someone -->
+  <Execution_RespectedIfGuilty.comps.3.eventLabel>누군가를 처형</Execution_RespectedIfGuilty.comps.3.eventLabel>
   
 </LanguageData>

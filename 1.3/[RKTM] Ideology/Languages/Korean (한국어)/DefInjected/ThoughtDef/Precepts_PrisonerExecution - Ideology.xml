@@ -50,7 +50,7 @@
   <ExecutedPrisoner_Know_Respected.stages.executed_prisoner.label>수감자 처형 목격</ExecutedPrisoner_Know_Respected.stages.executed_prisoner.label>
   
   <!-- EN: executed prisoner -->
-  <ExecutedPrisoner_Respected.stages.executed_prisoner.label>수감자 처형 목격</ExecutedPrisoner_Respected.stages.executed_prisoner.label>
+  <ExecutedPrisoner_Respected.stages.executed_prisoner.label>수감자 처형</ExecutedPrisoner_Respected.stages.executed_prisoner.label>
   <!-- EN: I executed a prisoner. Victory has consequences. -->
   <ExecutedPrisoner_Respected.stages.executed_prisoner.description>수감자를 처형했어. 승자가 있다면 패자도 있는 법이지.</ExecutedPrisoner_Respected.stages.executed_prisoner.description>
   
@@ -102,7 +102,7 @@
   <InnocentPrisonerDied_Know_Abhorrent.stages.responsible_for_the_death_of_a_prisoner.label>수감자 죽음 애도</InnocentPrisonerDied_Know_Abhorrent.stages.responsible_for_the_death_of_a_prisoner.label>
   
   <!-- EN: innocent prisoner died -->
-  <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.label>무고한 수감자 사망</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.label>
+  <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.label>결백한 수감자 사망</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.label>
   <!-- EN: One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism. -->
   <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.description>수감자 한 명이 부당한 방식으로 처형당했어. 우리는 포로를 보호할 의무가 있어. 처형하더라도 최소한 이렇게 야만적인 방법이 아니라 정당한 절차를 거쳐야 한다고.</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.description>
   

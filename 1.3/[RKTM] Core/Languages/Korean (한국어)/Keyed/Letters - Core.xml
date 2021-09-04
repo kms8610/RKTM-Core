@@ -496,7 +496,7 @@
   <!-- EN: {0} leaving -->
   <LetterLabelPawnsLeaving>{0} 떠남</LetterLabelPawnsLeaving>
   <!-- EN: {0} are leaving. -->
-  <LetterPawnsLeaving>{0}의 이방인들이 정착지를 떠납니다.</LetterPawnsLeaving>
+  <LetterPawnsLeaving>{0}의 외지인들이 정착지를 떠납니다.</LetterPawnsLeaving>
   
   <!-- Colonist kidnapped -->
   <!-- EN: {PAWN_nameDef} kidnapped -->

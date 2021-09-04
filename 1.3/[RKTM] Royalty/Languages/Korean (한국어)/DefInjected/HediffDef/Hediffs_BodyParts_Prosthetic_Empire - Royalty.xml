@@ -29,13 +29,13 @@
   <FieldHand.labelNoun>농업용 기계손</FieldHand.labelNoun>
   
   <!-- EN: hand talon -->
-  <HandTalon.label>발톱 손</HandTalon.label>
+  <HandTalon.label>칼날 손톱</HandTalon.label>
   <!-- EN: An installed hand talon. -->
-  <HandTalon.description>발톱 손을 설치했습니다.</HandTalon.description>
+  <HandTalon.description>칼날 손톱을 설치했습니다.</HandTalon.description>
   <!-- EN: talon -->
-  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>발톱</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
+  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>칼날 손톱</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
   <!-- EN: a hand talon -->
-  <HandTalon.labelNoun>발톱 손</HandTalon.labelNoun>
+  <HandTalon.labelNoun>칼날 손톱</HandTalon.labelNoun>
   
   <!-- EN: knee spike -->
   <KneeSpike.label>무릎 송곳</KneeSpike.label>
@@ -49,7 +49,7 @@
   <!-- EN: mindscrew -->
   <Mindscrew.label>정신 압박기</Mindscrew.label>
   <!-- EN: An installed mindscrew. -->
-  <Mindscrew.description>정신 압박기를 설치했습니다.</Mindscrew.description>
+  <Mindscrew.description>정신 압박기를 이식했습니다.</Mindscrew.description>
   <!-- EN: a mindscrew -->
   <Mindscrew.labelNoun>정신 압박기</Mindscrew.labelNoun>
   
@@ -63,12 +63,12 @@
   <VenomFangs.labelNoun>독니</VenomFangs.labelNoun>
   
   <!-- EN: venom talon -->
-  <VenomTalon.label>독 발톱</VenomTalon.label>
+  <VenomTalon.label>맹독 손톱</VenomTalon.label>
   <!-- EN: An installed venom talon. -->
-  <VenomTalon.description>독 발톱을 설치했습니다.</VenomTalon.description>
+  <VenomTalon.description>맹독 손톱을 설치했습니다.</VenomTalon.description>
   <!-- EN: venom talon -->
-  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>독 발톱</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>맹독 손톱</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
   <!-- EN: a venom talon -->
-  <VenomTalon.labelNoun>독 발톱</VenomTalon.labelNoun>
+  <VenomTalon.labelNoun>맹독 손톱</VenomTalon.labelNoun>
   
 </LanguageData>

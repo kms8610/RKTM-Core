@@ -12,7 +12,7 @@
   <PsychicDronerShipPart.description>기원이 알려지지 않은 제작품으로 찢겨진 선함의 일부분으로, 수천 년이 됐을 수도 있습니다.\n\n초능력 방해 장치가 포함되어 있습니다. 이해할 수 없는 초월기술을 사용하여, 주변의 넓은 반경내에 있는 사람과 동물을 분노하게 만드는 정신적 신호를 생성합니다.</PsychicDronerShipPart.description>
   
   <!-- EN: ship chunk -->
-  <ShipChunk.label>우주선 파편</ShipChunk.label>
+  <ShipChunk.label>함선 파편</ShipChunk.label>
   <!-- EN: A chunk of a spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
   <ShipChunk.description>우주선의 일부였던 고철 덩어리입니다. 분해하여 유용한 금속과 부품을 얻을 수 있습니다.</ShipChunk.description>
   

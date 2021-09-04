@@ -2574,14 +2574,14 @@
     <desc>{PAWN_nameDef}(은)는 기업의 기밀을 빼내려 시도를 했지만 실패했고 결국 도망치는 길 밖에 없었습니다.\n\n{PAWN_pronoun}는 모든 것을 남기고 떠난 채 항상 움직여야만 했습니다. {PAWN_pronoun}는 명분을 얻기 위해 지지자를 모으려 했었지만 그것마저도 {PAWN_possessive} 사교 기술이 낮은 탓에 실패할 수밖에 없었습니다.</desc>
   </Fugitive4>
   
-  <FurnitureBuilder50>
+  <FurnitureBuilder83>
     <!-- EN: furniture builder -->
     <title>가구 목수</title>
     <!-- EN: builder -->
     <titleShort>목수</titleShort>
-    <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent his time building beautiful furniture for wealthy glitterworld clients. -->
+    <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
     <desc>숲 근처에서 자란 {PAWN_nameDef}(은)는 많은 시간을 번화계의 고객들을 위한 아름다운 가구들을 만드는데 할애했습니다.</desc>
-  </FurnitureBuilder50>
+  </FurnitureBuilder83>
   
   <GalacticPage37>
     <!-- EN: galactic page -->

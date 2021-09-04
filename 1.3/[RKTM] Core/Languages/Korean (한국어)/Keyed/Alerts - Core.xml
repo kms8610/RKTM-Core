@@ -278,6 +278,11 @@
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
   <AlertAnimalPenNotEnclosedDesc>완성하지 않은 동물 우리가 있습니다.\n\n우리 표시는 동물이 밖으로 나가지 못하도록 울타리, 울타리 문, 방어벽, 벽, 문으로 둘러싼 영역 안에 위치해야 합니다.\n\n미완성 우리만 있더라도 조련사가 배회하는 동물을 집으로 데려오기는 하지만, 동물이 밖으로 나갈 때마다 반복해서 끌고 와야 합니다.</AlertAnimalPenNotEnclosedDesc>
 
+  <!-- EN: {ANIMAL_labelShort} in animal pen -->
+  <AlertPredatorInAnimalPen>동물 우리 안의 {ANIMAL_labelShort}</AlertPredatorInAnimalPen>
+  <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
+  <AlertPredatorInAnimalPenDesc>배회하던 {ANIMAL_labelShort}(이)가 동물 우리 안으로 들어왔습니다.\n\n배가 고프면 사냥할 수도 있습니다.\n\n포식자를 죽이거나, 떠나도록 기다릴 수도 있습니다.</AlertPredatorInAnimalPenDesc>
+
   <!-- EN: Animal wandering away -->
   <AlertAnimalIsRoaming>배회 중인 동물</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
@@ -299,5 +304,10 @@
   <FactionWillBecomeHostileIfNotLeavingWithin>계속 머무를 시 세력이 적대함</FactionWillBecomeHostileIfNotLeavingWithin>
   <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
   <FactionWillBecomeHostileIfNotLeavingWithinDesc>다음 세력의 정착지나 전초기지에 계속 머무르면 적대하게 됩니다:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <!-- EN: {0} trees dying -->
+  <AlertMinifiedTreeAboutToDie>죽어가는 나무: {0}그루</AlertMinifiedTreeAboutToDie>
+  <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
+  <AlertMinifiedTreeAboutToDieDesc>뽑아둔 나무 {0}그루가 하루 안에 죽을 예정입니다. 방치하면 특정 사상을 지닌 정착민이 실망할 것입니다.\n\n나무를 다시 심으면 기분 하락을 방지할 수 있습니다.</AlertMinifiedTreeAboutToDieDesc>
 
 </LanguageData>

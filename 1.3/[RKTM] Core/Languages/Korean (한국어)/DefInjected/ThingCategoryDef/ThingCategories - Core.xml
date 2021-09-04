@@ -8,19 +8,19 @@
   <Animals.label>동물</Animals.label>
   
   <!-- EN: apparel -->
-  <Apparel.label>의류</Apparel.label>
+  <Apparel.label>의복</Apparel.label>
   
   <!-- EN: armor -->
   <ApparelArmor.label>갑옷</ApparelArmor.label>
   
   <!-- EN: noble apparel -->
-  <ApparelNoble.label>상류복</ApparelNoble.label>
+  <ApparelNoble.label>귀족 의류</ApparelNoble.label>
   
   <!-- EN: utility -->
   <ApparelUtility.label>다용도구</ApparelUtility.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>머리</ArmorHeadgear.label>
+  <ArmorHeadgear.label>머리장비</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
   <Artifacts.label>유물</Artifacts.label>
@@ -44,7 +44,7 @@
   <BodyPartsSimple.label>간단한 보철물</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>미래기술</BodyPartsUltra.label>
+  <BodyPartsUltra.label>첨단공학물</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
   <Buildings.label>구조물</Buildings.label>
@@ -143,13 +143,13 @@
   <MortarShells.label>박격포탄</MortarShells.label>
   
   <!-- EN: neurotrainers -->
-  <Neurotrainers.label>뇌 이식물</Neurotrainers.label>
+  <Neurotrainers.label>교육혈청</Neurotrainers.label>
   
   <!-- EN: psytrainers -->
-  <NeurotrainersPsycast.label>초능력 이식물</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>초월교육혈청</NeurotrainersPsycast.label>
   
   <!-- EN: skilltrainers -->
-  <NeurotrainersSkill.label>기술 훈련</NeurotrainersSkill.label>
+  <NeurotrainersSkill.label>신경교육혈청</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>채식재료</PlantFoodRaw.label>

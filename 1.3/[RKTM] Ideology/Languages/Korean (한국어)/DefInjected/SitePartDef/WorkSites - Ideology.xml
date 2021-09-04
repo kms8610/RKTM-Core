@@ -10,7 +10,7 @@
   <!-- EN: Attack {0} -->
   <WorkSite_Farming.approachOrderString>{0} 공격</WorkSite_Farming.approachOrderString>
   <!-- EN: There is a neutral camp in this area. -->
-  <WorkSite_Farming.arrivedLetter>이곳에 중립세력의 야영지가 있습니다.</WorkSite_Farming.arrivedLetter>
+  <WorkSite_Farming.arrivedLetter>이 지역에 중립세력의 야영지가 있습니다.</WorkSite_Farming.arrivedLetter>
   
   <!-- EN: hunting work site -->
   <WorkSite_Hunting.label>사냥터</WorkSite_Hunting.label>
@@ -21,7 +21,7 @@
   <!-- EN: Attack {0} -->
   <WorkSite_Hunting.approachOrderString>{0} 공격</WorkSite_Hunting.approachOrderString>
   <!-- EN: There is a neutral camp in this area. -->
-  <WorkSite_Hunting.arrivedLetter>이곳에 중립세력의 야영지가 있습니다.</WorkSite_Hunting.arrivedLetter>
+  <WorkSite_Hunting.arrivedLetter>이 지역에 중립세력의 야영지가 있습니다.</WorkSite_Hunting.arrivedLetter>
   
   <!-- EN: logging work site -->
   <WorkSite_Logging.label>벌목장</WorkSite_Logging.label>
@@ -32,7 +32,7 @@
   <!-- EN: Attack {0} -->
   <WorkSite_Logging.approachOrderString>{0} 공격</WorkSite_Logging.approachOrderString>
   <!-- EN: There is a neutral camp in this area. -->
-  <WorkSite_Logging.arrivedLetter>이곳에 중립세력의 야영지가 있습니다.</WorkSite_Logging.arrivedLetter>
+  <WorkSite_Logging.arrivedLetter>이 지역에 중립세력의 야영지가 있습니다.</WorkSite_Logging.arrivedLetter>
   
   <!-- EN: {THING_label} mining work site -->
   <WorkSite_Mining.label>{THING_label} 채굴장</WorkSite_Mining.label>
@@ -43,6 +43,6 @@
   <!-- EN: Attack {0} -->
   <WorkSite_Mining.approachOrderString>{0} 공격</WorkSite_Mining.approachOrderString>
   <!-- EN: There is a neutral camp in this area. -->
-  <WorkSite_Mining.arrivedLetter>이곳에 중립세력의 야영지가 있습니다.</WorkSite_Mining.arrivedLetter>
+  <WorkSite_Mining.arrivedLetter>이 지역에 중립세력의 야영지가 있습니다.</WorkSite_Mining.arrivedLetter>
   
 </LanguageData>

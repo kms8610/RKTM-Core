@@ -16,9 +16,6 @@
   <!-- EN: Area must be walkable. -->
   <ShuttleCannotLand_Unwalkable>통과 가능한 지역이어야 합니다.</ShuttleCannotLand_Unwalkable>
 
-  <!-- EN: Warning: Anima tree has been marked for cutting. -->
-  <MessageWarningCutAnimaTree>경고: 영혼나무에 벌목 명령을 지정했습니다.</MessageWarningCutAnimaTree>
-
   <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
   <MessageBestowerWaiting>수여식을 시작하려면 {BESTOWER_definite}(을)를 선택하고 '수여식 시작'을 클릭하세요.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
@@ -29,6 +26,8 @@
   <MessageBestowingSpotUnreachable>수여자는 지속되는 방해에 짜증이 나서 떠나기로 했습니다.</MessageBestowingSpotUnreachable>
   <!-- EN: The bestower is leaving due to life-threatening danger. -->
   <MessageBestowingDanger>수여자가 위험한 상황에 노출되어 떠나는 중 입니다.</MessageBestowingDanger>
+  <!-- EN: The bestower is leaving due to life-threatening temperature. -->
+  <MessageBestowingDangerTemperature>수여자가 위험한 온도에 노출되어 떠나는 중 입니다.</MessageBestowingDangerTemperature>
   <!-- EN: The bestowing ceremony has been interrupted. -->
   <MessageBestowingInterrupted>수여식이 중단되었습니다.</MessageBestowingInterrupted>
 

@@ -36,7 +36,7 @@
   <!-- EN: left pinky -->
   <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>왼쪽 새끼손가락</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left ring finger -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>왼쪽 약지손가락</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>왼쪽 넷째 손가락</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
   <!-- EN: left middle finger -->
   <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>왼쪽 가운뎃손가락</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
@@ -56,7 +56,7 @@
   <!-- EN: right pinky -->
   <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>오른쪽 새끼손가락</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right ring finger -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>오른쪽 약지손가락</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>오른쪽 넷째 손가락</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
   <!-- EN: right middle finger -->
   <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>오른쪽 가운뎃손가락</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
@@ -64,7 +64,7 @@
   <!-- EN: right thumb -->
   <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>오른쪽 엄지손가락</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Monkey.corePart.parts.left_leg.customLabel>왼쪽 다리</Monkey.corePart.parts.left_leg.customLabel>
+  <Monkey.corePart.parts.left_leg.customLabel>왼다리</Monkey.corePart.parts.left_leg.customLabel>
   <!-- EN: left femur -->
   <Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>왼쪽 대퇴골</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
   <!-- EN: left tibia -->
@@ -74,15 +74,15 @@
   <!-- EN: left little toe -->
   <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>왼쪽 새끼발가락</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
   <!-- EN: left fourth toe -->
-  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>왼쪽 넷째발가락</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>왼쪽 넷째 발가락</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
   <!-- EN: left middle toe -->
   <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>왼쪽 가운뎃발가락</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
   <!-- EN: left second toe -->
-  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>왼쪽 둘째발가락</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>왼쪽 둘째 발가락</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
   <!-- EN: left big toe -->
   <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>왼쪽 엄지발가락</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
   <!-- EN: right leg -->
-  <Monkey.corePart.parts.right_leg.customLabel>오른쪽 다리</Monkey.corePart.parts.right_leg.customLabel>
+  <Monkey.corePart.parts.right_leg.customLabel>오른다리</Monkey.corePart.parts.right_leg.customLabel>
   <!-- EN: right femur -->
   <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>오른쪽 대퇴골</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->
@@ -92,7 +92,7 @@
   <!-- EN: right little toe -->
   <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>오른쪽 새끼발가락</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
   <!-- EN: right fourth toe -->
-  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>오른쪽 넷째발가락</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>오른쪽 넷째 발가락</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
   <!-- EN: right middle toe -->
   <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>오른쪽 가운뎃발가락</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
   <!-- EN: right second toe -->

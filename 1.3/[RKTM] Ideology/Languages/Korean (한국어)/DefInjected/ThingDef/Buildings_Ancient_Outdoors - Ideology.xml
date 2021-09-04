@@ -6,6 +6,31 @@
   <!-- EN: An ancient air conditioning machine. Its internals were smashed long ago and what wasn't looted has rusted away in the time since. -->
   <AncientAirConditioner.description>고대의 냉방기기입니다. 쓸만한 부품은 오래전에 전부 누군가 부숴놓았고, 나머지 부분도 심하게 녹이 슬어있습니다.</AncientAirConditioner.description>
   
+  <!-- EN: ancient ruined APC -->
+  <AncientAPC.label>고대 장갑차 잔해</AncientAPC.label>
+  <!-- EN: The remains of an ancient armoured troop carrier which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientAPC.description>중화기에 의해 파괴된 고대 장갑차의 잔해입니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientAPC.description>
+  
+  <!-- EN: ancient ATM -->
+  <AncientATM.label>고대 현금인출기</AncientATM.label>
+  <!-- EN: An ancient ATM. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientATM.description>고대의 현금인출기입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientATM.description>
+  
+  <!-- EN: ancient centipede shell -->
+  <AncientCentipedeShell.label>고대 센티페드 장갑</AncientCentipedeShell.label>
+  <!-- EN: A shell from a smashed centipede. It has been deteriorating for many years and all the useful components have disintegrated. -->
+  <AncientCentipedeShell.description>부서진 센티페드의 장갑입니다. 오랜 세월 동안 방치됐으며 쓸만한 부품도 남아있지 않습니다.</AncientCentipedeShell.description>
+  
+  <!-- EN: ancient container -->
+  <AncientContainer.label>고대 적재 상자</AncientContainer.label>
+  <!-- EN: A large container from some ancient freight carrying vehicle. It has long since been looted and deteriorted into uselessness. -->
+  <AncientContainer.description>고대 화물차에 부착되었던 대형 적재 상자입니다. 오래 전에 약탈되어 귀중한 것은 아무 것도 남지 않았습니다.</AncientContainer.description>
+  
+  <!-- EN: ancient dropship engine -->
+  <AncientDropshipEngine.label>고대 상륙정 엔진</AncientDropshipEngine.label>
+  <!-- EN: An ancient dropship engine. It probably came off a military troop carrier. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <AncientDropshipEngine.description>고대의 상륙정에서 떨어져 나온 것으로 추정되는 엔진입니다. 섬세한 부품들은 녹슬었으며 남아있는 것들도 철저히 망가졌습니다.</AncientDropshipEngine.description>
+  
   <!-- EN: ancient fence -->
   <AncientFence.label>고대 울타리</AncientFence.label>
   <!-- EN: An ancient fence made of reinforced concrete posts joined by concrete panels. -->
@@ -15,6 +40,11 @@
   <AncientGiantWheel.label>고대 대형 바퀴</AncientGiantWheel.label>
   <!-- EN: A giant wheel which came off some large vehicle many ages ago. The rubber has disintegrated away and the metal is twisted and rusted. -->
   <AncientGiantWheel.description>오랜 세월 전에 사용되었을 대형 차량의 바퀴입니다. 고무는 이미 썩어 사라졌고, 금속 부분에는 녹만 가득합니다.</AncientGiantWheel.description>
+  
+  <!-- EN: ancient hydrant -->
+  <AncientHydrant.label>고대 소화전</AncientHydrant.label>
+  <!-- EN: An ancient hydrant. Heavily rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientHydrant.description>고대의 소화전입니다. 심하게 녹슬어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientHydrant.description>
   
   <!-- EN: ancient jet engine -->
   <AncientJetEngine.label>고대 제트 엔진</AncientJetEngine.label>
@@ -61,15 +91,30 @@
   <!-- EN: A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago. -->
   <AncientMegaCannonTripod.description>포탑을 올려두었을 지지대입니다. 망가진 지 오랜 시간이 지났으며, 그나마 쓸만한 부품들은 누군가가 전부 떼어갔습니다.</AncientMegaCannonTripod.description>
   
+  <!-- EN: ancient microwave -->
+  <AncientMicrowave.label>고대 전자레인지</AncientMicrowave.label>
+  <!-- EN: An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientMicrowave.description>음식을 가열하는 고대 장치입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientMicrowave.description>
+  
   <!-- EN: ancient warsprinter remains -->
   <AncientMiniWarwalkerRemains.label>고대 기동 병기 잔해</AncientMiniWarwalkerRemains.label>
   <!-- EN: The shattered remains of an ancient sub-scale warsprinter. Whatever parts weren't ruined when it was destroyed were looted long ago. -->
   <AncientMiniWarwalkerRemains.description>부서진 소형 기동 병기의 잔해입니다. 망가지지 않은 부분은 오래 전에 누군가 떼어갔습니다.</AncientMiniWarwalkerRemains.description>
   
+  <!-- EN: ancient oven -->
+  <AncientOven.label>고대 오븐</AncientOven.label>
+  <!-- EN: An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientOven.description>고대의 오븐입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientOven.description>
+  
   <!-- EN: ancient pipeline section -->
   <AncientPipelineSection.label>고대 송유관</AncientPipelineSection.label>
   <!-- EN: A section from an ancient pipeline. It once carried some valuable fluid over long distances. Now it's been looted and deteriorated to uselessness. -->
   <AncientPipelineSection.description>고대 송유관의 일부입니다. 한때  귀중한 액체를 운반했을 테지만 지금은 아무 쓸모도 없습니다.</AncientPipelineSection.description>
+  
+  <!-- EN: ancient pipes -->
+  <AncientPipes.label>고대 배관</AncientPipes.label>
+  <!-- EN: A bunch of rusted old pipes. It is hard to say how these ended up here. -->
+  <AncientPipes.description>고대의 녹슨 배관입니다. 어떻게 여기까지 왔는지는 의문입니다.</AncientPipes.description>
   
   <!-- EN: ancient pod car -->
   <AncientPodCar.label>고대 포드 차량</AncientPodCar.label>
@@ -101,6 +146,11 @@
   <!-- EN: An ancient, rusted car frame. The body shell has long since rusted away to nothing. -->
   <AncientRustedCarFrame.description>고대의 차량 프레임입니다. 녹슨 뼈대 외의 부분은 더 이상 존재하지 않습니다.</AncientRustedCarFrame.description>
   
+  <!-- EN: ancient dropship -->
+  <AncientRustedDropship.label>고대 상륙정</AncientRustedDropship.label>
+  <!-- EN: The remains of an ancient dropship. The valuable parts were looted long ago and the rest has deteriorated to uselessness. -->
+  <AncientRustedDropship.description>고대 상륙정의 잔해입니다. 섬세한 부품들은 녹슬었으며 남아있는 것들도 철저히 망가졌습니다</AncientRustedDropship.description>
+  
   <!-- EN: ancient engine block -->
   <AncientRustedEngineBlock.label>고대 엔진 부품</AncientRustedEngineBlock.label>
   <!-- EN: An ancient engine block that is rusted through. No repair could salvage this. -->
@@ -110,6 +160,11 @@
   <AncientRustedJeep.label>고대 장갑차</AncientRustedJeep.label>
   <!-- EN: An ancient, broken troop carrier. Everything that isn't rusted away was looted long ago. -->
   <AncientRustedJeep.description>망가진 고대의 장갑차입니다. 녹으로 뒤덮이지 않은 부분은 이미 누군가가 털어간 모양입니다.</AncientRustedJeep.description>
+  
+  <!-- EN: ancient truck -->
+  <AncientRustedTruck.label>고대 화물차</AncientRustedTruck.label>
+  <!-- EN: An ancient, broken truck. Everything useful either rusted away or was looted long ago. -->
+  <AncientRustedTruck.description>고대의 부서진 트럭입니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientRustedTruck.description>
   
   <!-- EN: ancient security turret -->
   <AncientSecurityTurret.label>고대 보안 포탑</AncientSecurityTurret.label>
@@ -137,14 +192,19 @@
   <AncientStove.description>고대의 조리대입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientStove.description>
   
   <!-- EN: ancient ruined tank -->
-  <AncientTank.label>고대 녹슨 탱크</AncientTank.label>
+  <AncientTank.label>고대 전차 잔해</AncientTank.label>
   <!-- EN: The remains of an ancient tank which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
-  <AncientTank.description>중화기에 의해 파괴된 고대 탱크의 잔해입니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientTank.description>
+  <AncientTank.description>중화기에 의해 파괴된 고대 전차의 잔해입니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientTank.description>
   
   <!-- EN: ancient tank trap -->
   <AncientTankTrap.label>고대 전차 장애물</AncientTankTrap.label>
   <!-- EN: An defensive fortification for stopping vehicles. It's been deteriorating for many years. -->
   <AncientTankTrap.description>차량을 멈추기 위한 방어 시설입니다. 오랜 세월 동안 방치됐습니다.</AncientTankTrap.description>
+  
+  <!-- EN: ancient toilet -->
+  <AncientToilet.label>고대 변기</AncientToilet.label>
+  <!-- EN: An ancient toilet. Smashed long ago, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientToilet.description>고대의 변기입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientToilet.description>
   
   <!-- EN: ancient vending machine -->
   <AncientVendingMachine.label>고대 자판기</AncientVendingMachine.label>
@@ -180,6 +240,11 @@
   <AncientWarwalkerTorso.label>고대 전쟁 병기 상체</AncientWarwalkerTorso.label>
   <!-- EN: The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago. -->
   <AncientWarwalkerTorso.description>고대에 쓰러진 전쟁 병기의 위쪽 부분입니다. 귀중한 부품들은 이미 오래전에 해체되고 고철만 남았습니다.</AncientWarwalkerTorso.description>
+  
+  <!-- EN: ancient washing machine -->
+  <AncientWashingMachine.label>고대 세탁기</AncientWashingMachine.label>
+  <!-- EN: An ancient device used for washing textiles. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientWashingMachine.description>직물을 세척하는 고대의 장치입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientWashingMachine.description>
   
   <!-- EN: ancient wheel -->
   <AncientWheel.label>고대 바퀴</AncientWheel.label>

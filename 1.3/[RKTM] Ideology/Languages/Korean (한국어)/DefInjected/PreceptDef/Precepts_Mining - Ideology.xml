@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: disapproved -->
-  <Mining_Disapproved.label>못마땅함</Mining_Disapproved.label>
+  <Mining_Disapproved.label>약간 혐오함</Mining_Disapproved.label>
   <!-- EN: Mining into the natural earth is an ugly act. -->
   <Mining_Disapproved.description>자연을 채굴해 들어가는 것은 역겨운 행위이다.</Mining_Disapproved.description>
   <!-- EN: Someone mined a block -->
   <Mining_Disapproved.comps.0.description>누군가가 채굴함</Mining_Disapproved.comps.0.description>
   <!-- EN: Someone mined a block -->
-  <Mining_Disapproved.comps.2.description>누군가가 채굴함</Mining_Disapproved.comps.2.description>
+  <Mining_Disapproved.comps.3.description>누군가가 채굴함</Mining_Disapproved.comps.3.description>
   
   <!-- EN: horrible -->
-  <Mining_Horrible.label>끔찍함</Mining_Horrible.label>
+  <Mining_Horrible.label>강력하게 혐오함</Mining_Horrible.label>
   <!-- EN: Violating the natural earth with mining tools is a horrible act. -->
   <Mining_Horrible.description>자연을 채굴 도구로 훼손하는 것은 끔찍한 행위이다.</Mining_Horrible.description>
   <!-- EN: Someone mined a block -->
   <Mining_Horrible.comps.0.description>누군가가 채굴함</Mining_Horrible.comps.0.description>
   <!-- EN: Someone mined a block -->
-  <Mining_Horrible.comps.2.description>누군가가 채굴함</Mining_Horrible.comps.2.description>
+  <Mining_Horrible.comps.3.description>누군가가 채굴함</Mining_Horrible.comps.3.description>
   
   <!-- EN: prohibited -->
-  <Mining_Prohibited.label>금지됨</Mining_Prohibited.label>
+  <Mining_Prohibited.label>금기</Mining_Prohibited.label>
   <!-- EN: Raping the natural earth with mining tools is a horrifically evil act. -->
   <Mining_Prohibited.description>자연을 채굴 도구로 훼손하는 것은 끔찍할 정도로 악랄한 행위이다.</Mining_Prohibited.description>
   <!-- EN: Mining -->
   <Mining_Prohibited.comps.0.description>채굴</Mining_Prohibited.comps.0.description>
   <!-- EN: Someone mined a block -->
-  <Mining_Prohibited.comps.2.description>누군가가 채굴함</Mining_Prohibited.comps.2.description>
+  <Mining_Prohibited.comps.3.description>누군가가 채굴함</Mining_Prohibited.comps.3.description>
   
   <!-- EN: high -->
   <MiningYield_High.label>심각</MiningYield_High.label>

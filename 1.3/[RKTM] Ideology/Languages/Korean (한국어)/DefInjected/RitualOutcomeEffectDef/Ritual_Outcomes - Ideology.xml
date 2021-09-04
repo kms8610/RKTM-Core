@@ -62,7 +62,7 @@
   <!-- EN: Terrible -->
   <BlindingCeremony.outcomeChances.0.label>끔찍한</BlindingCeremony.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! The speech was stuttering and incoherent. The blinding technique was botched. Everyone was waiting for it to end. -->
-  <BlindingCeremony.outcomeChances.0.description>{0}(은)는 끔찍했어! 잘 들리지도 않을 말을 계속해서 더듬는데 심지어 실명 기술마저 엉망진창이야. 아마 모두들 어서 끝나기만을 기다렸을걸?</BlindingCeremony.outcomeChances.0.description>
+  <BlindingCeremony.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 연설은 잘 들리지 않았고 실명 기술마저 엉망진창이었습니다. 모두는 이 시간이 어서 끝나기만을 기다리고 있었습니다.</BlindingCeremony.outcomeChances.0.description>
   <!-- EN: Boring -->
   <BlindingCeremony.outcomeChances.1.label>지루한</BlindingCeremony.outcomeChances.1.label>
   <!-- EN: The {0} was boring. The speech was repetitive and the blinding technique was noticeably flawed. It just didn't feel dignified. -->
@@ -70,7 +70,7 @@
   <!-- EN: Satisfying -->
   <BlindingCeremony.outcomeChances.2.label>만족스러운</BlindingCeremony.outcomeChances.2.label>
   <!-- EN: The {0} was satisfying. The speech felt meaningful, and the blinding technique was precise and dignified. -->
-  <BlindingCeremony.outcomeChances.2.description>{0}(은)는 만족스러웠어. 뜻깊은 연설도 그렇고, 실명 기술도 정밀하고 위엄이 있었지.</BlindingCeremony.outcomeChances.2.description>
+  <BlindingCeremony.outcomeChances.2.description>{0}(은)는 만족스러웠습니다. 연설은 뜻깊었고, 실명 의식은 정밀하고 위엄이 있었습니다.</BlindingCeremony.outcomeChances.2.description>
   <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
   <BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>실명 의식 대상자는 정신력이 강화되거나 새로운 초능력을 얻게 됩니다.</BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>
   <!-- EN: Spectacular -->
@@ -139,15 +139,15 @@
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <CelebrationPartyDanceDrum.description>의식의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</CelebrationPartyDanceDrum.description>
   <!-- EN: participant count -->
-  <CelebrationPartyDanceDrum.comps.0.label>연주된 북 갯수</CelebrationPartyDanceDrum.comps.0.label>
+  <CelebrationPartyDanceDrum.comps.0.label>참여자 수</CelebrationPartyDanceDrum.comps.0.label>
   <!-- EN: room impressiveness -->
-  <CelebrationPartyDanceDrum.comps.1.label>모닥불 이용</CelebrationPartyDanceDrum.comps.1.label>
+  <CelebrationPartyDanceDrum.comps.1.label>방 인상</CelebrationPartyDanceDrum.comps.1.label>
   <!-- EN: played drum count -->
-  <CelebrationPartyDanceDrum.comps.2.label>TODO</CelebrationPartyDanceDrum.comps.2.label>
+  <CelebrationPartyDanceDrum.comps.2.label>연주된 북 갯수</CelebrationPartyDanceDrum.comps.2.label>
   <!-- EN: started at campfire -->
-  <CelebrationPartyDanceDrum.comps.3.label>TODO</CelebrationPartyDanceDrum.comps.3.label>
+  <CelebrationPartyDanceDrum.comps.3.label>모닥불 이용</CelebrationPartyDanceDrum.comps.3.label>
   <!-- EN: a campfire -->
-  <CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>TODO</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
+  <CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>모닥불</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
   <!-- EN: If the {0} is fun or unforgettable, participants may gain increased work speed for a while. -->
   <CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>{0}(이)가 재미있거나 인상적으로 진행된다면, 참여자들은 얼마간 작업 속도에 긍정적인 영향을 받게 됩니다.</CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Terrible -->
@@ -174,15 +174,15 @@
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <CelebrationPartyDanceTech.description>의식의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</CelebrationPartyDanceTech.description>
   <!-- EN: participant count -->
-  <CelebrationPartyDanceTech.comps.0.label>사용된 스피커 수</CelebrationPartyDanceTech.comps.0.label>
+  <CelebrationPartyDanceTech.comps.0.label>참여자 수</CelebrationPartyDanceTech.comps.0.label>
   <!-- EN: room impressiveness -->
-  <CelebrationPartyDanceTech.comps.1.label>미러볼 사용</CelebrationPartyDanceTech.comps.1.label>
+  <CelebrationPartyDanceTech.comps.1.label>방 인상</CelebrationPartyDanceTech.comps.1.label>
   <!-- EN: active speaker count -->
-  <CelebrationPartyDanceTech.comps.2.label>TODO</CelebrationPartyDanceTech.comps.2.label>
+  <CelebrationPartyDanceTech.comps.2.label>사용된 스피커 수</CelebrationPartyDanceTech.comps.2.label>
   <!-- EN: started at lightball -->
-  <CelebrationPartyDanceTech.comps.3.label>TODO</CelebrationPartyDanceTech.comps.3.label>
+  <CelebrationPartyDanceTech.comps.3.label>미러볼 사용</CelebrationPartyDanceTech.comps.3.label>
   <!-- EN: a lightball -->
-  <CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>TODO</CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>
+  <CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>미러볼</CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>
   <!-- EN: If the {0} is fun or unforgettable, participants may gain increased work speed for a while. -->
   <CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>{0}(이)가 재미있거나 인상적으로 진행된다면, 참여자들은 얼마간 작업 속도에 긍정적인 영향을 받게 됩니다.</CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Terrible -->
@@ -224,8 +224,8 @@
   <CelebrationSkyLanterns.outcomeChances.1.description>{0}(은)는 시시하게 끝났습니다. 풍등 만들기는 너무 오래 걸렸고, 이내 모두가 싫증을 느꼈습니다.</CelebrationSkyLanterns.outcomeChances.1.description>
   <!-- EN: Beautiful -->
   <CelebrationSkyLanterns.outcomeChances.2.label>아름다운</CelebrationSkyLanterns.outcomeChances.2.label>
-  <!-- EN: The {0} was beautiful. Watching the lanterns drift away made everyone feel at peace. -->
-  <CelebrationSkyLanterns.outcomeChances.2.description>{0}(은)는 아름다웠습니다. 풍등이 떠다니는 것을 본 모두가 평화를 느꼈습니다.</CelebrationSkyLanterns.outcomeChances.2.description>
+  <!-- EN: The {0} was beautiful. The drifting lanterns made everyone feel at peace. -->
+  <CelebrationSkyLanterns.outcomeChances.2.description>{0}(은)는 아름다웠습니다. 풍등이 떠다니는 광경은 모두에게 평화를 선사했습니다.</CelebrationSkyLanterns.outcomeChances.2.description>
   <!-- EN: The skylanterns lifted high and bright. Friendly visitors might see them and arrive with a gift. -->
   <CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>풍등이 빛을 내며 하늘 위로 떠오릅니다. 이것을 본 방문객들이 선물을 가지고 찾아올 수 있습니다.</CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>
   <!-- EN: Unforgettable -->
@@ -305,110 +305,110 @@
   <!-- EN: The ritual target will be destroyed. -->
   <DestroyConsumableBuilding_Burnbong.description>의식 대상은 파괴됩니다.</DestroyConsumableBuilding_Burnbong.description>
   <!-- EN: participant count -->
-  <DestroyConsumableBuilding_Burnbong.comps.0.label>TODO</DestroyConsumableBuilding_Burnbong.comps.0.label>
+  <DestroyConsumableBuilding_Burnbong.comps.0.label>참여자 수</DestroyConsumableBuilding_Burnbong.comps.0.label>
   <!-- EN: room impressiveness -->
-  <DestroyConsumableBuilding_Burnbong.comps.1.label>TODO</DestroyConsumableBuilding_Burnbong.comps.1.label>
+  <DestroyConsumableBuilding_Burnbong.comps.1.label>방 인상</DestroyConsumableBuilding_Burnbong.comps.1.label>
   <!-- EN: Terrible -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>끔찍한</DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>
   <!-- EN: Boring -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>지루한</DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>
   <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>{0}(은)는 너무 지루했어. 너무 어색해서 웃음조차 나오지 않았지.</DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>
   <!-- EN: Fun -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>즐거운</DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>
   <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>
   <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>
   <!-- EN: Unforgettable -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>인상적인</DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>
   <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>
   <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: The ritual target will be destroyed. -->
   <DestroyConsumableBuilding_CannibalPlatter.description>의식 대상은 파괴됩니다.</DestroyConsumableBuilding_CannibalPlatter.description>
   <!-- EN: participant count -->
-  <DestroyConsumableBuilding_CannibalPlatter.comps.0.label>TODO</DestroyConsumableBuilding_CannibalPlatter.comps.0.label>
+  <DestroyConsumableBuilding_CannibalPlatter.comps.0.label>참여자 수</DestroyConsumableBuilding_CannibalPlatter.comps.0.label>
   <!-- EN: room impressiveness -->
-  <DestroyConsumableBuilding_CannibalPlatter.comps.1.label>TODO</DestroyConsumableBuilding_CannibalPlatter.comps.1.label>
+  <DestroyConsumableBuilding_CannibalPlatter.comps.1.label>방 인상</DestroyConsumableBuilding_CannibalPlatter.comps.1.label>
   <!-- EN: Terrible -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>끔찍한</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>
   <!-- EN: Boring -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>지루한</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>
   <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>{0}(은)는 너무 지루했어. 너무 어색해서 웃음조차 나오지 않았지.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>
   <!-- EN: Fun -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>즐거운</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>
   <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>
   <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>
   <!-- EN: Unforgettable -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>인상적인</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>
   <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>
   <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: The ritual target will be destroyed. -->
   <DestroyConsumableBuilding_ChristmasTree.description>의식의 대상은 파괴될 것입니다.</DestroyConsumableBuilding_ChristmasTree.description>
   <!-- EN: participant count -->
-  <DestroyConsumableBuilding_ChristmasTree.comps.0.label>TODO</DestroyConsumableBuilding_ChristmasTree.comps.0.label>
+  <DestroyConsumableBuilding_ChristmasTree.comps.0.label>참여자 수</DestroyConsumableBuilding_ChristmasTree.comps.0.label>
   <!-- EN: room impressiveness -->
-  <DestroyConsumableBuilding_ChristmasTree.comps.1.label>TODO</DestroyConsumableBuilding_ChristmasTree.comps.1.label>
+  <DestroyConsumableBuilding_ChristmasTree.comps.1.label>방 인상</DestroyConsumableBuilding_ChristmasTree.comps.1.label>
   <!-- EN: Terrible -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>끔찍한</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>
   <!-- EN: Boring -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>지루한</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>
   <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>{0}(은)는 너무 지루했어. 너무 어색해서 웃음조차 나오지 않았지.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>
   <!-- EN: Fun -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>즐거운</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>
   <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>
   <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>
   <!-- EN: Unforgettable -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>인상적인</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>
   <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>
   <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: The ritual target will be destroyed. -->
   <DestroyConsumableBuilding_Pyre.description>의식 대상은 파괴됩니다.</DestroyConsumableBuilding_Pyre.description>
   <!-- EN: participant count -->
-  <DestroyConsumableBuilding_Pyre.comps.0.label>TODO</DestroyConsumableBuilding_Pyre.comps.0.label>
+  <DestroyConsumableBuilding_Pyre.comps.0.label>참여자 수</DestroyConsumableBuilding_Pyre.comps.0.label>
   <!-- EN: room impressiveness -->
-  <DestroyConsumableBuilding_Pyre.comps.1.label>TODO</DestroyConsumableBuilding_Pyre.comps.1.label>
+  <DestroyConsumableBuilding_Pyre.comps.1.label>방 인상</DestroyConsumableBuilding_Pyre.comps.1.label>
   <!-- EN: Terrible -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.0.label>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.0.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.label>끔찍한</DestroyConsumableBuilding_Pyre.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.0.description>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.0.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</DestroyConsumableBuilding_Pyre.outcomeChances.0.description>
   <!-- EN: Boring -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.1.label>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.1.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.label>지루한</DestroyConsumableBuilding_Pyre.outcomeChances.1.label>
   <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.1.description>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.1.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.description>{0}(은)는 너무 지루했어. 너무 어색해서 웃음조차 나오지 않았지.</DestroyConsumableBuilding_Pyre.outcomeChances.1.description>
   <!-- EN: Fun -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.2.label>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.2.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.label>즐거운</DestroyConsumableBuilding_Pyre.outcomeChances.2.label>
   <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.2.description>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.2.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</DestroyConsumableBuilding_Pyre.outcomeChances.2.description>
   <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>
   <!-- EN: Unforgettable -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.3.label>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.3.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.label>인상적인</DestroyConsumableBuilding_Pyre.outcomeChances.3.label>
   <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.3.description>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.3.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</DestroyConsumableBuilding_Pyre.outcomeChances.3.description>
   <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <Execution.description>의식의 품질에 따라, 일반 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다. 참여한 노예들의 복종심은 최대치까지 상승할 것입니다.</Execution.description>
@@ -462,6 +462,21 @@
   <!-- EN: The duel was unforgettable! Both fighters gave all they had, and the death showed their dedication. -->
   <GladiatorDuel.outcomeChances.3.description>결투는 인상적이었습니다! 투사들 모두 자신이 가진 것을 총동원해 싸웠고, 죽음으로 헌신했습니다.</GladiatorDuel.outcomeChances.3.description>
   
+  <!-- EN: A new role will be assigned to a colonist. -->
+  <RoleChange.description>정착민에게 새로운 지위가 주어집니다.</RoleChange.description>
+  <!-- EN: required spectator count -->
+  <RoleChange.comps.0.label>필요한 참가자 수</RoleChange.comps.0.label>
+  <!-- EN: The required number of spectators must attend for the role change to apply. -->
+  <RoleChange.extraPredictedOutcomeDescriptions.0>지위 변경이 인정되기 위해서는 최소한의 인원이 행사에 참석해야 합니다.</RoleChange.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Failed -->
+  <RoleChange.outcomeChances.0.label>실패</RoleChange.outcomeChances.0.label>
+  <!-- EN: The role change was not attended by enough {IDEO_memberNamePlural}. -->
+  <RoleChange.outcomeChances.0.description>취임에 필요한 최소 인원이 참석하지 못했습니다.</RoleChange.outcomeChances.0.description>
+  <!-- EN: Successful -->
+  <RoleChange.outcomeChances.1.label>성공</RoleChange.outcomeChances.1.label>
+  <!-- EN: The role change ritual was completed. -->
+  <RoleChange.outcomeChances.1.description>취임식이 성공적으로 완료되었습니다.</RoleChange.outcomeChances.1.description>
+  
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <Sacrifice.description>의식의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</Sacrifice.description>
   <!-- EN: moral guide present -->
@@ -508,15 +523,15 @@
   <!-- EN: Terrible -->
   <ScarificationCeremony.outcomeChances.0.label>끔찍한</ScarificationCeremony.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the scarification technique was botched. Everyone was waiting for it to end. -->
-  <ScarificationCeremony.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 연설은 더듬고 잘 들리지 않았으며, 상흔 기술은 엉망진창이었습니다. 모두가 어서 끝나기만을 기다렸습니다.</ScarificationCeremony.outcomeChances.0.description>
+  <ScarificationCeremony.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 연설은 잘 들리지 않았고 상흔 기술은 엉망진창이었습니다. 모두는 이 시간이 어서 끝나기만을 기다리고 있었습니다.</ScarificationCeremony.outcomeChances.0.description>
   <!-- EN: Boring -->
   <ScarificationCeremony.outcomeChances.1.label>지루한</ScarificationCeremony.outcomeChances.1.label>
   <!-- EN: The {0} was boring. The speech was repetitive and the scarification technique was noticeably flawed. It just didn't feel dignified. -->
-  <ScarificationCeremony.outcomeChances.1.description>{0}(은)는 지루했습니다. 연설은 반복적이었고, 상흔 기술은 현저히 떨어졌습니다. 전혀 중요하게 느껴지지 않았습니다.</ScarificationCeremony.outcomeChances.1.description>
+  <ScarificationCeremony.outcomeChances.1.description>{0}(은)는 지루했습니다. 연설은 반복적이었고, 상흔 기술은 조잡했습니다. 위엄이라곤 전혀 느껴지지 않았습니다.</ScarificationCeremony.outcomeChances.1.description>
   <!-- EN: Satisfying -->
   <ScarificationCeremony.outcomeChances.2.label>만족스러운</ScarificationCeremony.outcomeChances.2.label>
   <!-- EN: The {0} was satisfying. The speech felt meaningful, and the scarification technique was precise and dignified. -->
-  <ScarificationCeremony.outcomeChances.2.description>{0}(은)는 만족스러웠습니다. 연설은 의미있게 느껴졌고, 상흔 의식은 정밀하고 위엄있었습니다.</ScarificationCeremony.outcomeChances.2.description>
+  <ScarificationCeremony.outcomeChances.2.description>{0}(은)는 만족스러웠습니다. 연설은 뜻깊었고, 상흔 의식은 정밀하고 위엄이 있었습니다.</ScarificationCeremony.outcomeChances.2.description>
   <!-- EN: Spectacular -->
   <ScarificationCeremony.outcomeChances.3.label>훌륭한</ScarificationCeremony.outcomeChances.3.label>
   <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy as the bladeholder artfully rended living flesh. -->

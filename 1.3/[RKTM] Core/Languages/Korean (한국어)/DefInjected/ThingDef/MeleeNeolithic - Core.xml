@@ -37,8 +37,8 @@
   <!-- EN: A polearm tipped with a sharp point for stabbing opponents. -->
   <MeleeWeapon_Spear.description>적을 찌르기 위한 뾰족한 끝이 달린 장대입니다.</MeleeWeapon_Spear.description>
   <!-- EN: shaft -->
-  <MeleeWeapon_Spear.tools.shaft.label>장대</MeleeWeapon_Spear.tools.shaft.label>
+  <MeleeWeapon_Spear.tools.shaft.label>대</MeleeWeapon_Spear.tools.shaft.label>
   <!-- EN: point -->
-  <MeleeWeapon_Spear.tools.point.label>창끝</MeleeWeapon_Spear.tools.point.label>
+  <MeleeWeapon_Spear.tools.point.label>끝</MeleeWeapon_Spear.tools.point.label>
   
 </LanguageData>

@@ -40,7 +40,7 @@
   <Disfigured.stages.disfigured.label>보기흉함</Disfigured.stages.disfigured.label>
   
   <!-- EN: drunk -->
-  <Drunk.stages.drunk.label>술주정</Drunk.stages.drunk.label>
+  <Drunk.stages.drunk.label>어지러움</Drunk.stages.drunk.label>
   
   <!-- EN: executed prisoner -->
   <ExecutedPrisoner.stages.executed_prisoner.label>수감자 처형</ExecutedPrisoner.stages.executed_prisoner.label>
@@ -61,7 +61,7 @@
   <KilledColonyAnimal.stages.killed_colony_animal.label>정착지 동물 사살</KilledColonyAnimal.stages.killed_colony_animal.label>
   
   <!-- EN: man -->
-  <Man.stages.man.label>남자</Man.stages.man.label>
+  <Man.stages.man.label>남성</Man.stages.man.label>
   
   <!-- EN: not {0}'s master -->
   <NotBondedAnimalMaster.stages.not_s_master.label>{0}의 주인이 아님</NotBondedAnimalMaster.stages.not_s_master.label>
@@ -75,7 +75,7 @@
   <!-- EN: opinion of my {0} {1} -->
   <OpinionOfMyLover.stages.opinion_of_my.label>{0} {1}에 대한 의견</OpinionOfMyLover.stages.opinion_of_my.label>
   <!-- EN: Being with them makes me feel this way. -->
-  <OpinionOfMyLover.stages.opinion_of_my.description>연인과 함께 있으면 이런 기분이 들어.</OpinionOfMyLover.stages.opinion_of_my.description>
+  <OpinionOfMyLover.stages.opinion_of_my.description>이들과 함께 있으면 이런 기분이 들어.</OpinionOfMyLover.stages.opinion_of_my.description>
   
   <!-- EN: physically appealing -->
   <Pretty.stages.physically_appealing.label>매력적임</Pretty.stages.physically_appealing.label>

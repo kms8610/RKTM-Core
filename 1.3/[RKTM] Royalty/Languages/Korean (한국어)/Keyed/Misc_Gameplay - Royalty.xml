@@ -20,8 +20,8 @@
   <PsycastNeurotrainerLabel>초월교육혈청 ({0})</PsycastNeurotrainerLabel>
   <!-- EN: Use psytrainer to learn {0} psycast -->
   <PsycastNeurotrainerUseLabel>혈청을 사용하여 {0} 초능력 습득</PsycastNeurotrainerUseLabel>
-  <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed. -->
-  <PsycastNeurotrainerDescription>특정한 초능력 기술을 강제로 훈련시키는 일회성의 메카나이트 혈청.\n\n안와를 통해 뇌로 직접 투여됩니다. 메카나이트는 뇌의 특정 영역으로 파고들어 신경 조직의 형태를 변형시킴으로써 피시술자가 초능력 기술을 사용할 수 있게 합니다.</PsycastNeurotrainerDescription>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION} -->
+  <PsycastNeurotrainerDescription>특정한 초능력 기술을 강제로 훈련시키는 일회성의 메카나이트 혈청.\n\n안와를 통해 뇌로 직접 투여됩니다. 메카나이트는 뇌의 특정 영역으로 파고들어 신경 조직의 형태를 변형시킴으로써 피시술자가 초능력 기술을 사용할 수 있게 합니다.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
   <AbilityNeurotrainerUsed>{USER_labelShort}(은)는 초월교육혈청을 사용하여 {1} 초능력을 습득했습니다.</AbilityNeurotrainerUsed>
   <!-- EN: Requires psylink -->
@@ -163,7 +163,7 @@
   <!-- EN: bestowing ceremony -->
   <BestowingCeremonyLabel>수여식</BestowingCeremonyLabel>
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
-  <BestowingOutcomeQualitySpecific>수여식의 총 품질은 {0}였습니다. 품질에 영향을 준 요소</BestowingOutcomeQualitySpecific>
+  <BestowingOutcomeQualitySpecific>수여식의 총 품질 {0}, 품질에 영향을 준 요소</BestowingOutcomeQualitySpecific>
   
   <!-- EN: No colonists that can link with anima tree right now. -->
   <RitualTargetAnimaTreeNoPawnsToLink>지금 영혼나무와 연결할 수 있는 정착민이 없습니다.</RitualTargetAnimaTreeNoPawnsToLink>
@@ -175,6 +175,8 @@
   <RitualTargetAnimaTreeInfo>영혼나무.</RitualTargetAnimaTreeInfo>
   <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
   <RitualTargetAnimaTreeMustBeCapableOfNature>자연 유형의 명상이 가능하고 정신력 증폭기 단계가 최대치에 도달하지 않은 정착민이어야 합니다.</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <!-- EN: Must not be psychically deaf. -->
+  <RitualTargetAnimaTreeMustBePsychicallySensitive>정신적 무감각하지 않아야 합니다.</RitualTargetAnimaTreeMustBePsychicallySensitive>
 
   <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
   <AnimaLinkingExplanationBase>영혼 연결 의식은 참여자가 많으면 강력해집니다. 더 많은 사람이 참여할수록 의식에 필요한 시간이 짧아지며 더 많은 영혼잔디가 자라납니다.\n\n{0}명의 참여자를 추가하면 의식의 끝에 {1} 영혼잔디가 회복됩니다.</AnimaLinkingExplanationBase>

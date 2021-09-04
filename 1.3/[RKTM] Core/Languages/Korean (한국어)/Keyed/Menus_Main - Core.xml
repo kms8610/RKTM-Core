@@ -241,7 +241,7 @@
   <!-- EN: Choose scenario -->
   <ChooseScenario>시나리오 선택</ChooseScenario>
   <!-- EN: Custom -->
-  <ScenariosCustom>설정</ScenariosCustom>
+  <ScenariosCustom>사용자 지정</ScenariosCustom>
   <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>창작마당</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
@@ -271,7 +271,7 @@
   <!-- EN: Tag as translation -->
   <TagAsTranslation>번역으로 태그 지정</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
-  <TooMany>너무 많음 (최대 {0}):</TooMany>
+  <TooMany>너무 많음 (최대 {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>제작자 본인인 경우에만 창작마당 업데이트가 가능합니다.</CanBeUpdatedOnWorkshop>
   
@@ -459,7 +459,7 @@
   <Difficulty_FixedWealthTimeFactor_Info>재산 독립모드가 최대 위협 수준에 도달할 때까지의 게임 연수입니다.\n\n이야기꾼은 정착민 수와 기타 요인에 따라 위협 규모를 계속 확장합니다.</Difficulty_FixedWealthTimeFactor_Info>
 
   <!-- EN: Ideology -->
-  <DifficultyIdeologySection>이념</DifficultyIdeologySection>
+  <DifficultyIdeologySection>사상</DifficultyIdeologySection>
   <!-- EN: Low pop conversion boost -->
   <Difficulty_LowPopConversionBoost_Label>낮은 정착민 수에 대한 교화 위력 증가</Difficulty_LowPopConversionBoost_Label>
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->

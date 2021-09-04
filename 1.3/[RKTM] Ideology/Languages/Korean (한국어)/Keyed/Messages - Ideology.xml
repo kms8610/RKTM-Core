@@ -31,6 +31,10 @@
   <MessageIncompatibleMemes>{0_label}(와)과 {1_label}(을)를 함께 선택할 수 없습니다.</MessageIncompatibleMemes>
   <!-- EN: You need {0} to start the {1}. -->
   <MessageNoRequiredRolePawnToBeginRitual>{1}(을)를 시작하려면 {0}(이)가 필요합니다.</MessageNoRequiredRolePawnToBeginRitual>
+  <!-- EN: At least {0} spectator(s) are required to start the {1}. -->
+  <MessageNotEnoughSpectators>At least {0} spectator(s) are required to start the {1}.</MessageNotEnoughSpectators>
+  <!-- EN: You must choose a role. -->
+  <MessageRoleChangeChooseDifferentRole>지위를 선택해야 합니다.</MessageRoleChangeChooseDifferentRole>
   <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
   <MessageNeedAssignedRoleToBeginRitual>{1}(을)를 시작하기 전에 누군가에게 {0} 지위를 맡겨야 합니다.</MessageNeedAssignedRoleToBeginRitual>
   
@@ -63,7 +67,7 @@
 
   <!-- Camps -->
   <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->
-  <MessageCampDetected>근처에서 {FACTION_name}(이)가 통제하는 {CAMP_label}(을)를 발견했습니다.</MessageCampDetected>
+  <MessageCampDetected>근처에서 {FACTION_name}(이)가 운영하는 {CAMP_label}(을)를 발견했습니다.</MessageCampDetected>
 
   <!-- Charity -->
   <!-- EN: Charity refused -->
@@ -137,5 +141,11 @@
   <MessageInfestationDelayActivated>곤충 군락이 다가오고 있습니다.</MessageInfestationDelayActivated>
   <!-- EN: {0} was disturbed and might explode soon! -->
   <MessageFuelNodeDelayActivated>{0}(이)가 자극을 받았습니다. 곧 폭발할 수 있습니다!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
+
+  <!-- Fluid ideo messages -->
+  <!-- EN: Development points changed from {0} to {1} ({2}). -->
+  <MessageDevelopmentPointsEarned>개혁 점수가 {0}에서 {1}로 변화했습니다. ({2})</MessageDevelopmentPointsEarned>
+  <!-- EN: Only one change to structures, memes and styles is allowed. -->
+  <MessageFluidIdeoOneChangeAllowed>구조, 가르침및 스타일은 한 번만 변경할 수 있습니다.</MessageFluidIdeoOneChangeAllowed>
 
 </LanguageData>

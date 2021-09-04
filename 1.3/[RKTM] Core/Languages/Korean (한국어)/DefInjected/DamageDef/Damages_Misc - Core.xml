@@ -4,7 +4,7 @@
   <!-- EN: bomb -->
   <Bomb.label>폭발</Bomb.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Bomb.deathMessage>{0}(이)가 폭사했습니다.</Bomb.deathMessage>
+  <Bomb.deathMessage>{0}(이)가 폭발에 휘말려 죽었습니다.</Bomb.deathMessage>
   
   <!-- EN: bomb -->
   <BombSuper.label>폭발</BombSuper.label>
@@ -22,7 +22,7 @@
   <Extinguish.deathMessage>{0}(이)가 죽었습니다.</Extinguish.deathMessage>
   
   <!-- EN: mining -->
-  <Mining.label>굴착</Mining.label>
+  <Mining.label>채굴</Mining.label>
   <!-- EN: {0} has been killed. -->
   <Mining.deathMessage>{0}(이)가 죽었습니다.</Mining.deathMessage>
   

@@ -78,7 +78,7 @@
   <!-- EN: Heir lost -->
   <LetterTitleHeirLostLabel>후계자 사망</LetterTitleHeirLostLabel>
   <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title received from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
-  <LetterTitleHeirLost>{HEIR_nameFull}(이)가 죽어 {HOLDER_labelShort} 후계자의 자리가 공석이 되었습니다. 통신 콘솔을 통해 {FACTION_name}에 연락하여 새 후계자를 지정할 수 있습니다.</LetterTitleHeirLost>
+  <LetterTitleHeirLost>{HEIR_nameFull}(이)가 죽어 {HOLDER_labelShort}의 후계자 자리가 공석이 되었습니다. 통신 콘솔을 통해 {FACTION_name}에 연락하여 새 후계자를 지정할 수 있습니다.</LetterTitleHeirLost>
   <!-- EN: The title of {TITLE} cannot be inherited. -->
   <LetterRoyalTitleCantBeInherited>{TITLE} 작위는 계승할 수 없습니다.</LetterRoyalTitleCantBeInherited>
 
@@ -106,7 +106,7 @@
   <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
   <LetterFinishedSpeech>{ORGANIZER_labelShort}(이)가 연설을 마쳤습니다.</LetterFinishedSpeech>
   <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech> 어색한 농담과 우울한 이야기로 가득한 연설이었습니다. 정말 끔찍했습니다.</LetterTerribleSpeech>
+  <LetterTerribleSpeech>어색한 농담과 우울한 이야기로 가득한 연설이었습니다. 정말 끔찍했습니다.</LetterTerribleSpeech>
   <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
   <LetterUninspiringSpeech>열정이 부족하고 독창적이지도 않은 연설이었습니다.</LetterUninspiringSpeech>
   <!-- EN: It was encouraging and well-delivered. -->
@@ -144,7 +144,7 @@
 
   <!-- Psylink -->
   <!-- EN: Psylink gained -->
-  <LetterLabelPsylinkLevelGained>정신력 증폭기 획득</LetterLabelPsylinkLevelGained>
+  <LetterLabelPsylinkLevelGained>정신력 증폭 획득</LetterLabelPsylinkLevelGained>
   <!-- EN: {USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button. -->
   <LetterPsylinkLevelGained_First>{USER_labelShort}(이)가 정신력 증폭기의 첫단계를 얻었습니다! {USER_pronoun}는 이제 초능력 시전자가 되었습니다.\n\n{USER_labelShort}(이)가 초능력을 시전하려면 명상을 통해 초집중을 축적해야 합니다. 특정 물체에 집중하면서 명상을 하면 효과가 높아집니다.\n\n사람마다 집중할 수 있는 물체는 개인의 배경, 특성, 작위에 따라 다릅니다. 예를 들어:\n\n- 왕실 작위를 가진 시전자는 왕좌에서 명상합니다.\n- 부족민으로 유년기를 보낸 시전자는 영혼나무와 성지를 보고 명상합니다.\n- 검소한 시전자는 빈 벽만 보면서 명상할 수 있습니다.\n- 사이코패스 시전자는 무덤에서 명상하는 것을 좋아합니다.\n\n'i' 단추를 통해 그 사람의 명상 유형을 확인할 수 있습니다.</LetterPsylinkLevelGained_First>
   <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psychic powers of that higher level, but {USER_pronoun} needs to learn them first. -->
@@ -174,7 +174,7 @@
   <!-- EN: {TARGET_definite}'s title changed -->
   <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite}의 작위 변경됨</LetterLabelBestowingCeremonyTitleUpdated>
   <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
-  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite}(이)가 수여식 일정이 정해진 이후에 다른 작위를 더 얻었습니다. 곧 새로운 작위의 수여식 일정이 다시 잡힐 것입니다.\n\n아직 받지 못한 모든 작위의 정신력 증폭기 또한 새로운 수여식에서 받을 수 있습니다.</LetterTextBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite}(은)는 예정되어 있던 수여식이 진행되기 전에 더 높은 작위를 얻었습니다. 이에 따라 새로운 작위를 위한 수여식이 다시 준비됩니다.\n\n받게 될 예정이었던 정신력 증폭기 또한 새로운 수여식에서 함께 지급됩니다.</LetterTextBestowingCeremonyTitleUpdated>
   
   <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
   <LetterPartBestowingExtraHonor>{PAWN_labelShort}(은)는 {3}명의 관전자를 모은 것에 대한 존경의 의미로 {FACTION_name}에서 {1}의 신임장을 추가로 받았습니다.</LetterPartBestowingExtraHonor>

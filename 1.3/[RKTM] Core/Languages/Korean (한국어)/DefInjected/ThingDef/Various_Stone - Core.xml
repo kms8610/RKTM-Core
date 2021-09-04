@@ -39,22 +39,22 @@
   <!-- EN: granite chunk -->
   <ChunkGranite.label>화강암 덩어리</ChunkGranite.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkGranite.description>화강암 바위 덩어리. 사용 가능한 화강암 석재로 잘라낼 수 있습니다.</ChunkGranite.description>
+  <ChunkGranite.description>바위 덩어리입니다. 사용 가능한 석재로 잘라낼 수 있습니다.</ChunkGranite.description>
   
   <!-- EN: limestone chunk -->
   <ChunkLimestone.label>석회암 덩어리</ChunkLimestone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkLimestone.description>석회암 바위 덩어리. 사용 가능한 석회암 석재로 잘라낼 수 있습니다.</ChunkLimestone.description>
+  <ChunkLimestone.description>바위 덩어리입니다. 사용 가능한 석재로 잘라낼 수 있습니다.</ChunkLimestone.description>
   
   <!-- EN: marble chunk -->
   <ChunkMarble.label>대리석 덩어리</ChunkMarble.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkMarble.description>대리석 바위 덩어리. 사용 가능한 대리석 석재로 잘라낼 수 있습니다.</ChunkMarble.description>
+  <ChunkMarble.description>바위 덩어리입니다. 사용 가능한 석재로 잘라낼 수 있습니다.</ChunkMarble.description>
   
   <!-- EN: sandstone chunk -->
   <ChunkSandstone.label>사암 덩어리</ChunkSandstone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSandstone.description>사암 바위 덩어리. 사용 가능한 사암 석재로 잘라낼 수 있습니다.</ChunkSandstone.description>
+  <ChunkSandstone.description>바위 덩어리입니다. 사용 가능한 석재로 잘라낼 수 있습니다.</ChunkSandstone.description>
   
   <!-- EN: steel slag chunk -->
   <ChunkSlagSteel.label>고철 덩어리</ChunkSlagSteel.label>
@@ -64,7 +64,7 @@
   <!-- EN: slate chunk -->
   <ChunkSlate.label>점판암 덩어리</ChunkSlate.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSlate.description>점판암 바위 덩어리. 사용 가능한 점판암 석재로 잘라낼 수 있습니다.</ChunkSlate.description>
+  <ChunkSlate.description>바위 덩어리입니다. 사용 가능한 석재로 잘라낼 수 있습니다.</ChunkSlate.description>
   
   <!-- EN: granite -->
   <Granite.label>화강암</Granite.label>
@@ -79,7 +79,7 @@
   <!-- EN: marble -->
   <Marble.label>대리석</Marble.label>
   <!-- EN: A soft metamorphic rock. -->
-  <Marble.description>고대로부터 석재로 애용되어온 부드러운 변성암입니다.</Marble.description>
+  <Marble.description>고대로부터 석재로 애용되어 온 부드러운 변성암입니다.</Marble.description>
   
   <!-- EN: sandstone -->
   <Sandstone.label>사암</Sandstone.label>

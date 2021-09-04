@@ -92,6 +92,8 @@
   <NoUsableFood>사용 가능한 식량 없음</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>식량 없음</NoFood>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>{0_label} 없음</NoIngredient>
   <!-- EN: below requirements of {0} -->
   <FoodBelowTitleRequirements>{0}의 요구 사항</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
@@ -114,6 +116,8 @@
   <CantRopeAnimalCantTouch>도달할 수 없음</CantRopeAnimalCantTouch>
   <!-- EN: no space in pen -->
   <CantRopeAnimalNoSpace>우리에 자리 없음</CantRopeAnimalNoSpace>
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>{0_labelShort}(은)는 {1} 상태입니다</CantRopeAnimalMentalState>
   <!-- EN: already in best pen -->
   <CantRopeAnimalAlreadyInBestPen>이미 최적의 우리 안에 있음</CantRopeAnimalAlreadyInBestPen>
   <!-- EN: {0} skill too low -->

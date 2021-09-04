@@ -2,19 +2,22 @@
 <LanguageData>
   
   <!-- EN: administered drug -->
-  <AdministeredDrug.label>투여 된 약물</AdministeredDrug.label>
+  <AdministeredDrug.label>약물 투여</AdministeredDrug.label>
   
   <!-- EN: administered hard drug -->
-  <AdministeredHardDrug.label>경질 약물 투여</AdministeredHardDrug.label>
+  <AdministeredHardDrug.label>강한 약물 투여</AdministeredHardDrug.label>
   
   <!-- EN: administered recreational drug -->
   <AdministeredRecreationalDrug.label>오락용 약물 투여</AdministeredRecreationalDrug.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat.label>인육을 먹음</AteHumanMeat.label>
+  <AteHumanMeat.label>인육 섭취</AteHumanMeat.label>
   
   <!-- EN: cut tree -->
   <CutTree.label>벌목</CutTree.label>
+  
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>파괴된 자연벽</DestroyedMineable.label>
   
   <!-- EN: used drug -->
   <IngestedDrug.label>약물 사용</IngestedDrug.label>
@@ -26,10 +29,13 @@
   <IngestedRecreationalDrug.label>오락용 약물 사용</IngestedRecreationalDrug.label>
   
   <!-- EN: installed prosthetic -->
-  <InstalledProsthetic.label>설치 된 보철물</InstalledProsthetic.label>
+  <InstalledProsthetic.label>보철물 설치</InstalledProsthetic.label>
   
   <!-- EN: mined -->
   <Mined.label>채굴</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>나무가 죽음</MinifiedTreeDied.label>
   
   <!-- EN: researching -->
   <Researching.label>연구</Researching.label>

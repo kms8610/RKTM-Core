@@ -7,7 +7,7 @@
   <Burn.deathMessage>{0}(이)가 불에 타 사망했습니다.</Burn.deathMessage>
   
   <!-- EN: flame -->
-  <Flame.label>화염</Flame.label>
+  <Flame.label>불꽃</Flame.label>
   <!-- EN: {0} has burned to death. -->
   <Flame.deathMessage>{0}(이)가 불에 타 사망했습니다.</Flame.deathMessage>
   
@@ -17,7 +17,7 @@
   <Frostbite.deathMessage>{0}(이)가 동사했습니다.</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
-  <TornadoScratch.label>토네이도에 휩쓸림</TornadoScratch.label>
+  <TornadoScratch.label>긁힘</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->
   <TornadoScratch.deathMessage>{0}(이)가 토네이도에 휩쓸려 사망했습니다.</TornadoScratch.deathMessage>
   

@@ -4,7 +4,7 @@
   <!-- EN: bonded animal {0} lost -->
   <BondedAnimalLost.stages.bonded_animal_lost.label>각별한 동물 {0} 잃음</BondedAnimalLost.stages.bonded_animal_lost.label>
   <!-- EN: Such a tender, unique animal. This universe is evil! -->
-  <BondedAnimalLost.stages.bonded_animal_lost.description>특별하고 부드러운 내 동물이.. 이 세계는 끔찍해!</BondedAnimalLost.stages.bonded_animal_lost.description>
+  <BondedAnimalLost.stages.bonded_animal_lost.description>아아, 그런 아이를 다시는 찾을 수 없겠지. 신이시여, 왜!</BondedAnimalLost.stages.bonded_animal_lost.description>
   
   <!-- EN: bonded animal {0} released -->
   <BondedAnimalReleased.stages.bonded_animal_released.label>각별한 동물 {0} 방출</BondedAnimalReleased.stages.bonded_animal_released.label>
@@ -119,7 +119,7 @@
   <!-- EN: my rival {0} lost -->
   <PawnWithBadOpinionLost.stages.my_rival_lost.label>경쟁자 {0} 잃음</PawnWithBadOpinionLost.stages.my_rival_lost.label>
   <!-- EN: Serves them right. At least there's some justice in this world. -->
-  <PawnWithBadOpinionLost.stages.my_rival_lost.description>이제야 좀 낫군. 아직 이 세상에 정의는 살아있어.</PawnWithBadOpinionLost.stages.my_rival_lost.description>
+  <PawnWithBadOpinionLost.stages.my_rival_lost.description>꼴 좋네! 이런 세상에도 정의는 살아있다는 거지.</PawnWithBadOpinionLost.stages.my_rival_lost.description>
   
   <!-- EN: my friend {0} lost -->
   <PawnWithGoodOpinionLost.stages.my_friend_lost.label>친구 {0} 잃음</PawnWithGoodOpinionLost.stages.my_friend_lost.label>

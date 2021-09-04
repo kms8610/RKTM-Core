@@ -24,7 +24,7 @@
   <!-- EN: deep drill -->
   <DeepDrill.label>심층 굴착기</DeepDrill.label>
   <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
-  <DeepDrill.description>지하 자원을 추출하는데 쓰이는 심층 굴착 장치입니다. 지면 투과 탐색기를 이용해 자원 위치를 찾은 뒤 사용하십시오. 자원이 없는 곳에서는 석재를 생산합니다.</DeepDrill.description>
+  <DeepDrill.description>이동 가능한 굴착 장비입니다. 지면 투과 탐색기를 이용해 찾아낸 지하 자원을 추출하기 위해 사용됩니다. 자원이 없는 곳에서는 암석 덩어리를 생산합니다.</DeepDrill.description>
   
   <!-- EN: drug lab -->
   <DrugLab.label>약물 연구대</DrugLab.label>

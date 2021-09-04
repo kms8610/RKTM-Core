@@ -17,7 +17,7 @@
   <!-- EN: A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.\n\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply. -->
   <BloodLoss.description>경미한 혈액 손실은 비교적 영향을 적게 미치지만, 심해지면 산소 수송이 심각하게 저하되고 이동능력이 상실됩니다. 극심한 혈액 손실은 사망으로 이어집니다.\n\n혈액손실은 자연적으로 시간에 지남에 따라 회복됩니다.</BloodLoss.description>
   <!-- EN: minor -->
-  <BloodLoss.stages.minor-0.label>사소함</BloodLoss.stages.minor-0.label>
+  <BloodLoss.stages.minor-0.label>가벼움</BloodLoss.stages.minor-0.label>
   <!-- EN: minor -->
   <BloodLoss.stages.minor-1.label>가벼움</BloodLoss.stages.minor-1.label>
   <!-- EN: moderate -->
@@ -92,7 +92,7 @@
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
   <Pregnant.description>이 생물은 임신 중입니다. 시간이 지나면 출산합니다. 굶주리거나 다치면 유산할 수 있습니다.</Pregnant.description>
   <!-- EN: {0} is pregnant! -->
-  <Pregnant.comps.HediffComp_MessageAfterTicks.message>TODO</Pregnant.comps.HediffComp_MessageAfterTicks.message>
+  <Pregnant.comps.HediffComp_MessageAfterTicks.message>{0}(이)가 임신했습니다!</Pregnant.comps.HediffComp_MessageAfterTicks.message>
   <!-- EN: pregnancy -->
   <Pregnant.labelNoun>임신</Pregnant.labelNoun>
   <!-- EN: early-stage -->
@@ -112,7 +112,7 @@
   <!-- EN: psychic hangover -->
   <PsychicHangover.label>정신적 후유증</PsychicHangover.label>
   <!-- EN: An after-effect of neural heat. Psychic hangover is bothersome, but not dangerous. -->
-  <PsychicHangover.description>쌓여있던 정신력 혼돈치가 흩어지면서 발생하는 정신적 후유증입니다. 귀찮지만 위험하지는 않습니다.</PsychicHangover.description>
+  <PsychicHangover.description>쌓여있던 신경열이 흩어지면서 발생하는 정신적 후유증입니다. 귀찮지만 위험하지는 않습니다.</PsychicHangover.description>
   <!-- EN: a psychic hangover -->
   <PsychicHangover.labelNoun>정신적 후유증</PsychicHangover.labelNoun>
   <!-- EN: forming -->

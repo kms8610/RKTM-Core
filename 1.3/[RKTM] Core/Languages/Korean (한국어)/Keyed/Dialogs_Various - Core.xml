@@ -649,7 +649,7 @@
   <!-- EN: People and animals -->
   <PawnsTab>사람과 동물들</PawnsTab>
   <!-- EN: Items -->
-  <ItemsTab>품목들</ItemsTab>
+  <ItemsTab>물품</ItemsTab>
   <!-- EN: Travel supplies -->
   <TravelSupplies>보급품</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
@@ -684,6 +684,8 @@
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(첫번째 경유지만 고려됨)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>상단에 {0}일치의 식량밖에 없어서 금방 굶주릴 것입니다.</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
+  <DaysWorthOfFoodDietWarningDialog>상단에 적재할 음식의 대부분이 몇몇 구성원의 식성과 맞지 않습니다. 굶주림으로 인해 어쩔 수 없이 먹게 되면 기분이 나빠집니다.</DaysWorthOfFoodDietWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>상단에 식량이 없어서 금방 굶주릴 것입니다.</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
@@ -735,9 +737,9 @@
   <!-- EN: Reform caravan -->
   <ReformCaravan>상단 재구성</ReformCaravan>
   <!-- EN: Colonists -->
-  <ColonistsSection>정착민들</ColonistsSection>
+  <ColonistsSection>정착민</ColonistsSection>
   <!-- EN: Prisoners -->
-  <PrisonersSection>수감자들</PrisonersSection>
+  <PrisonersSection>수감자</PrisonersSection>
   <!-- EN: Capture -->
   <CaptureSection>포획</CaptureSection>
   <!-- EN: Animals -->
@@ -1013,7 +1015,7 @@
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>시야 필요</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
-  <AbilityEntropyGain>혼돈치 누적</AbilityEntropyGain>
+  <AbilityEntropyGain>신경열 누적</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
   <AbilityPsyfocusCost>초집중 비용</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->

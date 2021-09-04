@@ -46,10 +46,20 @@
   <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
   <AncientMachine.description>알 수 없는 기계들로 이루어진 거대한 장치입니다. 쓸만한 부품은 전부 사라졌으며, 그나마 남아있던 부분도 삭아버렸습니다.</AncientMachine.description>
   
+  <!-- EN: ancient military crate -->
+  <AncientMilitaryCrate.label>고대 군용 상자</AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <AncientMilitaryCrate.description>고대의 군대가 사용했던 상자입니다. 이제는 완전히 부서졌고 어떤 귀중한 물건도 담겨 있지 않습니다.</AncientMilitaryCrate.description>
+  
   <!-- EN: ancient operating table -->
   <AncientOperatingTable.label>고대 수술대</AncientOperatingTable.label>
   <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
   <AncientOperatingTable.description>오래 전 수술 작업에 사용되었을 장치입니다. 지금은 낡아 빠져 어디에도 사용할 수 없게 되었습니다.</AncientOperatingTable.description>
+  
+  <!-- EN: ancient spacer crate -->
+  <AncientSpacerCrate.label>고대 우주선 부품 상자</AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <AncientSpacerCrate.description>부서진 고대의 상자입니다. 안에 있던 무언가는 이미 그 존재를 확인할 수도 없을 정도로 삭아버렸습니다.</AncientSpacerCrate.description>
   
   <!-- EN: ancient storage cylinder -->
   <AncientStorageCylinder.label>고대 실린더 보관함</AncientStorageCylinder.label>

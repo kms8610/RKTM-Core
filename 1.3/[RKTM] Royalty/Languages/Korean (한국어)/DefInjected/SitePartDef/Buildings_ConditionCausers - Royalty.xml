@@ -7,19 +7,19 @@
   <ClimateAdjuster.description>기후 조정기입니다.</ClimateAdjuster.description>
   
   <!-- EN: EMI dynamo -->
-  <EMIDynamo.label>EMI 교란기</EMIDynamo.label>
+  <EMIDynamo.label>전자 교란기</EMIDynamo.label>
   <!-- EN: An EMI dynamo. -->
-  <EMIDynamo.description>EMI 교란기입니다.</EMIDynamo.description>
+  <EMIDynamo.description>전자 교란기입니다.</EMIDynamo.description>
   
   <!-- EN: psychic droner -->
-  <PsychicDroner.label>정신파 드론</PsychicDroner.label>
+  <PsychicDroner.label>정신 조작기</PsychicDroner.label>
   <!-- EN: A psychic droner. -->
-  <PsychicDroner.description>정신파 드론입니다.</PsychicDroner.description>
+  <PsychicDroner.description>정신 조작기가 위치한 곳입니다.</PsychicDroner.description>
   
   <!-- EN: psychic suppressor -->
   <PsychicSuppressor.label>초능력 신호 차단기</PsychicSuppressor.label>
   <!-- EN: A psychic suppressor. -->
-  <PsychicSuppressor.description>초능력 신호 차단기입니다.</PsychicSuppressor.description>
+  <PsychicSuppressor.description>초능력 신호를 차단하는 장치입니다.</PsychicSuppressor.description>
   
   <!-- EN: smoke spewer -->
   <SmokeSpewer.label>연막 살포기</SmokeSpewer.label>
@@ -32,7 +32,7 @@
   <SunBlocker.description>태양 차단기입니다.</SunBlocker.description>
   
   <!-- EN: toxic spewer -->
-  <ToxicSpewer.label>독성 살포기</ToxicSpewer.label>
+  <ToxicSpewer.label>독성 분출기</ToxicSpewer.label>
   <!-- EN: A toxic spewer. -->
   <ToxicSpewer.description>독성 살포기입니다.</ToxicSpewer.description>
   

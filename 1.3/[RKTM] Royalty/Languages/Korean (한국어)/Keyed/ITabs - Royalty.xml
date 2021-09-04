@@ -36,7 +36,7 @@
   
   <!-- Permits tab -->
   <!-- EN: Permits -->
-  <TabPermits>허가증</TabPermits>
+  <TabPermits>지원 요청</TabPermits>
   <!-- EN: Permits from {FACTION_name} -->
   <PermitsFromFaction>{FACTION_name}의 허가증</PermitsFromFaction>
   <!-- EN: Current title -->
@@ -56,7 +56,7 @@
   <!-- EN: Switch faction -->
   <SwitchFaction_Desc>세력 전환</SwitchFaction_Desc>
   <!-- EN: Accept permit -->
-  <AcceptPermit>허가증 수락</AcceptPermit>
+  <AcceptPermit>지원 요청 권한 획득</AcceptPermit>
   <!-- EN: Requires title: {0} -->
   <RequiresTitle>요구 작위: {0}</RequiresTitle>
   <!-- EN: Upgrade from: {0} -->

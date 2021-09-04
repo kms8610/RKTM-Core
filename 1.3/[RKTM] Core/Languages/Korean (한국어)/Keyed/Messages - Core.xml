@@ -74,6 +74,9 @@
   <MessageAnimalManhuntsOnTameFailed>경고: {ANIMAL_kindBasePlural}(은)는 조련 시도에 실패할 경우 공격할 수 있습니다. ({1} 확률)</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
   <MessageInsectTameDesignated>곤충 교감 특성을 지닌 정착민만 {INSECT_indefinite}(을)를 길들일 수 있습니다.</MessageInsectTameDesignated>
+
+  <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
+  <MessageInsectsHostileOnTaming>경고: {PAWN_labelShort}(은)는 적대적입니다. 길들이려 하면 공격할 것입니다.</MessageInsectsHostileOnTaming>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>포섭</LetterLabelMessageRecruitSuccess>
@@ -228,7 +231,7 @@
   <MessageShipChunkDrop>우주선의 일부가 추락해 근처에 떨어졌습니다. 해체하여 자원을 얻을 수 있습니다.</MessageShipChunkDrop>
 
   <!-- EN: Some items cannot be traded because of:  -->
-  <MessageCannotSellItemsReason>다음 이유로 인해 일부 아이템을 거래할 수 없습니다:</MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>다음 이유로 인해 일부 아이템을 거래할 수 없습니다: </MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
   <MessageConstructionFailed>{WORKER_labelShort}(이)가 {0} 건설 중 실수했습니다. 일부 자원이 낭비되었습니다.</MessageConstructionFailed>
@@ -560,7 +563,7 @@
   <!-- EN: {1_labelShort} has been returned to the wild. -->
   <MessageAnimalReturnedWildReleased>{1_labelShort}(을)를 야생으로 돌려보냈습니다.</MessageAnimalReturnedWildReleased>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
-  <MessageAnimalLostSkill>오랜 기간 훈련하지 않았기 때문에, {ANIMAL_labelShort}(이)가 {1} 능력을 잃었습니다. </MessageAnimalLostSkill>
+  <MessageAnimalLostSkill>오랜 기간 훈련하지 않았기 때문에, {ANIMAL_labelShort}(이)가 {1} 능력을 잃었습니다.</MessageAnimalLostSkill>
 
   <!-- EN: Translation report written to {0} -->
   <MessageTranslationReportSaved>{0}에 번역 보고서 작성됨</MessageTranslationReportSaved>
@@ -622,6 +625,9 @@
 
   <!-- EN: No valid destination found for {0} -->
   <NoValidDestinationFound>{0}에 대한 유효한 목적지를 찾을 수 없습니다.</NoValidDestinationFound>
+
+  <!-- EN: An extracted tree just died. -->
+  <MessageMinifiedTreeDied>뽑아 둔 나무가 죽었습니다.</MessageMinifiedTreeDied>
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
@@ -653,6 +659,8 @@
   <RitualBegun>{0}(이)가 시작됐습니다.</RitualBegun>
   <!-- EN: The maximum number of {0}s is {1}. -->
   <MaxPawnsPerRole>{0}(은)는 최대 {1}명까지 가능합니다.</MaxPawnsPerRole>
+  <!-- EN: Role of {0} is locked. -->
+  <RoleIsLocked>{0} 지위는 아직 사용할 수 없습니다.</RoleIsLocked>
   <!-- EN: You need at least one participant. -->
   <MessageRitualNeedsAtLeastOnePerson>최소 한 명의 사람은 참여해야 합니다.</MessageRitualNeedsAtLeastOnePerson>
   <!-- EN: You need at least one spectator. -->
@@ -679,6 +687,10 @@
   <MessageRitualRoleMustBeAnimal>{0}(은)는 동물이어야 합니다.</MessageRitualRoleMustBeAnimal>
   <!-- EN: {0} must be a human. -->
   <MessageRitualRoleMustBeHumanlike>{0}(은)는 사람이어야 합니다.</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: No roles available for {0_labelShort}. -->
+  <MessageRitualNoRolesAvailable>{0_labelShort}(은)는 맡을 수 있는 지위가 없습니다.</MessageRitualNoRolesAvailable>
+  <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
+  <MessageRitualNotOfPlayerIdeo>{0_labelShort}(은)는 정착지의 어떤 사상도 믿지 않습니다.</MessageRitualNotOfPlayerIdeo> <!-- text_todo -->
   <!-- EN: {0} must have eyes -->
   <MessageRitualRoleMustHaveEyes>{0}(이)가 눈을 지니고 있어야 함</MessageRitualRoleMustHaveEyes>
   <!-- EN: {0_labelShort} does not require further scarification. -->
@@ -713,6 +725,10 @@
   <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort}(은)는 이미 {1}입니다.</MessageRitualPawnIsAlreadyBelievingIdeo>
   <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
   <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort}(은)는 관전자 외에 맡을 수 있는 역할이 없습니다.</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <!-- EN: {0} cannot be an imprisoned wild man/woman. -->
+  <MessageRitualRoleMustNotBeImprisonedWildMan>수감 중인 야인은 {0}(을)를 할 수 없습니다.</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <!-- EN: {0} must be free. -->
+  <MessageRitualRoleMustNotBeImprisoned>{0}(은)는 석방되어야 합니다.</MessageRitualRoleMustNotBeImprisoned>
 
   <!-- EN: You must select a site to continue. -->
   <MessagePlayerMustSelectTile>계속하려면 지역을 선택해야 합니다.</MessagePlayerMustSelectTile>
@@ -727,7 +743,10 @@
   <AdjacentSowBlocker>{0_label} 옆에 심을 수 없습니다.</AdjacentSowBlocker>
   <!-- EN: Too close to {0_label}. -->
   <TooCloseToOtherPlant>{0_label}에 너무 가깝습니다.</TooCloseToOtherPlant>
-  <!-- EN: Too close to {0_label}'s planting location. -->
-  <TooCloseToOtherSeedPlantCell>{0_label}(을)를 심을 위치에 너무 가깝습니다.</TooCloseToOtherSeedPlantCell>
-  
+  <!-- EN: Too close to {0}'s planting location. -->
+  <TooCloseToOtherSeedPlantCell>{0}(을)를 심을 위치가 너무 가깝습니다.</TooCloseToOtherSeedPlantCell>
+
+  <!-- EN: Warning: {0} has been marked for cutting. -->
+  <MessageWarningCutImportantPlant>경고: {0}(이)가 벌목될 예정입니다.</MessageWarningCutImportantPlant>
+
 </LanguageData>

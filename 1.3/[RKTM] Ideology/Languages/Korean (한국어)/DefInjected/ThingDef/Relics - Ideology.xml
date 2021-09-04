@@ -29,7 +29,7 @@
   <!-- EN: pendant -->
   <RelicInertPendant.label>펜던트</RelicInertPendant.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertPendant.description>상징성을 지닌 물건입니다.</RelicInertPendant.description>
+  <RelicInertPendant.description>종교적 상징물입니다.</RelicInertPendant.description>
   
   <!-- EN: hilt -->
   <RelicInertSwordHandle.label>칼자루</RelicInertSwordHandle.label>

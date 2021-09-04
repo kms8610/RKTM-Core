@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: shuttle (crashing) -->
-  <ShuttleCrashing.label>왕복선 (충돌 중)</ShuttleCrashing.label>
+  <ShuttleCrashing.label>왕복선 (추락 중)</ShuttleCrashing.label>
   
   <!-- EN: shuttle (incoming) -->
-  <ShuttleIncoming.label>왕복선 (들어오는 중)</ShuttleIncoming.label>
+  <ShuttleIncoming.label>왕복선 (진입 중)</ShuttleIncoming.label>
   
   <!-- EN: shuttle (leaving) -->
   <ShuttleLeaving.label>왕복선 (떠나는 중)</ShuttleLeaving.label>

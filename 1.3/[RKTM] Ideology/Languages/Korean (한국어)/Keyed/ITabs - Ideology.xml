@@ -11,7 +11,7 @@
 
   <!-- ITab titles -->
   <!-- EN: Slave -->
-  <TabSlave>노예</TabSlave>
+  <TabSlave>처우</TabSlave>
   <!-- EN: The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health. -->
   <SlaveReleaseRelationGainsDesc>노예를 해방하면 노예의 소속 세력과 관계가 개선됩니다. 개선되는 수치는 노예의 지위, 건강, 정신 상태에 영향을 받습니다.</SlaveReleaseRelationGainsDesc>
   <!-- EN: Relations gain on release -->
@@ -54,7 +54,7 @@
   <!-- EN: Slave count -->
   <SuppressionSlaveCountFactor>노예 수</SuppressionSlaveCountFactor>
   <!-- EN: Escape route -->
-  <SuppressionEscapeFactor>탈출 경로</SuppressionEscapeFactor>
+  <SuppressionEscapeFactor>빈틈 존재</SuppressionEscapeFactor>
   <!-- EN: Weapon proximity -->
   <SuppressionWeaponProximityFactor>무기</SuppressionWeaponProximityFactor>
   <!-- EN: Final interval -->
@@ -84,6 +84,8 @@
   <CertaintyInIdeo>{PAWN_nameDef}(이)가 {IDEO_name}에 갖는 믿음</CertaintyInIdeo>
   <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
   <RoleDesc>이 사람이 자신의 사상에서 맡고 있는 특별한 지위입니다. 바꾸거나 박탈할 경우 기분이 나빠질 것입니다.</RoleDesc>
+  <!-- EN: Changing roles requires a role change ritual. Select any ritual spot or altar and press 'Begin role change'. -->
+  <RoleAssignmentTip>지위를 변경하기 위해서는 취임식이 필요합니다. 제단이나 행사 장소를 우클릭하여 '취임식 시작'을 선택하세요.</RoleAssignmentTip>
   <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
   <ConversionWeakerDueToTraitAgreements>대상의 특성과 사상이 잘 어울리기 때문에 개종 효율이 약해짐</ConversionWeakerDueToTraitAgreements>
   <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->

@@ -13,7 +13,7 @@
   <Art.verb>예술</Art.verb>
   
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
-  <BasicWorker.description>숙련이 필요없는 쉬운 작업. 죄수를 해방하거나 간단한 스위치를 작동합니다.</BasicWorker.description>
+  <BasicWorker.description>숙련이 필요 없는 쉬운 작업입니다. 수감자를 해방하거나 기계의 스위치를 켜고 끕니다.</BasicWorker.description>
   <!-- EN: dealing with -->
   <BasicWorker.gerundLabel>심부름</BasicWorker.gerundLabel>
   <!-- EN: Basic -->
@@ -35,7 +35,7 @@
   <Cleaning.verb>청소</Cleaning.verb>
   
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
-  <Construction.description>당신이 지정한 것을 건설하고, 손상됐거나 피해를 입은 건물을 수리합니다.</Construction.description>
+  <Construction.description>지정한 것을 건설하고, 손상됐거나 피해를 입은 건물을 수리합니다.</Construction.description>
   <!-- EN: constructing -->
   <Construction.gerundLabel>건설</Construction.gerundLabel>
   <!-- EN: Construct -->
@@ -68,7 +68,7 @@
   <Crafting.verb>제작</Crafting.verb>
   
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
-  <Doctor.description>환자를 간호하고 음식을 갖다주며 기운을 북돋아주기도 하고 수술도 집도합니다. 정착민과 수감자 양쪽 모두 보살핍니다.</Doctor.description>
+  <Doctor.description>환자를 간호하고 음식을 갖다 주며 기운을 북돋아주기도 하고 수술도 집도합니다. 정착민과 수감자 모두 보살핍니다.</Doctor.description>
   <!-- EN: doctoring -->
   <Doctor.gerundLabel>치료</Doctor.gerundLabel>
   <!-- EN: Doctor -->
@@ -101,7 +101,7 @@
   <Growing.verb>재배</Growing.verb>
   
   <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
-  <Handling.description>동물을 길들이고, 돌보고, 동물성 자원을 채집하고, 도축합니다.</Handling.description>
+  <Handling.description>동물을 길들이고, 돌보고, 축산물을 채집하고, 도축합니다.</Handling.description>
   <!-- EN: handling -->
   <Handling.gerundLabel>조련</Handling.gerundLabel>
   <!-- EN: Handle -->
@@ -164,10 +164,10 @@
   <!-- EN: Bed rester -->
   <PatientBedRest.pawnLabel>휴식</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
-  <PatientBedRest.verb>휴식</PatientBedRest.verb>
+  <PatientBedRest.verb>요양</PatientBedRest.verb>
   
   <!-- EN: Cut or harvest plants as designated. -->
-  <PlantCutting.description>지정된 식물을 제거하거나 작물을 수확합니다.</PlantCutting.description>
+  <PlantCutting.description>지정한 식물을 제거하거나 작물을 수확합니다.</PlantCutting.description>
   <!-- EN: plant cutting -->
   <PlantCutting.gerundLabel>제초/벌목</PlantCutting.gerundLabel>
   <!-- EN: Plant cut -->

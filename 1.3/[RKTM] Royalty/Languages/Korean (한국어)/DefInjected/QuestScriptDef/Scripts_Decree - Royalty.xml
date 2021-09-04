@@ -18,7 +18,7 @@
   <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
   <Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>기념비 표지가 파괴되어 새로운 표지가 도착했습니다.</Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>
   <!-- EN: Monument completed -->
-  <Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>기념비 완성</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
+  <Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>기념비 완성됨</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
   <!-- EN: You have completed construction of the monument.\n\nYou must keep it safe for [keepMonumentTicks_duration], otherwise [asker_nameDef] will be displeased. -->
   <Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>기념비 건설을 완료하였습니다.\n\n[keepMonumentTicks_duration] 동안 안전하게 유지하지 않는다면, [asker_nameDef](이)가 좋아하지 않을 것입니다.</Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>
   <!-- EN: Monument destroyed -->
@@ -26,9 +26,9 @@
   <!-- EN: [asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\n[asker_pronoun] will be unhappy about this. -->
   <Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>[asker_nameDef](은)는 기념비가 완성된 후 빨리 부순 것에 대해 불쾌하게 생각합니다.\n\n[asker_pronoun]는 불만을 가집니다.</Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
-  <Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>{0} 동안 기념비를 파괴하지 마세요</Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>
+  <Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>{0} 동안 기념비를 파괴하지 마십시오.</Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
-  <Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>{0} 동안 기념비를 파괴하지 마세요</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
+  <Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>{0} 동안 기념비를 파괴하지 마십시오.</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
   <!-- EN: Keep monument {0} -->
   <Decree_BuildMonument.KeepMonument.slateRef>{0} 기념비 유지</Decree_BuildMonument.KeepMonument.slateRef>
   

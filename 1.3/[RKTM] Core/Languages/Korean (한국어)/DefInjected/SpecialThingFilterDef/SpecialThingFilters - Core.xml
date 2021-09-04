@@ -16,12 +16,12 @@
   <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>정착민 시체 허용</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
-  <AllowCorpsesColonist.description>이전에 정착민이었던 사람의 시체를 허용합니다.</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.description>정착민의 시체를 허용합니다.</AllowCorpsesColonist.description>
   
   <!-- EN: allow stranger corpses -->
   <AllowCorpsesStranger.label>외지인 시체 허용</AllowCorpsesStranger.label>
   <!-- EN: Allow the dead bodies of strangers and enemies. -->
-  <AllowCorpsesStranger.description>이전에 적이었거나 외지인이었던 사람의 시체를 허용합니다.</AllowCorpsesStranger.description>
+  <AllowCorpsesStranger.description>외지인이나 적의 시체를 허용합니다.</AllowCorpsesStranger.description>
   
   <!-- EN: allow tainted apparel -->
   <AllowDeadmansApparel.label>유품 옷 허용</AllowDeadmansApparel.label>

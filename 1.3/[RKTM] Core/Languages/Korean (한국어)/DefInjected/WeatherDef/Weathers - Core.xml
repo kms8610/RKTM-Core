@@ -39,6 +39,6 @@
   <!-- EN: hard snow -->
   <SnowHard.label>폭설</SnowHard.label>
   <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <SnowHard.description>이동 속도와 원거리 무기의 명중률이 감소합니다. 외부의 불이 자연적으로 꺼집니다.</SnowHard.description>
+  <SnowHard.description>이동속도와 원거리 무기의 명중률이 감소합니다. 외부의 불이 자연적으로 꺼집니다.</SnowHard.description>
   
 </LanguageData>

@@ -8,6 +8,6 @@
   <!-- EN: Drink {0} -->
   <PsychiteTea.ingestible.ingestCommandString>{0} 마시기</PsychiteTea.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <PsychiteTea.ingestible.ingestReportString>{0} 마시는 중.</PsychiteTea.ingestible.ingestReportString>
+  <PsychiteTea.ingestible.ingestReportString>{0} 마시는 중</PsychiteTea.ingestible.ingestReportString>
   
 </LanguageData>

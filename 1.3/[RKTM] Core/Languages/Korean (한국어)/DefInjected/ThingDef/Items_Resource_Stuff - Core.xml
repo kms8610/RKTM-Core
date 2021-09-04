@@ -24,14 +24,14 @@
   <Hyperweave.description>최첨단 나노섬유로 짠 옷감입니다. 약간 무거운 감이 있지만 놀라울 정도로 튼튼합니다. 이 섬유의 제조법은 가장 진보된 문명세계에만 알려져 있습니다.</Hyperweave.description>
   
   <!-- EN: jade -->
-  <Jade.label>비취</Jade.label>
+  <Jade.label>비취옥</Jade.label>
   <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
   <Jade.description>매우 단단한 초록색 돌입니다. 주로 장신구에 이용합니다. 비취로 만든 근접무기는 엄청난 경도로 인해 치명적일 수 있습니다.</Jade.description>
   
   <!-- EN: plasteel -->
   <Plasteel.label>플라스틸</Plasteel.label>
   <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
-  <Plasteel.description>발전한 우주 문명들의 첨단 구조 재료입니다. 독특한 분자 구조로 인해 매우 강합니다.</Plasteel.description>
+  <Plasteel.description>발전한 우주 문명에서 사용되는 구조 재료입니다. 독특한 분자 구조로 인해 매우 강합니다.</Plasteel.description>
   
   <!-- EN: silver -->
   <Silver.label>은</Silver.label>
@@ -56,7 +56,7 @@
   <!-- EN: wood -->
   <WoodLog.label>목재</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>나무에서 구할 수 있으며 건물 구조, 무기, 심지어 간단한 보철물에도 유용합니다. 또한 급한 상황에서 무기로도 사용할 수 있습니다.</WoodLog.description>
+  <WoodLog.description>목재는 나무를 베어 얻을 수 있으며 각종 건축물과 무기, 심지어 간단한 보철물에 이르기까지 다용도로 사용됩니다. 또한 급한 상황이라면 간단한 무기로도 사용할 수 있습니다.</WoodLog.description>
   <!-- EN: wooden -->
   <WoodLog.stuffProps.stuffAdjective>나무</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->

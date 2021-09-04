@@ -4,7 +4,7 @@
   <!-- EN: orbital bombardment targeter -->
   <OrbitalTargeterBombardment.label>궤도폭격 조준기</OrbitalTargeterBombardment.label>
   <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
-  <OrbitalTargeterBombardment.description>고대의 궤도폭격 시스템에 접촉하여 단 1회 허가되지 않은 명령을 내릴 수 있는 장치입니다. 대상을 지정하면 인공위성망으로 좌표를 전송하고, 수신한 위성이 운동력 탄환으로 해당 지역을 폭격합니다. 이 과정은 위성망이 위험을 감지할 때까지 지속됩니다.</OrbitalTargeterBombardment.description>
+  <OrbitalTargeterBombardment.description>고대의 궤도폭격 시스템에 접촉하여 단 1회 허가되지 않은 명령을 내릴 수 있는 장치입니다. 대상을 지정하면 인공위성망으로 좌표가 전송되고, 수신한 위성이 해당 지역을 폭격합니다. 이 과정은 위성망이 위험을 감지할 때까지 지속됩니다.</OrbitalTargeterBombardment.description>
   <!-- EN: charge -->
   <OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>충전</OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>
   <!-- EN: orbital bombardment targeter -->

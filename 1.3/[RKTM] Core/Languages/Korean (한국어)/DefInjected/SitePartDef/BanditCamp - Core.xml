@@ -10,6 +10,6 @@
   <!-- EN: Attack {0} -->
   <BanditCamp.approachOrderString>{0} 공격</BanditCamp.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
-  <BanditCamp.arrivedLetter>이 지역에 적 전초기지가 있습니다.</BanditCamp.arrivedLetter>
+  <BanditCamp.arrivedLetter>이 위치에는 적의 전초 기지가 있습니다.</BanditCamp.arrivedLetter>
   
 </LanguageData>

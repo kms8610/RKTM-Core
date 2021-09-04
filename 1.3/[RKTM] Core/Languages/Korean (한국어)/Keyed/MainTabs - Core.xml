@@ -163,7 +163,7 @@
   <!-- EN: Colony wealth (this map) -->
   <ThisMapColonyWealthTotal>정착지 재산 (이 지역에서)</ThisMapColonyWealthTotal>
   <!-- EN: Colony wealth (items) (this map) -->
-  <ThisMapColonyWealthItems>정착지 재산 (아이템) (이 지역에서)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthItems>정착지 재산 (물품) (이 지역에서)</ThisMapColonyWealthItems>
   <!-- EN: Colony wealth (buildings) (this map) -->
   <ThisMapColonyWealthBuildings>정착지 재산 (건물) (이 지역에서)</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (people and animals) (this map) -->
@@ -287,9 +287,9 @@
   <!-- EN: To accept this quest, you need -->
   <QuestAcceptanceRequirementsDescription>임무 요구사항</QuestAcceptanceRequirementsDescription>
   <!-- EN: free bedrooms that satisfy the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfied>다음 작위에 어울리는 빈 침실들: </QuestBedroomRequirementsUnsatisfied>
+  <QuestBedroomRequirementsUnsatisfied>다음 작위에 어울리는 빈 침실들:</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfiedSingle>다음 작위에 어울리는 빈 침실: </QuestBedroomRequirementsUnsatisfiedSingle>
+  <QuestBedroomRequirementsUnsatisfiedSingle>다음 작위에 어울리는 빈 침실:</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
   <QuestThroneRoomRequirementsUnsatisfied>{PAWN_definite}의 {TITLE} 작위 요건을 충족하는 알현실</QuestThroneRoomRequirementsUnsatisfied>
   <!-- EN: assign a throne for {PAWN_definite} -->

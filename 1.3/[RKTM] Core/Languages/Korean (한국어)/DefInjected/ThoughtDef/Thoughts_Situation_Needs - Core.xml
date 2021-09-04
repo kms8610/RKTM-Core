@@ -108,7 +108,7 @@
   <!-- EN: I can feel my body wasting away. My stomach hurts like never before. -->
   <NeedFood.stages.badly_malnourished.description>내 몸이 죽어가는게 느껴져. 배가 너무 아파.</NeedFood.stages.badly_malnourished.description>
   <!-- EN: starving -->
-  <NeedFood.stages.starving.label>굶주림 (중간)</NeedFood.stages.starving.label>
+  <NeedFood.stages.starving.label>굶주림</NeedFood.stages.starving.label>
   <!-- EN: I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
   <NeedFood.stages.starving.description>음식밖에 생각이 안나. 뼈가 다 보여. 이대로 죽는걸까?</NeedFood.stages.starving.description>
   <!-- EN: advanced starvation -->
@@ -125,7 +125,7 @@
   <!-- EN: I shouldn’t be outdoors. -->
   <NeedIndoors.stages.just_outdoors.description>나는 밖에 나가고 싶지 않아.</NeedIndoors.stages.just_outdoors.description>
   <!-- EN: outdoors -->
-  <NeedIndoors.stages.outdoors.label>야외</NeedIndoors.stages.outdoors.label>
+  <NeedIndoors.stages.outdoors.label>외출</NeedIndoors.stages.outdoors.label>
   <!-- EN: I’ve been outside too much recently. -->
   <NeedIndoors.stages.outdoors.description>너무 밖에만 있는거 같은데...</NeedIndoors.stages.outdoors.description>
   <!-- EN: long outdoors -->
@@ -186,7 +186,7 @@
   <!-- EN: drowsy -->
   <NeedRest.stages.drowsy.label>피곤</NeedRest.stages.drowsy.label>
   <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
-  <NeedRest.stages.drowsy.description>잠을 좀 자야겠어</NeedRest.stages.drowsy.description>
+  <NeedRest.stages.drowsy.description>잠을 좀 자야겠어.</NeedRest.stages.drowsy.description>
   <!-- EN: tired -->
   <NeedRest.stages.tired.label>지침</NeedRest.stages.tired.label>
   <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->

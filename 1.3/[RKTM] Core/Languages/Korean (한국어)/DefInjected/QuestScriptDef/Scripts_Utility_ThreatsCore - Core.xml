@@ -5,16 +5,16 @@
   <Util_GenerateSite.root.singleSitePartRules.slateRef>
     <rulesStrings>
       <li>root(priority=1,sitePart==ClimateAdjuster)->지역 온도 [temperatureOffset]가 조정되는 (*Threat)기후 조정장치(/Threat)</li>
-      <li>root(priority=1,sitePart==PsychicDroner)->[affectedGender] 성별에 영향을 주는 (*Threat)정신파 드론(/Threat)</li>
-      <li>root(priority=1,sitePart==PsychicSuppressor)->[affectedGender] 성별에 영향을 주는 (*Threat)정신 억제장치(/Threat)</li>
+      <li>root(priority=1,sitePart==PsychicDroner)->[affectedGender] 성별에 영향을 주는 (*Threat)정신 조작기(/Threat)</li>
+      <li>root(priority=1,sitePart==PsychicSuppressor)->[affectedGender] 성별에 영향을 주는 (*Threat)정신 억제기(/Threat)</li>
       <li>root(priority=1,sitePart==WeatherController)->지역의 날씨를 [weather_label](으)로 강제 지정하는 (*Threat)날씨 조정장치(/Threat)</li>
       <li>root(priority=1,sitePart==SmokeSpewer)->지역에 연기를 뿜어내는 (*Threat)연기 발생장치(/Threat)</li>
       <li>root(priority=1,sitePart==SunBlocker)->한 지역의 빛을 차단하는 (*Threat)태양 차단장치(/Threat)</li>
       <li>root(priority=1,sitePart==EMIDynamo)->전기장치들을 비활성화 할 수 있는 (*Threat)EMI 발생장치(/Threat)</li>
       <li>root(priority=1,sitePart==ToxicSpewer)->독으로 지역을 뒤덮을 수 있는 (*Threat)유독성 살포장치(/Threat)</li>
-      <li>root(priority=1,sitePart==RaidSource)->[mtbDays] 마다 습격을 하게 되는 (*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 군사구역</li>
+      <li>root(priority=1,sitePart==RaidSource)->[mtbDays] 마다 습격하게 되는 (*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 군사구역</li>
       <li>root(priority=1,sitePart==Outpost)->(*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 전초기지</li>
-      <li>root(priority=1,sitePart==BanditCamp)->(*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 도적캠프</li>
+      <li>root(priority=1,sitePart==BanditCamp)->(*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 도적 주둔지</li>
       <li>root(priority=1,sitePart==Manhunters,count==1)->근처를 방황하는 (*Threat)식인 [kindLabel](/Threat)</li>
       <li>root(priority=1,sitePart==Manhunters,count>1)->근처를 방황하는 (*Threat)[count] 마리의 식인 [kindLabel](/Threat)</li>
       <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->근처에서 휴면 중인 (*Threat)메카노이드(/Threat)</li>

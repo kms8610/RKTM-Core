@@ -16,7 +16,7 @@
   <AnimalSlaughter_Horrible.comps.1.description>누군가 동물을 도축함</AnimalSlaughter_Horrible.comps.1.description>
   
   <!-- EN: prohibited -->
-  <AnimalSlaughter_Prohibited.label>금지됨</AnimalSlaughter_Prohibited.label>
+  <AnimalSlaughter_Prohibited.label>금기</AnimalSlaughter_Prohibited.label>
   <!-- EN: Slaughtering animals is absolutely prohibited. -->
   <AnimalSlaughter_Prohibited.description>동물을 도축하는 건 금지된 일이다.</AnimalSlaughter_Prohibited.description>
   <!-- EN: Someone slaughtered an animal -->

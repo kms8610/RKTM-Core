@@ -176,10 +176,6 @@
   <EscapeShipFound>(*Name)샬론 화이트스톤(/Name)이 보낸 좌표에 도착하여 숨겨진 함선을 찾았습니다.\n\n우주선의 원자로는 오랫동안 가동되지 않아 바로 비행할 수 없습니다. 인공지능 핵과 접촉하여 시동을 걸 수 있습니다.\n\n샬론 화이트스톤은 시동까지 약 15일이 걸리며, 우주선의 에너지 파동이 먼 거리까지 퍼져나가 침입자와 보물사냥꾼들을 끌어들일 거라고 경고합니다. 방어체계가 구축되었는지 확인하세요.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
   <EscapeShipFoundPeaceful>(*Name)샬론 화이트스톤(/Name)이 보낸 좌표에 도착하여 숨겨진 함선을 찾았습니다.\n\n우주선의 원자로는 오랫동안 가동되지 않아 바로 비행할 수 없습니다. 인공지능 핵과 접촉하여 시동을 걸 수 있습니다.\n\n샬론 화이트스톤은 시동까지 약 15일이 걸릴 거라고 예측하고 있습니다.</EscapeShipFoundPeaceful>
-  <!-- EN: Ship destroyed -->
-  <EscapeShipLostLabel>우주선 파괴</EscapeShipLostLabel>
-  <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>(*Name)샬론 화이트스톤(/Name)의 메시지가 도착했습니다. 악의를 품은 자들의 손에 떨어지기 전에 스스로 자폭 프로그램을 실행했다고 합니다.\n\n이 행성에서 탈출하려면 다른 방법을 찾아야 할 듯 합니다.</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->

@@ -25,9 +25,9 @@
   <!-- EN: insect jelly -->
   <InsectJellyTunnels.label>곤충 젤리</InsectJellyTunnels.label>
   <!-- EN: insect jelly deposits will be deposited from underground. -->
-  <InsectJellyTunnels.effectDesc>곤충 젤리는 지하에서부터 침전됩니다.</InsectJellyTunnels.effectDesc>
+  <InsectJellyTunnels.effectDesc>지하로부터 곤충 젤리가 스며나옵니다.</InsectJellyTunnels.effectDesc>
   <!-- EN: A giant insect colony underground has deposited some insect jelly. -->
-  <InsectJellyTunnels.letterInfoText>지하의 곤충 군락이 곤충 젤리 더미를 남겼습니다.</InsectJellyTunnels.letterInfoText>
+  <InsectJellyTunnels.letterInfoText>지하의 곤충 군락이 젤리 더미를 남겼습니다.</InsectJellyTunnels.letterInfoText>
   
   <!-- EN: nearby faction goodwill -->
   <NearbyFactionGoodwill.label>주변 세력 우호도</NearbyFactionGoodwill.label>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: psychic droner -->
-  <PsychicDroner.label>정신 조종장치</PsychicDroner.label>
+  <PsychicDroner.label>정신 조작기</PsychicDroner.label>
   <!-- EN: A psychic droner tuned to the {0} gender is driving {0}s mad. -->
   <PsychicDroner.description>{0} 성별로 맞춰진 정신 조종장치가 {0}(을)를 미치게 합니다.</PsychicDroner.description>
   <!-- EN: A psychic droner machine has begun affecting this region. -->

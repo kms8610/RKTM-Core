@@ -59,7 +59,7 @@
   <HornAttackTool.label>뿔</HornAttackTool.label>
   
   <!-- EN: left blade -->
-  <LeftBlade.label>왼쪽 칼</LeftBlade.label>
+  <LeftBlade.label>왼쪽 칼날</LeftBlade.label>
   <!-- EN: blade -->
   <LeftBlade.labelShort>칼날</LeftBlade.labelShort>
   
@@ -83,7 +83,7 @@
   <Neck.label>목</Neck.label>
   
   <!-- EN: right blade -->
-  <RightBlade.label>오른쪽 칼</RightBlade.label>
+  <RightBlade.label>오른쪽 칼날</RightBlade.label>
   <!-- EN: blade -->
   <RightBlade.labelShort>칼날</RightBlade.labelShort>
   

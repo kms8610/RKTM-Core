@@ -51,12 +51,12 @@
   <HasProsthetic_Disapproved_Social.stages.artificial_part.label>인공신체가 있음</HasProsthetic_Disapproved_Social.stages.artificial_part.label>
   
   <!-- EN: installed prosthetic -->
-  <InstalledProsthetic_Abhorrent.stages.installed_prosthetic.label>보철물을 장착함</InstalledProsthetic_Abhorrent.stages.installed_prosthetic.label>
+  <InstalledProsthetic_Abhorrent.stages.installed_prosthetic.label>보철물 장착함</InstalledProsthetic_Abhorrent.stages.installed_prosthetic.label>
   <!-- EN: I had to install a prosthetic. This was deeply offensive to my beliefs. -->
   <InstalledProsthetic_Abhorrent.stages.installed_prosthetic.description>보철물을 장착해야만 했어. 이건 내 신념에 대한 모욕이야.</InstalledProsthetic_Abhorrent.stages.installed_prosthetic.description>
   
   <!-- EN: installed prosthetic -->
-  <InstalledProsthetic_Disapproved.stages.installed_prosthetic.label>보철물을 장착함</InstalledProsthetic_Disapproved.stages.installed_prosthetic.label>
+  <InstalledProsthetic_Disapproved.stages.installed_prosthetic.label>보철물 장착함</InstalledProsthetic_Disapproved.stages.installed_prosthetic.label>
   <!-- EN: I had to install a prosthetic. This was clearly against my beliefs. -->
   <InstalledProsthetic_Disapproved.stages.installed_prosthetic.description>보철물에 의지하다니, 이건 명백히 내 신념에 어긋나.</InstalledProsthetic_Disapproved.stages.installed_prosthetic.description>
   

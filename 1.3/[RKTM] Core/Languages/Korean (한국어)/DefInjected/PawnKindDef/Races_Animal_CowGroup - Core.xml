@@ -18,15 +18,14 @@
   <!-- EN: caribou -->
   <Caribou.label>순록</Caribou.label>
   <!-- EN: caribou -->
-  <Caribou.labelPlural>순록들</Caribou.labelPlural>
+  <Caribou.labelPlural>순록</Caribou.labelPlural>
   <!-- EN: caribou calf -->
   <Caribou.lifeStages.caribou_calf.label>새끼 순록</Caribou.lifeStages.caribou_calf.label>
   <!-- EN: caribou calves -->
-  <Caribou.lifeStages.caribou_calf.labelPlural>새끼 순록</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.caribou_calf.labelPlural>새끼 순록들</Caribou.lifeStages.caribou_calf.labelPlural>
   
   <!-- EN: cow -->
   <Cow.label>소</Cow.label>
-  <Cow.labelFemale>소</Cow.labelFemale>
   <!-- EN: bull -->
   <Cow.labelMale>소</Cow.labelMale>
   <!-- EN: calf -->
@@ -46,7 +45,7 @@
   <!-- EN: dromedary calf -->
   <Dromedary.lifeStages.dromedary_calf.label>새끼 낙타</Dromedary.lifeStages.dromedary_calf.label>
   <!-- EN: dromedary calves -->
-  <Dromedary.lifeStages.dromedary_calf.labelPlural>새끼 낙타</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>새끼 낙타들</Dromedary.lifeStages.dromedary_calf.labelPlural>
   
   <!-- EN: elephant -->
   <Elephant.label>코끼리</Elephant.label>
@@ -56,7 +55,7 @@
   <!-- EN: elk -->
   <Elk.label>말코손바닥사슴</Elk.label>
   <!-- EN: elk -->
-  <Elk.labelPlural>말코손바닥사슴들</Elk.labelPlural>
+  <Elk.labelPlural>말코손바닥사슴</Elk.labelPlural>
   <!-- EN: elk calf -->
   <Elk.lifeStages.elk_calf.label>새끼 말코손바닥사슴</Elk.lifeStages.elk_calf.label>
   <!-- EN: elk calves -->
@@ -83,7 +82,7 @@
   <!-- EN: muffalo calf -->
   <Muffalo.lifeStages.muffalo_calf.label>새끼 머팔로</Muffalo.lifeStages.muffalo_calf.label>
   <!-- EN: muffalo calves -->
-  <Muffalo.lifeStages.muffalo_calf.labelPlural>새끼 머팔로</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>새끼 머팔로들</Muffalo.lifeStages.muffalo_calf.labelPlural>
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>코뿔소</Rhinoceros.label>

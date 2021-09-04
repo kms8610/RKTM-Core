@@ -9,7 +9,7 @@
   <!-- EN: door opening speed -->
   <DoorOpenSpeed.label>개폐 속도</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>문이 열리는 속도입니다. 느린 문은 지나다니는 사람의 속도도 느려집니다.</DoorOpenSpeed.description>
+  <DoorOpenSpeed.description>문이 열리는 속도입니다.\n\n느린 문은 지나다니는 사람의 속도도 느려집니다.</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>항체 생성 속도 계수</ImmunityGainSpeedFactor.label>
@@ -43,7 +43,7 @@
   <!-- EN: trap melee damage -->
   <TrapMeleeDamage.label>덫 근접 피해량</TrapMeleeDamage.label>
   <!-- EN: How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>덫이 입히는 피해의 평균값입니다. 실제 피해량은 약간의 오차가 있을 수 있습니다.</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>덫이 입히는 피해의 평균값입니다.\n\n실제 피해량은 약간의 오차가 있을 수 있습니다.</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
   <TrapSpringChance.label>덫 작동 확률</TrapSpringChance.label>
@@ -62,7 +62,7 @@
   
   <!-- EN: work to build -->
   <WorkToBuild.label>건설 작업량</WorkToBuild.label>
-  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
-  <WorkToBuild.description>모든 재료가 모였을때 건설하는데 필요한 기본 작업량입니다.</WorkToBuild.description>
+  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered.\n\nThe work required to deconstruct the structure is also based on this. -->
+  <WorkToBuild.description>모든 재료가 준비된 상태에서 구조물을 만드는 데 필요한 기본 작업량입니다.\n\n구조물을 분해하는 데 필요한 시간도 이 수치의 영향을 받습니다.</WorkToBuild.description>
   
 </LanguageData>

@@ -58,7 +58,7 @@
   <RansomDemand.letterLabel>몸값 요구</RansomDemand.letterLabel>
   
   <!-- EN: transport pod crash -->
-  <RefugeePodCrash.label>수송기 추락</RefugeePodCrash.label>
+  <RefugeePodCrash.label>수송 포드 추락</RefugeePodCrash.label>
   
   <!-- EN: resource pod crash -->
   <ResourcePodCrash.label>화물 낙하기 추락</ResourcePodCrash.label>
@@ -84,8 +84,6 @@
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>방랑자 합류</WandererJoin.label>
-  <WandererJoin.letterLabel>방랑자 합류: {PAWN_nameDef}</WandererJoin.letterLabel>
-  <WandererJoin.letterText>{PAWN_title}, {PAWN_nameDef}(이)라는 이름의 방랑자가 도착하여 정착지에 합류하려고 합니다.\n\n{PAWN_pronoun}는 정착지에 이바지할 생각이 있지만, 자발적으로 떠나지는 않을 것입니다. 만약 {PAWN_nameDef}(을)를 원하지 않는다면 {PAWN_objective} 추방하거나, 노예로 팔거나, 그냥 죽일 수도 있습니다. 하지만 정착민 생각도 과연 그럴까요.</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>방황하는 야생인간</WildManWandersIn.label>

@@ -7,9 +7,9 @@
     <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] soldier</li>
   -->
   <Mission_BanditCamp.questDescriptionRules.rulesStrings>
-    <li>questDescription->[enemiesLabel](이)가 캠프를 세우고 [asker_faction_name]의 상단을 괴롭히고 있습니다. [asker_nameDef](은)는 [enemiesLabel] [enemiesCount]명이 지키고 있는 캠프에 대한 공중강습을 계획하고 있습니다. [asker_pronoun]는 [soldiers](을)를 제공하여 공격을 수행하길 원합니다.\n\n[asker_pronoun]는 왕복선을 보내 전사들을 태우고, 지역을 공격한 뒤에 집으로 돌려보낼 것입니다. 그들은 도중에 식량을 공급받습니다.\n\n공격이 시작되면, [timeoutTicks_duration] 내로 모든 적과 포탑들을 격파해야합니다.</li>
-    <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] 군인들</li>
-    <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] 군인</li>
+    <li>questDescription->[enemiesLabel](이)가 캠프를 세우고 [asker_faction_name]의 상단을 괴롭히고 있습니다. [asker_nameDef](은)는 [enemiesLabel] [enemiesCount]명이 지키고 있는 캠프에 대한 공중강습을 계획하고 있습니다. [asker_pronoun]는 [soldiers](을)를 제공하여 공격을 수행하길 원합니다.\n\n[asker_pronoun]는 왕복선을 보내 전사들을 이동시키고, 지역 공격이 완료되면 다시 집으로 돌려보낼 것입니다. 이동 중에는 충분한 식량이 제공됩니다.\n\n공격이 시작되면, [timeoutTicks_duration] 내로 모든 적과 포탑들을 격파해야 합니다.</li>
+    <li>soldiers(requiredPawnCount>1)->군인 [requiredPawnCount]명</li>
+    <li>soldiers(requiredPawnCount==1)->군인 [requiredPawnCount]명</li>
   </Mission_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[questNameInner]</li>
@@ -43,7 +43,7 @@
     <li>attack->공격</li>
     <li>attack->돌격</li>
     <li>work->작업</li>
-    <li>work->과제</li>
+    <li>work->과업</li>
   </Mission_BanditCamp.questNameRules.rulesStrings>
   
 </LanguageData>

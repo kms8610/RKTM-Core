@@ -12,11 +12,13 @@
   <DominantStyle>주요 양식</DominantStyle>
   <!-- EN: Date -->
   <Date>날짜</Date>
+  <!-- EN: The following development points will be awarded depending on the ritual outcome -->
+  <RitualDevelopmentPointRewards>의식 결과에 따라 다음과 같은 발전 점수가 지급됩니다.</RitualDevelopmentPointRewards>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
   <ChooseStructureMemesInfo>사상을 상징하는 구조를 선택하세요. 상징만 바꾸며 게임 플레이에는 영향을 주지 않습니다.</ChooseStructureMemesInfo>
-  <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others. -->
-  <ChooseNormalMemesInfo>사상의 중심이 될 가르침을 {0}-{1}개 선택하세요. 가르침마다 게임 플레이에 주는 영향이 다릅니다.</ChooseNormalMemesInfo>
+  <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. -->
+  <ChooseNormalMemesInfo>사상의 중심이 될 가르침을 {0}-{1}개 선택하세요.</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
   <NotEnoughMemes>적어도 {0}개의 가르침을 선택하세요.</NotEnoughMemes>
   <!-- EN: Choose at most {0} memes. -->
@@ -25,19 +27,37 @@
   <ChooseStructureMeme>구조를 선택하세요.</ChooseStructureMeme>
   <!-- EN: {0_label} and {1_label} are incompatible. -->
   <IncompatibleMemes>{0_label}(와)과 {1_label}(을)를 함께 선택할 수 없습니다.</IncompatibleMemes>
+  <!-- EN: Some of these have much more gameplay impact than others. -->
+  <SomeMemesHaveMoreImpact>가르침마다 게임 플레이에 주는 영향이 다릅니다.</SomeMemesHaveMoreImpact>
+  <!-- EN: Choose one meme to form the initial idea of this ideoligion. You will add more memes as the ideoligion develops over time. -->
+  <ChooseNormalMemesFluidIdeoInfo>이 사상의 기초가 될 하나의 가르침을 선택하세요. 이후에 사상이 발달하면 더 많은 가르침을 추가할 수 있습니다.</ChooseNormalMemesFluidIdeoInfo>
+  <!-- EN: Choose a meme or remove a meme. -->
+  <ChooseOrRemoveMeme>가르침을 선택하거나 제거합니다.</ChooseOrRemoveMeme>
+  <!-- EN: Reset changes -->
+  <ReformIdeoResetChanges>재설정</ReformIdeoResetChanges>
+  <!-- EN: Choose {0} meme. -->
+  <NotEnoughMemesFluidIdeo>가르침을 {0}개 선택하십시오.</NotEnoughMemesFluidIdeo>
 
   <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
   <ChangesRandomizePrecepts>{0}(을)를 선택하면 모든 규율을 무작위로 다시 선택합니다.\n\n계속하시겠습니까?</ChangesRandomizePrecepts>
+  <!-- EN: The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue? -->
+  <ChangesRemovePrecepts>다음 규칙은 새로운 가르침과 호환되지 않으므로 제거됩니다.\n\n{0}\n\n계속하시겠습니까?</ChangesRemovePrecepts>
   
   <!-- EN: Room requirements -->
   <RoomRequirements>방 요구사항</RoomRequirements>
+  <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). The following memes are incompatible:\n\n{0}\n\nWould you like to continue? -->
+  <ConfirmChangeMemesForFluidIdeo>불러오려는 사상에 유동적 사상과 호환되지 않는 가르침이 존재합니다. 유동적 사상은 시작할 때 하나의 약한 영향 가르침만 선택할 수 있으므로 가르침을 모두 다시 선택해야 합니다. 다음의 가르침이 영향을 받습니다.\n\n{0}\n\n계속 하시겠습니까?</ConfirmChangeMemesForFluidIdeo>
   
   <!-- EN: role -->
   <Role>지위</Role>
   <!-- EN: Assign role -->
   <ChooseRole>지위 할당</ChooseRole>
+  <!-- EN: Choose new role -->
+  <ChooseNewRole>새 지위 선택</ChooseNewRole>
   <!-- EN: No role assigned -->
-  <NoRoleAssigned>지위 없음</NoRoleAssigned>
+  <NoRoleAssigned>할당된 지위 없음</NoRoleAssigned>
+  <!-- EN: Remove {0} role -->
+  <RemoveRole>{0} 지위 해임</RemoveRole>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
   <ChooseRoleConfirmAssign>{PAWN_labelShort}에게 {ROLE_labelDef}의 지위를 맡기려고 합니다.</ChooseRoleConfirmAssign>
   <!-- EN: Are you sure? -->
@@ -47,7 +67,7 @@
   <!-- EN: {PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it. -->
   <ChooseRoleConfirmAssignHasOtherRole>{ROLE_label}(은)는 현재 {PAWN_labelShort}(이)가 맡고 있습니다. 역할을 잃으면 기분이 나빠질 것입니다.</ChooseRoleConfirmAssignHasOtherRole>
   <!-- EN: There can be only one leader. This will dismiss {PAWN_labelShort} from their {OTHERROLE_labelDef} role, which will make {PAWN_objective} upset. -->
-  <ChooseRoleConfirmAssignReplaceLeader>한 명의 지도자만 존재할 수 있습니다. 진행 시 {PAWN_labelShort}(을)를 {OTHERROLE_labelDef}에서 해임하므로, {PAWN_labelShort}(이)가 분노합니다.</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmAssignReplaceLeader>지도자는 한 명만 존재할 수 있습니다. 계속하면 {PAWN_labelShort}(이)가 {OTHERROLE_labelDef}에서 해임되어 실망할 것입니다.</ChooseRoleConfirmAssignReplaceLeader>
   <!-- EN: You're about to dismiss {PAWN_labelShort} from the role of {ROLE_labelIndef}. This will upset {PAWN_objective}. -->
   <ChooseRoleConfirmUnassign>{PAWN_labelShort}(을)를 {ROLE_labelIndef}에서 해임하려고 합니다. {PAWN_labelShort}(이)가 분노할 것입니다.</ChooseRoleConfirmUnassign>
   <!-- EN: {PAWN_labelShort} will gain the following abilities -->
@@ -65,7 +85,7 @@
   <!-- EN: Unlocked rituals -->
   <MemeUnlocksRituals>진행 가능한 행사</MemeUnlocksRituals>
   <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
-  <ChooseRoleRequiredWorkTagsDisabled>경고: {PAWN_nameDef}(은)는 {ROLE_label}에서 필요로 하는 작업을 수행하지 못합니다. 지위를 얻더라도 {ROLE_label} 능력을 사용하지 못할 수 있습니다. 다음 작업 유형을 확인하십시오 :</ChooseRoleRequiredWorkTagsDisabled>
+  <ChooseRoleRequiredWorkTagsDisabled>경고: {PAWN_nameDef}(은)는 {ROLE_label}에서 필요로 하는 작업을 수행하지 못합니다. 지위를 얻더라도 {ROLE_label} 능력을 사용하지 못할 것입니다. 다음 작업 유형을 확인하십시오 :</ChooseRoleRequiredWorkTagsDisabled>
   <!-- EN: Leader bonus -->
   <YourLeaderTradeBonus>지도자 보너스</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
@@ -98,6 +118,31 @@
 
   <!-- EN: {PAWN_labelShort} was already counselled recently. -->
   <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort}(은)는 최근에 이미 상담을 받았습니다.</AbilityCantApplyAlreadyCounselled>
+
+  <!-- EN: Reform... -->
+  <ReformIdeo>개혁...</ReformIdeo>
+  <!-- EN: Reform ideoligion -->
+  <ReformIdeoligion>사상 개혁</ReformIdeoligion>
+  <!-- EN: Reform your ideoligion by changing its structure, memes or style. -->
+  <ReformIdeoligionDesc>규율과 가르침, 스타일을 변경하여 사상을 개혁하세요.</ReformIdeoligionDesc>
+  <!-- EN: Change styles -->
+  <ReformIdeoChangeStyles>스타일 바꾸기</ReformIdeoChangeStyles>
+  <!-- EN: Add or remove a meme -->
+  <ReformIdeoAddOrRemoveMeme>가르침 추가 또는 제거</ReformIdeoAddOrRemoveMeme>
+  <!-- EN: Add a meme -->
+  <ReformIdeoAddMeme>가르침 추가</ReformIdeoAddMeme>
+  <!-- EN: Choose one -->
+  <ReformIdeoChooseOneChange>하나 선택</ReformIdeoChooseOneChange>
+  <!-- EN: Change structure -->
+  <ReformIdeoChangeStructure>구조 교체</ReformIdeoChangeStructure>
+  <!-- EN: Change any of the following -->
+  <ReformIdeoChangeAny>다음 중 하나를 변경합니다.</ReformIdeoChangeAny>
+  <!-- EN: The relic {0} will not be venerated by your colonists after reforming this ideoligion. Since the quest '{0}' is searching for this relic, it will be deactivated. -->
+  <ReformIdeoRelicHuntQuestEnd>이 사상을 개혁한 후에는 유물 {0}(을)를 정착민들이 더 이상 숭배하지 않습니다. 임무 '{0}이(가) 이 유물을 찾고 있음으로 비활성됩니다.</ReformIdeoRelicHuntQuestEnd>
+  <!-- EN: The ritual {0} is in progress and will be cancelled. -->
+  <ReformIdeoCancelRituals>진행 중인 행사 {0}이(가) 취소됩니다.</ReformIdeoCancelRituals>
+  <!-- EN: Do you wish to continue? -->
+  <ReformIdeoContinue>계속하시겠습니까?</ReformIdeoContinue>
 
   <!-- Slavery -->
   <!-- EN: Slave -->
@@ -239,6 +284,14 @@
   <ChoosePeopleDesc>사람을 {0}명까지 선택하세요.</ChoosePeopleDesc>
   <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
   <ChooseOnlySlavesInfo>노예만 선택할 경우 모든 노예가 정착민이 된 채로 플레이합니다.</ChooseOnlySlavesInfo>
+  <!-- EN: Confirm decisions -->
+  <ConfirmDecisionsTitle>확인</ConfirmDecisionsTitle>
+  <!-- EN: The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship. -->
+  <ShipEscapeWillEndDescription>AI (*Name)샬론 화이트스톤(/Name)이 보고한 우주선은 새로운 정착지가 건설될 때 날아갈 것입니다. 더 이상 이 우주선으로 여행하여 행성을 탈출할 수 없습니다.</ShipEscapeWillEndDescription>
+  <!-- EN: The colony's purchasers will only allow you to take one relic. Any relic not selected will be left behind, including: -->
+  <RemoveEquippedRelicsDescription>정착지 구매자는 유물을 하나만 가져갈 수 있습니다. 선택하지 않은 모든 유물은 다음을 포함하여 남게 됩니다.</RemoveEquippedRelicsDescription>
+  <!-- EN: Would you like to proceed? -->
+  <WantToProceed>계속 하시겠습니까?</WantToProceed>
   <!-- EN: Convert -->
   <ConvertToPlayerIdeoligion>교화</ConvertToPlayerIdeoligion>
   <!-- EN: Revert -->
@@ -247,6 +300,8 @@
   <ExistingFollowerOfPlayerIdeoligion>이 사상을 믿는 사람들</ExistingFollowerOfPlayerIdeoligion>
   <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->
   <AbandonArchotechStructuresWarningDialog>조사가 끝나지 않은 초월공학 구조물이 위치한 지역을 포기하려 하고 있습니다.\n\n나중에 이 곳에 다시 정착할 수 있지만, 지금의 정착지는 파괴됩니다.</AbandonArchotechStructuresWarningDialog>
+  <!-- EN: {0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1} -->
+  <ItemQuantityTooltip>새 정착지로 가져올 수 있는 수량 {0}개\n\n최대 허용 수량: {1}</ItemQuantityTooltip>
 
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}? -->
   <ConfirmHackEnenyTerminal>{0}(을)를 해킹하면 적들이 공격해올 것입니다. 정말 {0}(을)를 해킹하시겠습니까?</ConfirmHackEnenyTerminal>

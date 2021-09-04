@@ -103,15 +103,19 @@
   <!-- EN: Execute -->
   <Execute>처형</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>유죄 정착민 처형\n\n활성화할 경우 간수가 이 사람을 처형할 것입니다.</ExecuteColonist> <!-- text_doto -->
+  <ExecuteColonist>유죄 정착민 처형\n\n활성화할 경우 간수가 이 사람을 처형할 것입니다.</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
   <MessageColonistMarkedForExecution>{0_labelShort}의 처형을 지시했습니다. 활동 가능한 간수가 {0_objective} 처형할 것입니다.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{1}의 {0}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>{PAWN_nameDef}(이)가 {TITLE} 작위를 잃게 됩니다. 작위를 포기하면 보상을 받을 수 없습니다.\n\n다음과 같은 효과가 발생합니다:\n\n{EFFECTS}</RenounceTitleDescription>
-  <!-- EN: {PAWN_possessive} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>{PAWN_possessive} 권한을 잃었습니다.</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_pronoun} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>{PAWN_pronoun}는 권한을 잃었습니다.</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
+  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef}(은)는 {FACTION_name}의 사용하지 않은 허가증 {POINTS}개를 잃게 됩니다.</RenounceTitleWillLosePermitPoints>
+  <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun}(은)는 모든 정신력 증폭 단계와 초집중 능력을 유지합니다.</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
   <UnknownLower>알려지지 않음</UnknownLower>
   <!-- EN: On -->
@@ -215,9 +219,9 @@
   <!-- EN: {0} downed -->
   <CaravanPawnsDowned>{0} 쓰러짐</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
-  <CaravanTraveling>이동 중.</CaravanTraveling>
+  <CaravanTraveling>이동 중</CaravanTraveling>
   <!-- EN: Waiting. -->
-  <CaravanWaiting>대기 중.</CaravanWaiting>
+  <CaravanWaiting>대기 중</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
   <BeingCarriedDueToIllness>질병으로 인해 운반 중</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
@@ -271,7 +275,7 @@
   <!-- EN: Disabled -->
   <DisabledCommand>사용 불가</DisabledCommand>
   <!-- EN: Ready for launch. -->
-  <ReadyForLaunch>발사 준비됨.</ReadyForLaunch>
+  <ReadyForLaunch>발사 준비됨</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
   <NotReadyForLaunch>발사 준비되지 않음</NotReadyForLaunch>
   <!-- EN: no fueling port -->
@@ -410,6 +414,8 @@
   <Location>위치</Location>
   <!-- EN: animals -->
   <AnimalsLower>동물들</AnimalsLower>
+  <!-- EN: items -->
+  <ItemsLower>물건</ItemsLower>
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
@@ -696,7 +702,7 @@
   <!-- EN: sleeping. -->
   <ReportSleeping>수면 중.</ReportSleeping>
   <!-- EN: resting. -->
-  <ReportResting>쉬는 중.</ReportResting>
+  <ReportResting>쉬는 중</ReportResting>
   <!-- EN: laying down. -->
   <ReportLayingDown>눕는 중.</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
@@ -720,7 +726,7 @@
   <!-- EN: cowering. -->
   <ReportCowering>겁에 질림.</ReportCowering>
   <!-- EN: standing. -->
-  <ReportStanding>서 있음.</ReportStanding>
+  <ReportStanding>대기 중</ReportStanding>
   <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>불 끄는 중.</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
@@ -1080,7 +1086,7 @@
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
   <MustPlaceNearFuelingPort>발사대의 연료 주입구 옆에 배치해야 합니다.</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
-  <MustPlaceOnDrillable>심층 채굴 가능한 자원에 배치해야 합니다.</MustPlaceOnDrillable>
+  <MustPlaceOnDrillable>굴착 가능한 자원 위에 배치해야 합니다.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>함정 옆에 배치할 수 없습니다.</CannotPlaceAdjacentTrap>
   <!-- EN: Cannot be placed next to another building of the same type. -->
@@ -1088,7 +1094,7 @@
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
-  <WindTurbine_WindPathIsBlockedBy>바람길이 막힘: </WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedBy>바람길이 막힘:</WindTurbine_WindPathIsBlockedBy>
   <!-- EN: Blocked by roof -->
   <WindTurbine_WindPathIsBlockedByRoof>지붕에 의해 막힘</WindTurbine_WindPathIsBlockedByRoof>
 
@@ -1141,6 +1147,8 @@
   <Installed>설치</Installed>
   <!-- EN: Not installed -->
   <NotInstalled>설치되지 않음</NotInstalled>
+  <!-- EN: Extracted tree will die in {time} unless replanted. -->
+  <MinifiedTreeWillDieIn>뽑아둔 나무는 {time} 안에 다시 심지 않으면 죽습니다.</MinifiedTreeWillDieIn>
 
   <!-- Art -->
   <!-- EN: Title -->
@@ -1266,15 +1274,15 @@
   <!-- EN: Progress to next lump -->
   <ProgressToNextLump>다음 광맥 찾기</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>심층 자원</ResourceBelow>
+  <ResourceBelow>지하 자원</ResourceBelow>
   <!-- EN: Progress to next portion -->
   <ProgressToNextPortion>다음 부분으로 진행</ProgressToNextPortion>
   <!-- EN: No resources below. -->
   <DeepDrillNoResources>자원 고갈</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>심층 자원이 고갈되어 자동으로 채굴기를 상호작용 금지합니다. {0}(을)를 채굴하려면 상호작용을 풀어주세요.</DeepDrillExhausted>
+  <DeepDrillExhausted>지하 자원이 고갈되어 자동으로 굴착기 사용을 중지합니다. {0}(을)를 채굴하려면 다시 활성화하세요.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>심층 자원이 고갈됐습니다.</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>지하 자원이 고갈됐습니다.</DeepDrillExhaustedNoFallback>
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
@@ -1354,13 +1362,13 @@
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>신경열: {0} / {1}\n하락률: {2} / s (0까지 {3}초)</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyStats>신경열: {0} / {1}\n하락률: {2} / 초 (0까지 {3}초)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>초능력을 시전한 이후 신경열이 증가합니다. 정상적인 한계를 넘어서면 정신이상이 나타날 수 있습니다.\n\n신경열은 시간이 지남에 따라 사라집니다. 이 과정은 엘텍스 의복을 착용하거나 고통을 겪으면서 가속화될 수 있습니다.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>물리적 고통은 잡념을 제거하여 혼돈치를 빠르게 안정시킵니다.\n\n고통 수준: {0}\n정신력 혼돈치 회복 보너스: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>물리적 고통은 잡념을 제거하여 혼돈치를 빠르게 안정시킵니다.\n\n고통 수준: {0}\n신경열 회복 보너스: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>정신력 혼돈치 한계 전환\n\n정신력 혼돈치 한계를 초과하면 장기적인 정신적 장애와 과잉에 대한 뇌손상을 포함하여 심각한 건강상의 문제가 발생될 수 있습니다. 혼돈치 한계보다 지나치게 높아질수록, 그 위험은 더 커집니다.</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>신경열 한계 전환\n\n신경열 한계를 초과하면 장기적인 정신적 장애와 과잉에 대한 뇌손상을 포함하여 심각한 건강상의 문제가 발생될 수 있습니다. 신경열 한계보다 지나치게 높아질수록, 그 위험은 더 커집니다.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
   <PawnTooltipPsyfocus>초집중: {0}</PawnTooltipPsyfocus>
 
@@ -1474,8 +1482,8 @@
   <RitualTakesPlaceAt>장소</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
   <RitualTargetThingDefsInfo>아무 {0}</RitualTargetThingDefsInfo>
-  <!-- EN: Attending -->
-  <LordReportAttending>참여 중 - </LordReportAttending>
+  <!-- EN: Attending {0} -->
+  <LordReportAttending>{0} 참여 중</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
   <RitualCalledOff>{0}(이)가 취소됐습니다.</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
@@ -1497,13 +1505,13 @@
   <!-- EN: Not participating -->
   <NotParticipating>참여 안함</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>드래그하거나 왼쪽/오른쪽 클릭으로 이동하세요.</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>클릭 후 드래그하여 이동 가능</DragPawnsToRolesInfo>
   <!-- EN: A slave. The human property of others. -->
   <RitualBeginSlaveDesc>노예입니다. 다른 이의 재산입니다.</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
-  <RitualBeginSleepingDesc>{0_labelShort}(이)가 자고 있습니다. 의식에 포함하면 일어나서 참여할 것입니다.</RitualBeginSleepingDesc>
+  <RitualBeginSleepingDesc>{0_labelShort}(은)는 자고 있습니다. 행사가 시작되면 깨어나 참여할 것입니다.</RitualBeginSleepingDesc>
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
-  <RitualBeginSleepingWarning>선택한 참여자 중 일부가 자고 있습니다. 의식을 시작하면 깨어날 것입니다.</RitualBeginSleepingWarning>
+  <RitualBeginSleepingWarning>선택한 참여자 중 일부가 자고 있습니다. 행사가 시작되면 깨어나 참여할 것입니다.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
   <RitualRoleRequiresSocialRole>이 역할에는 {0}의 보직을 맡은 정착민이 적합합니다.\n\n{0}(이)가 아닌 사람이 이 역할을 맡을 경우 아래의 보너스를 받지 못합니다</RitualRoleRequiresSocialRole>
   <!-- EN: No substitute available for the role of {0}. -->
@@ -1542,7 +1550,7 @@
   <!-- EN: {0} (out of {1}) -->
   <QualityOutOf>{0} (최대 {1})</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
-  <DateRitualNoObligation>{0}(은)는 {1} 후인 {2}에 시작할 수 있습니다.</DateRitualNoObligation>
+  <DateRitualNoObligation>{0}(은)는 시기가 정해져 있는 행사입니다. {1} 후에 시작할 수 있습니다. ({2})</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
   <PreceptReplaceWith>대체</PreceptReplaceWith>
@@ -1562,7 +1570,7 @@
   <!-- EN: Participants -->
   <RitualPredictedOutcomeDescParticipantCount>참여자</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
-  <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}의 기대치</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}의 기대감</RitualPredictedOutcomeDescPawnExpectations>
 
   <!-- EN: Any of these -->
   <RitualOutcomeLabelAnyOfThese>다음 중 아무거나</RitualOutcomeLabelAnyOfThese>
@@ -1584,5 +1592,10 @@
   <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
   <MaxValue>최대 {0}</MaxValue>
-  
+
+  <!-- EN: {0} of -->
+  <ThingOf>{0}</ThingOf>
+  <!-- EN: {0} of {1} -->
+  <ThingOfSource>{1}의 {0}</ThingOfSource>
+
 </LanguageData>

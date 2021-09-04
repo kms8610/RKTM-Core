@@ -9,6 +9,8 @@
   <BlindingCeremony.roles.1.label>집도자</BlindingCeremony.roles.1.label>
   <!-- EN: the person who performs the blinding -->
   <BlindingCeremony.roles.1.missingDesc>실명 집도자</BlindingCeremony.roles.1.missingDesc>
+  <!-- EN: Target is not reachable. -->
+  <BlindingCeremony.stages.0.failTriggers.0.desc>목표에 도달할 수 없습니다.</BlindingCeremony.stages.0.failTriggers.0.desc>
   
   <!-- EN: participate -->
   <BurnCircle.spectatorGerund>참여자</BurnCircle.spectatorGerund>
@@ -22,9 +24,9 @@
   <!-- EN: Campfire is missing. -->
   <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>모닥불 없음.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
   <!-- EN: Campfire is not lit. -->
-  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>모닥불이 꺼져있습니다.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>모닥불이 꺼져 있습니다.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
   <!-- EN: No drums. -->
-  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>북 없음.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>북이 없습니다.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
   
   <!-- EN: participate -->
   <CelebrationSkyLanterns.spectatorGerund>참여자</CelebrationSkyLanterns.spectatorGerund>
@@ -124,31 +126,38 @@
   <!-- EN: speaker -->
   <LeaderSpeech.roles.0.label>연설자</LeaderSpeech.roles.0.label>
   
+  <!-- EN: role changer -->
+  <RoleChange.roles.0.label>지위 변경자</RoleChange.roles.0.label>
+  <!-- EN: a role changer -->
+  <RoleChange.roles.0.missingDesc>지위 변경자</RoleChange.roles.0.missingDesc>
+  <!-- EN: spectate -->
+  <RoleChange.spectatorGerund>관전</RoleChange.spectatorGerund>
+  <!-- EN: Spectators -->
+  <RoleChange.spectatorsLabel>관전자</RoleChange.spectatorsLabel>
+  
   <!-- EN: cutter -->
-  <SacrificeAnimal.roles.0.label>산제물</SacrificeAnimal.roles.0.label>
-  <SacrificeAnimal.roles.0.missingDesc>몸 크기가 0.8 이상인 동물</SacrificeAnimal.roles.0.missingDesc>
+  <SacrificeAnimal.roles.0.label>집도자</SacrificeAnimal.roles.0.label>
   <!-- EN: sacrifice -->
-  <SacrificeAnimal.roles.1.label>TODO</SacrificeAnimal.roles.1.label>
+  <SacrificeAnimal.roles.1.label>산제물</SacrificeAnimal.roles.1.label>
   <!-- EN: an animal with body size of at least 0.8 -->
-  <SacrificeAnimal.roles.1.missingDesc>TODO</SacrificeAnimal.roles.1.missingDesc>
+  <SacrificeAnimal.roles.1.missingDesc>몸 크기가 0.8 이상인 동물</SacrificeAnimal.roles.1.missingDesc>
   <!-- EN: participate -->
-  <SacrificeAnimal.spectatorGerund>TODO</SacrificeAnimal.spectatorGerund>
+  <SacrificeAnimal.spectatorGerund>참여자</SacrificeAnimal.spectatorGerund>
   <!-- EN: Participants -->
-  <SacrificeAnimal.spectatorsLabel>TODO</SacrificeAnimal.spectatorsLabel>
+  <SacrificeAnimal.spectatorsLabel>참여자</SacrificeAnimal.spectatorsLabel>
   <!-- EN: Animal is not reachable. -->
   <SacrificeAnimal.stages.0.failTriggers.0.desc>동물에게 도달할 수 없습니다.</SacrificeAnimal.stages.0.failTriggers.0.desc>
   
   <!-- EN: cutter -->
-  <SacrificePrisoner.roles.0.label>산제물</SacrificePrisoner.roles.0.label>
-  <SacrificePrisoner.roles.0.missingDesc>수감자</SacrificePrisoner.roles.0.missingDesc>
+  <SacrificePrisoner.roles.0.label>집도자</SacrificePrisoner.roles.0.label>
   <!-- EN: sacrifice -->
-  <SacrificePrisoner.roles.1.label>TODO</SacrificePrisoner.roles.1.label>
+  <SacrificePrisoner.roles.1.label>산제물</SacrificePrisoner.roles.1.label>
   <!-- EN: a prisoner -->
-  <SacrificePrisoner.roles.1.missingDesc>TODO</SacrificePrisoner.roles.1.missingDesc>
+  <SacrificePrisoner.roles.1.missingDesc>수감자</SacrificePrisoner.roles.1.missingDesc>
   <!-- EN: participate -->
-  <SacrificePrisoner.spectatorGerund>TODO</SacrificePrisoner.spectatorGerund>
+  <SacrificePrisoner.spectatorGerund>참여자</SacrificePrisoner.spectatorGerund>
   <!-- EN: Participants -->
-  <SacrificePrisoner.spectatorsLabel>TODO</SacrificePrisoner.spectatorsLabel>
+  <SacrificePrisoner.spectatorsLabel>참여자</SacrificePrisoner.spectatorsLabel>
   <!-- EN: Prisoner is not reachable. -->
   <SacrificePrisoner.stages.0.failTriggers.0.desc>수감자가 접근할 수 없는 위치에 있습니다.</SacrificePrisoner.stages.0.failTriggers.0.desc>
   
@@ -160,6 +169,8 @@
   <ScarificationCeremony.roles.1.label>절단자</ScarificationCeremony.roles.1.label>
   <!-- EN: the person who performs the scarification -->
   <ScarificationCeremony.roles.1.missingDesc>상흔 문신을 새기는 사람</ScarificationCeremony.roles.1.missingDesc>
+  <!-- EN: Target is not reachable. -->
+  <ScarificationCeremony.stages.0.failTriggers.0.desc>목표에 도달할 수 없습니다.</ScarificationCeremony.stages.0.failTriggers.0.desc>
   
   <!-- EN: participate -->
   <SmokeCircle.spectatorGerund>참여자</SmokeCircle.spectatorGerund>
@@ -186,7 +197,7 @@
   <!-- EN: judge -->
   <TrialPrisoner.roles.0.label>판사</TrialPrisoner.roles.0.label>
   <!-- EN: convict -->
-  <TrialPrisoner.roles.1.label>피고</TrialPrisoner.roles.1.label>
+  <TrialPrisoner.roles.1.label>피고인</TrialPrisoner.roles.1.label>
   <!-- EN: Convicted prisoner is not reachable. -->
   <TrialPrisoner.stages.0.failTriggers.0.desc>수감자가 접근할 수 없는 위치에 있습니다.</TrialPrisoner.stages.0.failTriggers.0.desc>
   

@@ -31,7 +31,7 @@
   <!-- EN: bandaged -->
   <Bruise.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
   <!-- EN: tended -->
-  <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>치료됨</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: Destroyed -->
   <Bruise.injuryProps.destroyedLabel>파괴됨</Bruise.injuryProps.destroyedLabel>
   <!-- EN: a bruise -->
@@ -44,7 +44,7 @@
   <!-- EN: A burn. -->
   <Burn.description>화상입니다.</Burn.description>
   <!-- EN: tended -->
-  <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>치료됨</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
   <Burn.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Burn.comps.HediffComp_TendDuration.labelTendedWell>
   <!-- EN: tended -->
@@ -64,6 +64,12 @@
   <ChemicalBurn.label>화학적 화상</ChemicalBurn.label>
   <!-- EN: A chemical burn. -->
   <ChemicalBurn.description>화학적 화상입니다.</ChemicalBurn.description>
+  <!-- EN: tended -->
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>치료됨</ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: tended -->
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>치료됨</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: chemical burn scar -->
   <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>화학적 화상 흉터</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off (chemical) -->
@@ -82,9 +88,9 @@
   <!-- EN: set -->
   <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: set -->
-  <Crack.comps.HediffComp_TendDuration.labelTendedWell>치유됨</Crack.comps.HediffComp_TendDuration.labelTendedWell>
+  <Crack.comps.HediffComp_TendDuration.labelTendedWell>접합됨</Crack.comps.HediffComp_TendDuration.labelTendedWell>
   <!-- EN: set -->
-  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>치유됨</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>접합됨</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: permanent crack -->
   <Crack.comps.HediffComp_GetsPermanent.permanentLabel>영구적 균열</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Shattered -->
@@ -148,11 +154,11 @@
   <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
   <Frostbite.description>적절한 보호의 없이 낮은 온도에 노출되어 얼어붙은 세포조직입니다. 동상은 매우 큰 고통을 유발하며 동상 부위는 종종 손실되기 쉽습니다.</Frostbite.description>
   <!-- EN: tended -->
-  <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>치료됨</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
   <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
   <!-- EN: tended -->
-  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>치료됨</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: frostbite scar -->
   <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>동상 흉터</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Lost to frostbite -->
@@ -194,7 +200,7 @@
   <!-- EN: sutured -->
   <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: scar -->
-  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>흉터</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Destroyed -->
   <Misc.injuryProps.destroyedLabel>파괴됨</Misc.injuryProps.destroyedLabel>
   <!-- EN: an injury -->
@@ -226,7 +232,7 @@
   <!-- EN: Torn off -->
   <Scratch.injuryProps.destroyedLabel>찢어짐</Scratch.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
-  <Scratch.injuryProps.destroyedOutLabel>찢겨나감</Scratch.injuryProps.destroyedOutLabel>
+  <Scratch.injuryProps.destroyedOutLabel>벗겨짐</Scratch.injuryProps.destroyedOutLabel>
   <!-- EN: a scratch -->
   <Scratch.labelNoun>긁힘</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->

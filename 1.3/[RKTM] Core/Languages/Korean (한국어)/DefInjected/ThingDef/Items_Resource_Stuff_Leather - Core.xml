@@ -29,7 +29,7 @@
   <!-- EN: dog leather -->
   <Leather_Dog.label>개 가죽</Leather_Dog.label>
   <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
-  <Leather_Dog.description>무두질되고 건조된 개의 가죽입니다. 옷과 가방을 만들기 위한 전통적인 소재입니다.</Leather_Dog.description>
+  <Leather_Dog.description>무두질되고 건조된 가죽입니다. 옷과 가방을 만들기 위한 전통적인 소재입니다.</Leather_Dog.description>
   
   <!-- EN: elephant leather -->
   <Leather_Elephant.label>코끼리 가죽</Leather_Elephant.label>
@@ -69,7 +69,7 @@
   <!-- EN: panthera fur -->
   <Leather_Panthera.label>표범 모피</Leather_Panthera.label>
   <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
-  <Leather_Panthera.description>대형 고양이과 동물의 얇은 모피입니다. 질기고 통풍성이 뛰어납니다.</Leather_Panthera.description>
+  <Leather_Panthera.description>대형 고양잇과 동물의 얇은 모피입니다. 질기고 통풍성이 뛰어납니다.</Leather_Panthera.description>
   
   <!-- EN: patchleather -->
   <Leather_Patch.label>누더기</Leather_Patch.label>

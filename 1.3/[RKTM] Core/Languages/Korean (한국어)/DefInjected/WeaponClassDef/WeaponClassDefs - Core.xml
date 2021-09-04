@@ -14,16 +14,16 @@
   <MeleePiercer.label>근접 관통</MeleePiercer.label>
   
   <!-- EN: neolithic -->
-  <Neolithic.label>원시적인</Neolithic.label>
+  <Neolithic.label>원시</Neolithic.label>
   
   <!-- EN: ranged -->
   <Ranged.label>원거리</Ranged.label>
   
   <!-- EN: ranged heavy -->
-  <RangedHeavy.label>TODO</RangedHeavy.label>
+  <RangedHeavy.label>중화기</RangedHeavy.label>
   
   <!-- EN: ranged light -->
-  <RangedLight.label>TODO</RangedLight.label>
+  <RangedLight.label>경화기</RangedLight.label>
   
   <!-- EN: short shots -->
   <ShortShots.label>단거리</ShortShots.label>

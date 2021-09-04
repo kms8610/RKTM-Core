@@ -12,43 +12,43 @@
   <KnowColonistDied.stages.colonist_died.description>동료가 죽었어. 이렇게 내버려둬선 안돼.</KnowColonistDied.stages.colonist_died.description>
   
   <!-- EN: justified execution of colonist -->
-  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>정당한 정착민 처형</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>정당한 정착민 처형 목격</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
   <!-- EN: A guilty colonist was executed. It was justified, but still sad. -->
-  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>죄를 지은 동료가 처형당했어. 정당한 일이라고 해도 슬픈 일이야.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>죄를 지은 동료가 처형당했어. 정당했지만 슬픈 일이야.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
   <!-- EN: colonist euthanized -->
-  <KnowColonistExecuted.stages.colonist_euthanized.label>정착민 안락사</KnowColonistExecuted.stages.colonist_euthanized.label>
+  <KnowColonistExecuted.stages.colonist_euthanized.label>정착민 안락사 목격</KnowColonistExecuted.stages.colonist_euthanized.label>
   <!-- EN: A colonist was euthanized. It was humane, but still sad. -->
-  <KnowColonistExecuted.stages.colonist_euthanized.description>동료가 안락사 당했어. 인도적이긴 해도 슬픈 일이야.</KnowColonistExecuted.stages.colonist_euthanized.description>
+  <KnowColonistExecuted.stages.colonist_euthanized.description>동료가 안락사 당했어. 인도적인 목적이었지만 슬픈 일이야.</KnowColonistExecuted.stages.colonist_euthanized.description>
   <!-- EN: colonist executed -->
-  <KnowColonistExecuted.stages.colonist_executed.label>정착민 처형</KnowColonistExecuted.stages.colonist_executed.label>
+  <KnowColonistExecuted.stages.colonist_executed.label>정착민 처형 목격</KnowColonistExecuted.stages.colonist_executed.label>
   <!-- EN: A colonist was killed in cold blood. It seemed a bit evil. -->
-  <KnowColonistExecuted.stages.colonist_executed.description>동료가 냉혹하게 처형을 당했어. 나쁜 일인걸.</KnowColonistExecuted.stages.colonist_executed.description>
+  <KnowColonistExecuted.stages.colonist_executed.description>동료가 냉혹하게 처형당했어. 불안해지는데.</KnowColonistExecuted.stages.colonist_executed.description>
   <!-- EN: colonist organ-harvested -->
-  <KnowColonistExecuted.stages.colonist_organharvested.label>정착민 장기 적출</KnowColonistExecuted.stages.colonist_organharvested.label>
+  <KnowColonistExecuted.stages.colonist_organharvested.label>정착민 장기 적출 살해 목격</KnowColonistExecuted.stages.colonist_organharvested.label>
   <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
-  <KnowColonistExecuted.stages.colonist_organharvested.description>동료의 장기를 적출하고 죽였어. 끔찍해.</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <KnowColonistExecuted.stages.colonist_organharvested.description>동료의 장기를 뽑아 죽였어. 끔찍해.</KnowColonistExecuted.stages.colonist_organharvested.description>
   
   <!-- EN: justified execution -->
-  <KnowGuestExecuted.stages.justified_execution.label>정당한 처형</KnowGuestExecuted.stages.justified_execution.label>
+  <KnowGuestExecuted.stages.justified_execution.label>정당한 처형 목격</KnowGuestExecuted.stages.justified_execution.label>
   <!-- EN: A guilty prisoner or guest was executed. It was justified, but still sad. -->
-  <KnowGuestExecuted.stages.justified_execution.description>죄를 지은 사람이 처형당했어. 정당한 일이라고 해도 슬픈 일이야.</KnowGuestExecuted.stages.justified_execution.description>
+  <KnowGuestExecuted.stages.justified_execution.description>죄를 지은 수감자나 방문객이 처형되었어. 정당했지만 슬픈 일이야.</KnowGuestExecuted.stages.justified_execution.description>
   <!-- EN: someone was euthanized -->
-  <KnowGuestExecuted.stages.someone_was_euthanized.label>안락사</KnowGuestExecuted.stages.someone_was_euthanized.label>
+  <KnowGuestExecuted.stages.someone_was_euthanized.label>안락사 목격</KnowGuestExecuted.stages.someone_was_euthanized.label>
   <!-- EN: A prisoner or guest was euthanized. It was humane, but still sad. -->
-  <KnowGuestExecuted.stages.someone_was_euthanized.description>누군가 안락사 당했어. 인도적이긴 해도 슬픈 일이야.</KnowGuestExecuted.stages.someone_was_euthanized.description>
+  <KnowGuestExecuted.stages.someone_was_euthanized.description>수감자나 방문객이 안락사되었어. 인도적인 목적이었지만 슬픈 일이야.</KnowGuestExecuted.stages.someone_was_euthanized.description>
   <!-- EN: someone was executed -->
-  <KnowGuestExecuted.stages.someone_was_executed.label>처형</KnowGuestExecuted.stages.someone_was_executed.label>
+  <KnowGuestExecuted.stages.someone_was_executed.label>처형 목격</KnowGuestExecuted.stages.someone_was_executed.label>
   <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
-  <KnowGuestExecuted.stages.someone_was_executed.description>누군가 냉혹하게 처형을 당했어. 나쁜 일인걸.</KnowGuestExecuted.stages.someone_was_executed.description>
+  <KnowGuestExecuted.stages.someone_was_executed.description>누군가가 냉혹하게 처형당했어. 불안해지는데.</KnowGuestExecuted.stages.someone_was_executed.description>
   <!-- EN: someone was organ-murdered -->
-  <KnowGuestExecuted.stages.someone_was_organmurdered.label>장기 적출</KnowGuestExecuted.stages.someone_was_organmurdered.label>
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>장기 적출 살해 목격</KnowGuestExecuted.stages.someone_was_organmurdered.label>
   <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
-  <KnowGuestExecuted.stages.someone_was_organmurdered.description>누군가의 장기를 적출하고 죽였어. 끔찍해.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>수감자나 방문객이 장기를 뽑혀 죽었어. 끔찍해.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
   
   <!-- EN: innocent prisoner died -->
-  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>결백한 수감자 사망</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>무고한 수감자 사망</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
   <!-- EN: One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism. -->
-  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>수감자 한 명이 무죄임에도 불구하고 죽었어. 저들을 챙겨줄 수 있어야 해. 그 사람이 죽는걸 바란다고 해도 야만적으로 방치하지 말고 규칙에 맞는 처형을 해야 한다고.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>수감자 한 명이 부당한 방식으로 처형당했어. 우리는 포로를 보호할 의무가 있어. 처형하더라도 최소한 이렇게 야만적인 방법이 아니라 정당한 절차를 거쳐야 한다고.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
   
   <!-- EN: my aunt {0} died -->
   <MyAuntDied.stages.my_aunt_died.label>이모 {0} 사망</MyAuntDied.stages.my_aunt_died.label>
@@ -153,7 +153,7 @@
   <!-- EN: my rival {0} died -->
   <PawnWithBadOpinionDied.stages.my_rival_died.label>눈엣가시 {0} 사망</PawnWithBadOpinionDied.stages.my_rival_died.label>
   <!-- EN: Serves them right. At least there's some justice in this world. -->
-  <PawnWithBadOpinionDied.stages.my_rival_died.description>하, 꼴 좋군. 적어도 정의는 살아 있었어.</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>꼴 좋네! 이런 세상에도 정의는 살아있다는 거지.</PawnWithBadOpinionDied.stages.my_rival_died.description>
   
   <!-- EN: my friend {0} died -->
   <PawnWithGoodOpinionDied.stages.my_friend_died.label>친구 {0} 사망</PawnWithGoodOpinionDied.stages.my_friend_died.label>

@@ -77,7 +77,7 @@
     <li>noun->파멸</li>
     <li>noun->살해</li>
     <li>noun->정의</li>
-    <li>noun->우려</li>
+    <li>noun->공포</li>
     <li>noun->공포</li>
     <li>noun->혼돈</li>
     <li>noun->명령</li>
@@ -85,14 +85,14 @@
     <li>noun->고요</li>
     <li>noun->은혜</li>
     <li>verber->파수꾼</li>
-    <li>verber->제공자</li>
+    <li>verber->인도자</li>
     <li>verber->발송자</li>
     <li>verber->기부자</li>
     <li>verber->조물주</li>
     <li>verber->파쇄자</li>
-    <li>verber->조련사</li>
-    <li>verber->가속기</li>
-    <li>verber->거래처</li>
+    <li>verber->파괴자</li>
+    <li>verber->강타자</li>
+    <li>verber->대주가</li>
     <li>verber->인식체</li>
     <li>verber->실천가</li>
     <li>beginSyl->비</li>
@@ -100,12 +100,12 @@
     <li>beginSyl->로</li>
     <li>beginSyl->라</li>
     <li>beginSyl->토</li>
-    <li>beginSyl->겔</li>
-    <li>beginSyl->잰</li>
+    <li>beginSyl->게르</li>
+    <li>beginSyl->잔</li>
     <li>beginSyl->켈</li>
-    <li>middleSyl->셀</li>
-    <li>middleSyl->갈</li>
-    <li>middleSyl->롤</li>
+    <li>middleSyl->세르</li>
+    <li>middleSyl->가르</li>
+    <li>middleSyl->로르</li>
     <li>middleSyl->벤</li>
     <li>middleSyl->잔</li>
     <li>middleSyl->살</li>

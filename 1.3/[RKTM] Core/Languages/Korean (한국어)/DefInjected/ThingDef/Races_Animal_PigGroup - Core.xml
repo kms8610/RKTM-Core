@@ -63,7 +63,7 @@
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
   <WildBoar.description>털이 많은 이 잡식동물은 탈출한 돼지의 후손으로 야생에서 살기 위해 진화했습니다.\n\n어금니가 있기 때문에 보통 돼지보다 더 나은 전투 능력을 보여줍니다. 불행히도, 야생성 때문에 복잡한 일을 훈련 시키는 것은 어렵습니다.</WildBoar.description>
   <!-- EN: tusk -->
-  <WildBoar.tools.tusk.label>어금니</WildBoar.tools.tusk.label>
+  <WildBoar.tools.tusk.label>엄니</WildBoar.tools.tusk.label>
   <!-- EN: head -->
   <WildBoar.tools.head.label>머리</WildBoar.tools.head.label>
   

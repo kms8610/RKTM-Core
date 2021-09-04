@@ -37,8 +37,8 @@
   <Neutroamine.description>합성 기초 화학물질입니다. 자체로는 쓸모가 없지만 많은 약물의 재료로 사용할 수 있습니다.</Neutroamine.description>
   
   <!-- EN: reinforced barrel -->
-  <ReinforcedBarrel.label>강화 배럴</ReinforcedBarrel.label>
+  <ReinforcedBarrel.label>강화 포신</ReinforcedBarrel.label>
   <!-- EN: A large barrel for projectile-based weapons like mortars. In order to hold the high launch pressures, it is specially reinforced and cannot be manufactured at a small scale. -->
-  <ReinforcedBarrel.description>박격포를 보조하기 위한 배럴입니다. 높은 발사 압력을 유지하기 위해 특수 강화되었으며 쉽게 제작할 수 없습니다.</ReinforcedBarrel.description>
+  <ReinforcedBarrel.description>박격포에 사용되는 커다란 포신입니다. 높은 발사 압력을 유지하기 위해 특수 강화되었으며 쉽게 제작할 수 없습니다.</ReinforcedBarrel.description>
   
 </LanguageData>

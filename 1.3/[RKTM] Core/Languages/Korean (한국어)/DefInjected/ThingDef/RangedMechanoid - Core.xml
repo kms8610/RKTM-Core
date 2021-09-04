@@ -13,7 +13,7 @@
   <!-- EN: heavy charge blaster -->
   <Gun_ChargeBlasterHeavy.label>전자기 가속포</Gun_ChargeBlasterHeavy.label>
   <!-- EN: A pulse-charged rapid-fire blaster for area suppressive fire. Heavy cooling allows long, deadly bursts. -->
-  <Gun_ChargeBlasterHeavy.description>지역 화력 우세용 펄스 충전식의 속사 전자기 가속포입니다.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.description>지역 제압을 위한 펄스 충전식 고속 발사 전자기 가속포입니다.</Gun_ChargeBlasterHeavy.description>
   <!-- EN: barrel -->
   <Gun_ChargeBlasterHeavy.tools.barrel.label>총열</Gun_ChargeBlasterHeavy.tools.barrel.label>
   <!-- EN: heavy charge blaster -->

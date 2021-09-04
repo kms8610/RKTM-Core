@@ -219,6 +219,10 @@
   <CommandReinstall>재설치</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>이 품목을 포장해 다른 장소에 설치합니다.</CommandReinstallDesc>
+  <!-- EN: Replant -->
+  <CommandReplant>심기</CommandReplant>
+  <!-- EN: This tree is currently packaged up for storage and transport. Use this command to replant it in a new location. -->
+  <CommandReplantDesc>이 나무는 저장 및 운송을 위해 포장되어 있습니다. 포장된 나무는 지정한 장소에 다시 심을 수 있습니다.</CommandReplantDesc>
   
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
@@ -573,7 +577,7 @@
   <!-- EN: Cancel {RITUAL_label} -->
   <CommandCancelRitual>{RITUAL_label} 취소</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
-  <CommandCancelRitualDesc>{RITUAL_labelDef}(을)를 즉시 끝냅니다. 의식 의무는 남아 있습니다. 나중에 의식을 다시 시작할 수 있습니다.</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>{RITUAL_labelDef}(을)를 즉시 끝냅니다. 의식의 의무는 남아있으며 나중에 다시 시작할 수 있습니다.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
   <CommandCancelRitualConfirm>정말 {RITUAL_labelDef}(을)를 취소하시겠습니까?</CommandCancelRitualConfirm>
   

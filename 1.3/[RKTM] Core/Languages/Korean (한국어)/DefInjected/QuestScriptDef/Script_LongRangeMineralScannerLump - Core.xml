@@ -35,7 +35,7 @@
     <li>questName->[adj] [targetMineableThing_label]</li>
     <li>questName->[targetMineableThing_label] [discovered]</li>
     <li>lump->덩이</li>
-    <li>lump->무더기</li>
+    <li>lump->더미</li>
     <li>lump->퇴적물</li>
     <li>lump->층</li>
     <li>lump->덩어리</li>

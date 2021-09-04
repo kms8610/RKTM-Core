@@ -32,7 +32,7 @@
   <Building.label>건물</Building.label>
   
   <!-- EN: effects -->
-  <CapacityEffects.label>용량 효과</CapacityEffects.label>
+  <CapacityEffects.label>효과</CapacityEffects.label>
   
   <!-- EN: Drug -->
   <Drug.label>약물</Drug.label>
@@ -60,6 +60,9 @@
   
   <!-- EN: Work -->
   <PawnWork.label>작업</PawnWork.label>
+  
+  <!-- EN: content source -->
+  <Source.label>내용 출처</Source.label>
   
   <!-- EN: Multipliers when equipment made of this -->
   <StuffOfEquipmentStatFactors.label>재료로써 장비 능력치 계수</StuffOfEquipmentStatFactors.label>

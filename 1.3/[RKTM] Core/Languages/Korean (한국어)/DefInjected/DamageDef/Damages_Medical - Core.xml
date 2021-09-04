@@ -7,7 +7,7 @@
   <ExecutionCut.deathMessage>{0}(이)가 처형되어 사망하였습니다.</ExecutionCut.deathMessage>
   
   <!-- EN: surgical cut -->
-  <SurgicalCut.label>의료사고</SurgicalCut.label>
+  <SurgicalCut.label>외과적 절단</SurgicalCut.label>
   <!-- EN: {0} has died during surgery. -->
   <SurgicalCut.deathMessage>{0}(이)가 의료사고로 사망하였습니다.</SurgicalCut.deathMessage>
   

@@ -27,7 +27,7 @@
   <SimpleProstheticArm.description>팔 보철물로, 신경적 요소가 부족하며, 복잡한 내부 관절의 배열로 인해 움직임을 자연스럽게 흉내 낼 수 있지만, 인체의 팔보다는 못합니다.</SimpleProstheticArm.description>
   
   <!-- EN: prosthetic heart -->
-  <SimpleProstheticHeart.label>인공 심장</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.label>인공심장</SimpleProstheticHeart.label>
   <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
   <SimpleProstheticHeart.description>심장 보철물로, 혈액을 순환시키는 전동 모터가 포함되어 있습니다. 사용자가 피로감을 느끼는 부작용이 있지만, 그래도 심장이 없는 것보다는 상태가 좋을 겁니다.</SimpleProstheticHeart.description>
   

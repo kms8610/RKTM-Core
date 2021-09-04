@@ -7,7 +7,7 @@
     <li>qualityInfo-></li>
   -->
   <TradeRequest.questDescriptionRules.rulesStrings>
-    <li>questDescription->가까운 정착지 [settlement_label]에서 특별한 거래 요청이 있었습니다.\n\n다음과 같은 물품의 구매를 원합니다.\n\n  [qualityInfo][requestedThing_label] x[requestedThingCount] (가치: [requestedThingMarketValue_money])\n\n그 대가로 [allRewardsDescriptions]\n\n거래를 원한다면 요청된 물건과 함께 상단을 보내세요. 예상 이동 시간은 [estimatedTravelTime_duration] 입니다.</li>
+    <li>questDescription->가까운 정착지 [settlement_label]에서 특별한 거래 요청이 있었습니다.\n다음과 같은 물품의 구매를 원합니다.\n\n  [qualityInfo][requestedThing_label] x[requestedThingCount] (가치: [requestedThingMarketValue_money])\n\n거래를 원한다면 요청된 물건과 함께 상단을 보내세요. 예상 이동 시간은 [estimatedTravelTime_duration] 입니다.</li>
     <li>qualityInfo(requestedThingHasQuality==True,priority=1)->평범 품질 이상의 </li>
     <li>qualityInfo-></li>
   </TradeRequest.questDescriptionRules.rulesStrings>
@@ -42,10 +42,10 @@
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <TradeRequest.LetterLabelQuestFailed.slateRef>임무 실패: [resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
   <!-- EN: [faction_name] became hostile to you. -->
-  <TradeRequest.LetterTextQuestFailed.slateRef>[faction_name](은)는 적대가 되었습니다.</TradeRequest.LetterTextQuestFailed.slateRef>
+  <TradeRequest.LetterTextQuestFailed.slateRef>[faction_name](이)가 적대로 돌아섰습니다.</TradeRequest.LetterTextQuestFailed.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
   <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
-  <TradeRequest.LetterTextFavorReceiver.slateRef>[asker_faction_royalFavorLabel]에게 이번 상단 퀘스트의 수행자로써 누가 인정받습니까?</TradeRequest.LetterTextFavorReceiver.slateRef>
+  <TradeRequest.LetterTextFavorReceiver.slateRef>상단 임무의 [asker_faction_royalFavorLabel] 공로를 누구에게 수여하겠습니까?</TradeRequest.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

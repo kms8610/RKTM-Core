@@ -16,4 +16,9 @@
   <!-- EN: This indoor light is too bright. I would prefer something dimmer. -->
   <Darklight_Preferred_IndoorLight.stages.indoor_light.description>실내 조명이 너무 밝아. 뭔가 더 희미한 게 좋겠어.</Darklight_Preferred_IndoorLight.stages.indoor_light.description>
   
+  <!-- EN: beautiful eclipse -->
+  <Eclipse_Beautiful.stages.beautiful_eclipse.label>아름다운 일식</Eclipse_Beautiful.stages.beautiful_eclipse.label>
+  <!-- EN: I have a moment's respite from the blinding sunlight. -->
+  <Eclipse_Beautiful.stages.beautiful_eclipse.description>눈부신 태양으로부터 잠시 벗어날 시간을 얻었어.</Eclipse_Beautiful.stages.beautiful_eclipse.description>
+  
 </LanguageData>

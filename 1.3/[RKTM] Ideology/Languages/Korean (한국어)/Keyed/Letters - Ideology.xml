@@ -41,8 +41,8 @@
   <!-- Ideo role -->
   <!-- EN: {0} role activated -->
   <LetterLabelRoleActive>{0} 지위 활성화</LetterLabelRoleActive>
-  <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, select a colonist, go to their 'Social' tab and press the 'Choose role' button. -->
-  <LetterLabelRoleActiveDesc>정착지 내의 {0}의 수가 {1}명이 됐습니다. 이제 정착민 중 한 명에게 {ROLE_labelDef} 자리를 맡길 수 있습니다.\n\n지위를 맡기려면 정착민을 선택한 후 '관계' 탭에서 '보직 할당' 버튼을 누르세요.</LetterLabelRoleActiveDesc>
+  <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, use the person's Social tab, or select a ritual spot or altar and press the 'Begin role change' button. -->
+  <LetterLabelRoleActiveDesc>정착지의 {0} 수가 {1}에 도달했습니다. 이제 {ROLE_labelDef}의 지위를 정착민 중 한 명에게 할당할 수 있습니다.\n\n지위를 할당하려면 해당 정착민의  사교 탭을 사용하거나, 제단이나 행사 장소를 우클릭하여 '취임식 시작'을 선택하세요.</LetterLabelRoleActiveDesc>
 
   <!-- EN: {0} role deactivated -->
   <LetterLabelRoleInactive>{0} 지위 비활성화</LetterLabelRoleInactive>
@@ -138,7 +138,7 @@
   <!-- EN: A spacedrone is landing nearby. -->
   <LetterTextSpacedroneIncoming>무인 우주선이 근처에 착륙합니다.</LetterTextSpacedroneIncoming>
   <!-- EN: A raid from {0} has arrived to destroy the {1} that was forced to land nearby. -->
-  <LetterTextRaidSpacedrone>착륙한 {1}(을)를 파괴하기 위해 {0}의 습격 부대가 도착했습니다. </LetterTextRaidSpacedrone>
+  <LetterTextRaidSpacedrone>착륙한 {1}(을)를 파괴하기 위해 {0}의 습격 부대가 도착했습니다.</LetterTextRaidSpacedrone>
 
   <!-- Hacked -->
   <!-- EN: You've finished hacking the {0} and learned more about the ancient {1} relic. -->
@@ -196,12 +196,18 @@
   <!-- EN: You have reached the wealth requirement for the quest '{0}'. You can now accept the quest. -->
   <LetterTextArchonexusWealthReached>임무 '{0}'이 요구하는 기지 가치에 도달했습니다. 이제 임무를 수락할 수 있습니다.</LetterTextArchonexusWealthReached>
   <!-- EN: {0_labelShort} studied -->
-  <LetterLabelArchonexusStructureResearched>{0_labelShort}의 연구 완료</LetterLabelArchonexusStructureResearched>
+  <LetterLabelArchonexusStructureResearched>{0_labelShort} 연구 완료</LetterLabelArchonexusStructureResearched>
   <!-- EN: You have completed your study of the {0_labelShort}.\n\nYou can't say that you understand it in any complete way, but you have detected patterns in its behavior and the way it seems to express information.\n\nWith this knowledge, you will be able to interpret the next piece of the archonexus map. -->
   <LetterTextArchonexusStructureResearched>{0_labelShort}의 연구를 마쳤습니다.\n\n이 물체를 조금이라도 이해했다고 말하기는 어렵지만, {0_labelShort}의 동작과 정보 표현 방식에서 일정한 규칙을 찾아냈습니다.\n\n이 정보를 사용하면 초월연결체를 가리키는 지도의 다음 조각도 해석할 수 있을 것입니다.</LetterTextArchonexusStructureResearched>
   <!-- EN: Archotech structures abandoned -->
   <LetterLabelArchotechStructuresAbandoned>초월공학 구조물 버려짐</LetterLabelArchotechStructuresAbandoned>
   <!-- EN: You have abandoned the archotech structures at {0_definite}.\n\nDistant observers say they saw a great flash emanating from this location not long after you left. -->
   <LetterTextArchotechStructuresAbandoned>{0_definite}에 위치한 초월공학 구조물을 버렸습니다.\n\n목격자들의 증언에 따르면, {0_definite}(을)를 떠나고 얼마 지나지 않아 그곳에서 거대한 섬광이 발생했다고 합니다.</LetterTextArchotechStructuresAbandoned>
+
+  <!-- Reforming ideo -->
+  <!-- EN: Reform ideoligion -->
+  <LetterLabelReformIdeo>사상 개혁</LetterLabelReformIdeo>
+  <!-- EN: You have enough development points to reform {0}!\n\nReforming allows you to do one of the following:\n\n- Add a meme\n- Remove a meme\n- Change structure\n- Change style\n\nYou can also make unlimited changes to precepts, deities, narrative text, and other symbols.\n\nTo reform the ideoligion, open it in the ideoligions tab. -->
+  <LetterTextReformIdeo>충분한 점수를 모았으므로 {0}(을)를 개혁할 수 있습니다!\n\n개혁을 하면 다음과 같이 사상을 바꿀 수 있습니다.\n\n- 가르침 1개 추가\n- 가르침 1개 제거\n- 구조 변경\n- 양식 변경\n\n규율, 신적 존재, 구절, 그 외 기타 상징도 제한 없이 바꿀 수 있습니다.\n\n사상을 개혁하려면 사상 탭을 열어서 확인하세요.</LetterTextReformIdeo>
 
 </LanguageData>

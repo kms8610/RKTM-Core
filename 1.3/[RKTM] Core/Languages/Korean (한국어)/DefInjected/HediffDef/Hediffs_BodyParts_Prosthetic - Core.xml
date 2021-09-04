@@ -32,7 +32,7 @@
   <PowerClaw.labelNoun>강화 발톱</PowerClaw.labelNoun>
   
   <!-- EN: prosthetic arm -->
-  <SimpleProstheticArm.label>간단한 강철 의수</SimpleProstheticArm.label>
+  <SimpleProstheticArm.label>의수</SimpleProstheticArm.label>
   <!-- EN: An installed prosthetic arm. -->
   <SimpleProstheticArm.description>간단한 강철 의수가 설치되어 있습니다.</SimpleProstheticArm.description>
   <!-- EN: fist -->
@@ -48,7 +48,7 @@
   <SimpleProstheticHeart.labelNoun>인공심장</SimpleProstheticHeart.labelNoun>
   
   <!-- EN: prosthetic leg -->
-  <SimpleProstheticLeg.label>간단한 강철 의족</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.label>의족</SimpleProstheticLeg.label>
   <!-- EN: An installed prosthetic leg. -->
   <SimpleProstheticLeg.description>간단한 강철 의족이 설치되어 있습니다.</SimpleProstheticLeg.description>
   <!-- EN: a prosthetic leg -->

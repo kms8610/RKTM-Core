@@ -42,9 +42,9 @@
   <!-- EN: Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum. -->
   <Pila.description>투척용 창. 던지는 데는 오랜 시간이 걸리지만 한 번 맞으면 큰 피해를 줄 수 있습니다. 이 무기는 묶음 단위이므로 계속해서 던질 수 있습니다.</Pila.description>
   <!-- EN: shaft -->
-  <Pila.tools.shaft.label>창대</Pila.tools.shaft.label>
+  <Pila.tools.shaft.label>대</Pila.tools.shaft.label>
   <!-- EN: point -->
-  <Pila.tools.point.label>촉</Pila.tools.point.label>
+  <Pila.tools.point.label>끝</Pila.tools.point.label>
   <!-- EN: pila -->
   <Pila.verbs.Verb_Shoot.label>투창 다발</Pila.verbs.Verb_Shoot.label>
   

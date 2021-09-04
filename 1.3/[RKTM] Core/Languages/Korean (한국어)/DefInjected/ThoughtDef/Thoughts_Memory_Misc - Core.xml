@@ -12,7 +12,7 @@
   <BondedAnimalBanished.stages.bonded_animal_banished.description>나랑 친한 동물이 땅 한복판에 버려졌어!</BondedAnimalBanished.stages.bonded_animal_banished.description>
   
   <!-- EN: I butchered humanlike -->
-  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>인간 시체 도축함</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>인간 도축</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered someone up like an animal. -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>사람의 몸을 동물처럼 해체했어.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
@@ -35,9 +35,9 @@
   <ColonistBanishedToDie.stages.colonist_banished_to_death.description>동료를 남겨두고 떠났어. 살아남지 못할거야.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
   
   <!-- EN: Colonist prisoner escaped -->
-  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>TODO</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>정착지 포로가 탈옥</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
   <!-- EN: Can't we keep control of our own people? I feel like anything could happen to me here. -->
-  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>TODO</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>통제 좀 잘할 수 없어? 이제는 어떤 일이 일어나도 놀랍지 않겠어.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
   
   <!-- EN: defeated hostile leader {0} -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>적 지도자 {0} 물리침</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
@@ -68,7 +68,7 @@
   <FreedFromSlavery.stages.freed_from_slavery.description>날 풀어주다니. 정말 고마워!</FreedFromSlavery.stages.freed_from_slavery.description>
   
   <!-- EN: bloodlust organ harvested -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>피의갈망의 장기 수확</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>피의 갈망의 장기 수확</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
   <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
   <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>장기를 뽑아내는 것은 참으로 향기롭고 만족스러워.</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
   
@@ -83,7 +83,7 @@
   <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>사망자를 장식된 관에 묻어줬어. 그의 영혼이 안식을 찾길.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
   
   <!-- EN: we butchered humanlike -->
-  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>정착지에서 인간 시체 도축</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>인간 도축 목격</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
   <!-- EN: We butchered someone up like an animal. -->
   <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>우리가 사람의 몸을 동물처럼 해체했어.</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
   
@@ -95,7 +95,7 @@
   <!-- EN: someone's organ harvested -->
   <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>수감자나 손님의 장기가 적출됨</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
   <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
-  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>정착지에서 누군가의 몸 일부를 적출했어. 선택지가 없는 사람의 몸을 해체한다니 끔찍해. </KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>정착지에서 누군가의 몸 일부를 적출했어. 선택지가 없는 사람의 몸을 해체한다니 끔찍해.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
   
   <!-- EN: prisoner sold -->
   <KnowPrisonerSold.stages.prisoner_sold.label>수감자가 팔림</KnowPrisonerSold.stages.prisoner_sold.label>
@@ -160,7 +160,7 @@
   <!-- EN: disturbed sleep -->
   <SleepDisturbed.stages.disturbed_sleep.label>잠을 방해받음</SleepDisturbed.stages.disturbed_sleep.label>
   <!-- EN: I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
-  <SleepDisturbed.stages.disturbed_sleep.description>주위에서 움직이는 사람들 때문에 잠을 제대로 못 잤어. 나만의 침실이 있으면 괜찮아지겠지? </SleepDisturbed.stages.disturbed_sleep.description>
+  <SleepDisturbed.stages.disturbed_sleep.description>주위에서 움직이는 사람들 때문에 잠을 제대로 못 잤어. 나만의 침실이 있으면 괜찮아지겠지?</SleepDisturbed.stages.disturbed_sleep.description>
   
   <!-- EN: slept in the cold -->
   <SleptInCold.stages.slept_in_the_cold.label>추운 곳에서 잠</SleptInCold.stages.slept_in_the_cold.label>

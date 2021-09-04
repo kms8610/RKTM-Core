@@ -43,7 +43,7 @@
   <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>나한테 화려한 방은 필요없어.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
   
   <!-- EN: brawler has ranged weapon -->
-  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>원거리 무기 (싸움꾼)</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>싸움꾼에게 원거리 무기가 지급됨</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
   <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
   <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>멀리서 쏴대는건 싫어. 가까이 가서 직접 때리겠어!</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
   
@@ -84,11 +84,11 @@
   <Jealous.stages.jealous_of_s_bedroom.description>내가 제일 좋은 방을 가져야겠어!</Jealous.stages.jealous_of_s_bedroom.description>
   
   <!-- EN: masochist in minor pain -->
-  <MasochistPain.stages.masochist_in_minor_pain.label>약간의 고통 (피학적)</MasochistPain.stages.masochist_in_minor_pain.label>
+  <MasochistPain.stages.masochist_in_minor_pain.label>가벼운 고통 (피학적)</MasochistPain.stages.masochist_in_minor_pain.label>
   <!-- EN: Ow... Heh heh heh... I could get used to this! -->
-  <MasochistPain.stages.masochist_in_minor_pain.description>아야... 헤헤헤... 이거에 익숙해질 수도 있겠어!</MasochistPain.stages.masochist_in_minor_pain.description>
+  <MasochistPain.stages.masochist_in_minor_pain.description>아야... 헤헤헤... 익숙해질 수도 있겠어!</MasochistPain.stages.masochist_in_minor_pain.description>
   <!-- EN: masochist in serious pain -->
-  <MasochistPain.stages.masochist_in_serious_pain.label>고통 (피학적)</MasochistPain.stages.masochist_in_serious_pain.label>
+  <MasochistPain.stages.masochist_in_serious_pain.label>심각한 고통 (피학적)</MasochistPain.stages.masochist_in_serious_pain.label>
   <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
   <MasochistPain.stages.masochist_in_serious_pain.description>아파... 그렇지만 좋아! 계속 해!</MasochistPain.stages.masochist_in_serious_pain.description>
   <!-- EN: masochist in intense pain -->
@@ -96,7 +96,7 @@
   <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
   <MasochistPain.stages.masochist_in_intense_pain.description>아윽... 부러지는 소리를 들은 것 같은데... 이 얼마나 강렬한 경험이람!</MasochistPain.stages.masochist_in_intense_pain.description>
   <!-- EN: masochist in mind-shattering pain -->
-  <MasochistPain.stages.masochist_in_mindshattering_pain.label>고통으로 인한 쇼크 (피학적)</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>정신이 찢어지는 고통 (피학적)</MasochistPain.stages.masochist_in_mindshattering_pain.label>
   <!-- EN: Ahhh... Am I in heaven? -->
   <MasochistPain.stages.masochist_in_mindshattering_pain.description>아아아아... 여기가 천국인가?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
   
@@ -121,11 +121,11 @@
   <!-- EN: body modder delighted -->
   <ProsthophileHappy.stages.body_modder_delighted.label>행복한 개조주의자</ProsthophileHappy.stages.body_modder_delighted.label>
   <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
-  <ProsthophileHappy.stages.body_modder_delighted.description>세 부분을 개조했어. 하지만 약하고 물렁한 부분이 많아. 더, 좀더 많은 기계력이 필요해.</ProsthophileHappy.stages.body_modder_delighted.description>
+  <ProsthophileHappy.stages.body_modder_delighted.description>세 부분을 개조했어. 하지만 약하고 물렁한 부분이 많아. 좀 더 많은 기계력이 필요해.</ProsthophileHappy.stages.body_modder_delighted.description>
   <!-- EN: body modder enchanted -->
   <ProsthophileHappy.stages.body_modder_enchanted.label>개조 중독자</ProsthophileHappy.stages.body_modder_enchanted.label>
   <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
-  <ProsthophileHappy.stages.body_modder_enchanted.description>네 부분의 개조로 인해 난 인간 이상이 되어가고 있어. 하지만, 아직 살덩어리들이 있어.</ProsthophileHappy.stages.body_modder_enchanted.description>
+  <ProsthophileHappy.stages.body_modder_enchanted.description>네 부분의 개조로 인해 난 인간 이상이 되어가고 있어. 하지만, 아직도 살덩어리가 남아있어.</ProsthophileHappy.stages.body_modder_enchanted.description>
   <!-- EN: body modder overjoyed -->
   <ProsthophileHappy.stages.body_modder_overjoyed.label>신체 초월</ProsthophileHappy.stages.body_modder_overjoyed.label>
   <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
@@ -183,6 +183,6 @@
   <!-- EN: underground -->
   <UndergrounderUnderground.stages.underground.label>실내선호</UndergrounderUnderground.stages.underground.label>
   <!-- EN: I love working or simply being in the underground. -->
-  <UndergrounderUnderground.stages.underground.description>난 단순히 실내에 있거나 일하는게 좋아.</UndergrounderUnderground.stages.underground.description>
+  <UndergrounderUnderground.stages.underground.description>난 단순히 실내에 있거나, 실내에서 일하는게 좋아.</UndergrounderUnderground.stages.underground.description>
   
 </LanguageData>

@@ -18,21 +18,21 @@
   <!-- EN: emancipate slaves -->
   <EmancipateSlave.label>노예 해방</EmancipateSlave.label>
   <!-- EN: emancipating -->
-  <EmancipateSlave.gerund>풀어주는 중</EmancipateSlave.gerund>
+  <EmancipateSlave.gerund>해방</EmancipateSlave.gerund>
   <!-- EN: emancipate -->
   <EmancipateSlave.verb>해방</EmancipateSlave.verb>
   
   <!-- EN: enslave prisoners -->
   <EnslavePrisoner.label>수감자 노예화</EnslavePrisoner.label>
   <!-- EN: enslaving -->
-  <EnslavePrisoner.gerund>노예화 중</EnslavePrisoner.gerund>
+  <EnslavePrisoner.gerund>노예화</EnslavePrisoner.gerund>
   <!-- EN: enslave -->
   <EnslavePrisoner.verb>노예화</EnslavePrisoner.verb>
   
   <!-- EN: execute prisoners -->
   <ExecuteSlave.label>수감자 처형</ExecuteSlave.label>
   <!-- EN: executing -->
-  <ExecuteSlave.gerund>처형중</ExecuteSlave.gerund>
+  <ExecuteSlave.gerund>처형</ExecuteSlave.gerund>
   <!-- EN: execute -->
   <ExecuteSlave.verb>처형</ExecuteSlave.verb>
   
@@ -44,7 +44,7 @@
   <ExtractSkull.verb>추출</ExtractSkull.verb>
   
   <!-- EN: carry to biosculpter pod -->
-  <HaulToBiosculpterPod.label>생체 재구축기로 옮기는 중.</HaulToBiosculpterPod.label>
+  <HaulToBiosculpterPod.label>생체 재구축기로 운반</HaulToBiosculpterPod.label>
   <!-- EN: filling -->
   <HaulToBiosculpterPod.gerund>에 양분 채우기</HaulToBiosculpterPod.gerund>
   <!-- EN: fill -->

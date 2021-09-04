@@ -9,7 +9,7 @@
   <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(을)를 성공적으로 진정시켰습니다.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
   <!-- EN: berserk trance -->
-  <BerserkTrance.label>광적인 폭주</BerserkTrance.label>
+  <BerserkTrance.label>피의 무아지경</BerserkTrance.label>
   <!-- EN: The caster fills himself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
   <BerserkTrance.description>사용자의 내면이 분노로 가득찹니다. 멈추지 않는 분노 속에서 신체가 한계를 뛰어넘게 되지만, 자제력을 잃고 모든 적들을 닥치는 대로 공격하려 들 것입니다. 이 상태는 3시간 동안 지속됩니다.</BerserkTrance.description>
   

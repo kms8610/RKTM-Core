@@ -36,6 +36,11 @@
   <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
   <BionicStomach.description>진보된 인공 위장입니다. 일련의 센서와 화학 조절기를 통해, 에너지가 들어있는 모든 식품을 효율적으로 소화합니다. 강력한 산으로 인한 손상은 미세 격자 치유 시스템으로 자동적으로 수리됩니다. 거의 모든 면에서 진짜 위장보다 더 우수한 기계입니다.</BionicStomach.description>
   
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>생체공학 혀</BionicTongue.label>
+  <!-- EN: An artificial tongue replacement. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
+  <BionicTongue.description>혀를 대체할 수 있는 인공 혀로, 부드러운 합성 섬유와 뉴로겔 인터페이스가 연결되어 있어 말하기, 먹기, 맛보기 등 생체 혀 만큼의 감각을 느낄 수 있습니다.</BionicTongue.description>
+  
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>사후 처리장치</DeathAcidifier.label>
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->

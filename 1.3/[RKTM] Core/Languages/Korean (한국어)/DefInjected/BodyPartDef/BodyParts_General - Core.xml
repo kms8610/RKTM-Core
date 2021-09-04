@@ -37,4 +37,9 @@
   <!-- EN: spine -->
   <Spine.label>척추</Spine.label>
   
+  <!-- EN: tongue -->
+  <Tongue.label>혀</Tongue.label>
+  <!-- EN: remove -->
+  <Tongue.removeRecipeLabelOverride>제거</Tongue.removeRecipeLabelOverride>
+  
 </LanguageData>

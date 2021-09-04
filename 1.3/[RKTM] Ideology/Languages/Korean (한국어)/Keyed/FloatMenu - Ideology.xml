@@ -131,7 +131,7 @@
   <!-- EN: Enter biosculpter pod -->
   <EnterBiosculpterPod>생체 재구축기에 들어가기</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
-  <BiosculpterBiotunedToAnother>다른 사람에 맞춰짐</BiosculpterBiotunedToAnother>
+  <BiosculpterBiotunedToAnother>이미 다른 사람에게 맞춤 조정됨.</BiosculpterBiotunedToAnother>
   <!-- EN: Must be {0} years old for age reversal. -->
   <UnderMinBiosculpterAgeReversalAge>노화 역전을 받으려면 {0}살 이상이어야 합니다.</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_label} to biosculpter pod ({CYCLE}) -->
@@ -140,5 +140,13 @@
   <CannotCarryToBiosculpterPod>생체 재구축기로 이송 불가</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->
   <NoBiosculpterPod>사용 가능한 생체 재구축기가 없습니다.</NoBiosculpterPod>
+  <!-- EN: No cycle active -->
+  <BiosculpterNoCycleActive>활성 절차 없음</BiosculpterNoCycleActive>
+  <!-- EN: Nutrition being loaded -->
+  <BiosculpterLoadingNutrition>적재되는 열량</BiosculpterLoadingNutrition>
+  <!-- EN: Occupied -->
+  <BiosculpterOccupied>가득 참</BiosculpterOccupied>
+  <!-- EN: Cannot enter -->
+  <CannotEnter>진입 불가</CannotEnter>
 
 </LanguageData>

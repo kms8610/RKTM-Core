@@ -20,7 +20,7 @@
   <!-- EN: {BASETEXT}\n\nThis is the loyalty squad that was hunting [../asker_nameFull].\n               -->
   <Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>{BASETEXT}\n\n[../asker_nameFull](을)를 뒤쫓던 왕실 분대입니다.\n              </Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <Intro_Deserter.LetterLabelQuestExpired.slateRef>만료된 임무: [resolvedQuestName]</Intro_Deserter.LetterLabelQuestExpired.slateRef>
+  <Intro_Deserter.LetterLabelQuestExpired.slateRef>임무 만료: [resolvedQuestName]</Intro_Deserter.LetterLabelQuestExpired.slateRef>
   <!-- EN: The key imperial outpost, containing items needed for secret psychic powers, has packed up and moved on. -->
   <Intro_Deserter.LetterTextQuestExpired.slateRef>제국 전초기지에 있던 초능력의 기밀이 포함된 물품들이 옮겨졌습니다.</Intro_Deserter.LetterTextQuestExpired.slateRef>
   

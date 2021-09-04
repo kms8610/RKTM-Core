@@ -19,7 +19,7 @@
   <!-- EN: front claw -->
   <FrontClaw.label>앞발톱</FrontClaw.label>
   <!-- EN: claw -->
-  <FrontClaw.labelShort>발톱</FrontClaw.labelShort>
+  <FrontClaw.labelShort>머리뿔</FrontClaw.labelShort>
   
   <!-- EN: head claw -->
   <HeadClaw.label>머리뿔</HeadClaw.label>
@@ -63,10 +63,10 @@
   <!-- EN: rear claw -->
   <RearClaw.label>뒷발톱</RearClaw.label>
   <!-- EN: claw -->
-  <RearClaw.labelShort>발톱</RearClaw.labelShort>
+  <RearClaw.labelShort>머리뿔</RearClaw.labelShort>
   
   <!-- EN: shell -->
-  <Shell.label>껍데기</Shell.label>
+  <Shell.label>등껍질</Shell.label>
   
   <!-- EN: body -->
   <SnakeBody.label>몸통</SnakeBody.label>

@@ -3,8 +3,8 @@
   
   <!-- EN: linker -->
   <AnimaTreeLinking.roles.0.label>주최자</AnimaTreeLinking.roles.0.label>
-  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level. -->
-  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>TODO</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
+  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level and not psychically deaf. -->
+  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>자연 유형의 집중명상이 가능하고 정신적 무감각하지 않고 정신력 증폭기 단계가 최대치에 도달하지 않은 정착민이어야 합니다.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
   <!-- EN: Must have natural focus type. -->
   <AnimaTreeLinking.spectatorFilter.description>자연 집중명상이 가능해야 합니다.</AnimaTreeLinking.spectatorFilter.description>
   <!-- EN: participate -->

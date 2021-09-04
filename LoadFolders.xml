@@ -2,14 +2,13 @@
 <loadFolders>
 
   <v1.2>
-    <li IfModActive="Ludeon.RimWorld">1.2\[RKTM] Core</li>
-	<li IfModActive="Ludeon.RimWorld.Royalty">1.2\[RKTM] Royalty</li>
+    <li IfModActive="Ludeon.RimWorld">1.2/[RKTM] Core</li>
+	<li IfModActive="Ludeon.RimWorld.Royalty">1.2/[RKTM] Royalty</li>
   </v1.2>
   <v1.3>
-    <li IfModActive="Ludeon.RimWorld">1.3\[RKTM] Core</li>
-	<li IfModActive="Ludeon.RimWorld.Royalty">1.3\[RKTM] Royalty</li>
-	<li IfModActive="Ludeon.RimWorld.Ideology">1.3\[RKTM] Ideology</li>
-	<li IfModActive="Ludeon.RimWorld.Ideology">1.3\[RKTM] Ideologyv2</li>
+    <li IfModActive="Ludeon.RimWorld">1.3/[RKTM] Core</li>
+	<li IfModActive="Ludeon.RimWorld.Royalty">1.3/[RKTM] Royalty</li>
+	<li IfModActive="Ludeon.RimWorld.Ideology">1.3/[RKTM] Ideology</li>
   </v1.3>
 
 </loadFolders>

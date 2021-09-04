@@ -23,7 +23,7 @@
     <li>rewardDescription->transport pods with the following resources will arrive (total value [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
   -->
   <Util_SendItemPods.questDescriptionRules.rulesStrings>
-    <li>rewardDescription->다음 가치를 지닌 수송 포드가 도착합니다. (총 가치 [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
+    <li>rewardDescription->다음 물품을 포함하는 수송 포드가 도착합니다.\n\n[itemPodsContents] (총 가치 [itemPodsTotalMarketValue_money])</li>
   </Util_SendItemPods.questDescriptionRules.rulesStrings>
   
 </LanguageData>

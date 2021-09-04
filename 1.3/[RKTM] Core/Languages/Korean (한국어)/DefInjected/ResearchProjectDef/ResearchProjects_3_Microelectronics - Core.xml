@@ -22,7 +22,7 @@
   <HeavyTurrets.description>소형 포탑보다 강력하고 긴 거리를 가진 포탑을 만들 수 있습니다.</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>의료용 침대</HospitalBed.label>
+  <HospitalBed.label>회복 침대</HospitalBed.label>
   <!-- EN: Construct hospital beds which improve medical outcomes. -->
   <HospitalBed.description>성공적인 치료를 돕는 회복 침대를 만들 수 있습니다.</HospitalBed.description>
   
@@ -62,7 +62,7 @@
   <ShieldBelt.description>운동량 굴절장 기술을 활용해 원거리 투사체를 막는 착용 가능한 보호막을 만들 수 있습니다.</ShieldBelt.description>
   
   <!-- EN: transport pod -->
-  <TransportPod.label>준궤도 수송</TransportPod.label>
+  <TransportPod.label>수송 포드</TransportPod.label>
   <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
   <TransportPod.description>사람이나 물건을 태우고 행성의 먼 거리를 빠르게 이동하는 수송 포드를 만들 수 있습니다.</TransportPod.description>
   
