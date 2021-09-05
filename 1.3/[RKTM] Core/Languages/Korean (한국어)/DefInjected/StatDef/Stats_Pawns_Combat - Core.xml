@@ -24,7 +24,7 @@
   <!-- EN: melee DPS -->
   <MeleeDPS.label>초당 근접 공격력</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
-  <MeleeDPS.description>매 초 가하는 피해량의 평균값입니다.\n\n이 능력은 방어구나 회피같이 상대의 방어력는 포함되어 있지 않습니다.</MeleeDPS.description>
+  <MeleeDPS.description>매초 가할 수 있는 근접 격투 피해량의 평균값입니다.\n\n방어력, 회피 등 상대의 능력치는 이 값에 포함되지 않습니다.</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
   <MeleeHitChance.label>근접 명중률</MeleeHitChance.label>

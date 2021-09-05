@@ -496,7 +496,7 @@
   <!-- EN: Spawning {DRYAD_label} in {TIME} -->
   <SpawningDryadIn>{TIME} 후 {DRYAD_label} 탄생</SpawningDryadIn>
   <!-- EN: Morphing {DRYAD_labelShort} into {TYPE_label}. -->
-  <ChangingDryadIntoType>{DRYAD_labelShort}(이)가 {TYPE_label}(으)로 변이 중.</ChangingDryadIntoType>
+  <ChangingDryadIntoType>{DRYAD_labelShort}(이)가 {TYPE_label}(으)로 변이 중</ChangingDryadIntoType>
   <!-- EN: {0} hours every day -->
   <HoursEveryDay>매일 {0}시간</HoursEveryDay>
   <!-- EN: {0} hours every other day -->
@@ -631,5 +631,9 @@
   <MissingRequiredResearch>필수 연구 누락:</MissingRequiredResearch>
   <!-- EN: Requires -->
   <BiosculpterRequiresIngredients>필요</BiosculpterRequiresIngredients>
+  <!-- EN: On completion of the {CYCLE} cycle, the following will occur -->
+  <OnCompletionOfCycle>{CYCLE} 절차가 완료되면 다음이 발생함</OnCompletionOfCycle> <!-- text_todo -->
+  <!-- EN: {PAWN_nameDef} does not have any conditions that can be healed by a {CYCLE} cycle.\n\nDo you still want to continue? -->
+  <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}(은)는 {CYCLE} 절차 동안 치료할 수 있는 상태가 없습니다.\n\n계속 하시겠습니까?</BiosculpterNoCoditionsToHeal> <!-- text_todo -->
 
 </LanguageData>

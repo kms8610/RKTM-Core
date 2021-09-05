@@ -8,6 +8,6 @@
   <!-- EN: Take {0} -->
   <Penoxycyline.ingestible.ingestCommandString>{0} 섭취</Penoxycyline.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <Penoxycyline.ingestible.ingestReportString>{0} 섭취하는 중.</Penoxycyline.ingestible.ingestReportString>
+  <Penoxycyline.ingestible.ingestReportString>{0} 섭취하는 중</Penoxycyline.ingestible.ingestReportString>
   
 </LanguageData>

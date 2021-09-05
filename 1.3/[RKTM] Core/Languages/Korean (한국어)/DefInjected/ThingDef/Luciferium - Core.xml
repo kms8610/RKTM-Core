@@ -8,6 +8,6 @@
   <!-- EN: Take {0} -->
   <Luciferium.ingestible.ingestCommandString>{0} 섭취</Luciferium.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <Luciferium.ingestible.ingestReportString>{0} 섭취하는 중.</Luciferium.ingestible.ingestReportString>
+  <Luciferium.ingestible.ingestReportString>{0} 섭취하는 중</Luciferium.ingestible.ingestReportString>
   
 </LanguageData>

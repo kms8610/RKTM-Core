@@ -6,7 +6,7 @@
   <!-- EN: This special medical operation cures scaria. -->
   <CureScaria.description>스카리아를 치료할 특별한 수술입니다.</CureScaria.description>
   <!-- EN: Curing scaria. -->
-  <CureScaria.jobString>스카리아 치료 중.</CureScaria.jobString>
+  <CureScaria.jobString>스카리아 치료 중</CureScaria.jobString>
   <!-- EN: {0} has successfully cured {1}'s scaria. -->
   <CureScaria.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 스카리아를 치료했습니다.</CureScaria.successfullyRemovedHediffMessage>
   
@@ -15,7 +15,7 @@
   <!-- EN: Sterilize a creature so it can no longer reproduce. -->
   <Sterilize.description>더 이상 번식할 수 없도록 불임 시술을 할 수 있습니다.</Sterilize.description>
   <!-- EN: sterilizing TargetA. -->
-  <Sterilize.jobString>targetA 불임 시술 중.</Sterilize.jobString>
+  <Sterilize.jobString>targetA 불임 시술 중</Sterilize.jobString>
   <!-- EN: {0} has successfully sterilized {1}. -->
   <Sterilize.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 불임 시술을 맞췄습니다..</Sterilize.successfullyRemovedHediffMessage>
   

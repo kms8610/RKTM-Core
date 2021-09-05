@@ -21,7 +21,7 @@
   <!-- EN: count -->
   <Count.label>백작</Count.label>
   <!-- EN: The title of count is the middle rank of middle nobility.\n\nIn peacetime, counts hold title to a city or colony, and might have a small personal fleet, possibly including capital ships. -->
-  <Count.description>백작은 제국의 지방 귀족 중 중간에 위치한 직위입니다. 이 정도 작위를 얻으면 저 높은 곳에 있는 항성군주의 관심을 얻을 수 있게 됩니다.\n\n백작은 도시 또는 식민지에 대한 통치권을 지니며, 거대 함선과 개인 군대를 소유할 수 있습니다.</Count.description>
+  <Count.description>백작은 제국의 지방 귀족 중 중간에 위치한 작위입니다. 이 정도 작위를 얻으면 저 높은 곳에 있는 항성군주의 관심을 얻을 수 있게 됩니다.\n\n백작은 도시 또는 식민지에 대한 통치권을 지니며, 거대 함선과 개인 군대를 소유할 수 있습니다.</Count.description>
   <!-- EN: countess -->
   <Count.labelFemale>백작부인</Count.labelFemale>
   

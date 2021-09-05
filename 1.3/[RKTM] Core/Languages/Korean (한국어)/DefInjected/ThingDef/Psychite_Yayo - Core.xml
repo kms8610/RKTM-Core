@@ -8,6 +8,6 @@
   <!-- EN: Snort {0} -->
   <Yayo.ingestible.ingestCommandString>{0} 흡입</Yayo.ingestible.ingestCommandString>
   <!-- EN: Snorting {0}. -->
-  <Yayo.ingestible.ingestReportString>{0} 흡입하는 중.</Yayo.ingestible.ingestReportString>
+  <Yayo.ingestible.ingestReportString>{0} 흡입하는 중</Yayo.ingestible.ingestReportString>
   
 </LanguageData>

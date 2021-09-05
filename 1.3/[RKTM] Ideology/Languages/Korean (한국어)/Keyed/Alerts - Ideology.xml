@@ -19,6 +19,8 @@
 
   <!-- EN: {0} expected -->
   <RitualExpected>{0} 기대 중</RitualExpected>
+  <!-- EN: {0} opportunity -->
+  <RitualOpportunity>{0} 시기</RitualOpportunity>
   <!-- EN: {0} expected for -->
   <RitualExpectedFor>누군가를 위한 {0} 기대 중:</RitualExpectedFor>
   <!-- EN: {0} days: Ritual opportunity ends. -->
@@ -63,7 +65,7 @@
   <IdeoRoleEmpty>{0} 지위가 비어있음</IdeoRoleEmpty>
   <!-- EN: {0} roles unfilled -->
   <IdeoRolesEmpty>{0} 지위가 비어있음</IdeoRolesEmpty>
-  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role by performing a role change ritual. Select a ritual spot or an altar and click 'Begin role change'.\n\nIf these roles remain empty, the following people will be unhappy -->
+  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab. You can also select a ritual spot or an altar and click 'Begin role change'. \n\nIf these roles remain empty, the following people will be unhappy -->
   <IdeoRolesEmptyDesc>다음 지위가 공석입니다.\n{0}\n\n사교 탭에서 정착민에게 지위를 할당하거나 제단이나 행사 장소를 우클릭하여 취임식을 시작하세요.\n\n해당 지위가 계속 공석으로 남아있을 경우 다음 정착민이 실망합니다.</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->

@@ -45,9 +45,13 @@
   
   <!-- EN: Room requirements -->
   <RoomRequirements>방 요구사항</RoomRequirements>
-  <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). The following memes are incompatible:\n\n{0}\n\nWould you like to continue? -->
-  <ConfirmChangeMemesForFluidIdeo>불러오려는 사상에 유동적 사상과 호환되지 않는 가르침이 존재합니다. 유동적 사상은 시작할 때 하나의 약한 영향 가르침만 선택할 수 있으므로 가르침을 모두 다시 선택해야 합니다. 다음의 가르침이 영향을 받습니다.\n\n{0}\n\n계속 하시겠습니까?</ConfirmChangeMemesForFluidIdeo>
-  
+  <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). -->
+  <ConfirmChangeMemesForFluidIdeo>불러오려는 사상에 유동적 사상과 호환되지 않는 가르침이 존재합니다. 유동적 사상은 시작할 때 하나의 약한 영향 가르침만 선택할 수 있으므로 가르침을 모두 다시 선택해야 합니다.</ConfirmChangeMemesForFluidIdeo>
+  <!-- EN: The following memes are incompatible -->
+  <ConfirmIncompatibleMemes>다음의 가르침이 영향을 받습니다.</ConfirmIncompatibleMemes>
+  <!-- EN: Would you like to continue? -->
+  <ConfirmChangeMemesForFluidIdeoContinue>계속 하시겠습니까?</ConfirmChangeMemesForFluidIdeoContinue>
+
   <!-- EN: role -->
   <Role>지위</Role>
   <!-- EN: Assign role -->
@@ -151,10 +155,10 @@
   <CannotAssignBedToColonist>정착민</CannotAssignBedToColonist>
   <!-- EN: Any slave -->
   <AnySlave>아무 노예</AnySlave>
-  <!-- EN: Negotiator will not sell people into slavery. -->
-  <NegotiatorWillNotTradeSlaves>협상가는 사람을 노예로 팔지 않을 것입니다.</NegotiatorWillNotTradeSlaves>
-  <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to their own faction, but isn't willing to sell someone to a different faction. -->
-  <NegotiatorWillNotTradeSlavesTip>협상을 맡은 {0_nameDef}(은)는 {0_pronoun}의 사상, {1}(으)로 인해 사람을 노예로 팔지 않을 것입니다.\n\n{0_nameDef}도 몸값을 받고 원래 세력으로 돌려보내 주는 것은 거부하지 않으며, 다른 세력에 판매하는 것만 거부합니다.</NegotiatorWillNotTradeSlavesTip>
+  <!-- EN: {0_nameDef} refuses to sell people into slavery according to {0_possessive} beliefs. -->
+  <NegotiatorWillNotTradeSlaves>{0_nameDef}(은)는 자신의 신념 때문에 노예 매매를 거부합니다.</NegotiatorWillNotTradeSlaves>
+  <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to {0_possessive} own faction, but isn't willing to sell someone to a different faction. -->
+  <NegotiatorWillNotTradeSlavesTip>협상을 맡은 {0_nameDef}(은)는 {0_possessive} 사상, {1}(으)로 인해 사람을 노예로 팔지 않을 것입니다.\n\n{0_nameDef}도 몸값을 받고 원래 세력으로 돌려보내 주는 것은 거부하지 않으며, 다른 세력에 판매하는 것만 거부합니다.</NegotiatorWillNotTradeSlavesTip>
 
   <!-- EN: Last human meat -->
   <LastHumanMeat>마지막으로 섭취한 인육</LastHumanMeat>

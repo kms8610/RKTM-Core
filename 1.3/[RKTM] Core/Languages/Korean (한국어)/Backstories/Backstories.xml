@@ -5372,14 +5372,14 @@
     <desc>독학으로 기술을 익힌 {PAWN_nameDef}(은)는 스스로 제작한 로켓을 타고 죽어가는 고향 행성에서 탈출했습니다.\n\n{PAWN_pronoun}는 미개한 행성에 로켓 기술을 나눠주기 위한 여행을 떠났습니다.</desc>
   </RocketPioneer19>
   
-  <RoyalBastard3>
+  <RoyalBastard64>
     <!-- EN: royal bastard -->
     <title>왕실 사생아</title>
     <!-- EN: bastard -->
     <titleShort>사생아</titleShort>
-    <!-- EN: [PAWN_nameDef] the child of a lord and a prostitute.\n\n[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more. -->
+    <!-- EN: [PAWN_nameDef] was the child of a lord and a prostitute.\n\n[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more. -->
     <desc>{PAWN_nameDef}(은)는 왕과 매춘부 사이의 아이입니다.\n\n{PAWN_possessive} 부계 혈통은 확실했으며 권력은 강력했습니다. 하지만 아무도 {PAWN_nameDef}에게 직위를 얻기 위해 지지하지 않았었습니다. {PAWN_pronoun}는 끼니를 사창가를 청소하며 해결했었지만, 항상 {PAWN_pronoun}는 더 가치있다고 생각했습니다.</desc>
-  </RoyalBastard3>
+  </RoyalBastard64>
   
   <RoyalCook18>
     <!-- EN: royal cook -->

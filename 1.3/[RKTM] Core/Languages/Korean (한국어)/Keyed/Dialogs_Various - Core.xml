@@ -871,9 +871,9 @@
   <!-- EN: Delete policy... -->
   <DeleteDrugPolicy>정책 삭제</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>{0}(이)가 정책 사용 중.</DrugPolicyInUse>
+  <DrugPolicyInUse>{0}(이)가 정책 사용 중</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>{0}(이)가 음식 정책 사용 중.</FoodRestrictionInUse>
+  <FoodRestrictionInUse>{0}(이)가 음식 정책 사용 중</FoodRestrictionInUse>
   <!-- EN: No drug policy selected -->
   <NoDrugPolicySelected>약물 정책 없음</NoDrugPolicySelected>
   <!-- EN: Add drug... -->

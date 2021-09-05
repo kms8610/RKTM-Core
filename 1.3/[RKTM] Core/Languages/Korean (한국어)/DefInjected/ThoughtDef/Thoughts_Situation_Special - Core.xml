@@ -25,6 +25,11 @@
   <!-- EN: It feels amazing. -->
   <Joywire.stages.joywire.description>끝내준다고.</Joywire.stages.joywire.description>
   
+  <!-- EN: missing tongue -->
+  <MissingTongue.stages.missing_tongue.label>혀 누락</MissingTongue.stages.missing_tongue.label>
+  <!-- EN: I am missing my tongue. It is so frustrating not being able to speak! -->
+  <MissingTongue.stages.missing_tongue.description>혀가 없으니 말을 못해서 너무 답답해!</MissingTongue.stages.missing_tongue.description>
+  
   <!-- EN: naked -->
   <Naked.stages.naked.label>벌거벗음</Naked.stages.naked.label>
   <!-- EN: I'm naked. This is humiliating. -->

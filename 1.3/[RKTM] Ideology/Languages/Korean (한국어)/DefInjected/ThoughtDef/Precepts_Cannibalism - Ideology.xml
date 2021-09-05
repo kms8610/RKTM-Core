@@ -108,7 +108,7 @@
   <!-- EN: I think there may be a face on my clothes. Oh, no... my clothes *are* a face. -->
   <HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>내 옷에 얼굴이 그려진 것 같아. 아, 이런... '진짜' 얼굴이야.</HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>
   <!-- EN: human leather {0} etc -->
-  <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>인간 가죽 {0} (여러 겹)</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>인간 가죽 {0} 여러 겹</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>
   <!-- EN: I look like a freak from a horror show, and I feel like I'm in a horror show. -->
   <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>공포영화에 나오는 미친 놈 같아, 아니 그냥 공포영화 안에 있는 것 같아.</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>
   
@@ -125,7 +125,7 @@
   <!-- EN: Why am I wearing so much human leather apparel? We should have something else to wear for me... -->
   <HumanLeatherApparel_Disapproved.stages.human_leather_2.description>내가 왜 이렇게 많은 인간 가죽 옷을 입어야 하지? 다른 옷도 있을텐데...</HumanLeatherApparel_Disapproved.stages.human_leather_2.description>
   <!-- EN: human leather {0} etc -->
-  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>인간 가죽 {0} (여러 겹)</HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>인간 가죽 {0} 여러 겹</HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>
   <!-- EN: I should really wear non-human leather apparel. I look like a crazy person. -->
   <HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>어서 인간 가죽이 아닌 다른 옷을 입어야 해. 미친 사람처럼 보일 거야.</HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>
   
@@ -142,7 +142,7 @@
   <!-- EN: Why am I wearing so much human leather? This is horrible! -->
   <HumanLeatherApparel_Horrible.stages.human_leather_2.description>내가 왜 이렇게 많은 인간 가죽 옷을 입고 있지? 끔찍해!</HumanLeatherApparel_Horrible.stages.human_leather_2.description>
   <!-- EN: human leather {0} etc -->
-  <HumanLeatherApparel_Horrible.stages.human_leather_etc.label>인간 가죽 {0} (여러 겹)</HumanLeatherApparel_Horrible.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather_etc.label>인간 가죽 {0} 여러 겹</HumanLeatherApparel_Horrible.stages.human_leather_etc.label>
   <!-- EN: I look like a freak, this is horrifying! -->
   <HumanLeatherApparel_Horrible.stages.human_leather_etc.description>이런 몰골이라니! 너무 끔찍해!</HumanLeatherApparel_Horrible.stages.human_leather_etc.description>
   
@@ -159,7 +159,7 @@
   <!-- EN: I wear the faces of my enemies. This makes me happy. -->
   <HumanLeatherApparel_Preferred.stages.human_leather_2.description>적들의 얼굴을 입고 있어. 행복해.</HumanLeatherApparel_Preferred.stages.human_leather_2.description>
   <!-- EN: human leather {0} etc -->
-  <HumanLeatherApparel_Preferred.stages.human_leather_etc.label>인간 가죽 {0} (여러 겹)</HumanLeatherApparel_Preferred.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather_etc.label>인간 가죽 {0} 여러 겹</HumanLeatherApparel_Preferred.stages.human_leather_etc.label>
   <!-- EN: I look like a real cannibal. Who could doubt me? -->
   <HumanLeatherApparel_Preferred.stages.human_leather_etc.description>진짜 식인종처럼 보이지. 누가 뭐라겠어?</HumanLeatherApparel_Preferred.stages.human_leather_etc.description>
   
@@ -176,7 +176,7 @@
   <!-- EN: The faces on my clothes aren't smiling, but they make *me* happy. -->
   <HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>이 얼굴들은 웃지는 않지만 나를 기쁘게 해주지.</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>
   <!-- EN: human leather {0} etc -->
-  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>인간 가죽 {0} (여러 겹)</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>인간 가죽 {0} 여러 겹</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>
   <!-- EN: The flesh! The flesh signals my triumph! -->
   <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>살덩이! 이 살덩이야말로 내 승리를 상징하지!</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>
   
@@ -193,7 +193,7 @@
   <!-- EN: The faces on my clothes aren't smiling, but they make *me* happy. -->
   <HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>이 얼굴들은 웃지는 않지만 나를 기쁘게 해주지.</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>
   <!-- EN: human leather {0} etc -->
-  <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>인간 가죽 {0} (여러 겹)</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>인간 가죽 {0} 여러 겹</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>
   <!-- EN: The flesh! The flesh signals my triumph! -->
   <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>살덩이! 이 살덩이야말로 내 승리를 상징하지!</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>
   

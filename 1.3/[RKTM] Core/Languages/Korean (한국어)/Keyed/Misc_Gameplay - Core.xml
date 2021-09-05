@@ -239,15 +239,15 @@
   <!-- EN: {0} effect multiplier: {1} -->
   <DrugEffectMultiplier>{0} 효과 계수: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
-  <CaravanVisiting>{0} 방문 중.</CaravanVisiting>
+  <CaravanVisiting>{0} 방문 중</CaravanVisiting>
   <!-- EN: Entering {0}. -->
-  <CaravanEntering>{0} 진입 중.</CaravanEntering>
+  <CaravanEntering>{0} 진입 중</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>{0} 공격 중.</CaravanAttacking>
+  <CaravanAttacking>{0} 공격 중</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>{0}에게 선물 제공 중.</CaravanOfferingGifts>
+  <CaravanOfferingGifts>{0}에게 선물 제공 중</CaravanOfferingGifts>
   <!-- EN: Trading with {0} -->
-  <CaravanTrading>{0}(와)과 거래 중.</CaravanTrading>
+  <CaravanTrading>{0}(와)과 거래 중</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>시체에서 벗겼기 때문에 찝찝합니다.</WasWornByCorpse>
   <!-- EN: T -->
@@ -692,35 +692,35 @@
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>{THING_label}(을)를 {DESTINATION}에 운반 중.</ReportHaulingTo>
+  <ReportHaulingTo>{THING_label}(을)를 {DESTINATION}에 운반 중</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>{THING_label}(을)를 {DESTINATION}에 묻는 중.</ReportHaulingToGrave>
+  <ReportHaulingToGrave>{THING_label}(을)를 {DESTINATION}에 묻는 중</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>{1_label} 운반 중.</ReportHauling>
+  <ReportHauling>{1_label} 운반 중</ReportHauling>
   <!-- EN: hauling. -->
-  <ReportHaulingUnknown>운반 중.</ReportHaulingUnknown>
+  <ReportHaulingUnknown>운반 중</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
-  <ReportSleeping>수면 중.</ReportSleeping>
+  <ReportSleeping>수면 중</ReportSleeping>
   <!-- EN: resting. -->
   <ReportResting>쉬는 중</ReportResting>
   <!-- EN: laying down. -->
-  <ReportLayingDown>눕는 중.</ReportLayingDown>
+  <ReportLayingDown>눕는 중</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
-  <WatchingSunrise>일출 보는 중.</WatchingSunrise>
+  <WatchingSunrise>일출 보는 중</WatchingSunrise>
   <!-- EN: cloudwatching. -->
-  <CloudWatching>구름 보는 중.</CloudWatching>
+  <CloudWatching>구름 보는 중</CloudWatching>
   <!-- EN: watching the sunset. -->
-  <WatchingSunset>일몰 보는 중.</WatchingSunset>
+  <WatchingSunset>일몰 보는 중</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>별 구경하는 중.</Stargazing>
+  <Stargazing>별 구경하는 중</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>일식 구경하는 중.</WatchingEclipse>
+  <WatchingEclipse>일식 구경하는 중</WatchingEclipse>
   <!-- EN: watching the aurora. -->
-  <WatchingAurora>오로라 구경하는 중.</WatchingAurora>
+  <WatchingAurora>오로라 구경하는 중</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>{1}에 {0} 사용 중.</UsingVerb>
+  <UsingVerb>{1}에 {0} 사용 중</UsingVerb>
   <!-- EN: using {0}. -->
-  <UsingVerbNoTarget>{0} 사용 중.</UsingVerbNoTarget>
+  <UsingVerbNoTarget>{0} 사용 중</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>구역</AreaLower>
   <!-- EN: cowering. -->
@@ -728,11 +728,11 @@
   <!-- EN: standing. -->
   <ReportStanding>대기 중</ReportStanding>
   <!-- EN: extinguishing fire. -->
-  <ReportExtinguishingFire>불 끄는 중.</ReportExtinguishingFire>
+  <ReportExtinguishingFire>불 끄는 중</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>{TARGET_label}에 붙은 불 끄는 중.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>{TARGET_label}에 붙은 불 끄는 중</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>시체 파내는 중.</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>시체 파내는 중</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -780,11 +780,11 @@
   <!-- EN: Make {0}. -->
   <RecipeMakeDescription>{0}(을)를 만듭니다.</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>{0} 제작 중.</RecipeMakeJobString>
+  <RecipeMakeJobString>{0} 제작 중</RecipeMakeJobString>
   <!-- EN: administer {0} -->
   <RecipeAdminister>{0} 투여</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>{0} 투여 중.</RecipeAdministerJobString>
+  <RecipeAdministerJobString>{0} 투여 중</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>금주로 인한 불행</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->

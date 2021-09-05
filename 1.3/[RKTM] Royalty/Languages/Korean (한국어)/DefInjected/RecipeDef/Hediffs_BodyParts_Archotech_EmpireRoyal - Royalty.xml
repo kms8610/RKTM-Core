@@ -34,7 +34,7 @@
   <!-- EN: Remove psychic reader. -->
   <RemovePsychicReader.description>감정 판독기를 제거합니다.</RemovePsychicReader.description>
   <!-- EN: Removing psychic reader. -->
-  <RemovePsychicReader.jobString>감정 판독기 제거 중.</RemovePsychicReader.jobString>
+  <RemovePsychicReader.jobString>감정 판독기 제거 중</RemovePsychicReader.jobString>
   
   <!-- EN: remove psychic sensitizer -->
   <RemovePsychicSensitizer.label>초능력 증진기 제거</RemovePsychicSensitizer.label>

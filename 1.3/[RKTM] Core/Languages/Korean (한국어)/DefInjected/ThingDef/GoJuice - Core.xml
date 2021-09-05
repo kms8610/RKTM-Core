@@ -8,6 +8,6 @@
   <!-- EN: Inject {0} -->
   <GoJuice.ingestible.ingestCommandString>{0} 투여</GoJuice.ingestible.ingestCommandString>
   <!-- EN: Injecting {0}. -->
-  <GoJuice.ingestible.ingestReportString>{0} 투여하는 중.</GoJuice.ingestible.ingestReportString>
+  <GoJuice.ingestible.ingestReportString>{0} 투여하는 중</GoJuice.ingestible.ingestReportString>
   
 </LanguageData>

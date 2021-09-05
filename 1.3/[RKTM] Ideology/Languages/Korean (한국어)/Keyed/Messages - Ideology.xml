@@ -32,11 +32,13 @@
   <!-- EN: You need {0} to start the {1}. -->
   <MessageNoRequiredRolePawnToBeginRitual>{1}(을)를 시작하려면 {0}(이)가 필요합니다.</MessageNoRequiredRolePawnToBeginRitual>
   <!-- EN: At least {0} spectator(s) are required to start the {1}. -->
-  <MessageNotEnoughSpectators>At least {0} spectator(s) are required to start the {1}.</MessageNotEnoughSpectators>
+  <MessageNotEnoughSpectators>{1}(을)를 시작하려면 최소 {0}명의 참석자가 필요합니다.</MessageNotEnoughSpectators>
   <!-- EN: You must choose a role. -->
   <MessageRoleChangeChooseDifferentRole>지위를 선택해야 합니다.</MessageRoleChangeChooseDifferentRole>
   <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
   <MessageNeedAssignedRoleToBeginRitual>{1}(을)를 시작하기 전에 누군가에게 {0} 지위를 맡겨야 합니다.</MessageNeedAssignedRoleToBeginRitual>
+  <!-- EN: Need at least one {0} participating. -->
+  <MessageNeedAtLeastOneParticipantOfIdeo>최소 한 명의 {0}(은)는 참여해야 합니다.</MessageNeedAtLeastOneParticipantOfIdeo> <!-- text_todo -->
   
   <!-- EN: {0_labelShort} now holds the role of {1}. -->
   <MessageRoleAssigned>{0_labelShort}(이)가 {1}의 지위에 올랐습니다.</MessageRoleAssigned>

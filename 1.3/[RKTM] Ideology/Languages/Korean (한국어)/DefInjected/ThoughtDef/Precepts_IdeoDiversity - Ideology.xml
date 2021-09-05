@@ -29,6 +29,11 @@
   <!-- EN: My truth is so pure and obvious, yet almost all of those around me are captured by evil. It's abhorrent. -->
   <IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>내 믿음은 정말로 순수하고 진실하지만 주변 사람들은 악에 사로잡혀 있어. 혐오스러운 일이지.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>
   
+  <!-- EN: participant in false ritual -->
+  <IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.participant_in_false_ritual.label>participant in false ritual</IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.participant_in_false_ritual.label>
+  <!-- EN: I am offended at myself for taking part in a false belief's ritual. -->
+  <IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.participant_in_false_ritual.description>I am offended at myself for taking part in a false belief's ritual.</IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.participant_in_false_ritual.description>
+  
   <!-- EN: different ideoligion -->
   <IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>다른 사상</IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>
   
@@ -81,6 +86,11 @@
   <!-- EN: My truth is clear, yet almost all of those around me are so foolish they can't see it. I don't like being subjected to their idiocy. -->
   <IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>내 믿음은 분명하지만 주변 사람들이 너무 멍청해서 알아차리질 못해. 그들의 멍청함에는 동조하고 싶지 않아.</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>
   
+  <!-- EN: participant in false ritual -->
+  <IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.participant_in_false_ritual.label>participant in false ritual</IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.participant_in_false_ritual.label>
+  <!-- EN: It feels strange taking part in a false belief's ritual. -->
+  <IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.participant_in_false_ritual.description>It feels strange taking part in a false belief's ritual.</IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.participant_in_false_ritual.description>
+  
   <!-- EN: different ideoligion -->
   <IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>다른 사상</IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>
   
@@ -132,6 +142,11 @@
   <IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>다양한 의견</IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>
   <!-- EN: My truth is so obvious, yet almost all of those around me are so deluded. It's horrible. -->
   <IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>내 믿음은 명백하지만 주변 사람들은 여전히 속고 있어. 끔찍한 일이야.</IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>
+  
+  <!-- EN: participant in false ritual -->
+  <IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.participant_in_false_ritual.label>participant in false ritual</IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.participant_in_false_ritual.label>
+  <!-- EN: I am disappointed in myself for taking part in a false belief's ritual. -->
+  <IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.participant_in_false_ritual.description>I am disappointed in myself for taking part in a false belief's ritual.</IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.participant_in_false_ritual.description>
   
   <!-- EN: different ideoligion -->
   <IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>다른 사상</IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>
