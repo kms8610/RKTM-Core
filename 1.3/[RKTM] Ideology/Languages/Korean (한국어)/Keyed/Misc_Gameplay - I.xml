@@ -174,7 +174,7 @@
   <RoleRequiredApparelLabel>필요 의복</RoleRequiredApparelLabel>
   <RoleRitualsLabel>의식에서 맡는 역할</RoleRitualsLabel>
   <RoleBelieverCountDesc>이 지위는 세력에 {1}명의 {0}(이)가 있으면 활성화됩니다. {3}명의 {2}만 있으면 비활성화됩니다.</RoleBelieverCountDesc>
-  <RoleExpectationOffset>{0}등급 상승.</RoleExpectationOffset>
+  <RoleExpectationOffset>{0}등급 상승</RoleExpectationOffset>
   <RoleRaisedExpectation>{0} 지위에 의해 높아진 기대치</RoleRaisedExpectation>
   <RoleRaisedExpectationGracePeriod>{0}(은)는 {1}에서 더 높은 기대를 가집니다.</RoleRaisedExpectationGracePeriod>
   <IdeoLeaderDifferentIdeoThoughtLabel>{0}(이)가 지도자임</IdeoLeaderDifferentIdeoThoughtLabel>

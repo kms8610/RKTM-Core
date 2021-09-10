@@ -51,7 +51,7 @@
 
   <!-- Abilities -->
   <AbilityDisabledUndrafted>소집 중이어야 합니다.</AbilityDisabledUndrafted>
-  <AbilityOnCooldown>재사용 대기시간입니다. {0}에 사용가능 합니다.</AbilityOnCooldown>
+  <AbilityOnCooldown>재사용 대기 중입니다. ({0} 후 사용 가능)</AbilityOnCooldown>
   <AbilityAlreadyQueued>이미 대기열에 있습니다.</AbilityAlreadyQueued>
   <AbilityNoEntropyToDump>버려질 열기가 없습니다.</AbilityNoEntropyToDump>
   <AbilityReadyLabel>{0} 능력이 준비되었습니다.</AbilityReadyLabel>

@@ -12,6 +12,6 @@
   <MarriageName_Random.label>무작위</MarriageName_Random.label>
   <MarriageName_Random.description>부부는 무작위로 공유할 성을 선택한다.</MarriageName_Random.description>
   
-  <MarriageName_UsuallyWomans.label>보통 여자의</MarriageName_UsuallyWomans.label>
-  <MarriageName_UsuallyWomans.description>대부분의 부부는 아내의 성을 공유한다.</MarriageName_UsuallyWomans.description>
+  <MarriageName_UsuallyWomans.label>여성</MarriageName_UsuallyWomans.label>
+  <MarriageName_UsuallyWomans.description>대부분 부부는 아내의 성을 공유합니다.</MarriageName_UsuallyWomans.description>
 </LanguageData>

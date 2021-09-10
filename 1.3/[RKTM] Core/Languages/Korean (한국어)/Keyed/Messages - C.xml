@@ -384,7 +384,7 @@
 
   <MessageIdeoOpposedWorkTypeSelected>경고: {1}(은)는 {0_nameDef}의 믿음관에 반하기 때문에 {0_pronoun}의 기분이 나빠집니다.</MessageIdeoOpposedWorkTypeSelected>
 
-  <MessageBedLostAssignment>{1_nameDef}(이)가 {0}(을)를 더는 소유하지 않습니다.</MessageBedLostAssignment>
+  <MessageBedLostAssignment>{1_nameDef}(이)가 더는 {0}(을)를 소유하지 않습니다.</MessageBedLostAssignment>
   <MessageBedDestroyed>{1_nameDef}에게 할당된 {0}(이)가 파괴됐습니다.</MessageBedDestroyed>
 
   <!-- Rituals -->

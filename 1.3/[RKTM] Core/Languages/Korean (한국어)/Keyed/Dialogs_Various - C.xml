@@ -269,7 +269,7 @@
   <RearmCost>재장전 비용</RearmCost>
   <RearmCostExplanation>포탑을 재장전하기 위해 필요한 자원입니다.</RearmCostExplanation>
   <ShotsBeforeRearm>공격 가능 횟수</ShotsBeforeRearm>
-  <ShotsBeforeRearmExplanation>재장전되기 전까지 포탑이 얼마나 많이 공격할수 있는지를 나타냅니다.</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>재장전되기 전까지 포탑이 얼마나 많이 공격할 수 있는지를 나타냅니다.</ShotsBeforeRearmExplanation>
   <PowerConsumption>전력 소비</PowerConsumption>
   <Target>목표</Target>
   <AbilityTargetDesc>이 능력을 사용할 수 있는 대상의 유형입니다.</AbilityTargetDesc>

@@ -99,7 +99,7 @@
 
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>관계</LetterLabelNoticedRelatedPawns>
-  <LetterRelatedPawnsRaidEnemy>{1}의 무리에 {0} 또는 수감자와 아는 사람들이 포함되어 있습니다.\n\n비록 가족이지만 세력간 관계로 인해 서로 공격할 것입니다.\n\n목록:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidEnemy>{1}의 무리에 {0} 또는 수감자와 아는 사람들이 포함되어 있습니다.\n\n비록 가족이지만 세력 갈등에 의해 서로 공격할 것입니다.\n\n목록:</LetterRelatedPawnsRaidEnemy>
   <LetterRelatedPawnsRaidFriendly>우호적인 {1}의 무리에 {0} 또는 수감자와 아는 사람들이 포함되어 있습니다:</LetterRelatedPawnsRaidFriendly>
   <LetterRelatedPawnsNeutralGroup>{0} 또는 수감자와 아는 사람들이 포함되어 있습니다:</LetterRelatedPawnsNeutralGroup>
   <LetterRelatedPawnsTradeShip>궤도 상선이 {0} 또는 수감자와 아는 사람을 판매하고 있습니다:</LetterRelatedPawnsTradeShip>

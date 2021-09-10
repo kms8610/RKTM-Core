@@ -17,7 +17,7 @@
   <Eclipse.label>일식</Eclipse.label>
   <Eclipse.description>일식으로 인해 행성 표면이 어두워집니다. 오전에도 어둠이 계속됩니다.</Eclipse.description>
   <Eclipse.endMessage>일식이 끝납니다.</Eclipse.endMessage>
-  <Eclipse.letterText>이 행성의 위성중 하나가 태양 앞을 지나가고 있습니다. 일식이 시작되었습니다.</Eclipse.letterText>
+  <Eclipse.letterText>이 행성의 위성 중 하나가 태양 앞을 지나가고 있습니다. 일식이 시작되었습니다.</Eclipse.letterText>
   
   <Flashstorm.label>섬광폭풍</Flashstorm.label>
   <Flashstorm.description>엄청난 양의 벼락이 주변의 좁은 지역을 강타합니다.</Flashstorm.description>

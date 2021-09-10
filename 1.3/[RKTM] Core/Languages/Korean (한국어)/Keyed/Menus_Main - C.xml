@@ -206,7 +206,7 @@
   <Difficulty_FoodPoisonChanceFactor_Label>식중독 확률</Difficulty_FoodPoisonChanceFactor_Label>
   <Difficulty_FoodPoisonChanceFactor_Info>식중독 가능성이 있는 음식을 먹을 때 식중독에 걸릴 확률을 조정합니다.</Difficulty_FoodPoisonChanceFactor_Info>
   <Difficulty_ManhunterChanceOnDamageFactor_Label>동물 보복 확률</Difficulty_ManhunterChanceOnDamageFactor_Label>
-  <Difficulty_ManhunterChanceOnDamageFactor_Info>야생동물을 부상입힐 때 공격할 확률을 조정합니다.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>야생동물을 사냥할 때 반격할 확률을 조정합니다.</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <Difficulty_FriendlyFireChanceFactor_Label>아군오사</Difficulty_FriendlyFireChanceFactor_Label>
   <Difficulty_FriendlyFireChanceFactor_Info>아군오사의 확률을 조정합니다.\n\n참고: 이 설정은 목표물을 맞출 직격탄에만 영향을 미칩니다. 폭발이나 빗맞힘 사격으로 인한 피해는 방지하지 않습니다.</Difficulty_FriendlyFireChanceFactor_Info>
   <Difficulty_AllowInstantKillChance_Label>정착민 즉사</Difficulty_AllowInstantKillChance_Label>
