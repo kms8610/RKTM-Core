@@ -8,7 +8,7 @@
   <Baron.labelFemale>남작부인</Baron.labelFemale>
   
   <Consul.label>총독</Consul.label>
-  <Consul.description>총독은 제국의 중앙 귀족 사회에서는 대단치 않지만 변방계에서는 항성군주 다음가는 높은 위치입니다.\n\n총독은 행성 전체를 통치합니다. 여러 함대에 의해 지원되는 군단급 부대를 다수 배치할 수 있으며, 본인은 거대한 전투함선이나 우주적 건물의 가장 높은 곳에 앉아 명령을 내립니다.</Consul.description>
+  <Consul.description>총독은 제국의 중앙 귀족 사회에서는 대단치 않지만 변경계에서는 항성군주 다음가는 높은 위치입니다.\n\n총독은 행성 전체를 통치합니다. 여러 함대에 의해 지원되는 군단급 부대를 다수 배치할 수 있으며, 본인은 거대한 전투함선이나 우주적 건축물의 가장 높은 곳에 앉아 명령을 내립니다.</Consul.description>
   
   <Count.label>백작</Count.label>
   <Count.description>백작은 제국의 지방 귀족 중 중간에 위치한 작위입니다. 이 정도 작위를 얻으면 저 높은 곳에 있는 항성군주의 관심을 얻을 수 있게 됩니다.\n\n백작은 도시 또는 식민지에 대한 통치권을 지니며, 거대 함선과 개인 군대를 소유할 수 있습니다.</Count.description>

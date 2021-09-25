@@ -186,7 +186,7 @@
   <StoppingPower>저지력</StoppingPower>
   <StoppingPowerExplanation>저지력이 있는 무기는 대상의 움직임을 느리게 합니다. 저지력보다 크기가 큰 대상은 영향을 받지 않습니다.</StoppingPowerExplanation>
   <DirectHitChance>명중률</DirectHitChance>
-  <MissRadius>발사불가범위</MissRadius>
+  <MissRadius>명중 오차 범위</MissRadius>
   <GrowsWild>야생에서 자람</GrowsWild>
   <Harvestable>수확 가능</Harvestable>
   <LimitedLifespan>수명 짧음</LimitedLifespan>

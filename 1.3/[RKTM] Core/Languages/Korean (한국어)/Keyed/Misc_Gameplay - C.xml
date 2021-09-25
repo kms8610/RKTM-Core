@@ -162,7 +162,7 @@
   <WorkPriorityShiftClickEnableDisableTip>Shift + 좌클릭: 모두 활성화\nShift + 우클릭: 모두 비활성화</WorkPriorityShiftClickEnableDisableTip>
   <AllowedAreaShiftClickTip>Shift + 좌클릭: 모두 거주구역에 할당\nShift + 우클릭: 모두 제한 해제</AllowedAreaShiftClickTip>
   <CheckboxShiftClickTip>Shift + 좌클릭: 모두 체크\nShift + 우클릭: 모두 체크 해제</CheckboxShiftClickTip>
-  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
+  <KnownSiteThreatEnemyCountAppend>{1} x{0}</KnownSiteThreatEnemyCountAppend>
   <SkillRequirements>기술 필요량</SkillRequirements>
   <Products>생산품</Products>
   <Relationship>{1}의 {0}</Relationship>
@@ -757,7 +757,7 @@
   <Reward_Items>다음 자원을 가진 수송포드가 도착합니다. (총 가치 {1})\n\n{0}</Reward_Items>
   <Reward_Items_Caravan>다음 자원을 받습니다. (총 가치 {1})\n\n{0}</Reward_Items_Caravan>
   <Reward_Goodwill>{0_name}(와)과의 우호도가 {1} 만큼 향상됩니다</Reward_Goodwill>
-  <Reward_PassageOffworld>항성으로 데려갈 수 있습니다.</Reward_PassageOffworld>
+  <Reward_PassageOffworld>항성으로 나아감</Reward_PassageOffworld>
   <Reward_PassageOffworld_Label>세상 밖으로</Reward_PassageOffworld_Label>
   <Reward_CampLoot>주둔지에 있는 모든 것을 노획할 수 있음</Reward_CampLoot>
   <Reward_CampLoot_Label>주둔지 전리품</Reward_CampLoot_Label>

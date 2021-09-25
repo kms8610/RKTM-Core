@@ -193,8 +193,8 @@
   <IdeoRelic>유물</IdeoRelic>
   
   <!-- Beggars -->
-  <GiveItemsTo>{0}에게 {1_nameDef} 주기</GiveItemsTo>
-  <CannotGiveItemsTo>{0}에게 {1_nameDef}(을)를 줄 수 없음</CannotGiveItemsTo>
+  <GiveItemsTo>{1_nameDef}에게 {0} 주기</GiveItemsTo>
+  <CannotGiveItemsTo>{1_nameDef}에게 {0}(을)를 줄 수 없음</CannotGiveItemsTo>
   <NoItemFound>물품을 찾을 수 없음</NoItemFound>
 
   <!-- Outfits -->
@@ -341,7 +341,7 @@
   <HealingCycleOneWillHeal>다음 상태 중 하나가 회복됩니다.</HealingCycleOneWillHeal>
   <MissingRequiredResearch>필수 연구 누락:</MissingRequiredResearch>
   <BiosculpterRequiresIngredients>필요</BiosculpterRequiresIngredients>
-  <OnCompletionOfCycle>{CYCLE} 절차가 완료되면 다음이 발생함</OnCompletionOfCycle> <!-- text_todo -->
-  <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}(은)는 {CYCLE} 절차 동안 치료할 수 있는 상태가 없습니다.\n\n계속 하시겠습니까?</BiosculpterNoCoditionsToHeal> <!-- text_todo -->
+  <OnCompletionOfCycle>{CYCLE} 절차가 완료되면 다음이 발생함</OnCompletionOfCycle>
+  <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}(은)는 {CYCLE} 절차 동안 치료할 수 있는 상태가 없습니다.\n\n계속 하시겠습니까?</BiosculpterNoCoditionsToHeal>
 
 </LanguageData>

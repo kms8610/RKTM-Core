@@ -19,7 +19,7 @@
   <MessageNotEnoughSpectators>{1}(을)를 시작하려면 최소 {0}명의 참석자가 필요합니다.</MessageNotEnoughSpectators>
   <MessageRoleChangeChooseDifferentRole>지위를 선택해야 합니다.</MessageRoleChangeChooseDifferentRole>
   <MessageNeedAssignedRoleToBeginRitual>{1}(을)를 시작하기 전에 누군가에게 {0} 지위를 맡겨야 합니다.</MessageNeedAssignedRoleToBeginRitual>
-  <MessageNeedAtLeastOneParticipantOfIdeo>최소 한 명의 {0}(은)는 참여해야 합니다.</MessageNeedAtLeastOneParticipantOfIdeo> <!-- text_todo -->
+  <MessageNeedAtLeastOneParticipantOfIdeo>최소 한 명의 {0}(은)는 참여해야 합니다.</MessageNeedAtLeastOneParticipantOfIdeo>
   
   <MessageRoleAssigned>{0_labelShort}(이)가 {1}의 지위에 올랐습니다.</MessageRoleAssigned>
   <MessageRoleUnassignedPrisoner>{0_labelShort}(이)가 수감되었으므로 더 이상 {1}(이)가 아닙니다.</MessageRoleUnassignedPrisoner>
