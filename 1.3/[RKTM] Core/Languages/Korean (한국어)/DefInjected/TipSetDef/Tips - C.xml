@@ -26,16 +26,18 @@
   <GameplayTips.AnimalsMayAttack>동물을 사냥할 때 동물 무리 전체가 보복할 수도 있습니다. 위험을 감수하던지, 더 약한 동물을 사냥할지 선택하세요.</GameplayTips.AnimalsMayAttack>
   <GameplayTips.AnimalDeathExplosionRain>비가 올 때 폭탄사슴이나 폭탄쥐를 사냥하면, 산불이 될 만큼 커지지 않습니다.</GameplayTips.AnimalDeathExplosionRain>
   <GameplayTips.GreaterSlaughterYield>손실이 적은 시체를 도축할 때, 손실이 많은 시체보다 더 많은 고기와 가죽을 얻을 수 있습니다.</GameplayTips.GreaterSlaughterYield>
-  <GameplayTips.CaravanPackingSpot>상단 준비 장소를 설치하여 상단이 구성될 장소를 지정할 수 있습니다.</GameplayTips.CaravanPackingSpot>
+  <GameplayTips.CaravanHitchingSpot>상단이 만들어지기 원하는 곳에 상단 구성 장소를 지정합니다. 일반적으로 보관 장소 근처에 지정하는 것이 가장 좋습니다. </GameplayTips.CaravanHitchingSpot>
+  <GameplayTips.CaravanHitchingSpotRoamers>집에서 멀리 떨어져 있는 동안, 가축들이 방황하지 않도록 상단 구성 장소를 배치할 수 있습니다.</GameplayTips.CaravanHitchingSpotRoamers>
   <GameplayTips.CaravanSinglePerson>1인 상단은 특정 상황에서 매우 유용할 수도 있습니다.</GameplayTips.CaravanSinglePerson>
   <GameplayTips.CaravanRideableAnimals>상단은 말, 당나귀, 낙타와 같이 탈 수 있는 동물이 포함되면 더 빠르게 이동할 수 있습니다.</GameplayTips.CaravanRideableAnimals>
   <GameplayTips.CaravanSmallerLessVisible>규모가 작은 상단은 눈에 잘 띄지 않기 때문에 공격당할 빈도가 낮습니다.</GameplayTips.CaravanSmallerLessVisible>
-  <GameplayTips.CaravanStockpileNearPackingSpot>상단 준비 장소 근처에 있는 저장구역에 보내려는 아이템을 수집하고 상단을 구성하게 된다면, 더 빠르게 준비를 마칠 수 있습니다.</GameplayTips.CaravanStockpileNearPackingSpot>
+  <GameplayTips.CaravanStockpileNearPackingSpot>상단을 꾸리기 전에, 물품들을 대기 장소 근처에 옮겨두면 준비 과정이 훨씬 빨라집니다.</GameplayTips.CaravanStockpileNearPackingSpot>
   <GameplayTips.CaravanUntrainedAnimals>상단에 훈련을 받지 않은 동물이 있다면, 적을 공격하기 전에 별도의 상단으로 나눠서 전투에 참가하지 못하게 할 수 있습니다.</GameplayTips.CaravanUntrainedAnimals>
   <GameplayTips.CaravanDontForgetMedicine>상단에 약품 챙기는 것을 잊지 마세요.</GameplayTips.CaravanDontForgetMedicine>
   <GameplayTips.StoryGenerator>림월드는 기량 시험이 아닌 이야기 생성기이며, 폐허가 된 정착지는 실패가 아니라 아름다운 비극을 완성하는 요소입니다.</GameplayTips.StoryGenerator>
   <GameplayTips.BadAllies>어떤 정착민은 쓸모없는 정착민보다 상황을 더 나쁘게 만듭니다. 도전의 일부분으로 동맹은 상황을 나쁘게 만들수도 있습니다.</GameplayTips.BadAllies>
   <GameplayTips.MakeCaravanRunBeforeDefeat>위협에 대항할 수 없다면, 상단을 만들어 도망치세요. 집을 잃을 수도 있지만 이야기는 계속 이어갈 수 있습니다.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <GameplayTips.FixedWealthMode>재산이 많을수록 더 강력한 적들이 공격합니다. 재산 대신 시간에 따라 도전을 확장하려면 이야기꾼 설정에서 '재산 독립 진행방식'을 선택하세요.</GameplayTips.FixedWealthMode>
   <GameplayTips.StoneDoors>정착민의 시간을 아끼고 싶다면, 석재를 재료로 문을 만들지 마세요.</GameplayTips.StoneDoors>
   <GameplayTips.ChairsWorkbench>작업대 앞에 의자를 설치하면 작업자가 일하는 동안 편안함을 느낄 수 있습니다.</GameplayTips.ChairsWorkbench>
   <GameplayTips.MechanicalBreakdown>기계적인 구조물이 망가지면 수리할 때 부품이 요구되니 필요없는 것은 짓지 마세요.</GameplayTips.MechanicalBreakdown>
@@ -72,5 +74,5 @@
   <GameplayTips.SchedulesSetLong>여행시간을 최소화하기 위해 한 번의 행동으로 긴 일정을 설정하세요.</GameplayTips.SchedulesSetLong>
   <GameplayTips.StrawMatting>멍석은 더러워져도 상관 없습니다. 헛간 바닥으로 쓰세요.</GameplayTips.StrawMatting>
   <GameplayTips.AnimalFilth>특정 동물들은 오물을 더 많이 생산합니다. 코끼리나 소 같은 대형 동물들은 집 밖에 두세요.</GameplayTips.AnimalFilth>
-  <GameplayTips.PredatorsAndFences>포식자들은 울타리에 둘러싸인 동물들을 사냥할 가능성이 적습니다.</GameplayTips.PredatorsAndFences>
+  <GameplayTips.PredatorsAndFences>육식동물은 울타리나 방해물 건너편에 있는 동물을 사냥하지 않습니다.</GameplayTips.PredatorsAndFences>
 </LanguageData>

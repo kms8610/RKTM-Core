@@ -158,16 +158,24 @@
   <ChooseOnlySlavesInfo>노예만 선택할 경우 모든 노예가 정착민이 된 채로 플레이합니다.</ChooseOnlySlavesInfo>
   <ConfirmDecisionsTitle>확인</ConfirmDecisionsTitle>
   <ShipEscapeWillEndDescription>AI (*Name)샬론 화이트스톤(/Name)이 보고한 우주선은 새로운 정착지가 건설될 때 날아갈 것입니다. 더 이상 이 우주선으로 여행하여 행성을 탈출할 수 없습니다.</ShipEscapeWillEndDescription>
-  <RemoveEquippedRelicsDescription>정착지 구매자는 유물을 하나만 가져갈 수 있습니다. 선택하지 않은 모든 유물은 다음을 포함하여 남게 됩니다.</RemoveEquippedRelicsDescription>
-  <WantToProceed>계속 하시겠습니까?</WantToProceed>
+  <ArchonexusRelicNotChosen>새로운 정착지로 가져갈 유물이 선택되지 않았습니다.</ArchonexusRelicNotChosen>
+  <ArchonexusItemsNotChosen>가능한 {1} 항목 중 {0}(이)가 새 정착지로 가져가기 위해 선택되었습니다.</ArchonexusItemsNotChosen>
+  <RemoveEquippedRelicsDescription>정착지 구매자는 당신이 유물을 하나만 가져갈 수 있게 해줄 것입니다. 다음을 포함하여 다른 모든 유물은 남게 됩니다 (정착민이 장비한 경우에도):</RemoveEquippedRelicsDescription>
+  <WantToProceed>계속하시겠습니까? 다시 되돌아갈 수 없습니다.</WantToProceed>
   <ConvertToPlayerIdeoligion>교화</ConvertToPlayerIdeoligion>
   <RevertToPreviousIdeoligion>되돌리기</RevertToPreviousIdeoligion>
   <ExistingFollowerOfPlayerIdeoligion>이 사상을 믿는 사람들</ExistingFollowerOfPlayerIdeoligion>
   <AbandonArchotechStructuresWarningDialog>조사가 끝나지 않은 초월공학 구조물이 위치한 지역을 포기하려 하고 있습니다.\n\n나중에 이 곳에 다시 정착할 수 있지만, 지금의 정착지는 파괴됩니다.</AbandonArchotechStructuresWarningDialog>
   <ItemQuantityTooltip>새 정착지로 가져올 수 있는 수량 {0}개\n\n최대 허용 수량: {1}</ItemQuantityTooltip>
+  <SoldColonyDescription>당신의 정착지는 팔렸습니다. 구매자는 다음에 착륙할 위치를 선택할 준비가 되었습니다.</SoldColonyDescription>
 
   <ConfirmHackEnenyTerminal>{0}(을)를 해킹하면 적들이 공격해올 것입니다. 정말 {0}(을)를 해킹하시겠습니까?</ConfirmHackEnenyTerminal>
 
   <RelicsSection>유물</RelicsSection>
 
+  <!-- Food restrictions -->
+  <FoodRestrictionVegetarian>채식주의자</FoodRestrictionVegetarian>
+  <FoodRestrictionCarnivore>육식 동물</FoodRestrictionCarnivore>
+  <FoodRestrictionCannibal>식인종</FoodRestrictionCannibal>
+  <FoodRestrictionInsectMeat>곤충고기</FoodRestrictionInsectMeat>
 </LanguageData>

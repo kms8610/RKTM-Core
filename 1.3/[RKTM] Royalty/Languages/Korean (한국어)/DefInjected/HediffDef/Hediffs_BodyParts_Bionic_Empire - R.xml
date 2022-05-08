@@ -20,9 +20,9 @@
   <CircadianHalfCycler.description>생체리듬 반감기를 이식했습니다.</CircadianHalfCycler.description>
   <CircadianHalfCycler.labelNoun>생체리듬 반감기</CircadianHalfCycler.labelNoun>
   
-  <Coagulator.label>응고제</Coagulator.label>
-  <Coagulator.description>응고제를 이식했습니다.</Coagulator.description>
-  <Coagulator.labelNoun>응고제</Coagulator.labelNoun>
+  <Coagulator.label>항출혈기</Coagulator.label>
+  <Coagulator.description>항출혈기를 이식했습니다.</Coagulator.description>
+  <Coagulator.labelNoun>항출혈기</Coagulator.labelNoun>
   
   <DetoxifierStomach.label>해독강화 위</DetoxifierStomach.label>
   <DetoxifierStomach.description>해독강화 위를 이식했습니다.</DetoxifierStomach.description>

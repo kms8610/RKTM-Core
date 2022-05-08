@@ -12,7 +12,7 @@
   
   <Empire_Fighter_Grenadier.label>제국 척탄병</Empire_Fighter_Grenadier.label>
   
-  <Empire_Fighter_Janissary.label>친위대</Empire_Fighter_Janissary.label>
+  <Empire_Fighter_Janissary.label>친위병</Empire_Fighter_Janissary.label>
   
   <Empire_Fighter_StellicGuardMelee.label>별의 감시자</Empire_Fighter_StellicGuardMelee.label>
   
@@ -44,5 +44,5 @@
   
   <Empire_Royal_Stellarch.label>항성군주</Empire_Royal_Stellarch.label>
   
-  <Empire_Royal_Yeoman.label>종사</Empire_Royal_Yeoman.label>
+  <Empire_Royal_Yeoman.label>시종</Empire_Royal_Yeoman.label>
 </LanguageData>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Classic.label>클래식</Classic.label>
-  <Classic.description>정착민이 클래식 림월드와 비슷한 사상을 가집니다. 게임을 처음 경험해볼 때 적합합니다.</Classic.description>
+  <Classic.description>사상 체계가 활성화되지 않은 클래식 림월드입니다. 처음 게임을 할 때, 또는 특정 작업을 하고 싶지 않을 때 적합합니다. 이데올로기 확장팩의 콘텐츠는 그대로 존재합니다.</Classic.description>
   <Classic.groupLabel>클래식</Classic.groupLabel>
   
   <Custom.label>사용자 지정</Custom.label>
@@ -14,13 +14,13 @@
   
   <Intense.label>강한 영향</Intense.label>
   <Intense.description>게임 플레이가 클래식 림월드와 매우 달라지도록 하는, 극히 변형된 사상입니다. 난이도가 크게 올라갑니다.</Intense.description>
-  <Intense.groupLabel>사전설정</Intense.groupLabel>
+  <Intense.groupLabel>미리 설정된 사상</Intense.groupLabel>
   
   <Mild.label>약한 영향</Mild.label>
   <Mild.description>클래식 게임 플레이에 작은 변화를 줍니다.</Mild.description>
-  <Mild.groupLabel>사전설정</Mild.groupLabel>
+  <Mild.groupLabel>미리 설정된 사상</Mild.groupLabel>
   
-  <Strong.label>중간</Strong.label>
+  <Strong.label>보통 영향</Strong.label>
   <Strong.description>클래식 림월드와 크게 다른 플레이 스타일을 지원하는 뚜렷한 사상입니다.</Strong.description>
-  <Strong.groupLabel>사전설정</Strong.groupLabel>
+  <Strong.groupLabel>미리 설정된 사상</Strong.groupLabel>
 </LanguageData>

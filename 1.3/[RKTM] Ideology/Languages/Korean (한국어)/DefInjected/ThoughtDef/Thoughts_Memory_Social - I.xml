@@ -13,7 +13,7 @@
   <FailedConvertAbilityInitiator.stages.failed_to_convert.description>그를 교화하려 했지만 생각처럼 되지 않았어. 곤란하군.</FailedConvertAbilityInitiator.stages.failed_to_convert.description>
   
   <FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>{0}의 교화 시도</FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>
-  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>누군가 날 교화히려 했어. 제발 가만 내버려 둬.</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>누군가 날 교화하려 했어. 제발 가만 내버려 둬.</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
   
   <TendedByMedicalSpecialist.stages.tended_by.label>{0}에게 치료받음</TendedByMedicalSpecialist.stages.tended_by.label>
   <TendedByMedicalSpecialist.stages.tended_by.description>특별한 치료사의 도움을 받았어.</TendedByMedicalSpecialist.stages.tended_by.description>

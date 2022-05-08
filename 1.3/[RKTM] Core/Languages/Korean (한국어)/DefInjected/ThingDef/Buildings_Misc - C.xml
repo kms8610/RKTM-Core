@@ -3,8 +3,8 @@
   <AncientCryptosleepCasket.label>고대 동면관</AncientCryptosleepCasket.label>
   <AncientCryptosleepCasket.description>이 동면관은 오랜 시간 이곳에 있던 것 같습니다. 뭐가 들어 있을까요?</AncientCryptosleepCasket.description>
   
-  <CaravanPackingSpot.label>상단 준비 장소</CaravanPackingSpot.label>
-  <CaravanPackingSpot.description>우리의 상단이 출발하기 전 준비하는 자리를 지정합니다.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.label>상단 구성 장소</CaravanPackingSpot.label>
+  <CaravanPackingSpot.description>가축을 묶어두고 상단을 준비하는 장소를 지정합니다. 정착지 주민들은 상단에 짐을 싣는 동안 이곳에 가축을 묶어둘 것입니다. 가축들이 방황하는 것을 막기 위해 집에서 멀리 나가 있는 동안에도 이것을 사용할 수 있습니다.</CaravanPackingSpot.description>
   
   <CommsConsole.label>통신기</CommsConsole.label>
   <CommsConsole.description>멀리 떨어진 상인들과 거래를 하거나, 다른 세력들과의 외교에 필요한 라디오 송출기입니다.</CommsConsole.description>

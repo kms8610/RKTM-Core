@@ -68,15 +68,24 @@
 
   <RemoveCurrentRole>현재 지위 해임</RemoveCurrentRole>
 
-  <EnterBiosculpterPod>생체 재구축기에 들어가기</EnterBiosculpterPod>
+  <EnterBiosculpterPod>{0} 절차 ({1})의 생체 재구축기에 입장</EnterBiosculpterPod>
   <BiosculpterBiotunedToAnother>이미 다른 사람에게 맞춤 조정됨.</BiosculpterBiotunedToAnother>
   <UnderMinBiosculpterAgeReversalAge>노화 역전을 받으려면 {0}살 이상이어야 합니다.</UnderMinBiosculpterAgeReversalAge>
-  <CarryToBiosculpterPod>{PAWN_label}(을)를 생체 재구축기로 이송 ({CYCLE})</CarryToBiosculpterPod>
+  <CarryToBiosculpterPod>{PAWN_labelShort}(을)를 생체 재구축기 ({CYCLE} 절차)로 이송</CarryToBiosculpterPod>
   <CannotCarryToBiosculpterPod>생체 재구축기로 이송 불가</CannotCarryToBiosculpterPod>
   <NoBiosculpterPod>사용 가능한 생체 재구축기가 없습니다.</NoBiosculpterPod>
-  <BiosculpterNoCycleActive>활성 절차 없음</BiosculpterNoCycleActive>
-  <BiosculpterLoadingNutrition>적재되는 열량</BiosculpterLoadingNutrition>
+  <BiosculpterNutritionNotLoaded>영양분이 적재되지 않음</BiosculpterNutritionNotLoaded>
   <BiosculpterOccupied>가득 참</BiosculpterOccupied>
   <CannotEnter>진입 불가</CannotEnter>
-
+  <BiosculpterCannotStartCycle>{0} 절차를 시작할 수 없습니다.</BiosculpterCannotStartCycle>
+  <BiosculpterMissingIngredients>절차 구성 재료 ({INGREDIENTS})(을)를 찾을 수 없습니다.</BiosculpterMissingIngredients>
+  <BiosculpterNoEligiblePawns>Nobody around can use this</BiosculpterNoEligiblePawns>
+  <BiosculpterNoEligiblePawnsBiotuned>Biotuned to {PAWN_labelShort} and {PAWN_pronoun} isn't around</BiosculpterNoEligiblePawnsBiotuned>
+  <BiosculpterAutoLoadNutritionLabel>열량 자동 적재</BiosculpterAutoLoadNutritionLabel>
+  <BiosculpterAutoLoadNutritionDescription>절차에 필요한 열량을 자동으로 적재함</BiosculpterAutoLoadNutritionDescription>
+  <BiosculpterAutoAgeReversalLabel>Auto age reversal for {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
+  <BiosculpterAutoAgeReversalDescription>Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <BiosculpterAutoAgeReversalDescriptionFuture>If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready.</BiosculpterAutoAgeReversalDescriptionFuture>
+  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled.</BiosculpterAutoAgeReversalDescriptionNow>
+  <BiosculpterJobReportCollectIngredients>Collecting ingredients for biosculpter cycle</BiosculpterJobReportCollectIngredients>
 </LanguageData>

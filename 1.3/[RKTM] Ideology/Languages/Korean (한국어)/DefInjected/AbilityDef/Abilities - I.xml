@@ -30,8 +30,8 @@
   <ImmunityDrive.label>면역 증진</ImmunityDrive.label>
   <ImmunityDrive.description>정신적인 지원을 통해 대상의 신체의 활력을 불어넣어 면역력을 하룻동안 증가시킵니다.</ImmunityDrive.description>
   
-  <LeaderSpeech.label>지도자 연설</LeaderSpeech.label>
-  <LeaderSpeech.description>지도자가 연설을 시작합니다. 연설이 잘 진행된다면 청자들은 기분이 향상되고, 지도자에 대한 존경심을 가지며, 때때로 영감을 얻게 됩니다. 그러나 연설이 끔찍하다고 느낀다면 실망할 것입니다.</LeaderSpeech.description>
+  <LeaderSpeech.label>지도 연설</LeaderSpeech.label>
+  <LeaderSpeech.description>지도 연설을 시작합니다. 매끄럽게 진행된다면 청취자들은 영감을 얻거나 지도자에 대한 존경심을 느낄 것입니다. 반대로 결과가 좋지 않으면 사교적 불이익을 받습니다.</LeaderSpeech.description>
   
   <MarksmanCommand.label>사수 감독</MarksmanCommand.label>
   <MarksmanCommand.description>주위 모든 아군의 사격 기술을 높여주는 영향력을 발산합니다. 이 효과는 24시간 동안 지도자를 중심으로 지속하며, 영향 범위에서 멀어지면 효과가 사라집니다.</MarksmanCommand.description>

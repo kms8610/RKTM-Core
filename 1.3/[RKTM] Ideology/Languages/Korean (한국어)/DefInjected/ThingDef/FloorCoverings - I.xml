@@ -18,15 +18,15 @@
   <RusticRug_Medium.label>소박한 러그 (중형)</RusticRug_Medium.label>
   <RusticRug_Medium.description>마치 집에 온 듯이 소박한 무늬가 새겨진 러그입니다. 바닥을 장식하는 데 쓰입니다.</RusticRug_Medium.description>
   
-  <SpikecoreFloorStar_Broad.label>스파이크 코어 스타 (대형)</SpikecoreFloorStar_Broad.label>
-  <SpikecoreFloorStar_Broad.description>바닥을 장식하기 위한 스파이크 코어 양식의 금속 조각입니다.</SpikecoreFloorStar_Broad.description>
+  <SpikecoreFloorStar_Broad.label>스파이크코어 스타 (대형)</SpikecoreFloorStar_Broad.label>
+  <SpikecoreFloorStar_Broad.description>바닥을 장식하기 위한 스파이크코어 양식의 금속 조각입니다.</SpikecoreFloorStar_Broad.description>
   
-  <SpikecoreFloorStar_Medium.label>스파이크 코어 스타 (중형)</SpikecoreFloorStar_Medium.label>
-  <SpikecoreFloorStar_Medium.description>바닥을 장식하기 위한 스파이크 코어 양식의 금속 조각입니다.</SpikecoreFloorStar_Medium.description>
+  <SpikecoreFloorStar_Medium.label>스파이크코어 스타 (중형)</SpikecoreFloorStar_Medium.label>
+  <SpikecoreFloorStar_Medium.description>바닥을 장식하기 위한 스파이크코어 양식의 금속 조각입니다.</SpikecoreFloorStar_Medium.description>
   
-  <TotemicSlab_Broad.label>토템 석판 (대형)</TotemicSlab_Broad.label>
+  <TotemicSlab_Broad.label>토템 목판 (대형)</TotemicSlab_Broad.label>
   <TotemicSlab_Broad.description>바닥을 장식하기 위한 토템 신앙 양식의 목재 부조입니다.</TotemicSlab_Broad.description>
   
-  <TotemicSlab_Medium.label>토템 석판 (중형)</TotemicSlab_Medium.label>
+  <TotemicSlab_Medium.label>토템 목판 (중형)</TotemicSlab_Medium.label>
   <TotemicSlab_Medium.description>바닥을 장식하기 위한 토템 신앙 양식의 목재 부조입니다.</TotemicSlab_Medium.description>
 </LanguageData>

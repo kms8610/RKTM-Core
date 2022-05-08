@@ -20,9 +20,9 @@
   <InstallCircadianHalfCycler.description>생체리듬 반감기를 이식합니다.</InstallCircadianHalfCycler.description>
   <InstallCircadianHalfCycler.jobString>생체리듬 반감기 이식 중</InstallCircadianHalfCycler.jobString>
   
-  <InstallCoagulator.label>응고제 이식</InstallCoagulator.label>
-  <InstallCoagulator.description>응고제를 이식합니다.</InstallCoagulator.description>
-  <InstallCoagulator.jobString>응고제 이식 중</InstallCoagulator.jobString>
+  <InstallCoagulator.label>항출혈기 이식</InstallCoagulator.label>
+  <InstallCoagulator.description>항출혈기를 이식합니다.</InstallCoagulator.description>
+  <InstallCoagulator.jobString>항출혈기 이식 중</InstallCoagulator.jobString>
   
   <InstallDetoxifierStomach.label>해독강화 위 이식</InstallDetoxifierStomach.label>
   <InstallDetoxifierStomach.description>해독강화 위를 이식합니다.</InstallDetoxifierStomach.description>
@@ -88,9 +88,9 @@
   <RemoveCircadianHalfCycler.description>생체리듬 반감기를 제거합니다.</RemoveCircadianHalfCycler.description>
   <RemoveCircadianHalfCycler.jobString>생체리듬 반감기 제거 중</RemoveCircadianHalfCycler.jobString>
   
-  <RemoveCoagulator.label>응고제 제거</RemoveCoagulator.label>
-  <RemoveCoagulator.description>응고제를 제거합니다.</RemoveCoagulator.description>
-  <RemoveCoagulator.jobString>응고제 제거 중</RemoveCoagulator.jobString>
+  <RemoveCoagulator.label>항출혈기 제거</RemoveCoagulator.label>
+  <RemoveCoagulator.description>항출혈기를 제거합니다.</RemoveCoagulator.description>
+  <RemoveCoagulator.jobString>항출혈기 제거 중</RemoveCoagulator.jobString>
   
   <RemoveGastroAnalyzer.label>후각 증폭기 제거</RemoveGastroAnalyzer.label>
   <RemoveGastroAnalyzer.description>후각 증폭기를 제거합니다.</RemoveGastroAnalyzer.description>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <CallLaborerGang.label>증강된 노동대 호출</CallLaborerGang.label>
-  <CallLaborerGang.description>8명의 노동자를 호출해 4일간 일하게 합니다. 이 노동자들은 정착민처럼 다룰 수 있지만 일반 노동 작업만 가능합니다. 안전하게 지켜주세요.</CallLaborerGang.description>
+  <CallLaborerGang.description>8명의 노동자를 호출해 4일간 일하게 합니다. 노동자들은 정착민처럼 다룰 수 있지만 단순 노동만 가능하며, 위협에서 보호해줘야 합니다.</CallLaborerGang.description>
   
   <CallLaborerTeam.label>노동대 호출</CallLaborerTeam.label>
-  <CallLaborerTeam.description>4명의 노동자를 호출해 4일간 일하게 합니다. 이 노동자들은 정착민처럼 다룰 수 있지만 일반 노동 작업만 가능합니다. 안전하게 지켜주세요.</CallLaborerTeam.description>
+  <CallLaborerTeam.description>4명의 노동자를 호출해 4일간 일하게 합니다. 노동자들은 정착민처럼 다룰 수 있지만 단순 노동만 가능하며, 위협에서 보호해줘야 합니다.</CallLaborerTeam.description>
   
   <CallMilitaryAidGrand.label>근위대 호출</CallMilitaryAidGrand.label>
   <CallMilitaryAidGrand.description>중장 근위병 4명을 호출해 전투에 투입합니다.</CallMilitaryAidGrand.description>

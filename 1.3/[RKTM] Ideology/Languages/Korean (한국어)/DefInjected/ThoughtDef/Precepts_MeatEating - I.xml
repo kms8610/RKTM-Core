@@ -15,18 +15,18 @@
   
   <AteMeat_Know_Horrible.stages.ate_meat.label>고기 섭취 목격</AteMeat_Know_Horrible.stages.ate_meat.label>
   
-  <AteNonMeat_Abhorrent.stages.ate_nonmeat.label>고기가 포함되지 않은 식사</AteNonMeat_Abhorrent.stages.ate_nonmeat.label>
-  <AteNonMeat_Abhorrent.stages.ate_nonmeat.description>고기가 포함되지 않은 음식을 먹어야만 했어. 적절한 육식 식단에 위반되는 혐오스러운 행위야.</AteNonMeat_Abhorrent.stages.ate_nonmeat.description>
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.label>채식</AteNonMeat_Abhorrent.stages.ate_vegetarian.label>
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.description>나는 고기 없이 밥을 먹었다. 그것은 올바른 고기 식단에 대한 끔찍한 위반이야. 계란, 우유 또는 야채가 없는 일부 가공 식품도 괜찮았을 것 같아.</AteNonMeat_Abhorrent.stages.ate_vegetarian.description>
   
-  <AteNonMeat_Disapproved.stages.ate_nonmeat.label>고기가 포함되지 않은 식사</AteNonMeat_Disapproved.stages.ate_nonmeat.label>
-  <AteNonMeat_Disapproved.stages.ate_nonmeat.description>고기가 포함되지 않은 음식을 먹어야만 했어. 적절한 육식 식단에서는 용납될 수 없는 일탈이야.</AteNonMeat_Disapproved.stages.ate_nonmeat.description>
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.label>채식</AteNonMeat_Disapproved.stages.ate_vegetarian.label>
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.description>나는 고기 없이 밥을 먹었다. 그것은 올바른 고기 식단에서 용납할 수 없는 일탈이야. 계란, 우유 또는 야채가 없는 일부 가공 식품도 괜찮았을 것 같아.</AteNonMeat_Disapproved.stages.ate_vegetarian.description>
   
-  <AteNonMeat_Horrible.stages.ate_nonmeat.label>고기가 포함되지 않은 식사</AteNonMeat_Horrible.stages.ate_nonmeat.label>
-  <AteNonMeat_Horrible.stages.ate_nonmeat.description>고기가 포함되지 않은 음식을 먹어야만 했어. 적절한 육식 식단에 위반되는 끔찍한 행위야.</AteNonMeat_Horrible.stages.ate_nonmeat.description>
+  <AteNonMeat_Horrible.stages.ate_vegetarian.label>채식</AteNonMeat_Horrible.stages.ate_vegetarian.label>
+  <AteNonMeat_Horrible.stages.ate_vegetarian.description>나는 고기 없이 밥을 먹었다. 그것은 올바른 고기 식단에 대한 혐오스러운 위반이야. 계란, 우유 또는 야채가 없는 일부 가공 식품도 괜찮았을 것 같아.</AteNonMeat_Horrible.stages.ate_vegetarian.description>
   
-  <AteNonMeat_Know_Abhorrent.stages.ate_nonmeat.label>채식 목격</AteNonMeat_Know_Abhorrent.stages.ate_nonmeat.label>
+  <AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>채식</AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>
   
-  <AteNonMeat_Know_Disapproved.stages.ate_nonmeat.label>채식 목격</AteNonMeat_Know_Disapproved.stages.ate_nonmeat.label>
+  <AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>채식</AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>
   
-  <AteNonMeat_Know_Horrible.stages.ate_nonmeat.label>채식 목격</AteNonMeat_Know_Horrible.stages.ate_nonmeat.label>
+  <AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>채식</AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>
 </LanguageData>

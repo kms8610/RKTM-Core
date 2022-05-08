@@ -3,8 +3,8 @@
 
   <!-- Character tab -->
   <RoyalTitleTooltipHasTitle>{PAWN_labelShort}(은)는 {FACTION_name}의 {TITLE}입니다.</RoyalTitleTooltipHasTitle>
-  <RoyalTitleTooltipConceited>{PAWN_labelShort}(은)는 이 작위의 권한을 완전히 존중하도록 요구합니다.</RoyalTitleTooltipConceited>
-  <RoyalTitleTooltipNonConceited>{PAWN_labelShort}(은)는 이 작위의 권한에 대해 유연하게 행동합니다.</RoyalTitleTooltipNonConceited>
+  <RoyalTitleTooltipConceited>{PAWN_labelShort}(은)는 온전한 귀족 특권을 요구합니다.</RoyalTitleTooltipConceited>
+  <RoyalTitleTooltipNonConceited>{PAWN_labelShort}(은)는 귀족 특권을 요구하지 않습니다.</RoyalTitleTooltipNonConceited>
   <RoyalTitleTooltipNextTitle>다음 작위</RoyalTitleTooltipNextTitle>
   <RoyalTitleTooltipNextTitleFavorCost>{FACTION_royalFavorLabel} {0}개 필요</RoyalTitleTooltipNextTitleFavorCost>
   <RoyalTitleTooltipFinalTitle>이 행성에서는 더 이상 작위를 올릴 수 없습니다.</RoyalTitleTooltipFinalTitle>
@@ -34,6 +34,6 @@
   <RequiresTitle>요구 작위: {0}</RequiresTitle>
   <UpgradeFrom>{0}(을)를 대체함</UpgradeFrom>
   <Cooldown>재사용 대기시간</Cooldown>
-  <CooldownUseFavorCost>재사용 대기시간 중 사용시 {HONOR} 비용이 소모됨</CooldownUseFavorCost>
+  <CooldownUseFavorCost>재사용 대기시간 중 사용시 {HONOR} 소모</CooldownUseFavorCost>
   
 </LanguageData>
