@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IdeoligionForbids>사상이 금지함</IdeoligionForbids>
+  <OnlyMembersCanBuild>{0}만 건설 가능</OnlyMembersCanBuild>
+  <CantStartRitualAlreadyInProgress>이미 {0}(을)를 진행하고 있습니다.</CantStartRitualAlreadyInProgress>
+  <CantStartRitualTargetIsAlreadyInRitual>{0}(은)는 이미 행사에 참여하고 있습니다.</CantStartRitualTargetIsAlreadyInRitual>
+  <CantStartRitualRoleNotAssigned>이 행사를 진행하려면 {0} 지위를 할당해야 합니다.</CantStartRitualRoleNotAssigned>
+  <CantStartRitualNoConvertee>{0}(으)로 교화할 사람이 없습니다. 다른 사상을 믿는 정착민, 수감자, 노예가 필요합니다.</CantStartRitualNoConvertee>
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef}(은)는 {ROLE}(을)를 맡을 수 없습니다.</CantStartRitualSelectedPawnCannotBeRole>
+  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef}(이)가 {IDEO_memberName}이어야 합니다.</CantStartRitualSelectedPawnMustBeMember>
+  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef}(은)는 정신적으로 무감각합니다.</CantStartRitualSelectedPawnPsychicallyDeaf>
+  <CantStartNotEnoughSpaceDuel>공간이 부족합니다. 반지름 {MINRADIUS}칸의 원형 공간이 비어있어야 합니다.</CantStartNotEnoughSpaceDuel>
+  <CantStartFuneralForSlave>{0_labelShort}(은)는 노예입니다. 노예의 장례식은 진행할 수 없습니다.</CantStartFuneralForSlave>
+  <NoSlaveBed>접근 가능하고, 주인이 없으며, 안전한 온도의 노예 침대가 필요합니다.</NoSlaveBed>
+  <ReturnToSlaveBed>노예 침대로 돌려보내기</ReturnToSlaveBed>
+  <NotAllowedForFaction>이 세력에 사용할 수 없음</NotAllowedForFaction>
+
+  <Remove>제거</Remove>
+  <RemovePrecept>규율 제거</RemovePrecept>
+  <Regenerate>재생성</Regenerate>
+  <CannotEdit>편집 불가</CannotEdit>
+  <NoChoicesAvailable>가능한 선택지 없음</NoChoicesAvailable>
+  <RequiredByMeme>{0} 가르침이 요구함</RequiredByMeme>
+  <Required>필요</Required>
+  <StyleCategory>양식 범주</StyleCategory>
+  <AddStyleCategory>양식 범주 추가</AddStyleCategory>
+  <MaxRitualCount>행사는 {0}개까지만 추가할 수 있습니다.</MaxRitualCount>
+  <MaxRelicCount>유물은 {0}개까지만 추가할 수 있습니다.</MaxRelicCount>
+  <MaxMultiRolesCount>전문가의 종류는 {0}개까지만 가능합니다.</MaxMultiRolesCount>
+  <MaxPreceptCount>최대 {0}</MaxPreceptCount>
+  <SetTargetGender>성별 지정</SetTargetGender>
+  <RoleApparelRequirementIncompatibleFaction>{0} 세력이어야 함</RoleApparelRequirementIncompatibleFaction>
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>부족민</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>부족 의상 제외</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>다음 가르침 중 하나 필요</RoleApparelRequirementIncompatibleAnyMemeRequired>
+  <BodyPartAlreadyCovered>현재 할당한 의복과 함께 입을 수 없음</BodyPartAlreadyCovered>
+  <AlreadyAssigned>이미 할당됨</AlreadyAssigned>
+  <NoteRoleApparelRequirementEffects>의류 요구사항을 충족하면 행복해하고, 위반하면 기분이 나빠집니다.</NoteRoleApparelRequirementEffects>
+  <NeuralSuperchargeNotReady>과충전이 준비되지 않음</NeuralSuperchargeNotReady>
+  <NeuralSuperchargeAlreadyGetting>이미 받는 중</NeuralSuperchargeAlreadyGetting>
+  <SetApparelType>유형 설정</SetApparelType>
+
+  <ChangeStyle>외형 바꾸기</ChangeStyle>
+  <DeitiesRequired>{0} {DEITYNOUN} 필요</DeitiesRequired>
+  <Deity>신적 존재</Deity>
+  <RequiresMeme>필요한 가르침</RequiresMeme>
+  <RequiresOneOfMemes>다음 중 하나 필요</RequiresOneOfMemes>
+  <ConflictsWithMeme>충돌하는 가르침</ConflictsWithMeme>
+  <ConflictsWithMemes>충돌하는 가르침</ConflictsWithMemes>
+  <IdeoAlreadyHasAltar>오직 하나의 제단/상징문양만 보유 가능</IdeoAlreadyHasAltar>
+  <RecolorApparel>의류 염색</RecolorApparel>
+
+  <Hack>{0} 해킹</Hack>
+  <CannotHack>{0}(을)를 해킹할 수 없음</CannotHack>
+  <AlreadyHacked>이미 해킹함</AlreadyHacked>
+  <IncapableOfHacking>해킹 불가능</IncapableOfHacking>
+  <ToDropSupplies>보급품 낙하를 위해</ToDropSupplies>
+
+  <InstallRelic>{0} 설치</InstallRelic>
+  <ExtractRelic>{0} 꺼내기</ExtractRelic>
+  <ExtractRelicToInventory>{0}(을)를 꺼내서 소지품에 넣기({1})</ExtractRelicToInventory>
+  <NoRelicToInstall>설치할 유물 없음</NoRelicToInstall>
+  <InstallInReliquary>유물함에 설치</InstallInReliquary>
+  <NoEmptyReliquary>비어있고 접근 가능한 유물함 없음</NoEmptyReliquary>
+
+  <NoWardenOfIdeo>{MEMBERNAME}의 간수 없음</NoWardenOfIdeo>
+
+  <RemoveCurrentRole>현재 지위 해임</RemoveCurrentRole>
+
+  <EnterBiosculpterPod>{0} 절차 ({1})의 생체 재구축기에 입장</EnterBiosculpterPod>
+  <BiosculpterBiotunedToAnother>이미 다른 사람에게 맞춤 조정됨.</BiosculpterBiotunedToAnother>
+  <UnderMinBiosculpterAgeReversalAge>노화 역전을 받으려면 {0}살 이상이어야 합니다.</UnderMinBiosculpterAgeReversalAge>
+  <CarryToBiosculpterPod>{PAWN_labelShort}(을)를 생체 재구축기 ({CYCLE} 절차)로 이송</CarryToBiosculpterPod>
+  <CannotCarryToBiosculpterPod>생체 재구축기로 이송 불가</CannotCarryToBiosculpterPod>
+  <NoBiosculpterPod>사용 가능한 생체 재구축기가 없습니다.</NoBiosculpterPod>
+  <BiosculpterNutritionNotLoaded>영양분이 적재되지 않음</BiosculpterNutritionNotLoaded>
+  <BiosculpterOccupied>가득 참</BiosculpterOccupied>
+  <CannotEnter>진입 불가</CannotEnter>
+  <BiosculpterCannotStartCycle>{0} 절차를 시작할 수 없습니다.</BiosculpterCannotStartCycle>
+  <BiosculpterMissingIngredients>절차 구성 재료 ({INGREDIENTS})(을)를 찾을 수 없습니다.</BiosculpterMissingIngredients>
+  <BiosculpterNoEligiblePawns>Nobody around can use this</BiosculpterNoEligiblePawns>
+  <BiosculpterNoEligiblePawnsBiotuned>Biotuned to {PAWN_labelShort} and {PAWN_pronoun} isn't around</BiosculpterNoEligiblePawnsBiotuned>
+  <BiosculpterAutoLoadNutritionLabel>열량 자동 적재</BiosculpterAutoLoadNutritionLabel>
+  <BiosculpterAutoLoadNutritionDescription>절차에 필요한 열량을 자동으로 적재함</BiosculpterAutoLoadNutritionDescription>
+  <BiosculpterAutoAgeReversalLabel>Auto age reversal for {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
+  <BiosculpterAutoAgeReversalDescription>Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <BiosculpterAutoAgeReversalDescriptionFuture>If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready.</BiosculpterAutoAgeReversalDescriptionFuture>
+  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled.</BiosculpterAutoAgeReversalDescriptionNow>
+  <BiosculpterJobReportCollectIngredients>Collecting ingredients for biosculpter cycle</BiosculpterJobReportCollectIngredients>
+</LanguageData>

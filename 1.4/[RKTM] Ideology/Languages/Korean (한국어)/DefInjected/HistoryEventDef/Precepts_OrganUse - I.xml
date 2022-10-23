@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <HarvestedOrgan.label>장기 적출</HarvestedOrgan.label>
+  
+  <InstalledOrgan.label>장기 이식</InstalledOrgan.label>
+  
+  <SoldOrgan.label>장기 판매</SoldOrgan.label>
+  
+  <TradedOrgan.label>장기 거래</TradedOrgan.label>
+</LanguageData>

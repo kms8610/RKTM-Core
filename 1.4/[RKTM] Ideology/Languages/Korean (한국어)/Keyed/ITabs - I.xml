@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Character -->
+  <OverridesSomePrecepts>관련된 규율보다 우선함</OverridesSomePrecepts>
+  <AgreeableMemes>잘 맞는 가르침</AgreeableMemes>
+  <DisagreeableMemes>충돌하는 가르침</DisagreeableMemes>
+
+  <!-- ITab titles -->
+  <TabSlave>처우</TabSlave>
+  <SlaveReleaseRelationGainsDesc>노예를 해방하면 노예의 소속 세력과 관계가 개선됩니다. 개선되는 수치는 노예의 지위, 건강, 정신 상태에 영향을 받습니다.</SlaveReleaseRelationGainsDesc>
+  <SlaveReleasePotentialRelationGains>해방 시 얻는 우호도</SlaveReleasePotentialRelationGains>
+  <SlaveRebellionMTBDays>노예 반란 주기</SlaveRebellionMTBDays>
+  <SlaveRebellionMTBDaysDescription>노예가 평균적으로 반란을 도모하는 간격입니다. 깨어있는 시간만 고려합니다. 복종심, 기분, 건강, 무기와의 거리, 현재 지역의 노예 수, 그리고 현재 지역의 정착민 존재 여부에 영향을 받습니다.</SlaveRebellionMTBDaysDescription>
+
+  <!-- Slave tab -->
+  <Suppression>복종심</Suppression>
+  <SuppressionDesc>복종심은 노예가 느끼는 공포와 억압의 수준을 수치화한 것입니다. 복종심이 낮으면 노예가 반란을 일으킬 확률이 높아집니다.</SuppressionDesc>
+  <SuppressionFallRate>복종심 하락률</SuppressionFallRate>
+  <SuppressionFallRateDesc>복종심은 지속적으로 하락합니다.\n\n- {1} 이상: 매일 {0} 하락\n- {4} - {3}: 매일 {2} 하락\n- {6} 이하: 매일 {5} 하락\n\n옷과 공포심도 복종심 하락 속도에 영향을 줍니다. 이 노예의 복종심 하락 속도는 다음과 같습니다. :</SuppressionFallRateDesc>
+  <CannotEmancipate>해방 불가</CannotEmancipate>
+  <CannotImprison>수감 불가</CannotImprison>
+  <CurrentSuppression>현재 복종심</CurrentSuppression>
+  <Terror>공포</Terror>
+  <TerrorDescription>공포는 노예를 억압하는 수단입니다. 노예가 공포 조각상처럼 끔찍한 물품의 주위에 머물면 공포 수치가 상승합니다. 한 번에 최대 세 개의 공포 요인에만 영향을 받습니다.\n\n공포가 높으면 아래 수치만큼 억압이 느리게 하락합니다</TerrorDescription>
+  <TerrorCurrentThoughts>최근 끔찍한 광경을 목도함</TerrorCurrentThoughts>
+
+  <SuppressionBaseInterval>기본 주기</SuppressionBaseInterval>
+  <SuppressionMovingCapacityFactor>이동 능력</SuppressionMovingCapacityFactor>
+  <SuppressionFactor>복종심</SuppressionFactor>
+  <SuppressionMoodFactor>기분</SuppressionMoodFactor>
+  <SuppressionSlaveCountFactor>노예 수</SuppressionSlaveCountFactor>
+  <SuppressionEscapeFactor>빈틈 존재</SuppressionEscapeFactor>
+  <SuppressionWeaponProximityFactor>무기</SuppressionWeaponProximityFactor>
+  <SuppressionFinalInterval>최종 주기</SuppressionFinalInterval>
+  <SuppressionUnattendedByColonists>감독받지 않음</SuppressionUnattendedByColonists>
+  <SuppressionRebellionAnySlave>현재 지역의 노예 {0}명 중 최소 한 명이 평균 {1}마다 반란을 일으킬 것으로 예상됩니다.</SuppressionRebellionAnySlave>
+
+  <WillLevel>의지</WillLevel>
+  <WillLevelDesc>수감자가 얼마나 버틸 수 있는지를 나타냅니다. 0이 되면 노예로 삼을 수 있습니다.</WillLevelDesc>
+  <WillFromPawnKind>{0}의 기본 의지</WillFromPawnKind>
+  <IdeoConversionTarget>대상의 사상</IdeoConversionTarget>
+  <IdeoConversionTargetDesc>간수가 수감자 교화에 사용할 사상입니다.</IdeoConversionTargetDesc>
+
+  <!-- Social -->
+  <CertaintyChangePerDay>기분으로 인한 변화량</CertaintyChangePerDay>
+  <MoodChangeRate>기분에 따른 변화율</MoodChangeRate>
+  <CertaintyInIdeo>{PAWN_nameDef}(이)가 {IDEO_name}에 갖는 믿음</CertaintyInIdeo>
+  <RoleDesc>이 사람이 자신의 사상에서 맡고 있는 특별한 지위입니다. 바꾸거나 박탈할 경우 기분이 나빠질 것입니다.</RoleDesc>
+  <RoleAssignmentTip>지위를 변경하기 위해서는 취임식이 필요합니다. 제단이나 행사 장소를 우클릭하여 '취임식 시작'을 선택하세요.</RoleAssignmentTip>
+  <ConversionWeakerDueToTraitAgreements>대상의 특성과 사상이 잘 어울리기 때문에 개종 효율이 약해짐</ConversionWeakerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>대상의 특성과 사상이 충돌하기 때문에 개종 효율이 상승함</ConversionStrongerDueToTraitAgreements>
+
+  <Cut>절제</Cut>
+  <CutBothEyes>두 눈 모두 절제</CutBothEyes>
+
+</LanguageData>

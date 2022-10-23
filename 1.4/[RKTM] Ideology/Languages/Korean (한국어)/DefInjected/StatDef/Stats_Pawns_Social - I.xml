@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimalProductsSellImprovement.label>축산물 거래 가격 향상</AnimalProductsSellImprovement.label>
+  <AnimalProductsSellImprovement.description>이 사람이 고기, 가죽, 그리고 털을 판매할 때, 이 값만큼 높여 받습니다.</AnimalProductsSellImprovement.description>
+  
+  <SlaveSuppressionFallRate.label>노예 복종심 하락률</SlaveSuppressionFallRate.label>
+  <SlaveSuppressionFallRate.description>노예의 복종심이 떨어지는 속도입니다.</SlaveSuppressionFallRate.description>
+  <SlaveSuppressionFallRate.formatString>매일 {0}</SlaveSuppressionFallRate.formatString>
+  <SlaveSuppressionFallRate.formatStringUnfinalized>매일 {0}</SlaveSuppressionFallRate.formatStringUnfinalized>
+</LanguageData>

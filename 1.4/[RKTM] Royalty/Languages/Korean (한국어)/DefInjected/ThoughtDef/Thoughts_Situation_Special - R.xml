@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimaScream.stages.anima_scream.label>영혼비명</AnimaScream.stages.anima_scream.label>
+  <AnimaScream.stages.anima_scream.description>나무가 죽으며 느낀 고통이 계속 머릿속에서 울려퍼져...</AnimaScream.stages.anima_scream.description>
+  
+  <DecreeUnmet.stages.decree_ignored.label>짓밟힌 권위</DecreeUnmet.stages.decree_ignored.label>
+  <DecreeUnmet.stages.decree_ignored.description>내 권위가 {0} 넘게 무시되고 있어. </DecreeUnmet.stages.decree_ignored.description>
+  
+  <Joyfuzz.stages.joyfuzz.label>쾌락잔향</Joyfuzz.stages.joyfuzz.label>
+  <Joyfuzz.stages.joyfuzz.description>무슨 일이 생기더라도 왠지 괜찮을 거라는 생각이 들어.</Joyfuzz.stages.joyfuzz.description>
+  
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>가벼운 정신 혼란</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>눈 뒤쪽에 통증이 느껴져서 집중하기 힘들어.</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>심각한 정신 혼란</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>머리 속이 타버린 것 같아. 흐릿하고 어지러워서 아무 생각을 할 수가 없어.</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>극심한 정신 혼란</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>아 돈다, 아프고 어지러워 아무 생각도 안 나, 이렇게 죽는 걸까...</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
+  
+  <PsychicLove.stages.psychic_love.label>초능력 애정</PsychicLove.stages.psychic_love.label>
+</LanguageData>

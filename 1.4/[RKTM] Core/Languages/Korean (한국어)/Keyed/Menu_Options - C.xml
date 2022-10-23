@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>소리 및 화면</Audiovisuals>
+  <GameVolume>게임 볼륨</GameVolume>
+  <MusicVolume>음악 볼륨</MusicVolume>
+  <AmbientVolume>환경 볼륨</AmbientVolume>
+  <Antialiasing>그래픽 계단현상 방지</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>화면 가장자리 스크롤</EdgeScreenScroll>
+  <PauseOnLoad>시작시 일시정지</PauseOnLoad>
+  <PauseOnUrgentLetter>사건 발생시 일시정지</PauseOnUrgentLetter>
+  <AutomaticPauseModeSetting>사건별 일시정지</AutomaticPauseModeSetting>
+  <CustomCursor>맞춤 커서</CustomCursor>
+  <HatsShownOnlyOnMap>상태창에서 모자 제거</HatsShownOnlyOnMap>
+  <UIScale>인터페이스 크기</UIScale>
+  <KeyboardConfig>키보드 구성</KeyboardConfig>
+  <ChooseLanguage>언어 선택</ChooseLanguage>
+  <ResetAdaptiveTutor>도우미 초기화</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>도우미가 초기화됐습니다. 모든 도움말이 처음부터 제공됩니다.</AdaptiveTutorIsReset>
+  <RunInBackground>백그라운드에서도 게임 진행</RunInBackground>
+  <DevelopmentMode>개발자 도구</DevelopmentMode>
+  <ResetModsConfigOnCrash>오류 시 자동으로 모드 설정 초기화</ResetModsConfigOnCrash>
+  <SimulateNotOwningRoyalty>로얄티 없이 시뮬레이션</SimulateNotOwningRoyalty>
+  <SimulateNotOwningIdeology>이데올로기 없이 시뮬레이션</SimulateNotOwningIdeology>
+  <LogVerbose>상세 기록</LogVerbose>
+  <OpenSaveGameDataFolder>저장 폴더 열기</OpenSaveGameDataFolder>
+  <ShowSaveGameDataLocation>저장 폴더 위치 표시</ShowSaveGameDataLocation>
+  <OpenLogFileFolder>기록 폴더 열기</OpenLogFileFolder>
+  <ShowLogFileLocation>기록 폴더 위치 표시</ShowLogFileLocation>
+  <NamesYouWantToSee>플레이어가 생성한 선호하는 캐릭터. 다음 캐릭터는 플레이 중 무작위로 등장할 확률이 높습니다:</NamesYouWantToSee>
+  <AddName>이름 검색</AddName>
+  <TypeFirstNickOrLastName>찾고 있는 이름의 일부를 영문으로 적으세요.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>이미 목록에 존재하는 이름입니다.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>이야기꾼 선택</ChangeStoryteller>
+  <AutosaveInterval>자동저장 간격</AutosaveInterval>
+  <TemperatureMode>온도 단위</TemperatureMode>
+  <ShowRealtimeClock>현실 시간 표시</ShowRealtimeClock>
+  <MaxNumberOfPlayerSettlements>최대 정착지 수: {0}</MaxNumberOfPlayerSettlements>
+  <MapDragSensitivity>카메라 마우스 드래그 민감도</MapDragSensitivity>
+  <PlantWindSway>식물 흔들림 효과</PlantWindSway>
+  <EnableTestMapSizes>테스트 맵 크기 활성화</EnableTestMapSizes>
+  <MaxPermadeathAutosaveIntervalInfo>철인 모드에서 사용 가능한 자동저장 최대 간격은 {0}일 입니다.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>모드 설정</ModSettings>
+  <PermanentlyDisableDevMode>개발자 모드 영구 비활성</PermanentlyDisableDevMode>
+  <TextureCompression>텍스처 압축</TextureCompression>
+  <TextureCompression_Tooltip>텍스처 압축 기능은 비디오 메모리를 절약하는 대신 화질을 감소시킵니다. 성능보다 품질을 원하는 경우 이 기능을 비활성화하세요.\n\n몇몇 모드는 매우 많은 비디오 메모리를 소모하므로 이 기능과 함께 사용하지 않으면 원활한 플레이에 지장이 있을 수도 있습니다.</TextureCompression_Tooltip>
+
+  <!-- Resolution -->
+  <Resolution>해상도</Resolution>
+  <Fullscreen>전체화면</Fullscreen>
+
+  <!-- Mods -->
+  <SelectMod>모드 선택</SelectMod>
+  <NoConfigurableMods>활성화된 모드 중 설정 가능한 모드가 없습니다.</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <RestoreToDefaultSettings>기본 설정값 복원</RestoreToDefaultSettings>
+  <ResetAndRestart>설정이 재설정되었습니다. 게임을 자동으로 재시작합니다.</ResetAndRestart>
+  <ResetAndRestartConfirmationDialog>모든 설정을 기본값으로 초기화하고 게임을 다시 시작합니다. 다시 시작됩니다.\n\n계속할까요?</ResetAndRestartConfirmationDialog>
+  <ChangedTextureCompressionRestart>텍스처 압축 설정을 변경하려면 게임을 재시작해야 합니다. 저장하지 않은 모든 진행 상황이 손실됩니다.\n\n계속하시겠습니까?</ChangedTextureCompressionRestart>
+  
+  <!-- Background image -->
+  <SetBackgroundImage>초기화면 배경</SetBackgroundImage>
+
+</LanguageData>

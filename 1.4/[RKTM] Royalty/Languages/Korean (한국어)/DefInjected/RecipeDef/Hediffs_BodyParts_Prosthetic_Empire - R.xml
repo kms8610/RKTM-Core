@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <InstallDrillArm.label>드릴 팔 설치</InstallDrillArm.label>
+  <InstallDrillArm.description>드릴 팔을 설치합니다.</InstallDrillArm.description>
+  <InstallDrillArm.jobString>드릴 팔 설치 중</InstallDrillArm.jobString>
+  
+  <InstallElbowBlade.label>팔꿈치 칼날 설치</InstallElbowBlade.label>
+  <InstallElbowBlade.description>팔꿈치 칼날을 설치합니다.</InstallElbowBlade.description>
+  <InstallElbowBlade.jobString>팔꿈치 칼날 설치 중</InstallElbowBlade.jobString>
+  
+  <InstallFieldHand.label>농업용 기계손 설치</InstallFieldHand.label>
+  <InstallFieldHand.description>농업용 기계손을 설치합니다.</InstallFieldHand.description>
+  <InstallFieldHand.jobString>농업용 기계손 설치 중</InstallFieldHand.jobString>
+  
+  <InstallHandTalon.label>칼날 손톱 설치</InstallHandTalon.label>
+  <InstallHandTalon.description>칼날 손톱을 설치합니다.</InstallHandTalon.description>
+  <InstallHandTalon.jobString>칼날 손톱 설치 중</InstallHandTalon.jobString>
+  
+  <InstallKneeSpike.label>무릎 송곳 설치</InstallKneeSpike.label>
+  <InstallKneeSpike.description>무릎 송곳을 설치합니다.</InstallKneeSpike.description>
+  <InstallKneeSpike.jobString>무릎 송곳 설치 중</InstallKneeSpike.jobString>
+  
+  <InstallMindscrew.label>정신 압박기 이식</InstallMindscrew.label>
+  <InstallMindscrew.description>정신 압박기를 이식합니다.</InstallMindscrew.description>
+  <InstallMindscrew.jobString>정신 압박기 이식 중</InstallMindscrew.jobString>
+  
+  <InstallVenomFangs.label>독니 설치</InstallVenomFangs.label>
+  <InstallVenomFangs.description>독니를 설치합니다.</InstallVenomFangs.description>
+  <InstallVenomFangs.jobString>독니 설치 중</InstallVenomFangs.jobString>
+  
+  <InstallVenomTalon.label>맹독 손톱 설치</InstallVenomTalon.label>
+  <InstallVenomTalon.description>맹독 손톱을 설치합니다.</InstallVenomTalon.description>
+  <InstallVenomTalon.jobString>맹독 손톱 설치 중</InstallVenomTalon.jobString>
+  
+  <RemoveElbowBlade.label>팔꿈치 칼날 제거</RemoveElbowBlade.label>
+  <RemoveElbowBlade.description>팔꿈치 칼날을 제거합니다.</RemoveElbowBlade.description>
+  <RemoveElbowBlade.jobString>팔꿈치 칼날 제거 중</RemoveElbowBlade.jobString>
+  
+  <RemoveHandTalon.label>칼날 손톱 제거</RemoveHandTalon.label>
+  <RemoveHandTalon.description>칼날 손톱을 제거합니다.</RemoveHandTalon.description>
+  <RemoveHandTalon.jobString>칼날 손톱 제거 중</RemoveHandTalon.jobString>
+  
+  <RemoveKneeSpike.label>무릎 송곳 제거</RemoveKneeSpike.label>
+  <RemoveKneeSpike.description>무릎 송곳을 제거합니다.</RemoveKneeSpike.description>
+  <RemoveKneeSpike.jobString>무릎 송곳 제거 중</RemoveKneeSpike.jobString>
+  
+  <RemoveVenomFangs.label>독니 제거</RemoveVenomFangs.label>
+  <RemoveVenomFangs.description>독니를 제거합니다.</RemoveVenomFangs.description>
+  <RemoveVenomFangs.jobString>독니 제거 중</RemoveVenomFangs.jobString>
+  
+  <RemoveVenomTalon.label>맹독 손톱 제거</RemoveVenomTalon.label>
+  <RemoveVenomTalon.description>맹독 손톱을 제거합니다.</RemoveVenomTalon.description>
+  <RemoveVenomTalon.jobString>맹독 손톱 제거 중</RemoveVenomTalon.jobString>
+</LanguageData>

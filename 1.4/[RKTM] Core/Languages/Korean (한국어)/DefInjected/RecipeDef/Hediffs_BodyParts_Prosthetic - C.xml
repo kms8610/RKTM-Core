@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <InstallCochlearImplant.label>보청기 이식</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>보청기를 귀에 이식합니다.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>보청기 이식 중</InstallCochlearImplant.jobString>
+  
+  <InstallJoywire.label>쾌락회로 이식</InstallJoywire.label>
+  <InstallJoywire.description>쾌락회로를 이식합니다.</InstallJoywire.description>
+  <InstallJoywire.jobString>쾌락회로 이식 중</InstallJoywire.jobString>
+  
+  <InstallPainstopper.label>통각차단장치 이식</InstallPainstopper.label>
+  <InstallPainstopper.description>통각차단장치를 이식합니다.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>통각차단장치 이식 중</InstallPainstopper.jobString>
+  
+  <InstallPowerClaw.label>강화 발톱 이식</InstallPowerClaw.label>
+  <InstallPowerClaw.description>강화 발톱을 이식합니다.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>강화 발톱 이식 중</InstallPowerClaw.jobString>
+  
+  <InstallSimpleProstheticArm.label>간단한 강철 의수 장착</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>간단한 강철 의수을 장착합니다.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>간단한 강철 의수 설치 중</InstallSimpleProstheticArm.jobString>
+  
+  <InstallSimpleProstheticHeart.label>인공심장 이식</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>인공심장을 이식합니다.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>인공심장 이식 중</InstallSimpleProstheticHeart.jobString>
+  
+  <InstallSimpleProstheticLeg.label>간단한 강철 의족 장착</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>간단한 강철 의족을 장착합니다.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>간단한 강철 의족 설치 중</InstallSimpleProstheticLeg.jobString>
+  
+  <RemovePainstopper.label>통각차단장치 제거</RemovePainstopper.label>
+  <RemovePainstopper.description>통각차단장치를 제거합니다.</RemovePainstopper.description>
+  <RemovePainstopper.jobString>통각차단장치 제거 중</RemovePainstopper.jobString>
+</LanguageData>

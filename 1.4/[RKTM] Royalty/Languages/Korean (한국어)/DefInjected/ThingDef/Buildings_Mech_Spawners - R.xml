@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MechAssembler.label>메카노이드 제조기</MechAssembler.label>
+  <MechAssembler.description>정기적으로 새로운 메카노이드를 조립하여 배치하는 자동화된 메카노이드 공장입니다.</MechAssembler.description>
+  
+  <MechCapsule.label>메카 캡슐</MechCapsule.label>
+  <MechCapsule.description>메카노이드 배치 캡슐입니다. 깨어나자마자 싸울 수 있는 메카노이드 병력을 포함하고 있습니다.</MechCapsule.description>
+  
+  <MechDropBeacon.label>메카 낙하신호기</MechDropBeacon.label>
+  <MechDropBeacon.description>증원 신호를 발산하는 장치입니다. 활성화되면 근처에 메카 무리가 낙하합니다.</MechDropBeacon.description>
+</LanguageData>

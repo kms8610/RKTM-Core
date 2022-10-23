@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CureScaria.label>스카리아 치료</CureScaria.label>
+  <CureScaria.description>스카리아를 치료할 특별한 수술입니다.</CureScaria.description>
+  <CureScaria.jobString>스카리아 치료 중</CureScaria.jobString>
+  <CureScaria.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 스카리아를 치료했습니다.</CureScaria.successfullyRemovedHediffMessage>
+  
+  <Sterilize.label>불임 시술</Sterilize.label>
+  <Sterilize.description>더 이상 번식할 수 없도록 불임 시술을 할 수 있습니다.</Sterilize.description>
+  <Sterilize.jobString>targetA 불임 시술 중</Sterilize.jobString>
+  <Sterilize.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 불임 시술을 맞췄습니다..</Sterilize.successfullyRemovedHediffMessage>
+</LanguageData>

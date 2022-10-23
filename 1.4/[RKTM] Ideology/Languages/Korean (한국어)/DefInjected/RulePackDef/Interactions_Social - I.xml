@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef](은)는 교화되지 않았습니다.</li>
+  </Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
+  
+  <Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef](은)는 설득되지 않았고, 불쾌하게 여겼습니다.</li>
+  </Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
+  
+  <Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef](은)는 분노로 화답했고, 이것은 다툼으로 번졌습니다.</li>
+  </Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
+  
+  <Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef](은)는 설득되어 [RECIPIENT_possessive] 사상을 바꿨습니다.</li>
+  </Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
+</LanguageData>

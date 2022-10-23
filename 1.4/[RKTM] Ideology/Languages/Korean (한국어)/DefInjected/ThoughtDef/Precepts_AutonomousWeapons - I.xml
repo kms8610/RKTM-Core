@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <HasAutomatedTurrets_Disapproved.stages.automated_turrets.label>자동화된 포탑</HasAutomatedTurrets_Disapproved.stages.automated_turrets.label>
+  <HasAutomatedTurrets_Disapproved.stages.automated_turrets.description>우리는 자동포탑을 사용하고 있어. 기계가 삶과 죽음을 결정하게 하다니 나는 반대야.</HasAutomatedTurrets_Disapproved.stages.automated_turrets.description>
+  
+  <HasAutomatedTurrets_Horrible.stages.automated_turrets.label>자동화된 포탑</HasAutomatedTurrets_Horrible.stages.automated_turrets.label>
+  <HasAutomatedTurrets_Horrible.stages.automated_turrets.description>우리는 자동포탑을 사용하고 있어. 기계에게 삶과 죽음을 결정할 수 있게 하다니 정말 끔찍해.</HasAutomatedTurrets_Horrible.stages.automated_turrets.description>
+  
+  <HasAutomatedTurrets_Prohibited.stages.automated_turrets.label>자동화된 포탑</HasAutomatedTurrets_Prohibited.stages.automated_turrets.label>
+  <HasAutomatedTurrets_Prohibited.stages.automated_turrets.description>우리는 자동포탑을 사용하고 있어. 스스로 삶과 죽음을 결정하는 기계라니 너무나 혐오스러워.</HasAutomatedTurrets_Prohibited.stages.automated_turrets.description>
+</LanguageData>

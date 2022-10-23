@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BiosculpterOccupantSpeed.label>생체 재구축 속도</BiosculpterOccupantSpeed.label>
+  <BiosculpterOccupantSpeed.description>생체 조율 작업을 얼마나 빠르게 진행할 수 있는지 나타냅니다.</BiosculpterOccupantSpeed.description>
+  
+  <CertaintyLossFactor.label>전역 믿음 감소 계수</CertaintyLossFactor.label>
+  <CertaintyLossFactor.description>이 사람이 다른 사상을 가진 이에게 교화를 받을때 감소하는 믿음 값에 곱해지는 수치입니다.</CertaintyLossFactor.description>
+  
+  <ConversionPower.label>교화력</ConversionPower.label>
+  <ConversionPower.description>다른 이들의 사상을 교화할 때의 효율성입니다. 교화 대상의 믿음 감소 값에 영향을 줍니다.</ConversionPower.description>
+  
+  <MeleeDodgeChanceIndoorsDarkOffset.label>근접 회피 확률 (실내/어두움)</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <MeleeDodgeChanceIndoorsDarkOffset.description>어두운 실내에서 근접 회피할 때의 보정치입니다.</MeleeDodgeChanceIndoorsDarkOffset.description>
+  
+  <MeleeDodgeChanceIndoorsLitOffset.label>근접 회피 확률 (실내/밝음)</MeleeDodgeChanceIndoorsLitOffset.label>
+  <MeleeDodgeChanceIndoorsLitOffset.description>밝은 실내에서 근접 회피할 때의 보정치입니다.</MeleeDodgeChanceIndoorsLitOffset.description>
+  
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>근접 회피 확률 (실외/어두움)</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>어두운 실외에서 근접 회피할 때의 보정치입니다.</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  
+  <MeleeDodgeChanceOutdoorsLitOffset.label>근접 회피 확률 (실외/밝음)</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <MeleeDodgeChanceOutdoorsLitOffset.description>밝은 실외에서 근접 회피할 때의 보정치입니다.</MeleeDodgeChanceOutdoorsLitOffset.description>
+  
+  <MeleeHitChanceIndoorsDarkOffset.label>근접공격 명중률 (실내/어두움)</MeleeHitChanceIndoorsDarkOffset.label>
+  <MeleeHitChanceIndoorsDarkOffset.description>어두운 실내에서 근접 공격할 때의 명중률 보정치입니다.</MeleeHitChanceIndoorsDarkOffset.description>
+  
+  <MeleeHitChanceIndoorsLitOffset.label>근접공격 명중률 (실내/밝음)</MeleeHitChanceIndoorsLitOffset.label>
+  <MeleeHitChanceIndoorsLitOffset.description>불로 밝혀진 실내에서 근접 공격할 때의 명중률 보정치입니다.</MeleeHitChanceIndoorsLitOffset.description>
+  
+  <MeleeHitChanceOutdoorsDarkOffset.label>근접공격 명중률 (실외/어두움)</MeleeHitChanceOutdoorsDarkOffset.label>
+  <MeleeHitChanceOutdoorsDarkOffset.description>어두운 실외에서 근접 공격할 때의 명중률 보정치입니다.</MeleeHitChanceOutdoorsDarkOffset.description>
+  
+  <MeleeHitChanceOutdoorsLitOffset.label>근접공격 명중률 (실외/밝음)</MeleeHitChanceOutdoorsLitOffset.label>
+  <MeleeHitChanceOutdoorsLitOffset.description>밝은 실외에서 근접 공격할 때의 명중률 보정치입니다.</MeleeHitChanceOutdoorsLitOffset.description>
+  
+  <ShootingAccuracyIndoorsDarkOffset.label>사격 명중률 (실내/어두움)</ShootingAccuracyIndoorsDarkOffset.label>
+  <ShootingAccuracyIndoorsDarkOffset.description>어두운 실내에서 사격할 때의 명중률 보정치입니다.</ShootingAccuracyIndoorsDarkOffset.description>
+  
+  <ShootingAccuracyIndoorsLitOffset.label>사격 명중률 (실내/밝음)</ShootingAccuracyIndoorsLitOffset.label>
+  <ShootingAccuracyIndoorsLitOffset.description>밝은 실내에서 사격할 때의 명중률 보정치입니다.</ShootingAccuracyIndoorsLitOffset.description>
+  
+  <ShootingAccuracyOutdoorsDarkOffset.label>사격 명중률 (실외/어두움)</ShootingAccuracyOutdoorsDarkOffset.label>
+  <ShootingAccuracyOutdoorsDarkOffset.description>어두운 실외에서 사격할 때의 명중률 보정치입니다.</ShootingAccuracyOutdoorsDarkOffset.description>
+  
+  <ShootingAccuracyOutdoorsLitOffset.label>shooting accuracy (실외/밝음)</ShootingAccuracyOutdoorsLitOffset.label>
+  <ShootingAccuracyOutdoorsLitOffset.description>밝은 실외에서 사격할 때의 명중률 보정치입니다.</ShootingAccuracyOutdoorsLitOffset.description>
+  
+  <SocialIdeoSpreadFrequencyFactor.label>사상 전파 확률</SocialIdeoSpreadFrequencyFactor.label>
+  <SocialIdeoSpreadFrequencyFactor.description>이 사람이 다른 사람의 사상을 자신의 사상으로 교화 하는 확률에 대한 계수</SocialIdeoSpreadFrequencyFactor.description>
+</LanguageData>

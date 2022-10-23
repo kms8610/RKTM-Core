@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SaveButton>저장</SaveButton>
+  <ClearBinding>확인</ClearBinding>
+  <ResetBinding>기본값으로 재설정</ResetBinding>
+  <BindingButtonToolTip>왼쪽 클릭으로 이 키를 설정하거나 오른쪽 클릭으로 돌아가세요.</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>지정할 키를 누르세요. 취소하려면 Esc키를 누르세요.</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>키 지정값 덮어씌움: {0}</KeyBindingOverwritten>
+  
+</LanguageData>

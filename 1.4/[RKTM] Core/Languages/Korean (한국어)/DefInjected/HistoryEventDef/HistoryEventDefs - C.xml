@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AdministeredDrug.label>약물 투여</AdministeredDrug.label>
+  
+  <AdministeredHardDrug.label>강한 약물 투여</AdministeredHardDrug.label>
+  
+  <AdministeredRecreationalDrug.label>오락용 약물 투여</AdministeredRecreationalDrug.label>
+  
+  <AteHumanMeat.label>인육을 먹음</AteHumanMeat.label>
+  
+  <CutTree.label>벌목</CutTree.label>
+  
+  <DestroyedMineable.label>파괴된 자연벽</DestroyedMineable.label>
+  
+  <IngestedDrug.label>약물 사용</IngestedDrug.label>
+  
+  <IngestedHardDrug.label>강한 약물 사용</IngestedHardDrug.label>
+  
+  <IngestedRecreationalDrug.label>오락용 약물 사용</IngestedRecreationalDrug.label>
+  
+  <InstalledProsthetic.label>보철물 설치</InstalledProsthetic.label>
+  
+  <Mined.label>채굴</Mined.label>
+  
+  <MinifiedTreeDied.label>나무가 죽음</MinifiedTreeDied.label>
+  
+  <Researching.label>연구</Researching.label>
+  
+  <SowedHumanFoodPlant.label>작물 파종</SowedHumanFoodPlant.label>
+  
+  <SowedPlant.label>식물 파종</SowedPlant.label>
+</LanguageData>
