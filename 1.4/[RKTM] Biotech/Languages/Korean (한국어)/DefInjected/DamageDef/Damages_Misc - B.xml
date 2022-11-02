@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <AcidBurn.label>산성 화상</AcidBurn.label>
-  <AcidBurn.deathMessage>{0}(이)가 불에 타 사망했습니다.</AcidBurn.deathMessage>
+  <AcidBurn.deathMessage>{0}(이)가 타죽었습니다.</AcidBurn.deathMessage>
   
   <Beam.label>광선</Beam.label>
   <Beam.deathMessage>{0}(이)가 광선에 맞아 죽었습니다.</Beam.deathMessage>

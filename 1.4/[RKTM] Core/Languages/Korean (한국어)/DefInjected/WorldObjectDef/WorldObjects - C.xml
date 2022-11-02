@@ -24,6 +24,6 @@
   <Settlement.label>정착지</Settlement.label>
   <Settlement.description>세력의 기지 중 한 곳입니다.</Settlement.description>
   
-  <TravelingTransportPods.label>준궤도 수송</TravelingTransportPods.label>
+  <TravelingTransportPods.label>수송 포드</TravelingTransportPods.label>
   <TravelingTransportPods.description>비행 중인 수송 포드입니다.</TravelingTransportPods.description>
 </LanguageData>

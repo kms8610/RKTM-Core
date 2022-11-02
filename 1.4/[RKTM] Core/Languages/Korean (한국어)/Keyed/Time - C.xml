@@ -23,10 +23,10 @@
   <QuadrumSeptober>3분기</QuadrumSeptober>
   <QuadrumDecembary>4분기</QuadrumDecembary>
 
-  <QuadrumAprimay_Short>1분기</QuadrumAprimay_Short>
-  <QuadrumJugust_Short>2분기</QuadrumJugust_Short>
-  <QuadrumSeptober_Short>3분기</QuadrumSeptober_Short>
-  <QuadrumDecembary_Short>4분기</QuadrumDecembary_Short>
+  <QuadrumAprimay_Short>1/4</QuadrumAprimay_Short>
+  <QuadrumJugust_Short>2/4</QuadrumJugust_Short>
+  <QuadrumSeptober_Short>3/4</QuadrumSeptober_Short>
+  <QuadrumDecembary_Short>4/4</QuadrumDecembary_Short>
   
   <Born>생년: {0}</Born>
   <AgeChronological>실제 나이: {0}년 {1}분기 {2}일째</AgeChronological>

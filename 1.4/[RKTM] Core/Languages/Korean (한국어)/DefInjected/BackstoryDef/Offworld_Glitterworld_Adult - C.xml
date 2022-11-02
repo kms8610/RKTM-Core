@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Architect28.baseDesc>{PAWN_nameDef}(은)는 건물을 설계하고 건설했습니다. {PAWN_possessive} 고향 번화계에서는, 건축의 기술적 측면 대부분은 인공지능이 처리했습니다. 이런 환경에서 {PAWN_pronoun}는 기술적 한계를 넘어 예술을 추구할 수 있었지만, 건설 현장에서도 {PAWN_possessive} 손을 더럽힐 일이 없었습니다.</Architect28.baseDesc>
+  <Architect28.baseDesc>{PAWN_nameDef}(은)는 건물을 설계하고 건설했습니다. {PAWN_possessive} 고향 번화계에서는 건축의 기술적 측면 대부분은 인공지능이 처리했으므로, {PAWN_pronoun}는 기술적 한계를 넘어 예술을 추구할 수 있었지만 현장에서 자신의 손을 더럽힐 일은 한 번도 없었습니다.</Architect28.baseDesc>
   <Architect28.title>건축가</Architect28.title>
   <Architect28.titleShort>건축가</Architect28.titleShort>
   

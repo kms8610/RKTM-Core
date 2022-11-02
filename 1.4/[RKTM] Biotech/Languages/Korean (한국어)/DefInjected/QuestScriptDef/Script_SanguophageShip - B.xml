@@ -14,7 +14,7 @@
   </SanguophageShip.questDescriptionRules.rulesStrings>
   <SanguophageShip.questNameRules.rulesStrings>
     <li>questName->[shipAdjective] [shipNoun]</li>
-    <li>생귀오파지</li>
+    <li>shipAdjective->생귀오파지</li>
     <li>shipAdjective->피에 굶주린</li>
     <li>shipAdjective->핏빛</li>
     <li>shipAdjective->그림자</li>

@@ -104,7 +104,7 @@
     <li>situationBad->[enemyNamePlural]에게 납치 당하</li>
     <li>situationBad->[enemyNameSingular]에게 사냥당하</li>
     <li>situationBad->[enemyNameSingular]에 쫓기</li>
-    <li>situationBad->독성 가스를 흡입하</li>
+    <li>situationBad->독소 가스를 흡입하</li>
     <li>situationBad->허파 부패에 걸리</li>
     <li>situationBad->흑사병에 걸리</li>
     <li>situationBad->식중독에 걸리</li>

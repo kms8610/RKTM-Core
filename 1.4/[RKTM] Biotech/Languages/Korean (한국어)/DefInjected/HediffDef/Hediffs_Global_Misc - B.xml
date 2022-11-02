@@ -18,10 +18,10 @@
   <InfantIllness.stages.extreme-1.label>위험</InfantIllness.stages.extreme-1.label>
   
   <Lactating.label>수유 가능</Lactating.label>
-  <Lactating.description>The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days.</Lactating.description>
-  <Lactating.comps.HediffComp_MessageOnRemoval.message>{0} is no longer lactating due to not breastfeeding for 10 days.</Lactating.comps.HediffComp_MessageOnRemoval.message>
+  <Lactating.description>아기에게 모유를 먹일 수 있는 상태입니다. 유방은 계속해서 우유를 생산하고 저장합니다. 수유 상태는 산모가 출산할 때부터 시작되고, 10일에 한 번 이상 아기에게 모유 수유를 하면 무기한 지속됩니다.</Lactating.description>
+  <Lactating.comps.HediffComp_MessageOnRemoval.message>{0}(은)는 10일 동안 모유 수유를 하지 않아 더 이상 수유하지 않습니다.</Lactating.comps.HediffComp_MessageOnRemoval.message>
   <Lactating.comps.HediffComp_Lactating.labelInBrackets>모유 양: {CHARGEFACTOR_percentage}</Lactating.comps.HediffComp_Lactating.labelInBrackets>
-  <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>{0} is no longer lactating due to malnutrition.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
+  <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>{0}(은)는 영양실조로 인해 더 이상 수유할 수 없습니다.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
   
   <MorningSickness.label>입덧</MorningSickness.label>
   <MorningSickness.description>임신의 흔한 부작용입니다. 입덧이 진행되는 동안 산모는 메스꺼움, 현기증, 집중력 저하를 겪습니다.</MorningSickness.description>

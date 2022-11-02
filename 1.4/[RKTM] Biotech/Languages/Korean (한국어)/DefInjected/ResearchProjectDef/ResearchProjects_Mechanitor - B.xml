@@ -4,13 +4,13 @@
   <BasicMechtech.description>메카나이터가 기초적인 수준의 메카노이드를 배양하고 제어하는 데 필요한 기술입니다.</BasicMechtech.description>
   
   <HighMechtech.label>첨단 기계공학</HighMechtech.label>
-  <HighMechtech.description>The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat.</HighMechtech.description>
+  <HighMechtech.description>기계공학자가 높은 단계의 메카노이드를 만들고 제어하는 데 필요한 기술입니다.\n\n기계공학자를 통하여 위협적인 워퀸을 소환하면 동력집중 칩을 얻을 수 있습니다.</HighMechtech.description>
   
   <StandardMechtech.label>기본 기계공학</StandardMechtech.label>
-  <StandardMechtech.description>The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat.</StandardMechtech.description>
+  <StandardMechtech.description>기계공학자가 표준 등급 메카노이드를 만들고 제어하는 데 필요한 기술입니다.\n\n기계공학자를 통하여 위협적인 디아볼루스를 소환하면 신호 칩을 얻을 수 있습니다.</StandardMechtech.description>
   
   <UltraMechtech.label>최첨단 기계공학</UltraMechtech.label>
-  <UltraMechtech.description>The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat.</UltraMechtech.description>
+  <UltraMechtech.description>기계공학자가 최상급 메카노이드를 포함하여 대형 기계 장치와 최상급 메카노이드 장비를 만들고 제어하는데 필요한 고급 기술입니다.\n\n기계공학자를 통하여 위협적인 아포크리톤을 소환하면 나노 구조화 칩을 얻을 수 있습니다.</UltraMechtech.description>
   
   <WastepackAtomizer.label>폐기물 원자분해기</WastepackAtomizer.label>
   <WastepackAtomizer.description>독성 폐기물을 분자 수준에서 분해하여 안전하게 제거할 수 있는 원자분해기를 건설합니다.</WastepackAtomizer.description>

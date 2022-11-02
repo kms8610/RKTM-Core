@@ -13,14 +13,14 @@
   <AlertLowDeathrestPawns>{NUMCULPRITS} 정착민들 죽음안식 필요</AlertLowDeathrestPawns>
   <AlertLowDeathrestDesc>정착민 하나가 오랜 시간동안 죽음안식을 취하지 않았습니다. 너무 오랜 시간동안 죽음안식을 취하지 않게되면 죽음안식 탈진에 걸리게 됩니다.\n\n죽음안식을 하려면 정착민을 선택한 뒤, 지정된 침대나 죽음안식 관을 우클릭 하세요.\n\n다음 정착민들이 죽음안식을 필요로 합니다:\n{CULPRITS}</AlertLowDeathrestDesc>
 
-  <AlertLowHemogen>혈액정수 낮음</AlertLowHemogen>
-  <AlertLowHemogenDesc>한 정착민의 혈액정수이 낮습니다. 혈액정수이 바닥나면 고통스러운 혈액정수 부족현상을 느끼게 됩니다.\n\n혈액팩을 먹여 예방 할 수 있습니다. 혈액정수이 없는 인간에게 '혈액팩 추출' 수술을 하여 혈액팩을 얻을 수 있습니다.\n\n다음 정착민들의 낮은 혈액정수을 가지고 있습니다</AlertLowHemogenDesc>
+  <AlertLowHemogen>혈액 정수 낮음</AlertLowHemogen>
+  <AlertLowHemogenDesc>한 정착민의 혈액 정수가 낮습니다. 혈액 정수가 바닥나면 고통스러운 혈액 정수 부족 현상을 느끼게 됩니다.\n\n혈액팩을 먹여 예방할 수 있습니다. 혈액 정수가 없는 인간에게 '혈액팩 추출' 수술을 하여 혈액팩을 얻을 수 있습니다.\n\n다음 정착민들은 낮은 혈액 정수를 가지고 있습니다.</AlertLowHemogenDesc>
 
   <AlertRechargerFull>충전기 가득 참</AlertRechargerFull>
-  <AlertRechargerFullDesc>일부 충전소에서 최대 수용량 만큼의 독성 폐기물을 보관하고 있습니다. 메카노이드들은 저장고가 가득 찬 충전소에서 충전하지 않을것입니다.\n\n정착민을 선택하고 충전소를 우클릭 하여 비울 수 있습니다.</AlertRechargerFullDesc>
+  <AlertRechargerFullDesc>일부 충전기에서 최대 수용량 만큼의 독성 폐기물을 보관하고 있습니다. 메카노이드들은 저장고가 가득 찬 충전기에서 충전하지 않을것입니다.\n\n정착민을 선택하고 충전기를 우클릭 하여 비울 수 있습니다.</AlertRechargerFullDesc>
 
-  <AlertNeedMechChargers>기계 충전기 필요</AlertNeedMechChargers>
-  <AlertNeedMechChargersDesc>메카노이드 숫자 만큼의 충전소가 없습니다. 메카노이드의 전력이 바닥나면 자가 충전 휴면상태로 들어가게 되어 매우 느린 속도로 충전할 것 입니다.\n\n다음 만큼의 충전소가 필요합니다:\n\n{0}{0}\n\n주의: 오직 소형 메카노이드만 소형 충전소를 사용할 수 있으며, 중형 혹은 대형 메카노이드는 대형 메카노이드 충전소를 필요로 합니다.</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargers>메카노이드 충전기 필요</AlertNeedMechChargers>
+  <AlertNeedMechChargersDesc>메카노이드 숫자 만큼의 충전기가 없습니다. 메카노이드의 전력이 바닥나면 자가 충전 휴면상태로 들어가게 되어 매우 느린 속도로 충전할 것 입니다.\n\n다음 만큼의 충전기가 필요합니다:\n\n{0}{0}\n\n주의: 오직 소형 메카노이드만 소형 충전기를 사용할 수 있으며, 중형 혹은 대형 메카노이드는 대형 메카노이드 충전기를 필요로 합니다.</AlertNeedMechChargersDesc>
   <AlertNeedMechChargerBasicMechtech>충전기를 지으려면 기본 기계공학 혹은 그 이상의 기술을 연구하십시오.</AlertNeedMechChargerBasicMechtech>
 
   <AlertReimplantationAvailable>재이식 가능</AlertReimplantationAvailable>
@@ -29,7 +29,7 @@
   <AlertLowBabyFood>이유식 부족</AlertLowBabyFood>
   <AlertLowBabyFoodDesc>이유식이 위험할 정도로 부족합니다.\n\n    음식이 필요한 아기들: {0}\n    비축한 이유식: {1}일치\n\n{2}(을)를 포함한 이유식을 찾거나 사거나 만드세요.</AlertLowBabyFoodDesc>
   <AlertNoBabyFeeder>유아 급식기 없음</AlertNoBabyFeeder>
-  <AlertNoBabyFeederDesc>No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed.</AlertNoBabyFeederDesc>
+  <AlertNoBabyFeederDesc>이 아기들에게 음식을 줄 {FACTION_pawnsPlural}(이)가 할당되지 않았거나 모두 쓰러졌습니다.\n\n{FACTION_pawnsPlural} 중 하나를 보육 시설에 할당하거나 수유 중인 {FACTION_pawnSingular}(을)를 할당하여 아기의 수유 탭에서 긴급 우선순위로 이 아기에게 먹을 것을 주세요. 그리고 그들 중 적어도 하나가 쓰러지지 않았는지 확인하십시오.</AlertNoBabyFeederDesc>
 
   <AlertNoBabyFoodCaravan>상단 내 이유식 없음</AlertNoBabyFoodCaravan>
   <AlertNoBabyFoodCaravanDesc>이 상단의 아이에게 먹일 이유식이 없으며, 수유할 수 있는 {FACTION_pawnsPlural}(이)가 지정되지 않았습니다.</AlertNoBabyFoodCaravanDesc>
@@ -51,18 +51,18 @@
 
   <AlertMechNeedsRepair>수리가 필요한 메카노이드</AlertMechNeedsRepair>
   <AlertMechNeedsRepairDescPrefix>이 메카노이드들은 손상되었고, 수리가 필요합니다.</AlertMechNeedsRepairDescPrefix>
-  <AlertMechNeedsRepairDesc>기계공학자에게 수리를 명령하거나 메카노이드를 선택하고 자동수리를 켜십니오. 메카노이드 수리에는 전력이 요구됩니다. 메카노이드의 전력이 움직일 수 없을정도로 낮다면 먼저 충전소로 가져가야 합니다.</AlertMechNeedsRepairDesc>
+  <AlertMechNeedsRepairDesc>기계공학자에게 수리를 명령하거나 메카노이드를 선택하고 자동수리를 켜십니오. 메카노이드 수리에는 전력이 요구됩니다. 메카노이드의 전력이 움직일 수 없을정도로 낮다면 먼저 충전기로 가져가야 합니다.</AlertMechNeedsRepairDesc>
   
   <AlertToxifierGeneratorStopped>{0} 중지됨</AlertToxifierGeneratorStopped>
   <AlertToxifierGeneratorStoppedDesc>당신의 {0}(이)가 주변에 오염 시킬수 있는 깨끗한 지형이 없어 전력 생산을 멈췄습니다.\n\n오염된 지형을 오염펌프나 오염 청소구역을 지정하여 청소하세요.</AlertToxifierGeneratorStoppedDesc>
 
-  <AlertPsychicBondedPawnsSeparated>초정신적 유대 거리</AlertPsychicBondedPawnsSeparated>
-  <AlertPsychicBondedPawnsSeparatedDesc>Some colonists with psychic bonds have been separated and are feeling negative effects from the distance. To avoid this, people with a psychic bond must be in the same world tile, caravan, or vehicle. Additionally, they must not be in cryptosleep or similar suspended animation.\n\nThe following people are affected</AlertPsychicBondedPawnsSeparatedDesc>
+  <AlertPsychicBondedPawnsSeparated>정신결속 (멂)</AlertPsychicBondedPawnsSeparated>
+  <AlertPsychicBondedPawnsSeparatedDesc>초정신적 결속을 가진 일부 정착민들이 분리되어 멀리서 부정적인 영향을 느끼고 있습니다. 이것을 피하려면 초정신적 결속을 가진 정착민들이 같은 세계 타일, 상단 또는 탈 것에 있어야 합니다. 또한 동면 또는 이와 유사한 코마 상태가 아니어야 합니다.\n\n영향을 받는 사람은 다음과 같습니다.</AlertPsychicBondedPawnsSeparatedDesc>
 
   <AlertGenebankUnpowered>유전자 저장고 전력 필요</AlertGenebankUnpowered>
   <AlertGenebankUnpoweredDesc>유전자 저장고에 전력이 공급되지 않아 저장된 유전자묶음들이 서서히 손상되고 있습니다. 전력을 복구하여 유전자묶음의 손상을 방지하세요.\n\n유전자 저장고에 전력이 공급되면 진행된 손상을 천천히 복구합니다.</AlertGenebankUnpoweredDesc>
 
-  <AlertBossgroupIncoming>{0} incoming</AlertBossgroupIncoming><!-- text_todo -->
-  <AlertBossgroupIncomingDesc>Signaled by your mechanitor, a hostile {0} is approaching with its combat escort. Be prepared, this won't be an easy fight. The hostile mechanoids will arrive in a few hours or days.</AlertBossgroupIncomingDesc><!-- text_todo -->
+  <AlertBossgroupIncoming>{0} 접근 중</AlertBossgroupIncoming><!-- text_todo -->
+  <AlertBossgroupIncomingDesc>기계 장치의 신호를 받아 적대적인 {0}(이)가 호위 전투 병력과 함께 접근하고 있습니다. 준비하세요. 이것은 쉬운 싸움이 아닙니다. 적대적인 메카노이드는 몇 시간 또는 며칠 안에 도착할 것입니다.</AlertBossgroupIncomingDesc><!-- text_todo -->
 
 </LanguageData>

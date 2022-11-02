@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mech_Agrihand.label>소형 메카노이드의 블레이드</Mech_Agrihand.label>
+  <Mech_Agrihand.label>칼날 달린 소형 메카노이드</Mech_Agrihand.label>
   <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>왼쪽 시각 감지기</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>왼쪽 청각 감지기</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <Mech_Agrihand.corePart.parts.right_shoulder.customLabel>오른쪽 어깨</Mech_Agrihand.corePart.parts.right_shoulder.customLabel>

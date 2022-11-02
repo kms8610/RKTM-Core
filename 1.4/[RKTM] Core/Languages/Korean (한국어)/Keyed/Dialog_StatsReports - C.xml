@@ -143,8 +143,8 @@
   <Stat_Hediff_TotalBleedFactor_Desc>혈액이 얼마나 손실되었는지를 나타냅니다.</Stat_Hediff_TotalBleedFactor_Desc>
   <Stat_Hediff_NaturalHealingFactor_Name>자연치유력</Stat_Hediff_NaturalHealingFactor_Name>
   <Stat_Hediff_NaturalHealingFactor_Desc>자연적인 상처 치유 속도를 나타냅니다.</Stat_Hediff_NaturalHealingFactor_Desc>
-  <Stat_Hediff_FoodPoisoningChanceFactor_Name>식중독 확률</Stat_Hediff_FoodPoisoningChanceFactor_Name>
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>실수로 식중독을 유발하는 요리를 만들 확률입니다.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>식중독 확률 계수</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>식중독에 걸릴 확률에 곱해지는 수입니다.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <Stat_Hediff_BleedingRate_Desc>출혈 속도를 나타냅니다.</Stat_Hediff_BleedingRate_Desc>
   <Stat_Hediff_Pain_Desc>통증의 수준을 나타냅니다.</Stat_Hediff_Pain_Desc>
   <Stat_Hediff_PartEfficiency_Desc>이것에 의해 영향받는 신체 부위의 효율성입니다.</Stat_Hediff_PartEfficiency_Desc>
@@ -170,7 +170,7 @@
   <Stat_Thing_ReloadRefill_Desc>이 개체를 완전히 재장전하는 데 필요한 항목의 양입니다.\n\n비어 버리기 전에 재장전할 수 있지만, 비용은 똑같습니다.</Stat_Thing_ReloadRefill_Desc>
   <Stat_Thing_ReloadPerCharge_Name>{CHARGENOUN}당 재장전 비용</Stat_Thing_ReloadPerCharge_Name>
   <Stat_Thing_ReloadPerCharge_Desc>하나의 {CHARGENOUN}(을)를 재장전하는 데 필요한 항목의 양입니다. 여러 {CHARGENOUN_plural}(을)를 한번에 재장전할 수 있습니다.</Stat_Thing_ReloadPerCharge_Desc>
-  <Stat_Thing_ReloadDestroyOnEmpty_Name>배기장치 사라짐</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>소진 시 파괴됨</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <Stat_Thing_ReloadDestroyOnEmpty_Desc>이 품목은 마지막 {CHARGENOUN}(을)를 사용하면 사라집니다.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <Stat_Thing_BodyPartEfficiency_Desc>신체부위의 전반적인 효율성을 나타냅니다.</Stat_Thing_BodyPartEfficiency_Desc>
   <Stat_Thing_InstallSites>설치 위치</Stat_Thing_InstallSites>
@@ -219,7 +219,7 @@
   <Stat_Animal_LitterSizeDesc>매 출산 또는 부화에서 태어나는 새끼의 수입니다. 범위로 된 값일 경우 해당 범위 안의 무작위 수만큼 태어납니다.</Stat_Animal_LitterSizeDesc>
   <Stat_Animal_AdultMeatAmount>성체 고기량</Stat_Animal_AdultMeatAmount>
   <Stat_Animal_AdultMeatAmountDesc>이 동물종의 성체를 도축했을 때 얻을 수 있는 기본 고기량입니다. 실제로 얻는 고기의 양은 신체 피해량과 도축 기술 등의 영향을 받습니다.</Stat_Animal_AdultMeatAmountDesc>
-  <Stat_Animal_GrowthTime>성장에 필요한 기간</Stat_Animal_GrowthTime>
+  <Stat_Animal_GrowthTime>성장 기간</Stat_Animal_GrowthTime>
   <Stat_Animal_GrowthTimeDesc>동물이 성체가 되기까지 일반적으로 걸리는 시간입니다. 굶주린 동물이 성체가 되려면 더 오랜 시간이 필요합니다.</Stat_Animal_GrowthTimeDesc>
   <Stat_Animal_MeatPerDayDuringGrowth>성장 중 일간 고기량</Stat_Animal_MeatPerDayDuringGrowth>
   <Stat_Animal_MeatPerDayDuringGrowthDesc>동물이 성체가 되기까지 자라면서 매일 증가하는 고기의 양입니다.\n\n이 값은 고기량과 성장에 필요한 기간을 통해 계산합니다.</Stat_Animal_MeatPerDayDuringGrowthDesc>
@@ -265,7 +265,7 @@
   <Stat_Studiable_Desc>이 물체에 수행할 수 있는 전체 연구 중 진행한 양입니다.</Stat_Studiable_Desc>
 
   <Stat_Source_Label>출처</Stat_Source_Label>
-  <Stat_Source_OfficialExpansionReport>공식 확장팩에서 추가됨</Stat_Source_OfficialExpansionReport>
-  <Stat_Source_ModReport>모드에서 추가됨</Stat_Source_ModReport>
+  <Stat_Source_OfficialExpansionReport>공식 확장팩에서 추가함</Stat_Source_OfficialExpansionReport>
+  <Stat_Source_ModReport>모드에서 추가함</Stat_Source_ModReport>
   
 </LanguageData>

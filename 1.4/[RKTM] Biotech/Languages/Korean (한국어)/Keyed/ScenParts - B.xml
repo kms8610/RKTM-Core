@@ -4,7 +4,7 @@
   <ScenPart_StartingMech>메카노이드와 함께 시작</ScenPart_StartingMech>
   <Mechanoid>메카노이드</Mechanoid>
   <RandomMech>무작위 메카노이드</RandomMech>
-  <StartOverseenChance>Overseen chance</StartOverseenChance>
+  <StartOverseenChance>통제 확률</StartOverseenChance>
 
   <ScenPart_StartWithSpecificColonists>{0}(와)과 함께 시작합니다.</ScenPart_StartWithSpecificColonists>
   <PawnCount>{COUNT} {KINDLABEL}</PawnCount>

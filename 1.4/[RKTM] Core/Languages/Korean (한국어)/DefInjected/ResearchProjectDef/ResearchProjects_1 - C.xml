@@ -36,8 +36,8 @@
   <Pemmican.label>페미컨</Pemmican.label>
   <Pemmican.description>고기와 야채를 섞어 오랜 시간 상하지 않는 보존식품을 만들 수 있습니다.</Pemmican.description>
   
-  <PenoxycylineProduction.label>페노자이실린 제조</PenoxycylineProduction.label>
-  <PenoxycylineProduction.description>각종 질병을 예방하는 약물인 페노자이실린을 만들 수 있습니다.</PenoxycylineProduction.description>
+  <PenoxycylineProduction.label>페녹시실린 제조</PenoxycylineProduction.label>
+  <PenoxycylineProduction.description>각종 질병을 예방하는 약물인 페녹시실린을 만들 수 있습니다.</PenoxycylineProduction.description>
   
   <PlateArmor.label>판금 갑옷</PlateArmor.label>
   <PlateArmor.description>금속이나 나무로 된 판금 갑옷을 만들 수 있습니다. 이 무거운 갑옷은 거추장스럽지만 매우 높은 방호력을 가집니다.</PlateArmor.description>

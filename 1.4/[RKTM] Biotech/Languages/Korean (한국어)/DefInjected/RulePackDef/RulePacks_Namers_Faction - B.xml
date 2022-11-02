@@ -60,7 +60,7 @@
     <li>men->독자</li>
     <li>men->병마</li>
     <li>men->황폐자</li>
-    <li>men->싸개</li>
+    <li>men->약탈자</li>
     <li>men->능구렁이</li>
     <li>men->뱀들</li>
     <li>men->충들</li>
@@ -175,7 +175,7 @@
     <li>maybeApo->'</li>
     <li>placeNameCore->[SylN][maybeApo][SylN]</li>
     <li>placeNameCore->[SylN][maybeApo][SylN][maybeApo][SylN]</li>
-    <li>placeNameCore->실험용([SylN])[maybeApo][placeEnd]</li>
+    <li>placeNameCore->[SylN][maybeApo][placeEnd]</li>
     <li>placeNameCore->[SylN][maybeApo][SylN][maybeApo][placeEnd]</li>
     <li>placeEnd->일스</li>
     <li>placeEnd->일트</li>

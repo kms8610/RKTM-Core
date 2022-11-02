@@ -114,22 +114,22 @@
     <li>lastGenerated->[SylP][maybeHyphen][SylP][nameEnd]</li>
     <li>nameEnd->우그</li>
     <li>nameEnd->아그</li>
-    <li>nameEnd->우프</li>
+    <li>nameEnd->업</li>
     <li>nameEnd->오크</li>
-    <li>nameEnd->org</li>
-    <li>nameEnd->en</li>
-    <li>nameEnd->er</li>
-    <li>nameEnd->ub</li>
-    <li>nameEnd->opp</li>
-    <li>nameEnd->is</li>
-    <li>nameEnd->ow</li>
-    <li>nameEnd->ap</li>
-    <li>nameEnd->ag</li>
-    <li>nameEnd->og</li>
-    <li>nameEnd->ogg</li>
-    <li>nameEnd->obb</li>
-    <li>nameEnd->oik</li>
-    <li>nameEnd->oin</li>
+    <li>nameEnd->올그</li>
+    <li>nameEnd->엔</li>
+    <li>nameEnd->어</li>
+    <li>nameEnd->업</li>
+    <li>nameEnd->옵</li>
+    <li>nameEnd->이스</li>
+    <li>nameEnd->아우</li>
+    <li>nameEnd->압</li>
+    <li>nameEnd->아그</li>
+    <li>nameEnd->오그</li>
+    <li>nameEnd->옥그</li>
+    <li>nameEnd->옵브</li>
+    <li>nameEnd->오익</li>
+    <li>nameEnd->오인</li>
   </NamerPersonPigskin.rulePack.rulesStrings>
   
   <NamerPersonWaster.rulePack.rulesStrings>
@@ -138,33 +138,33 @@
     <li>firstName->[Syl][Syl]</li>
     <li>firstName->[Syl]</li>
     <li>lastName->[Syl][End]</li>
-    <li>End->ad</li>
-    <li>End->ak</li>
-    <li>End->ank</li>
-    <li>End->ash</li>
-    <li>End->eek</li>
-    <li>End->ek</li>
-    <li>End->enk</li>
-    <li>End->er</li>
-    <li>End->esk</li>
-    <li>End->ez</li>
-    <li>End->gun</li>
-    <li>End->ik</li>
-    <li>End->ip</li>
-    <li>End->isk</li>
-    <li>End->ix</li>
-    <li>End->iz</li>
-    <li>End->kill</li>
-    <li>End->kin</li>
-    <li>End->ling</li>
-    <li>End->man</li>
-    <li>End->men</li>
-    <li>End->nik</li>
-    <li>End->ox</li>
-    <li>End->skow</li>
-    <li>End->smoke</li>
-    <li>End->waste</li>
-    <li>End->y</li>
+    <li>End->드</li>
+    <li>End->아크</li>
+    <li>End->앙크</li>
+    <li>End->아쉬</li>
+    <li>End->이크</li>
+    <li>End->엑</li>
+    <li>End->엔크</li>
+    <li>End->어</li>
+    <li>End->에스크</li>
+    <li>End->에즈</li>
+    <li>End->건</li>
+    <li>End->익</li>
+    <li>End->입</li>
+    <li>End->이스크</li>
+    <li>End->익스</li>
+    <li>End->이즈</li>
+    <li>End->킬</li>
+    <li>End->킨</li>
+    <li>End->링</li>
+    <li>End->맨</li>
+    <li>End->멘</li>
+    <li>End->닉</li>
+    <li>End->옥스</li>
+    <li>End->스코우</li>
+    <li>End->스모크</li>
+    <li>End->웨이스트</li>
+    <li>End->와이</li>
   </NamerPersonWaster.rulePack.rulesStrings>
   
   <NamerPersonYttakin.rulePack.rulesStrings>
@@ -174,22 +174,22 @@
     <li>firstName->[SylY][SylY][nameEnd]</li>
     <li>lastName(p=2)->[SylY][nameEnd]</li>
     <li>lastName->[SylY][SylY][nameEnd]</li>
-    <li>lastName->Kin'[SylY][nameEnd]</li>
-    <li>lastName->Wyn'[SylY][nameEnd]</li>
-    <li>nameEnd(p=3)->ytt</li>
-    <li>nameEnd->esh</li>
-    <li>nameEnd->ott</li>
-    <li>nameEnd->osh</li>
-    <li>nameEnd->ark</li>
-    <li>nameEnd->erk</li>
-    <li>nameEnd->ersh</li>
-    <li>nameEnd->uk</li>
-    <li>nameEnd->yon</li>
-    <li>nameEnd->en</li>
-    <li>nameEnd->ul</li>
-    <li>nameEnd->ya</li>
-    <li>nameEnd->ysh</li>
-    <li>nameEnd->ys</li>
-    <li>nameEnd->yn</li>
+    <li>lastName->킨'[SylY][nameEnd]</li>
+    <li>lastName->윈[SylY][nameEnd]</li>
+    <li>nameEnd(p=3)->잇트</li>
+    <li>nameEnd->에쉬</li>
+    <li>nameEnd->옷트</li>
+    <li>nameEnd->오쉬</li>
+    <li>nameEnd->아크</li>
+    <li>nameEnd->에크</li>
+    <li>nameEnd->어쉬</li>
+    <li>nameEnd->우크</li>
+    <li>nameEnd->욘</li>
+    <li>nameEnd->엔</li>
+    <li>nameEnd->울</li>
+    <li>nameEnd->야</li>
+    <li>nameEnd->이쉬</li>
+    <li>nameEnd->이스</li>
+    <li>nameEnd->인</li>
   </NamerPersonYttakin.rulePack.rulesStrings>
 </LanguageData>

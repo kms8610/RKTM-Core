@@ -4,10 +4,10 @@
   <Escort.description>기계공학자를 호위하며 근처의 적들과 싸웁니다. 지도 밖으로도 기계공학자를 따라갑니다.</Escort.description>
   
   <Recharge.label>재충전</Recharge.label>
-  <Recharge.description>충전소로 가서 충전합니다. 완충된 상태에서도 충전소에서 대기합니다.</Recharge.description>
+  <Recharge.description>완충된 상태여도 충전기에서 충전합니다.</Recharge.description>
   
   <SelfShutdown.label>자가충전 휴면</SelfShutdown.label>
-  <SelfShutdown.description>자가충전 휴면상태로 들어가 충전소 없이 천천히 전력을 충전합니다.</SelfShutdown.description>
+  <SelfShutdown.description>자가충전 휴면상태로 들어가 충전기 없이 매우 느리게 전력을 충전합니다.</SelfShutdown.description>
   
   <Work.label>작업</Work.label>
   <Work.description>메카노이드의 유형에 따라 자율적으로 일을 수행합니다. 필요하면 스스로 충전기에서 충전합니다.</Work.description>

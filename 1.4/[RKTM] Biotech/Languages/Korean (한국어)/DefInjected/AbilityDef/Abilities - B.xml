@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AcidSpray.label>산성 스프레이</AcidSpray.label>
+  <AcidSpray.label>산성 분무</AcidSpray.label>
   <AcidSpray.description>목의 분비샘에서 생성된 산성물질을 입으로 토해냅니다. 지정된 범위 내에 있는 모든 대상에게 달라붙어 지속적인 산성 피해를 입힙니다.</AcidSpray.description>
   
   <AnimalWarcall.label>야수부름</AnimalWarcall.label>
@@ -16,7 +16,7 @@
   <FireBurst.label>화염방사</FireBurst.label>
   <FireBurst.description>불타는 연료를 사방으로 발사하여 바닥에 불웅덩이를 생성합니다.</FireBurst.description>
   
-  <FireSpew.label>불똥</FireSpew.label>
+  <FireSpew.label>불뱉기</FireSpew.label>
   <FireSpew.description>입으로 끈적이는 가연성 소화액을 토해냅니다. 이는 닿는 사람이나 물건을 불태우며, 바닥에 불타는 웅덩이를 남깁니다.\n\n소화액은 목 안쪽 기관에서 생성되고 저장되며, 그 옆에는 점화용으로 사용되는 자가발화물질이 담겨있는 주머니가 위치해 있습니다.</FireSpew.description>
   
   <FirefoampopMech.label>소방거품 분사</FirefoampopMech.label>
@@ -41,7 +41,7 @@
   <PiercingSpine.description>혈액 내의 물질을 반응시켜 날카로운 척추뼈를 쏘아보냅니다. 척추는 쇄골 사이의 틈을 지나 피부를 뚫고 나옵니다. 발사 방식 특성상 조준은 간단한 편입니다.</PiercingSpine.description>
   
   <ReimplantXenogerm.label>유전자 이식</ReimplantXenogerm.label>
-  <ReimplantXenogerm.description>Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected.</ReimplantXenogerm.description>
+  <ReimplantXenogerm.description>해당 사람의 변형인자를 특별한 주입기를 사용하여 원하는 피험자에게 이식합니다. 해당 사람의 유전자가 현재 재성장 중이면 변형이식체를 이식하고 그 과정에서 죽습니다.\n\n이식되면 변형이식체는 대상의 변형인자를 덮어씁니다. 생식성 유전자는 영향을 받지 않습니다.</ReimplantXenogerm.description>
   
   <Resurrect.label>부활</Resurrect.label>
   <Resurrect.description>혈액에 초월입자를 사용함으로써 시체에 새로운 생명을 불어넣어, 파괴된 세포 구조를 복구하고 생체 기능을 재활성화합니다. 시체가 온전할 수록, 기억이나 건강상태가 온전할 가능성이 큽니다.

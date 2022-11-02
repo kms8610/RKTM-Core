@@ -4,7 +4,7 @@
   <Blacksmith72.title>대장장이</Blacksmith72.title>
   <Blacksmith72.titleShort>대장장이</Blacksmith72.titleShort>
   
-  <Herbalist54.baseDesc>{PAWN_nameDef}(은)는 마을 근처의 숲에 살았습니다. 많은 마을 사람들은 {PAWN_pronoun}를 무서워했지만, 병에 걸리면 {PAWN_nameDef}의 집을 찾아와서 정원의 약초로 만든 연고와 습포제를 사곤 했습니다. {PAWN_nameDef}(은)는 사람들을 도와줄 수 있어 행복했습니다. 가격을 꽤 부르긴 했지만요.</Herbalist54.baseDesc>
+  <Herbalist54.baseDesc>{PAWN_nameDef}(은)는 마을 근처의 숲에 살았습니다. 많은 마을 사람들은 {PAWN_pronoun}를 무서워했지만, 병에 걸리면 제일 먼저 {PAWN_pronoun}의 집을 찾아와서 정원의 약초로 만든 연고와 습포제를 사갔습니다. {PAWN_nameDef}(은)는 사람들을 도와줄 수 있어 행복했습니다. 가격을 꽤 부르긴 했지만요.</Herbalist54.baseDesc>
   <Herbalist54.title>약초꾼</Herbalist54.title>
   <Herbalist54.titleShort>약초꾼</Herbalist54.titleShort>
   
@@ -20,7 +20,7 @@
   <MedievalLord57.title>중세 영주</MedievalLord57.title>
   <MedievalLord57.titleShort>귀족</MedievalLord57.titleShort>
   
-  <MedievalMinstrel95.baseDesc>{PAWN_nameDef}(은)는 중세계의 방랑 시인이었습니다.\n\n{PAWN_pronoun}는 항상 이야기를 하거나 노래를 부르는 모습이었고, 여행길에서 마주칠 위협에서 스스로 보호할 능력이 있었습니다. 하지만 힘든 육체노동을 해야 할 때는 수상하게도 항상 찾기 힘들었습니다.</MedievalMinstrel95.baseDesc>
+  <MedievalMinstrel95.baseDesc>{PAWN_nameDef}(은)는 중세계의 방랑 시인이었습니다.\n\n{PAWN_pronoun}는 항상 이야기를 하거나 노래를 부르는 모습이었고, 여행길에서 마주칠 수 있는 위협에서 스스로 보호할 능력이 있었습니다. 하지만 힘든 육체노동을 해야 할 때는 수상하게도 항상 찾기 힘들었습니다.</MedievalMinstrel95.baseDesc>
   <MedievalMinstrel95.title>중세 음유시인</MedievalMinstrel95.title>
   <MedievalMinstrel95.titleShort>음유시인</MedievalMinstrel95.titleShort>
   

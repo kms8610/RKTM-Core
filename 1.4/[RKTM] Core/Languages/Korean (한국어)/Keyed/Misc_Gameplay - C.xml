@@ -101,11 +101,11 @@
   <CaravanEstimatedTimeToDestination>목적지 예상 도착 시간: {0}일</CaravanEstimatedTimeToDestination>
   <CaravanEstimatedDaysToDestination>도착 예정일: {0}</CaravanEstimatedDaysToDestination>
   <CaravanImmobilizedByMass>이동 불가: 너무 무거움.</CaravanImmobilizedByMass>
-  <CaravanOutOfFood>식량 고갈.</CaravanOutOfFood>
+  <CaravanOutOfFood>식량 고갈</CaravanOutOfFood>
   <CaravanDaysOfFood>남은 식량: {0}</CaravanDaysOfFood>
-  <CaravanDaysOfFoodRot>남은 식량: {0}, {1}일 내로 부패</CaravanDaysOfFoodRot>
-  <AllCaravanMembersDowned>멈춤: 모두 쓰러짐.</AllCaravanMembersDowned>
-  <AllCaravanMembersMentalBreak>멈춤: 모든 구성원의 정신이상.</AllCaravanMembersMentalBreak>
+  <CaravanDaysOfFoodRot>남은 식량: {0} ({1}일 후 부패)</CaravanDaysOfFoodRot>
+  <AllCaravanMembersDowned>멈춤: 모든 구성원 쓰러짐</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>멈춤: 모든 구성원 정신이상</AllCaravanMembersMentalBreak>
   <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
   <CaravanAnimal>동물 1마리</CaravanAnimal>
   <CaravanAnimalsCount>동물 {0}마리</CaravanAnimalsCount>
@@ -127,7 +127,7 @@
   <CaravanEntering>{0} 진입 중</CaravanEntering>
   <CaravanAttacking>{0} 공격 중</CaravanAttacking>
   <CaravanOfferingGifts>{0}에게 선물 제공 중</CaravanOfferingGifts>
-  <CaravanTrading>{0}(와)과 거래 중.</CaravanTrading>
+  <CaravanTrading>{0}(와)과 거래 중</CaravanTrading>
   <WasWornByCorpse>시체에서 벗겼기 때문에 찝찝합니다.</WasWornByCorpse>
   <WornByCorpseChar>유품</WornByCorpseChar>
   <DeterioratingUnroofed>지붕 없음</DeterioratingUnroofed>

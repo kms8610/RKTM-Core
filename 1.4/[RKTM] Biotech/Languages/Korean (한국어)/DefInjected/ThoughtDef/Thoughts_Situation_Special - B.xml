@@ -78,10 +78,10 @@
   <PregnancyMood_Up.stages.pregnancy_mood_up.label>임신 기분: 좋음</PregnancyMood_Up.stages.pregnancy_mood_up.label>
   <PregnancyMood_Up.stages.pregnancy_mood_up.description>오늘은 모든게 조금 더 즐겁네. 임신은 좋은거같아.</PregnancyMood_Up.stages.pregnancy_mood_up.description>
   
-  <PsychicBondProximity.stages.psychic_bond.label>초정신적 유대</PsychicBondProximity.stages.psychic_bond.label>
-  <PsychicBondProximity.stages.psychic_bond.description>The bond brings us together, sharing feelings and thoughts. It's like a friend who is always with me.</PsychicBondProximity.stages.psychic_bond.description>
-  <PsychicBondProximity.stages.psychic_bond_distance.label>초정신적 유대 거리</PsychicBondProximity.stages.psychic_bond_distance.label>
-  <PsychicBondProximity.stages.psychic_bond_distance.description>The distance makes it so hard to hear. I feel alone, like standing in a dark, silent cavern.</PsychicBondProximity.stages.psychic_bond_distance.description>
+  <PsychicBondProximity.stages.psychic_bond.label>정신결속</PsychicBondProximity.stages.psychic_bond.label>
+  <PsychicBondProximity.stages.psychic_bond.description>유대가 우리를 하나로 만들어 감정과 생각을 공유하게 한다. 이건 친구가 항상 나와 함께하는 기분이야.</PsychicBondProximity.stages.psychic_bond.description>
+  <PsychicBondProximity.stages.psychic_bond_distance.label>정신결속 (멂)</PsychicBondProximity.stages.psychic_bond_distance.label>
+  <PsychicBondProximity.stages.psychic_bond_distance.description>거리가 멀어서 교감이 잘 안돼. 어둡고 조용한 동굴 안에서 홀로 서있는, 그런 외로운 기분이야.</PsychicBondProximity.stages.psychic_bond_distance.description>
   
   <Recluse.stages.recluse_alone.label>홀로 은둔</Recluse.stages.recluse_alone.label>
   <Recluse.stages.recluse_alone.description>다른사람 생각을 안해도 되서 너무나 다행이야.</Recluse.stages.recluse_alone.description>
@@ -93,11 +93,11 @@
   <Recluse.stages.recluse_very_crowded.description>같이 일해야되는 사람들이 너무도 많아. 이건 너무 지나치다고.</Recluse.stages.recluse_very_crowded.description>
   
   <ScanningSickness.stages.scanning_sickness.label>스캔 후유증</ScanningSickness.stages.scanning_sickness.label>
-  <ScanningSickness.stages.scanning_sickness.description>Ever since that scan I've been dizzy and I can't think.</ScanningSickness.stages.scanning_sickness.description>
+  <ScanningSickness.stages.scanning_sickness.description>스캔 한 이후로 머리가 너무 어지럽고 생각하기도 힘들어.</ScanningSickness.stages.scanning_sickness.description>
   
   <SunlightSensitivity_Major.stages.sunlight_sensitivity.label>햇빛 과반응</SunlightSensitivity_Major.stages.sunlight_sensitivity.label>
-  <SunlightSensitivity_Major.stages.sunlight_sensitivity.description>The sunlight burns my eyes and my skin feels like it's being scorched.</SunlightSensitivity_Major.stages.sunlight_sensitivity.description>
+  <SunlightSensitivity_Major.stages.sunlight_sensitivity.description>태양빛이 내 눈과 피부를 태워버리는 듯해.</SunlightSensitivity_Major.stages.sunlight_sensitivity.description>
   
   <SunlightSensitivity_Mild.stages.sunlight_sensitivity.label>햇빛 과반응</SunlightSensitivity_Mild.stages.sunlight_sensitivity.label>
-  <SunlightSensitivity_Mild.stages.sunlight_sensitivity.description>The sun hurts my eyes and my skin is tingling unpleasantly.</SunlightSensitivity_Mild.stages.sunlight_sensitivity.description>
+  <SunlightSensitivity_Mild.stages.sunlight_sensitivity.description>태양이 눈을 아프게 하고 피부를 따끔거리게 해서 불쾌해.</SunlightSensitivity_Mild.stages.sunlight_sensitivity.description>
 </LanguageData>

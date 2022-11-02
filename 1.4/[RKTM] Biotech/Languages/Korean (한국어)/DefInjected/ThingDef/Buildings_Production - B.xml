@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <LargeMechGestator.label>대형 메카노이드 배양기</LargeMechGestator.label>
-  <LargeMechGestator.description>A tank of mechanite-rich fluid with support tubes for feeding in materials and nutrients. Mechanitors can use it to produce new mechanoids or to resurrect dead mechanoids. This tier of mech gestator is capable of generating medium, heavy, and ultraheavy mechs.\n\nThe process uses harsh chemicals which are stored in toxic wastepacks. Haulers must remove the wastepacks from time to time.</LargeMechGestator.description>
+  <LargeMechGestator.description>메카나이트가 풍부한 액체를 담은 수조와, 수조에 재료와 영양분을 공급할 배관이 달려있는 장치입니다. 메카나이터는 배양기를 사용해서 새로운 메카노이드를 생성하거나 파괴된 메카노이드를 소생할 수 있습니다. 이 배양기는 중형, 대형, 초대형 메카노이드를 배양할 수 있습니다.\n\n메카노이드 배양에는 독한 화학물질이 필요하며 부산물은 독성 폐기물로 내부에 보관됩니다. 보관량에는 한계가 있으므로 폐기물은 계속 비워줘야 합니다.</LargeMechGestator.description>
   
   <MechGestator.label>메카노이드 배양기</MechGestator.label>
-  <MechGestator.description>재료와 영양분을 공급하기 위한 배관이 달려있는 장치입니다. 수조 안에는 메카나이트가 다량 함유된 액체를 담겨있습니다. 기계공학자는 이 장치를 사용하여 새로운 메카노이드를 생성하거나 파괴된 메카노이드를 부활시킬 수 있습니다. 이 기본 형태의 배양기는 소형 메카노이드만 잉태할 수 있습니다.\n\n이 작업은 독한 화학물질을 사용하게 되는데, 이때 생성되는 폐기물은 독성 폐기물팩의 형태로 저장됩니다. 여기서 생기는 폐기물은 종종 비워줘야 합니다.</MechGestator.description>
+  <MechGestator.description>메카나이트가 풍부한 액체를 담은 수조와, 수조에 재료와 영양분을 공급할 배관이 달려있는 장치입니다. 메카나이터는 배양기를 사용해서 새로운 메카노이드를 생성하거나 파괴된 메카노이드를 소생할 수 있습니다. 이 배양기는 기본 형태며 소형 메카노이드만 배양할 수 있습니다.\n\n메카노이드 배양에는 독한 화학물질이 필요하며 부산물은 독성 폐기물로 내부에 보관됩니다. 보관량에는 한계가 있으므로 폐기물은 계속 비워줘야 합니다.</MechGestator.description>
   
   <SubcoreEncoder.label>서브코어 부호기</SubcoreEncoder.label>
-  <SubcoreEncoder.description>메카나이터가 기초 등급 서브코어를 제작할 수 있는 제작대입니다. 서브코어는 메카노이드의 뇌와 같고, 모든 메카노이드 생산에는 서브코어 하나가 필요합니다. 기초 서브코어는 단순한 기초 등급 메카노이드와만 호환됩니다.\n\n고등급 서브코어는 서브코어 소프트스캐너와 서브코어 립스캐너에서 생산할 수 있습니다.</SubcoreEncoder.description>
+  <SubcoreEncoder.description>기계공학자가 기초 등급 서브코어를 제작할 수 있는 제작대입니다. 서브코어는 메카노이드의 뇌와 같고, 모든 메카노이드 생산에는 서브코어 하나가 필요합니다. 기초 서브코어는 단순한 기초 등급 메카노이드와만 호환됩니다.\n\n고등급 서브코어는 서브코어 소프트스캐너와 서브코어 립스캐너에서 생산할 수 있습니다.</SubcoreEncoder.description>
   
   <SubcoreRipscanner.label>서브코어 립스캐너</SubcoreRipscanner.label>
   <SubcoreRipscanner.description>수천 개의 탐침 주사기와, 뇌를 통째로 증발시킬 수 있을 정도의 초고출력 스캐너로 구성된 장치입니다. 사람이 탑승하면 전신에 걸쳐 탐침을 피부 아래로 찌르고, 스캐너가 고출력 에너지를 조사하여 모든 반응을 기록합니다. 이 과정에서 탑승자의 뇌는 파괴됩니다. 의식의 립스캐닝을 통해 고등급 메카노이드 서브코어로 아날로그 전송 가능한 신경-정신 패턴을 얻을 수 있습니다.\n\n서브코어는 메카노이드의 뇌와 같고, 모든 메카노이드 생산에는 서브코어 하나가 필요합니다. 립스캐닝으로 제작한 고등급 서브코어는 고등급 메카노이드와만 호환됩니다.</SubcoreRipscanner.description>

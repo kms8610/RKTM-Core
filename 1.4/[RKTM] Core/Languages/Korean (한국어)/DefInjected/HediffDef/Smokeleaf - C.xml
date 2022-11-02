@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <SmokeleafAddiction.label>연초 의존증</SmokeleafAddiction.label>
-  <SmokeleafAddiction.description>연초에 중독되었습니다. 연초 없이는, 더이상 뇌가 제대로 기능하지 못합니다.\n\n연초를 정기적으로 피우지 않으면 금단증상이 오게 됩니다. 그러나 연초를 끊고 금단증상을 버티면 뇌가 정상으로 돌아가 중독에서 벗어날 수 있습니다.</SmokeleafAddiction.description>
+  <SmokeleafAddiction.description>연초에 중독됐습니다. 연초를 장기간 흡연하면 신경세포 단위의 적응 현상이 발생하여 연초 없이는 뇌가 제대로 기능할 수 없습니다.\n\n정기적인 연초 흡연을 하지 않으면 금단 현상이 나타납니다. 하지만 계속 흡연하지 않으면 뇌가 정상적인 상태로 회복하므로 중독에서 벗어날 수 있습니다.</SmokeleafAddiction.description>
   <SmokeleafAddiction.stages.withdrawal.label>금단 현상</SmokeleafAddiction.stages.withdrawal.label>
   
   <SmokeleafHigh.label>연초에 취함</SmokeleafHigh.label>

@@ -24,7 +24,7 @@
   <Construction.pawnLabel>건설</Construction.pawnLabel>
   <Construction.verb>건설</Construction.verb>
   
-  <Cooking.description>음식을 준비하고 도축을 합니다.</Cooking.description>
+  <Cooking.description>음식을 준비하고 도체를 정형해 고기를 얻습니다.</Cooking.description>
   <Cooking.gerundLabel>조리</Cooking.gerundLabel>
   <Cooking.labelShort>조리</Cooking.labelShort>
   <Cooking.pawnLabel>조리</Cooking.pawnLabel>
@@ -54,13 +54,13 @@
   <Growing.pawnLabel>재배</Growing.pawnLabel>
   <Growing.verb>재배</Growing.verb>
   
-  <Handling.description>동물을 길들이고, 돌보고, 축산물을 채집하고, 도축합니다.</Handling.description>
+  <Handling.description>동물을 길들이고, 돌보고, 젖과 털 등을 채집하고, 도축합니다.</Handling.description>
   <Handling.gerundLabel>조련</Handling.gerundLabel>
   <Handling.labelShort>조련</Handling.labelShort>
   <Handling.pawnLabel>조련</Handling.pawnLabel>
   <Handling.verb>조련</Handling.verb>
   
-  <Hauling.description>짐을 필요한 곳으로 옮깁니다.</Hauling.description>
+  <Hauling.description>물품들이 있어야 하는 곳으로 옮깁니다.</Hauling.description>
   <Hauling.gerundLabel>운반</Hauling.gerundLabel>
   <Hauling.labelShort>운반</Hauling.labelShort>
   <Hauling.pawnLabel>운반</Hauling.pawnLabel>
@@ -90,19 +90,19 @@
   <PatientBedRest.pawnLabel>휴식</PatientBedRest.pawnLabel>
   <PatientBedRest.verb>요양</PatientBedRest.verb>
   
-  <PlantCutting.description>지정한 식물을 제거하거나 작물을 수확합니다.</PlantCutting.description>
+  <PlantCutting.description>지정한 식물을 제거하거나 수확합니다.</PlantCutting.description>
   <PlantCutting.gerundLabel>제초/벌목</PlantCutting.gerundLabel>
   <PlantCutting.labelShort>제초/벌목</PlantCutting.labelShort>
   <PlantCutting.pawnLabel>제초/벌목</PlantCutting.pawnLabel>
   <PlantCutting.verb>제초/벌목</PlantCutting.verb>
   
-  <Research.description>연구과제가 등록된 경우 연구를 실행합니다.</Research.description>
+  <Research.description>연구과제를 진행합니다.</Research.description>
   <Research.gerundLabel>연구</Research.gerundLabel>
   <Research.labelShort>연구</Research.labelShort>
   <Research.pawnLabel>연구</Research.pawnLabel>
   <Research.verb>연구</Research.verb>
   
-  <Smithing.description>단조와 가공으로 무기와 도구를 제작합니다. 기계공이라면 메카노이드도 수리합니다.</Smithing.description>
+  <Smithing.description>단조와 가공으로 무기와 도구를 제작합니다. 메카나이터라면 메카노이드를 수리합니다.</Smithing.description>
   <Smithing.gerundLabel>제련</Smithing.gerundLabel>
   <Smithing.labelShort>제련</Smithing.labelShort>
   <Smithing.pawnLabel>제련</Smithing.pawnLabel>
@@ -114,7 +114,7 @@
   <Tailoring.pawnLabel>재봉</Tailoring.pawnLabel>
   <Tailoring.verb>재단</Tailoring.verb>
   
-  <Warden.description>수감자들을 관리하고 먹이며, 말을 걸고 포섭합니다.</Warden.description>
+  <Warden.description>수감자들을 관리하고 먹이며, 대화를 나누고 포섭합니다.</Warden.description>
   <Warden.gerundLabel>간수</Warden.gerundLabel>
   <Warden.labelShort>간수</Warden.labelShort>
   <Warden.pawnLabel>간수</Warden.pawnLabel>

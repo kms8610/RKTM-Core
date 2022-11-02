@@ -7,7 +7,7 @@
   <CancerRate.description>암에 걸릴 확률에 대한 계수입니다.</CancerRate.description>
   
   <ControlTakingTime.label>제어에 소모되는 시간</ControlTakingTime.label>
-  <ControlTakingTime.description>기계공학자가 이 메카노이드를 제어하는데 걸리는 시입니다.</ControlTakingTime.description>
+  <ControlTakingTime.description>기계공학자가 이 메카노이드를 제어하는데 걸리는 시간입니다.</ControlTakingTime.description>
   <ControlTakingTime.formatString>{0}초</ControlTakingTime.formatString>
   
   <EMPResistance.label>EMP 저항력</EMPResistance.label>
@@ -23,39 +23,39 @@
   <MechBandwidth.description>기계공학자가 가진 대역폭입니다. 대역폭은 기계공학자가 한번에 제어하고 배양할 수있는 메카노이드 수를 나타냅니다.\n\n대역폭이 감소하면 메카노이드 통제를 잃는 것이며, 통제관을 잃은 상태로 장기간 유지되면 메카노이드들은 제어불가 상태가 될 수 있습니다.</MechBandwidth.description>
   
   <MechControlGroups.label>제어중인 메카노이드 수</MechControlGroups.label>
-  <MechControlGroups.description>How many control groups this mechanitor can direct independently. Each control group can be given its own separate orders.</MechControlGroups.description>
+  <MechControlGroups.description>기계공학자가 독립적으로 통제할 수 있는 제어집단의 수입니다. 각 제어집단은 고유한 별도의 명령을 수행할 수 있습니다.</MechControlGroups.description>
   
   <MechEnergyLossPerHP.label>수리에 소모되는 에너지량</MechEnergyLossPerHP.label>
-  <MechEnergyLossPerHP.description>The amount of energy that this mechanoid loses for every 100 damage repaired.</MechEnergyLossPerHP.description>
+  <MechEnergyLossPerHP.description>수리시 100 피해당 해당 메카노이드가 소모하는 에너지의 양입니다.</MechEnergyLossPerHP.description>
   
   <MechEnergyUsageFactor.label>에너지 소모 배수</MechEnergyUsageFactor.label>
-  <MechEnergyUsageFactor.description>A multiplier on how fast a mechanoid consumes its energy reserves while operating.</MechEnergyUsageFactor.description>
+  <MechEnergyUsageFactor.description>메카노이드가 작동하는 동안 에너지를 얼마나 빨리 소모하는지에 대한 배수입니다.</MechEnergyUsageFactor.description>
   
-  <MechFormingSpeed.label>메카노이드 잉태 속도</MechFormingSpeed.label>
-  <MechFormingSpeed.description>A multiplier on the speed at which this mechanitor can form new mechanoids at a gestator.</MechFormingSpeed.description>
+  <MechFormingSpeed.label>메카노이드 배양 속도</MechFormingSpeed.label>
+  <MechFormingSpeed.description>기계공학자가 배양기에서 새로운 메카노이드를 배양하는 속도의 계수입니다.</MechFormingSpeed.description>
   
   <MechRemoteRepairDistance.label>메카노이드 원격 수리 거리</MechRemoteRepairDistance.label>
-  <MechRemoteRepairDistance.description>How far away a mech can be during remote repair.</MechRemoteRepairDistance.description>
+  <MechRemoteRepairDistance.description>원격 수리를 하는 도중에 지속가능한 메카노이드와의 거리입니다.</MechRemoteRepairDistance.description>
   
   <MechRemoteShieldDistance.label>메카노이드 원격 보호막 거리</MechRemoteShieldDistance.label>
-  <MechRemoteShieldDistance.description>The maximum range at which a mechanitor can place a shield on a mechanoid.</MechRemoteShieldDistance.description>
+  <MechRemoteShieldDistance.description>메카나이터가 메카노이드에게 방어막을 배치할 수 있는 최대 범위입니다.</MechRemoteShieldDistance.description>
   
-  <MechRemoteShieldEnergy.label>mech remote shield energy</MechRemoteShieldEnergy.label>
-  <MechRemoteShieldEnergy.description>The energy a remote shield will have when created by a mechanitor.</MechRemoteShieldEnergy.description>
+  <MechRemoteShieldEnergy.label>메카노이드 원격 보호막 에너지</MechRemoteShieldEnergy.label>
+  <MechRemoteShieldEnergy.description>메카나이터가 원격 보호막을 생성할 시 생기는 보호막의 총량</MechRemoteShieldEnergy.description>
   
   <MechRepairSpeed.label>메카노이드 수리 속도</MechRepairSpeed.label>
-  <MechRepairSpeed.description>A multiplier on how fast a mechanitor can repair mechanoids.</MechRepairSpeed.description>
+  <MechRepairSpeed.description>기계공학자가 메카노이드를 얼마나 빨리 수리할 수 있는지에 대한 계수입니다.</MechRepairSpeed.description>
   
   <RawNutritionFactor.label>날음식 영양분 배수</RawNutritionFactor.label>
   <RawNutritionFactor.description>이 사람에게 생식이 얼마만큼 효율적인지 나타냅니다. 조리된 식사는 주로 재료보다 영양 흡수율이 높으므로, 이 수치가 높아져도 그저 조리된 식사 만큼의 영양분을 얻게되는 상황일 수도 있습니다.</RawNutritionFactor.description>
   
   <RestFallRateFactor.label>피로 누적 속도</RestFallRateFactor.label>
-  <RestFallRateFactor.description>A multiplier on the speed that a person's sleep need falls.</RestFallRateFactor.description>
+  <RestFallRateFactor.description>사람의 수면 욕구 충족도가 떨어지는 속도에 대한 계수입니다.</RestFallRateFactor.description>
   
   <SubcoreEncodingSpeed.label>서브코어 인코딩 속도</SubcoreEncodingSpeed.label>
-  <SubcoreEncodingSpeed.description>A multiplier on how fast a mechanitor can create subcores.</SubcoreEncodingSpeed.description>
+  <SubcoreEncodingSpeed.description>기계공학자가 얼마나 빨리 서브코어를 생성할 수 있는지에 대한 계수입니다.</SubcoreEncodingSpeed.description>
   
-  <WastepacksPerRecharge.label>wastepacks per recharge</WastepacksPerRecharge.label>
-  <WastepacksPerRecharge.description>How many toxic wastepacks this mechanoid will generate at a mech recharger when going from 0 to 100% energy. Larger mechanoids will generally create more toxic wastepacks.</WastepacksPerRecharge.description>
-  <WastepacksPerRecharge.statFactorsExplanationHeader>Relevant stats</WastepacksPerRecharge.statFactorsExplanationHeader>
+  <WastepacksPerRecharge.label>재충전당 폐기물</WastepacksPerRecharge.label>
+  <WastepacksPerRecharge.description>해당 메카노이드의 에너지를 0에서 100%까지 충전하는 동안 메카노이드 충전기에서 얼마나 많은 유독성 폐기물을 생성하는지 표시합니다. 더 큰 메카노이드는 일반적으로 더 많은 독성 폐기물을 생성합니다.</WastepacksPerRecharge.description>
+  <WastepacksPerRecharge.statFactorsExplanationHeader>관련 통계</WastepacksPerRecharge.statFactorsExplanationHeader>
 </LanguageData>

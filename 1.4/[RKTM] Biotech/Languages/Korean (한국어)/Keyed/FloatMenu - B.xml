@@ -28,19 +28,19 @@
   <OccupantEjectedFromGrowthVat>{PAWN_nameDef}(이)가 성장수조에서 배출됨</OccupantEjectedFromGrowthVat>
   <TooOld>{PAWN_nameDef}(이)가 {AGEYEARS}살 미만이어야 합니다.</TooOld>
   <PawnIsTooOld>{PAWN_nameDef}의 나이가 너무 많습니다.</PawnIsTooOld>
-  <PawnBiostarving>{PAWN_nameDef} is suffering from biostarvation.</PawnBiostarving>
+  <PawnBiostarving>{PAWN_nameDef}(은)는 생물 기아에 시달리고 있습니다.</PawnBiostarving>
   <NoViablePawns>가능한 사람 없음</NoViablePawns>
   <NoExtractablePawns>추출 가능한 사람 없음</NoExtractablePawns>
   <NoImplantablePawns>이식 가능한 사람 없음</NoImplantablePawns>
   <CannotEnterBuilding>{0_labelShort}에 들어갈 수 없습니다</CannotEnterBuilding>
   <AssignedToOtherPawn>{0_labelShort}(은)는 다른사람에게 할당되어있습니다</AssignedToOtherPawn>
 
-  <AbsorbXenogerm>Absorb xenogerm of {PAWN_nameDef}</AbsorbXenogerm>
-  <CannotAbsorbXenogerm>Cannot absorb {PAWN_nameDef}'s xenogerm</CannotAbsorbXenogerm>
+  <AbsorbXenogerm>{PAWN_nameDef}의 변형이식체 흡수</AbsorbXenogerm>
+  <CannotAbsorbXenogerm>{PAWN_nameDef}의 변형이식체를 흡수할 수 없음</CannotAbsorbXenogerm>
   <SameXenotype>{PAWN_nameDef}(은)는 이미 {PAWN_xenotype}입니다.</SameXenotype>
-  <XenogermLossShockPresent>{PAWN_nameDef} suffering from xenogerm loss shock</XenogermLossShockPresent>
-  <CarryToSpecificThing>Carry to {0_labelShort}</CarryToSpecificThing>
-  <NoCasketOrBed>No reachable, un-reserved bed or deathrest casket in safe temperature.</NoCasketOrBed>
+  <XenogermLossShockPresent>{PAWN_nameDef}(은)는 변형이식체 손실 충격으로 고통받음</XenogermLossShockPresent>
+  <CarryToSpecificThing>{0_labelShort}로 이동</CarryToSpecificThing>
+  <NoCasketOrBed>안전한 온도에서 사용할 수 있는 할당되지 않은 침대 또는 죽음안식 관이 없습니다.</NoCasketOrBed>
   <TemporaryFactionMember>{PAWN_nameDef}(은)는 임시 구성원입니다.</TemporaryFactionMember>
 
   <SubcoreScannerNotInit>스캐너가 초기화되지 않음</SubcoreScannerNotInit>
@@ -65,11 +65,11 @@
   <BreastfeedFailReason_BabyForbiddenToMom>{MOM_labelShort}(와)과 {BABY_labelShort}의 상호작용 금지됨</BreastfeedFailReason_BabyForbiddenToMom>
   <BreastfeedFailReason_BabyForbiddenToHauler>{HAULER_labelShort}(와)과 {BABY_labelShort}의 상호작용 금지됨</BreastfeedFailReason_BabyForbiddenToHauler>
   <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort}(와)과 {HAULER_labelShort}의 상호작용 금지됨</BreastfeedFailReason_MomForbiddenToHauler>
-  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort} can breastfeed {BABY_labelShort} without help</BreastfeedFailReason_MomIsMobile>
-  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} cannot go from {BABY_labelShort} to {MOM_labelShort}</BreastfeedFailReason_HaulerCannotReachMom>
-  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} cannot reach {BABY_labelShort}</BreastfeedFailReason_HaulerCannotReachBaby>
-  <BreastfeedFailReason_NoMomsAssignedToBaby>No lactating {BABY_factionPawnsPlural} are assigned to {BABY_labelShort}</BreastfeedFailReason_NoMomsAssignedToBaby>
-  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} is not assigned to childcare</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort}(은)는 도움 없이 {BABY_labelShort}에게 모유 수유를 할 수 있습니다.</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort}(은)는 {BABY_labelShort}에서 {MOM_labelShort}(으)로 이동할 수 없습니다.</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort}(은)는 {BABY_labelShort}에게 도달할 수 없습니다.</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_NoMomsAssignedToBaby>수유 중인 {BABY_factionPawnsPlural}(이)가 {BABY_labelShort}에 할당되지 않았습니다.</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort}(은)는 보육에 할당되지 않았습니다.</BreastfeedFailReason_MomNotAssignedToChildcare>
 
   <OrderImplantationIntoPawn>{PAWN_nameDef}에 이식 명령</OrderImplantationIntoPawn>
   <AcceptXenogerm>{0_xenotype} 변형이식체 수용</AcceptXenogerm>
@@ -82,7 +82,7 @@
   <AlreadyStudied>이미 연구함</AlreadyStudied>
   <NoResearchBench>도달 가능하고 사용 중이지 않은 연구 작업대 없음</NoResearchBench>
 
-  <NotAllowedHemogen>Hemogen packs disabled by food restriction.</NotAllowedHemogen>
+  <NotAllowedHemogen>식량 정책으로 인해 혈액팩이 금지되었습니다.</NotAllowedHemogen>
 
   <EjectGenepackFromGeneBank>유전자 저장고에서 유전자묶음 꺼내기</EjectGenepackFromGeneBank>
 

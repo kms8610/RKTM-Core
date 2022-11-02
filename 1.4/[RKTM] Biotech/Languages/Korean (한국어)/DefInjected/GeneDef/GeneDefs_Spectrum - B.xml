@@ -11,7 +11,7 @@
   
   <Aggression_DeadCalm.label>냉정</Aggression_DeadCalm.label>
   <Aggression_DeadCalm.description>보인자는 모든 상황에서 침착함을 느끼고 매우 침착한 태도를 보입니다. 그들은 사회적 싸움을 시작하지 않으며 공격적인 정신 이상 상태를 일으키지 않습니다.</Aggression_DeadCalm.description>
-  <Aggression_DeadCalm.labelShortAdj>침착함</Aggression_DeadCalm.labelShortAdj>
+  <Aggression_DeadCalm.labelShortAdj>냉정</Aggression_DeadCalm.labelShortAdj>
   <Aggression_DeadCalm.symbolPack.prefixSymbols.0.symbol>부동</Aggression_DeadCalm.symbolPack.prefixSymbols.0.symbol>
   <Aggression_DeadCalm.symbolPack.prefixSymbols.1.symbol>평온</Aggression_DeadCalm.symbolPack.prefixSymbols.1.symbol>
   <Aggression_DeadCalm.symbolPack.prefixSymbols.2.symbol>안정</Aggression_DeadCalm.symbolPack.prefixSymbols.2.symbol>
@@ -106,7 +106,7 @@
   
   <MaxTemp_LargeIncrease.label>열기 초적응력</MaxTemp_LargeIncrease.label>
   <MaxTemp_LargeIncrease.description>보인자의 최대 적응 온도가 훨씬 높아집니다.</MaxTemp_LargeIncrease.description>
-  <MaxTemp_LargeIncrease.labelShortAdj>더움</MaxTemp_LargeIncrease.labelShortAdj>
+  <MaxTemp_LargeIncrease.labelShortAdj>열기 초적응</MaxTemp_LargeIncrease.labelShortAdj>
   <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.0.symbol>뜨거운</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.0.symbol>
   <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.1.symbol>따듯한</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.1.symbol>
   <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.2.symbol>태양</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.2.symbol>
@@ -115,13 +115,13 @@
   
   <MaxTemp_SmallDecrease.label>열기에 약함</MaxTemp_SmallDecrease.label>
   <MaxTemp_SmallDecrease.description>보인자의 최대 적응 온도가 약간 낮아집니다.</MaxTemp_SmallDecrease.description>
-  <MaxTemp_SmallDecrease.labelShortAdj>시원함</MaxTemp_SmallDecrease.labelShortAdj>
+  <MaxTemp_SmallDecrease.labelShortAdj>열기 약함</MaxTemp_SmallDecrease.labelShortAdj>
   <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>추운</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>
   <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>서늘</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>
   
   <MaxTemp_SmallIncrease.label>열기 적응</MaxTemp_SmallIncrease.label>
   <MaxTemp_SmallIncrease.description>보인자의 최대 적응 온도가 약간 높아집니다.</MaxTemp_SmallIncrease.description>
-  <MaxTemp_SmallIncrease.labelShortAdj>warm</MaxTemp_SmallIncrease.labelShortAdj>
+  <MaxTemp_SmallIncrease.labelShortAdj>열기 적응</MaxTemp_SmallIncrease.labelShortAdj>
   <MaxTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>따듯한</MaxTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>
   
   <MeleeDamage_Strong.label>강한 근접 공격</MeleeDamage_Strong.label>
@@ -308,12 +308,12 @@
   <Sleepy.symbolPack.suffixSymbols.0.symbol>피곤</Sleepy.symbolPack.suffixSymbols.0.symbol>
   
   <ToxResist_Partial.label>독성 저항</ToxResist_Partial.label>
-  <ToxResist_Partial.description>보인자는 오염된 지형, 유독성 낙진, 독성 가스, 혹은 직접적인 독 주입을 포함한 모든 독성 축적에 내성이 있습니다. 그들은 다른 이들에 비해 절반만큼의 독이 축적됩니다.\n\n허파와 피부 내에 있는 세포필터가 혈액으로 들어가는 독소의 양을 줄입니다.</ToxResist_Partial.description>
+  <ToxResist_Partial.description>보인자는 오염된 지형, 유독성 낙진, 독소 가스, 혹은 직접적인 독 주입을 포함한 모든 독성 축적에 내성이 있습니다. 그들은 다른 이들에 비해 절반만큼의 독이 축적됩니다.\n\n허파와 피부 내에 있는 세포필터가 혈액으로 들어가는 독소의 양을 줄입니다.</ToxResist_Partial.description>
   <ToxResist_Partial.labelShortAdj>독성저항</ToxResist_Partial.labelShortAdj>
   <ToxResist_Partial.symbolPack.prefixSymbols.0.symbol>독소</ToxResist_Partial.symbolPack.prefixSymbols.0.symbol>
   
   <ToxResist_Total.label>독성 면역</ToxResist_Total.label>
-  <ToxResist_Total.description>보인자는 오염된 지형, 유독성 낙진, 독성 가스, 혹은 직접적인 독 주입을 포함한 모든 독성 축적에 면역입니다. 또한 이들은 산성 스모그에 영향을 받지 않습니다.\n\n보인자의 생체화학 경로가 알려진 거의 모든 독소의 간섭을 우회하도록 수정되어있습니다. 또한 신장과 간의 기능이 향상되어 심각하게 오염된 환경에서도 보인자를 편하게 유지시켜줍니다.</ToxResist_Total.description>
+  <ToxResist_Total.description>보인자는 오염된 지형, 유독성 낙진, 독소 가스, 혹은 직접적인 독 주입을 포함한 모든 독성 축적에 면역입니다. 또한 이들은 산성 스모그에 영향을 받지 않습니다.\n\n보인자의 생체화학 경로가 알려진 거의 모든 독소의 간섭을 우회하도록 수정되어있습니다. 또한 신장과 간의 기능이 향상되어 심각하게 오염된 환경에서도 보인자를 편하게 유지시켜줍니다.</ToxResist_Total.description>
   <ToxResist_Total.customEffectDescriptions.0>독소 가스 면역</ToxResist_Total.customEffectDescriptions.0>
   <ToxResist_Total.labelShortAdj>독성면역</ToxResist_Total.labelShortAdj>
   <ToxResist_Total.symbolPack.prefixSymbols.0.symbol>독소</ToxResist_Total.symbolPack.prefixSymbols.0.symbol>

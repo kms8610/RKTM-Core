@@ -48,7 +48,7 @@
   <DoBillsMechGestator.gerund>에서 작업하기</DoBillsMechGestator.gerund>
   <DoBillsMechGestator.verb>작업</DoBillsMechGestator.verb>
   
-  <DoBillsSubcoreEncoder.label>make things at subcore encoder</DoBillsSubcoreEncoder.label>
+  <DoBillsSubcoreEncoder.label>서브코어 부호기에서 물건 만들기</DoBillsSubcoreEncoder.label>
   <DoBillsSubcoreEncoder.gerund>에서 작업하기</DoBillsSubcoreEncoder.gerund>
   <DoBillsSubcoreEncoder.verb>작업</DoBillsSubcoreEncoder.verb>
   
@@ -72,17 +72,17 @@
   <FeedHemogen.gerund>혈액정수 투여</FeedHemogen.gerund>
   <FeedHemogen.verb>혈액정수 투여</FeedHemogen.verb>
   
-  <HaulMechsToCharger.label>메카노이드를 충전소로 운반</HaulMechsToCharger.label>
+  <HaulMechsToCharger.label>메카노이드를 충전기로 운반</HaulMechsToCharger.label>
   <HaulMechsToCharger.gerund>옮기기</HaulMechsToCharger.gerund>
   <HaulMechsToCharger.verb>운반</HaulMechsToCharger.verb>
   
   <HaulToCarrier.label>자원은 모체로 운반</HaulToCarrier.label>
-  <HaulToCarrier.gerund>hauling to</HaulToCarrier.gerund>
-  <HaulToCarrier.verb>haul to</HaulToCarrier.verb>
+  <HaulToCarrier.gerund>운반</HaulToCarrier.gerund>
+  <HaulToCarrier.verb>운반</HaulToCarrier.verb>
   
   <HaulToGeneBank.label>유전자묶음 보관</HaulToGeneBank.label>
-  <HaulToGeneBank.gerund>banking</HaulToGeneBank.gerund>
-  <HaulToGeneBank.verb>bank</HaulToGeneBank.verb>
+  <HaulToGeneBank.gerund>보관</HaulToGeneBank.gerund>
+  <HaulToGeneBank.verb>보관</HaulToGeneBank.verb>
   
   <HaulToGrowthVat.label>성장촉진기로 옮기기</HaulToGrowthVat.label>
   <HaulToGrowthVat.gerund>채우기</HaulToGrowthVat.gerund>
@@ -90,7 +90,7 @@
   
   <HaulToSubcoreScanner.label>자원을 서브코어 스캐너로 운반</HaulToSubcoreScanner.label>
   <HaulToSubcoreScanner.gerund>운반 중</HaulToSubcoreScanner.gerund>
-  <HaulToSubcoreScanner.verb>haul to</HaulToSubcoreScanner.verb>
+  <HaulToSubcoreScanner.verb>운반</HaulToSubcoreScanner.verb>
   
   <HaulToWastepackAtomizer.label>폐기물 원자분해기로 자원을 운반</HaulToWastepackAtomizer.label>
   <HaulToWastepackAtomizer.gerund>운반</HaulToWastepackAtomizer.gerund>

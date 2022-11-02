@@ -16,8 +16,6 @@
   <RoyalTitleRequiredMeals>허용된 음식</RoyalTitleRequiredMeals>
   <RoyalTitleRequiredMealsDesc>해당 작위를 지닌 인물은 죽을 정도로 굶주리거나 상단에 소속되어 있는 경우를 제외하면 오직 이 음식들만을 골라 섭취합니다.</RoyalTitleRequiredMealsDesc>
   <ChooseParticipantsBestow>수여식에 참여할 사람을 선택하세요.</ChooseParticipantsBestow>
-  <ApparelRequirementAnyMechlordApparel>모든 기계군주 의류</ApparelRequirementAnyMechlordApparel> <!-- text_todo -->
-  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>또는 모든 초능력자 의복, 모든 장교 갑옷 아니면 모든 기계군주 의류</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord> <!-- text_todo -->
 
   <!-- Royal implants -->
   <RoyalImplantIllegalUseWarning>{FACTION_name}의 법률에 따라 {IMPLANT}(을)를 합법적으로 사용하려면 {TITLE} 작위가 필요합니다.\n\n{VIOLATIONTRIGGER}, {FACTION_name}(이)가 초능력 파동을 감지하여 문제를 제기할 가능성이 있습니다. 이것은 외교적 분쟁을 유발할 것입니다.</RoyalImplantIllegalUseWarning>
