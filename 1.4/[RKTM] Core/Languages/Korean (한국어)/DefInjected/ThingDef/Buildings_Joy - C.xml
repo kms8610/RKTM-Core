@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <BilliardsTable.label>당구대</BilliardsTable.label>
-  <BilliardsTable.description>부드러운 재질로 위를 덮고 테두리를 덧붙인 탁자로, 당구와 관련된 여러 놀이들을 즐길 수 있습니다. 사격기술을 훈련할 수 있습니다.</BilliardsTable.description>
+  <BilliardsTable.description>부드러운 재질로 위를 덮고 테두리를 덧붙인 탁자로, 당구와 관련된 여러 놀이들을 즐길 수 있습니다. 사격 기술을 훈련할 수 있습니다.</BilliardsTable.description>
   
   <ChessTable.label>체스 탁자</ChessTable.label>
-  <ChessTable.description>왕들의 고대 놀이입니다. 혼자서도 몇 시간 재밌게 보낼 수 있습니다. 연구 기술을 훈련할 수 있습니다.</ChessTable.description>
+  <ChessTable.description>고대 왕들의 놀이입니다. 혼자서도 몇 시간 재밌게 보낼 수 있습니다. 연구 기술을 훈련할 수 있습니다.\n\n인접한 의자가 필요합니다.</ChessTable.description>
   
   <FlatscreenTelevision.label>평면 TV</FlatscreenTelevision.label>
   <FlatscreenTelevision.description>선명한 화면과 풍부한 색감을 지닌 고급 평면 텔레비전입니다. 고대 위성과 유비쿼터스 데이터 카드에서 신호를 송신합니다.</FlatscreenTelevision.description>
@@ -22,7 +22,7 @@
   <MegascreenTelevision.description>고급스럽고 커다란 텔레비전입니다. 거대하면서도 선명한 화면이 거의 밖으로 튀어나올 듯 합니다. 고대 위성과 유비쿼터스 데이터 카드에서 신호를 송신합니다.</MegascreenTelevision.description>
   
   <PokerTable.label>포커 탁자</PokerTable.label>
-  <PokerTable.description>카드 게임, 주로 포커를 치기 위한 탁자입니다. 전략적 사고와 약간의 운을 시험할 좋은 방법입니다.</PokerTable.description>
+  <PokerTable.description>포커 등 카드게임을 하기 위한 탁자입니다. 전략적 사고와 약간의 운을 시험할 좋은 방법입니다.\n\n인접한 의자가 필요합니다.</PokerTable.description>
   
   <Telescope.label>망원경</Telescope.label>
   <Telescope.description>아마추어 천문학자들을 위한 망원경입니다. 어떤 사람들에겐 이런 취미가 편안하고 재밌기 마련입니다. 야외에서만 사용 가능합니다.</Telescope.description>

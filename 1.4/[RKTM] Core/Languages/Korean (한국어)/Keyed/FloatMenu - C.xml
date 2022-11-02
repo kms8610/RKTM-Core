@@ -24,6 +24,7 @@
   <CannotOrderNonControlledLower>대상에게는 명령을 내릴 수 없음</CannotOrderNonControlledLower>
   <CannotAttackSelf>자신을 공격할 수 없음</CannotAttackSelf>
   <CannotAttackSameFactionMember>아군 세력을 공격할 수 없음</CannotAttackSameFactionMember>
+  <IncapableOfFirefighting>소방 결격</IncapableOfFirefighting>
 
   <OrderManThing>{1_labelShort} 조작</OrderManThing>
   
@@ -40,15 +41,18 @@
   <NoEmptyPlaceLower>적재 가능 장소 없음</NoEmptyPlaceLower>
   <NoMergeTarget>정리할 장소가 없음</NoMergeTarget>
   <AlreadyFilledLower>가득 참</AlreadyFilledLower>
-  <MissingMaterials>재료 필요</MissingMaterials>
+  <MissingMaterials>{0} 누락</MissingMaterials>
+  <NoMedicineMatchingCategory>'{CATEGORY}' 정책을 만족하는 약품 없음</NoMedicineMatchingCategory>
   <UnderRequiredSkill>요구 기술 {0} 이하</UnderRequiredSkill>
   <UnderAllowedSkill>허가 기술 {0} 이하</UnderAllowedSkill>
   <AboveAllowedSkill>허가 기술 {0} 이상</AboveAllowedSkill>
   <NoReachableOutsideCell>야외에 도달할 수 없음</NoReachableOutsideCell>
   <MissingRequiredSkillLevel>부족한 기술 수준</MissingRequiredSkillLevel>
   <AnimalInteractedTooRecently>최근에 돌봐줌</AnimalInteractedTooRecently>
+  <PrisonerInteractedTooRecently>최근에 상호작용</PrisonerInteractedTooRecently>
   <NoUsableFood>사용 가능한 식량 없음</NoUsableFood>
   <NoFood>식량 없음</NoFood>
+  <NoFoodMatchingRestrictions>정책을 만족하는 식량 없음</NoFoodMatchingRestrictions>
   <NoIngredient>{0_label} 없음</NoIngredient>
   <FoodBelowTitleRequirements>{0}의 요구 사항</FoodBelowTitleRequirements>
   <AnimalsSkillTooLow>조련기술 부족 - {0} 필요</AnimalsSkillTooLow>
@@ -82,10 +86,15 @@
   <InstallImplantNoBodyPart>신체부위 없음</InstallImplantNoBodyPart>
   <InstallImplantNotAllowedForNonColonists>정착민이 아님</InstallImplantNotAllowedForNonColonists>
   <InstallImplantAlreadyInstalled>이미 설치됨</InstallImplantAlreadyInstalled>
-  <InstallImplantAlreadyMaxLevel>이미 최고단계임</InstallImplantAlreadyMaxLevel>
+  <InstallImplantHediffRequired>먼저 {0} 필요</InstallImplantHediffRequired>
+  <InstallImplantAlreadyMaxLevel>이미 최고 단계임</InstallImplantAlreadyMaxLevel>
+  <InstallImplantMinLevel>최소 {0}레벨 필요</InstallImplantMinLevel><!-- text_todo -->
+  <InstallImplantPsychicallyDeaf>정신적 무감각</InstallImplantPsychicallyDeaf>
   <UpgradeImplant>{0}(을)를 {1}단계로 향상</UpgradeImplant>
-  <SurgeryViolationFellowFactionMember>아군 세력의 위반</SurgeryViolationFellowFactionMember>
+  <SurgeryViolationFellowFactionMember>세력과의 동맹 위반</SurgeryViolationFellowFactionMember>
   <BeingCarriedBy>{0_labelShort}에 의해 옮겨지는 중</BeingCarriedBy>
+  <ContainerFull>가득 참</ContainerFull>
+  <AlreadyAssigned>이미 할당됨</AlreadyAssigned>
   
   <ConsumeThing>{1_labelShort} 섭취</ConsumeThing>
   
@@ -99,8 +108,11 @@
 
   <Capture>{1_label} 포획</Capture>
   <CannotCapture>포획 불가</CannotCapture>
+  <Unrecruitable>확고한 충성심</Unrecruitable>
 
   <Rescue>{1_label} 구조</Rescue>
+  <PutSomewhereSafe>{1_label}(을)를 안전한 곳으로 이송</PutSomewhereSafe>
+  <TakingToBed>{0_labelShort}(을)를 침대로 이송 중.</TakingToBed>
   <CannotRescue>구조 불가</CannotRescue>
 
   <CarryToCryptosleepCasket>{1_label}(을)를 동면장치로 운반</CarryToCryptosleepCasket>
@@ -123,6 +135,7 @@
 
   <Incapable>불가능</Incapable>
   <IncapableOfCapacity>{0} 불가능</IncapableOfCapacity>
+  <MustHaveHediff>{0_label} 필요</MustHaveHediff>
 
   <MinSkill>최소 기술</MinSkill>
   
@@ -140,10 +153,11 @@
   <Reload>{AMMO_label}(으)로 {GEAR_labelShort} 재장전</Reload>
   <ReloadFull>가득</ReloadFull>
   <ReloadNotEnough>너무 적음</ReloadNotEnough>
+  <ReloadCannotCarryEnough>1회 충전에 충분한 {AMMO_label}(을)를 운반할 수 없음</ReloadCannotCarryEnough>
   
-  <CannotPickUp>{1_label} 주울 수 없음</CannotPickUp>
+  <CannotPickUp>{1_labelShort} 주울 수 없음</CannotPickUp>
   <CannotPickUpAll>{1_label} 모두 주울 수 없음</CannotPickUpAll>
-  <PickUp>{1_label} 줍기</PickUp>
+  <PickUpOne>{1_labelShort} 줍기</PickUpOne>
   <PickUpAll>{1_label} 모두 줍기</PickUpAll>
   <PickUpSome>약간의 {1_labelShort} 줍기</PickUpSome>
   <PickUpCount>x{{0}}개 만큼 {1_labelShort} 줍기</PickUpCount>
@@ -187,6 +201,7 @@
 
   <UseMedicalBed>완전히 치료될 때까지 휴식</UseMedicalBed>
   <NotInjured>부상 없음</NotInjured>
+  <NoDoctor>의사 없음</NoDoctor><!-- text_todo -->
   <SomeoneElseSleeping>{0}(이)가 사용 중</SomeoneElseSleeping>
   
   <TradeWith>{0}(와)과 거래</TradeWith>
@@ -289,5 +304,11 @@
 
   <RepairThing>{0} 수리</RepairThing>
   <CannotRepair>{0} 수리 불가</CannotRepair>
-  
+
+  <CannotEnter>진입 불가</CannotEnter>
+
+  <!-- Romance partner -->
+  <CannotRomance>{0}(와)과 로맨스 불가</CannotRomance>
+  <CanRomance>{0}(와)과 로맨스</CanRomance>
+
 </LanguageData>

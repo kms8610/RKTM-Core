@@ -21,14 +21,16 @@
   <Intro_Wimp.LetterTextGuestDied.slateRef>보호하기로 한 {SUBJECT_definite}(이)가 사망했습니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextGuestDied.slateRef>
   <Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>동의받지 않은 시술: {SUBJECT_definite}</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
   <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>당신이 보호를 약속한 {SUBJECT_definite}(이)가 승인되지 않은 수술을 받았습니다. 이 배신 행위로 인해 [asker_pronoun](이)가 달아납니다.[failLetterEndingCommon]</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>변형이식체 흡수됨: {SUBJECT_definite}</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>당신이 보호해야 하는 {SUBJECT_definite}(이)가 {SUBJECT_possessive} 변형이식체를 강제로 흡수했습니다. 이 위반으로 인해 {SUBJECT_pronoun}(이)가 이제 떠나려고 합니다. [failLetterEndingCommon]</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>
   <Intro_Wimp.LetterLabelCaptured.slateRef>포획: {SUBJECT_definite}</Intro_Wimp.LetterLabelCaptured.slateRef>
-  <Intro_Wimp.LetterTextCaptured.slateRef>접대해야 될 {SUBJECT_definite}(이)가 잡혀갔습니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
+  <Intro_Wimp.LetterTextCaptured.slateRef>접대하기로 한 {SUBJECT_definite}(이)가 체포됐습니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
   <Intro_Wimp.LetterLabelGuestLost.slateRef>방문객 실종: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestLost.slateRef>
-  <Intro_Wimp.LetterTextGuestLost.slateRef>보호해야 될 {SUBJECT_definite}(이)가 지정된 정착지에서 떠났습니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextGuestLost.slateRef>
+  <Intro_Wimp.LetterTextGuestLost.slateRef>접대하기로 한 {SUBJECT_definite}(이)가 할당된 정착지를 떠났습니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextGuestLost.slateRef>
   <Intro_Wimp.LetterLabelLodgerRanWild.slateRef>방문객 실종: {SUBJECT_definite}</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
   <Intro_Wimp.LetterTextLodgerRanWild.slateRef>보호하기로 한 {SUBJECT_definite}(이)가 야생으로 뛰쳐나갔습니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextLodgerRanWild.slateRef>
   <Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>왕복선 파괴됨</Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>
-  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>[asker_nameDef](을)를 데리러 온 왕복선이 파괴되었습니다. [asker_pronoun]는 걸어서 떠납니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>[asker_nameDef](을)를 태울 왕복선이 파괴됐습니다. [asker_pronoun]는 직접 걸어서 갈 것입니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
   <Intro_Wimp.LetterLabelQuestFailed.slateRef>임무 실패: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
-  <Intro_Wimp.LetterTextQuestFailed.slateRef>[asker_nameDef](을)를 데리러 온 왕복선이 [asker_objective] 태우지 않고 떠났습니다. [asker_pronoun]는 걸어서 떠납니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
+  <Intro_Wimp.LetterTextQuestFailed.slateRef>[asker_nameDef](을)를 태울 왕복선이 본인을 태우지 않고 출발해 버렸습니다. [asker_pronoun]는 직접 걸어서 갈 것입니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
 </LanguageData>

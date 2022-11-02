@@ -12,7 +12,7 @@
   <BasicWorker.pawnLabel>심부름</BasicWorker.pawnLabel>
   <BasicWorker.verb>심부름</BasicWorker.verb>
   
-  <Cleaning.description>주거구역을 청소하고 눈을 치웁니다.</Cleaning.description>
+  <Cleaning.description>주거구역에서 눈과 오염을 제거하고 바닥을 청소합니다.</Cleaning.description>
   <Cleaning.gerundLabel>청소</Cleaning.gerundLabel>
   <Cleaning.labelShort>청소</Cleaning.labelShort>
   <Cleaning.pawnLabel>청소</Cleaning.pawnLabel>
@@ -24,7 +24,7 @@
   <Construction.pawnLabel>건설</Construction.pawnLabel>
   <Construction.verb>건설</Construction.verb>
   
-  <Cooking.description>음식을 준비합니다.</Cooking.description>
+  <Cooking.description>음식을 준비하고 도축을 합니다.</Cooking.description>
   <Cooking.gerundLabel>조리</Cooking.gerundLabel>
   <Cooking.labelShort>조리</Cooking.labelShort>
   <Cooking.pawnLabel>조리</Cooking.pawnLabel>
@@ -36,19 +36,19 @@
   <Crafting.pawnLabel>제작</Crafting.pawnLabel>
   <Crafting.verb>제작</Crafting.verb>
   
-  <Doctor.description>환자를 간호하고 음식을 갖다 주며 기운을 북돋아주기도 하고 수술도 집도합니다. 정착민과 수감자 모두 보살핍니다.</Doctor.description>
+  <Doctor.description>환자를 간호하고, 음식을 먹여주고, 기운을 북돋아주기도 하며 수술을 집도합니다. 정착민과 수감자 모두 보살핍니다.</Doctor.description>
   <Doctor.gerundLabel>치료</Doctor.gerundLabel>
   <Doctor.labelShort>치료</Doctor.labelShort>
   <Doctor.pawnLabel>치료</Doctor.pawnLabel>
   <Doctor.verb>치료</Doctor.verb>
   
-  <Firefighter.description>정착지 내에 발생한 화재를 진압합니다.</Firefighter.description>
+  <Firefighter.description>정착지 내의 화재를 진압합니다.</Firefighter.description>
   <Firefighter.gerundLabel>소방</Firefighter.gerundLabel>
   <Firefighter.labelShort>소방</Firefighter.labelShort>
   <Firefighter.pawnLabel>소방</Firefighter.pawnLabel>
   <Firefighter.verb>소방</Firefighter.verb>
   
-  <Growing.description>씨를 뿌리고 다 자란 작물을 수확합니다.</Growing.description>
+  <Growing.description>씨를 뿌리고 다 자란 작물을 수확합니다. 야생 식물을 채집합니다.</Growing.description>
   <Growing.gerundLabel>재배</Growing.gerundLabel>
   <Growing.labelShort>재배</Growing.labelShort>
   <Growing.pawnLabel>재배</Growing.pawnLabel>
@@ -102,7 +102,7 @@
   <Research.pawnLabel>연구</Research.pawnLabel>
   <Research.verb>연구</Research.verb>
   
-  <Smithing.description>원자재를 무기와 도구로 가공합니다.</Smithing.description>
+  <Smithing.description>단조와 가공으로 무기와 도구를 제작합니다. 기계공이라면 메카노이드도 수리합니다.</Smithing.description>
   <Smithing.gerundLabel>제련</Smithing.gerundLabel>
   <Smithing.labelShort>제련</Smithing.labelShort>
   <Smithing.pawnLabel>제련</Smithing.pawnLabel>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DetoxifierKidney.label>해독 신장</DetoxifierKidney.label>
+  <DetoxifierKidney.description>An installed detoxifier kidney.</DetoxifierKidney.description>
+  <DetoxifierKidney.labelNoun>해독 신장</DetoxifierKidney.labelNoun>
+  
+  <DetoxifierLung.label>해독 폐</DetoxifierLung.label>
+  <DetoxifierLung.description>An installed detoxifier lung. Prevents lung rot in this lung and negates the irritation of acidic smog.\n\nNote that the detoxifier lung does not prevent the irritating effect of tox gas.</DetoxifierLung.description>
+  <DetoxifierLung.labelNoun>해독 폐</DetoxifierLung.labelNoun>
+</LanguageData>

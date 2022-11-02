@@ -25,6 +25,9 @@
   <UnfinishedHealthItemProsthetic.label>미완성 보철물</UnfinishedHealthItemProsthetic.label>
   <UnfinishedHealthItemProsthetic.description>미완성된 보철물입니다.</UnfinishedHealthItemProsthetic.description>
   
+  <UnfinishedMask.label>미완성 마스크</UnfinishedMask.label>
+  <UnfinishedMask.description>미완성된 마스크입니다.</UnfinishedMask.description>
+  
   <UnfinishedMetallicTechArmor.label>미완성 금속 방어구</UnfinishedMetallicTechArmor.label>
   <UnfinishedMetallicTechArmor.description>미완성된 금속 방어구입니다.</UnfinishedMetallicTechArmor.description>
   

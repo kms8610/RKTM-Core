@@ -2,6 +2,8 @@
 <LanguageData>
   <Make_Kibble.label>사료 만들기</Make_Kibble.label>
   <Make_Kibble.description>생고기와 작물을 섞어 사료를 만듭니다.</Make_Kibble.description>
+  <Make_Kibble.ingredients.0.filter.customSummary>단백질</Make_Kibble.ingredients.0.filter.customSummary>
+  <Make_Kibble.ingredients.1.filter.customSummary>식물성</Make_Kibble.ingredients.1.filter.customSummary>
   <Make_Kibble.jobString>사료 만드는 중</Make_Kibble.jobString>
   
   <Make_Pemmican.label>페미컨 만들기</Make_Pemmican.label>

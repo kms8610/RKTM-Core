@@ -1028,7 +1028,7 @@
     <!-- EN: castaway -->
     <titleShort>조난자</titleShort>
     <!-- EN: [PAWN_nameDef] was a passenger on a routine interstellar transit. When [PAWN_possessive] ship was destroyed, [PAWN_pronoun] lived as a castaway on an uninhabited planet for several years. -->
-    <desc>{PAWN_nameDef}(은)는 평범한 행성이동 우주선에 탑승한 승객이었습니다. {PAWN_pronoun}가 타고있던 배가 파괴되었기 때문에, {PAWN_pronoun}는 몇 년동안 사람이 살지 않는 행성에서 버려진 채로 살았습니다. </desc>
+    <desc>{PAWN_nameDef}(은)는 평범한 행성이동 우주선에 탑승한 승객이었습니다. {PAWN_pronoun}가 타고있던 배가 파괴되었기 때문에, {PAWN_pronoun}는 몇 년동안 사람이 살지 않는 행성에서 버려진 채로 살았습니다.</desc>
   </Castaway81>
   
   <CatHerder4>
@@ -1118,7 +1118,7 @@
     <!-- EN: chef -->
     <titleShort>요리사</titleShort>
     <!-- EN: [PAWN_nameDef] ran a high-class restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among kitchen workers for [PAWN_possessive] casual disdain for grunt work. -->
-    <desc>{PAWN_nameDef}(은)는 고급 식당을 운영했습니다. {PAWN_pronoun}(은)는 손님들에게 {PAWN_possessive} 창의적인 식당들로 유명했으며, 주방에서는 힘든 일을 경멸하는 것으로 악명이 높았습니다. </desc>
+    <desc>{PAWN_nameDef}(은)는 고급 식당을 운영했습니다. {PAWN_pronoun}(은)는 손님들에게 {PAWN_possessive} 창의적인 식당들로 유명했으며, 주방에서는 힘든 일을 경멸하는 것으로 악명이 높았습니다.</desc>
   </Chef52>
   
   <Chemist73>
@@ -1235,7 +1235,7 @@
     <!-- EN: spy -->
     <titleShort>스파이</titleShort>
     <!-- EN: Children are often presumed innocent, and so make ideal spies. [PAWN_nameDef] was trained in the arts of infiltration and information-gathering when [PAWN_pronoun] was very young.\n\n[PAWN_possessive] spent years behind enemy lines, gathering intel in a brutal war. During this time, [PAWN_pronoun] had limited opportunity for education. -->
-    <desc>아이들은 보통 순수하다고 여겨져서, 스파이로서 이상적입니다. {PAWN_nameDef}(은)는 {PAWN_pronoun}가 아주 어릴 때부터 침투와 정보 캐내는 기술을 훈련받았습니다.\n\n{PAWN_pronoun}(은)는 적진의 뒤에서 몇 년을 보내며, 잔혹한 전쟁 속에서 정보를 모았습니다. 이 시기 동안, {PAWN_pronoun}(은)는 교육받을 기회가 제한되었습니다. </desc>
+    <desc>아이들은 보통 순수하다고 여겨져서, 스파이로서 이상적입니다. {PAWN_nameDef}(은)는 {PAWN_pronoun}가 아주 어릴 때부터 침투와 정보 캐내는 기술을 훈련받았습니다.\n\n{PAWN_pronoun}(은)는 적진의 뒤에서 몇 년을 보내며, 잔혹한 전쟁 속에서 정보를 모았습니다. 이 시기 동안, {PAWN_pronoun}(은)는 교육받을 기회가 제한되었습니다.</desc>
   </ChildSpy84>
   
   <ChildStar74>
@@ -3220,7 +3220,7 @@
     <!-- EN: inquisitress -->
     <titleShortFemale>심문관</titleShortFemale>
     <!-- EN: [PAWN_nameDef] was an inquisitor in the imperial church's anti-heresy school.\n\n[PAWN_nameDef] hunted unorthodox thoughts wherever they could be found - art, music, code, even private conversations. Upon finding deviance, [PAWN_pronoun] exposed it to bring on the punishment of the collective. And [PAWN_pronoun] could always find the deviance if [PAWN_pronoun] looked hard enough. -->
-    <desc>{PAWN_nameDef}(은)는 제국 교회의 반 이단 학교의 심문관이었습니다.\n\n{PAWN_nameDef}(은)는 예술, 음악, 코드, 심지어 사적인 대화까지 어디서든지 이단적인 생각들을 찾아냈습니다. 이단적인 행동을 발견하게 되면, {PAWN_nameDef}(은)는 그것을 알려 처벌을 받도록 했습니다. 그리고 {PAWN_pronoun}(은)는 {PAWN_pronoun}가 열심히 찾으면 이단을 항상 발견할 수 있게 되었습니다. </desc>
+    <desc>{PAWN_nameDef}(은)는 제국 교회의 반 이단 학교의 심문관이었습니다.\n\n{PAWN_nameDef}(은)는 예술, 음악, 코드, 심지어 사적인 대화까지 어디서든지 이단적인 생각들을 찾아냈습니다. 이단적인 행동을 발견하게 되면, {PAWN_nameDef}(은)는 그것을 알려 처벌을 받도록 했습니다. 그리고 {PAWN_pronoun}(은)는 {PAWN_pronoun}가 열심히 찾으면 이단을 항상 발견할 수 있게 되었습니다.</desc>
   </ImperialInquisitor53>
   
   <ImperialPriest24>
@@ -4184,7 +4184,7 @@
     <!-- EN: army cook -->
     <titleShort>조리병</titleShort>
     <!-- EN: They say an army marches on its stomach. [PAWN_nameDef]'s job was to prepared chow to keep [PAWN_possessive] unit marching, no matter the conditions.\n\nThe job required [PAWN_objective] to pay attention to both the nutritional and psychological needs of the troops. -->
-    <desc>군인들은 군대가 배 위에서 행진한다고 말합니다. {PAWN_nameDef}의 직업은 질이 어떻든간에 부대가 움직일 수 있게 만드는 음식을 만드는 것이었습니다.\n\n그 일은 부대의 영양적 필요성과 심리적 필요성 모두 신경쓰는 것이 필요했습니다. </desc>
+    <desc>군인들은 군대가 배 위에서 행진한다고 말합니다. {PAWN_nameDef}의 직업은 질이 어떻든간에 부대가 움직일 수 있게 만드는 음식을 만드는 것이었습니다.\n\n그 일은 부대의 영양적 필요성과 심리적 필요성 모두 신경쓰는 것이 필요했습니다.</desc>
   </MilitaryCook18>
   
   <MilitaryEngineer45>
@@ -4517,7 +4517,7 @@
     <!-- EN: ornamenter -->
     <titleShort>장신구 장인</titleShort>
     <!-- EN: [PAWN_nameDef] crafted watches, medals, machined jewelry and other complex curios for royal patrons. -->
-    <desc>{PAWN_nameDef}(은)는 왕실의 후원자에게 시계, 메달, 세공된 보석이나 복잡한 골동품을 제작하였었습니다. </desc>
+    <desc>{PAWN_nameDef}(은)는 왕실의 후원자에게 시계, 메달, 세공된 보석이나 복잡한 골동품을 제작하였었습니다.</desc>
   </OrnamentMaker56>
   
   <Orphan11>
@@ -4699,7 +4699,7 @@
     <!-- EN: pious soldier -->
     <titleShort>독실한 군인</titleShort>
     <!-- EN: When not training or combat, [PAWN_nameDef] was often at the chaplain's side. [PAWN_pronoun] dedicated [PAWN_possessive] life to serving both [PAWN_possessive] lord and [PAWN_possessive] religion. -->
-    <desc>훈련이나 전투중이 아닐 때마다, {PAWN_nameDef}(은)는 거의 사제의 곁에 있었습니다. {PAWN_pronoun}는 {PAWN_possessive} 주군과 {PAWN_possessive} 믿음을 위해 평생을 바쳤었습니다. </desc>
+    <desc>훈련이나 전투중이 아닐 때마다, {PAWN_nameDef}(은)는 거의 사제의 곁에 있었습니다. {PAWN_pronoun}는 {PAWN_possessive} 주군과 {PAWN_possessive} 믿음을 위해 평생을 바쳤었습니다.</desc>
   </PiousSoldier67>
   
   <Pirate56>
@@ -4834,7 +4834,7 @@
     <!-- EN: miner -->
     <titleShort>광부</titleShort>
     <!-- EN: [PAWN_nameDef] was a mining engineer for a major planetary mining corporation. [PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness. -->
-    <desc>{PAWN_nameDef}(은)는 유명한 우주 채광 회사의 채광 엔지니어였습니다. {PAWN_pronoun}는 한 번에 몇 주간 지하에서 계속 일하면서 어둠 속에서도 사물을 식별할 수 있게 되었습니다. </desc>
+    <desc>{PAWN_nameDef}(은)는 유명한 우주 채광 회사의 채광 엔지니어였습니다. {PAWN_pronoun}는 한 번에 몇 주간 지하에서 계속 일하면서 어둠 속에서도 사물을 식별할 수 있게 되었습니다.</desc>
   </PlanetaryMiner64>
   
   <PlankCutter72>

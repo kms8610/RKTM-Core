@@ -19,9 +19,9 @@
   <Priority3>보통 우선순위</Priority3>
   <Priority4>낮은 우선순위</Priority4>
   <PawnFactionInfo>{0}\n\n현재 {1_nameDef} 세력에 속해 있습니다.\n\n세력을 보려면 클릭하세요.</PawnFactionInfo>
-  <WorkDisabledByBackstory>배경으로 인해 비활성화: {0}</WorkDisabledByBackstory>
-  <WorkDisabledByTrait>특성으로 인해 비활성화: {0}</WorkDisabledByTrait>
-  <WorkDisabledByQuest>임무로 인해 비활성화: {0}</WorkDisabledByQuest>
+  <WorkDisabledByBackstory>{0} 성장 환경으로 인해 비활성</WorkDisabledByBackstory>
+  <WorkDisabledByTrait>{0} 특성으로 인해 비활성</WorkDisabledByTrait>
+  <WorkDisabledByQuest>'{0}' 임무로 인해 비활성</WorkDisabledByQuest>
   
   <!-- Assign tab -->
   <ManageOutfits>복장 관리</ManageOutfits>
@@ -43,6 +43,8 @@
   <Master>주인</Master>
   <PregnantIconDesc>임신 ({0} / {1})</PregnantIconDesc>
   <BondedTo>각별함</BondedTo>
+  <SterilizeAnimal>불임 시술을 수행합니다.</SterilizeAnimal>
+  <AnimalAlreadySterile>불임입니다.</AnimalAlreadySterile>
   
   <!-- Wildlife tab -->
   <IsPredator>이 동물은 포식자입니다. 배가 고프면 사람을 포함한 작은 동물들을 사냥할 것입니다.</IsPredator>
@@ -104,6 +106,7 @@
   <!-- Research tab -->
   <Research>연구</Research>
   <Study>연구</Study>
+  <StudyThing>{0} 연구</StudyThing>
   <Unresearched>연구되지 않음</Unresearched>
   <Finished>연구 완료</Finished>
   <InProgress>연구 중</InProgress>
@@ -112,6 +115,7 @@
   <ResearchTechprintRequirement>기술청사진 필요 ({0}/{1})</ResearchTechprintRequirement>
   <InsufficientTechprintsApplied>기술청사진 부족 ({0}/{1})</InsufficientTechprintsApplied>
   <PrerequisitesNotCompleted>요구조건이 충족되지 않음</PrerequisitesNotCompleted>
+  <MissingRequiredResearchFacilities>필요한 연구시설 누락</MissingRequiredResearchFacilities>
   <RequiredResearchBench>필요한 연구시설</RequiredResearchBench>
   <RequiredResearchBenchFacilities>필요한 연구보조시설</RequiredResearchBenchFacilities>
   <ResearchCostComparison>기술 수준때문에 연구비용 {0}(이)가 {1}(이)가 됩니다.</ResearchCostComparison>
@@ -185,5 +189,8 @@
 
   <!-- Health tab -->
   <CreatesNeed>필요 생성</CreatesNeed>
+
+  <!-- Misc -->
+  <ClickToEdit>클릭해서 편집</ClickToEdit>
 
 </LanguageData>

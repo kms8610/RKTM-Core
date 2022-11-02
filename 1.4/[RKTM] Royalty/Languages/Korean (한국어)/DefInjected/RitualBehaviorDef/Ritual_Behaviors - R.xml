@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <AnimaTreeLinking.roles.0.label>주최자</AnimaTreeLinking.roles.0.label>
+  <AnimaTreeLinking.roles.0.customChildDisallowMessage>성인만 영혼나무와 연결할 수 있습니다.</AnimaTreeLinking.roles.0.customChildDisallowMessage>
   <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>자연 집중 유형을 통한 명상이 가능하고 정신력 증폭 단계가 최대치에 도달하지 않은 정착민이어야 합니다.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
   <AnimaTreeLinking.spectatorFilter.description>자연 집중명상이 가능해야 합니다.</AnimaTreeLinking.spectatorFilter.description>
   <AnimaTreeLinking.spectatorGerund>참여</AnimaTreeLinking.spectatorGerund>

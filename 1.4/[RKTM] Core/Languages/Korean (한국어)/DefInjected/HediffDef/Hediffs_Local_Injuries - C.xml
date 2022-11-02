@@ -75,6 +75,8 @@
   
   <ExecutionCut.label>베임</ExecutionCut.label>
   <ExecutionCut.description>처형 중 베였습니다.</ExecutionCut.description>
+  <ExecutionCut.injuryProps.destroyedLabel>끊어짐</ExecutionCut.injuryProps.destroyedLabel>
+  <ExecutionCut.injuryProps.destroyedOutLabel>잘림</ExecutionCut.injuryProps.destroyedOutLabel>
   <ExecutionCut.labelNoun>베임</ExecutionCut.labelNoun>
   <ExecutionCut.labelNounPretty>{1}의 {0}</ExecutionCut.labelNounPretty>
   
@@ -116,7 +118,7 @@
   
   <Scratch.label>긁힘</Scratch.label>
   <Scratch.description>긁힌 상처입니다.</Scratch.description>
-  <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>치유됨</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <Scratch.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
   <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>긁힌 흉터</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>

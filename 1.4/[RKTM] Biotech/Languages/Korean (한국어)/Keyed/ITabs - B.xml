@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RecipeRequiresMechanitor>{0}에는 기계공학자가 필요합니다. 정착민중 기계공학자가 없어서 아무도 이 작업을 실행하지 않을 것 입니다.</RecipeRequiresMechanitor>
+
+  <GenepackPlural>유전자 팩</GenepackPlural>
+  <TraitsDevelopLaterBaby>Traits develop later during childhood</TraitsDevelopLaterBaby>
+  <SkillsDevelopLaterBaby>Skills develop later during childhood</SkillsDevelopLaterBaby>
+  <TabGenes>유전자</TabGenes>
+
+  <ViewGenes>유전자 보기</ViewGenes>
+  <ViewGenesDesc>{PAWN_nameDef}의 유전자를 보려면 클릭하세요.</ViewGenesDesc>
+
+  <!-- Feeding tab (human babies) -->
+  <TabFeeding>돌보기</TabFeeding>
+  <AutofeedSectionHeader>자동 수유 설정</AutofeedSectionHeader>
+  <AutofeedModeNever>금지</AutofeedModeNever>
+  <AutofeedModeChildcare>육아</AutofeedModeChildcare>
+  <AutofeedModeUrgent>긴급</AutofeedModeUrgent>
+  <AutofeedNone>Nobody can feed this baby.</AutofeedNone>
+  <AutofeedModeTooltipNever>{FEEDER_nameDef} will not automatically feed {BABY_nameDef}.</AutofeedModeTooltipNever>
+  <AutofeedModeTooltipChildcare>{FEEDER_nameDef} will feed {BABY_nameDef} as childcare work.</AutofeedModeTooltipChildcare>
+  <AutofeedModeTooltipUrgent>{FEEDER_nameDef} will feed {BABY_nameDef} day or night, even if {FEEDER_nameDef} is not assigned to childcare or is incapable of childcare.</AutofeedModeTooltipUrgent>
+  <BabyFoodConsumables>섭취가능 음식</BabyFoodConsumables>
+
+  <!-- Social tab (human babies) -->
+  <IdeoExposureSectionHeader>사상 노출</IdeoExposureSectionHeader>
+  <IdeoExposureNoExposure>{BABY_labelShort}(은)는 아직 어떤 사상에도 노출되지 않았습니다.</IdeoExposureNoExposure>
+  <IdeoExposureNoExposureDetail>{BABY_pronoun}(은)는 특정 사상을 따르는 자들과 상호작용하며 그 사상에 노출될 수 있습니다. 이 상호작용은 모유 수유, 업어주기, 놀아주기 등이 포함됩니다. 나이가 {CHILDAGE}(이)가 되면 {BABY_labelShort}(은)는 {BABY_pronoun}에게 노출되었던 사상 중 하나를 골라 믿을 것 입니다.</IdeoExposureNoExposureDetail>
+  <IdeoExposurePointsTooltipJoinLikelihood>{BABY_labelShort} is {PERCENT} likely to join the ideoligion {IDEO_name}.</IdeoExposurePointsTooltipJoinLikelihood>
+  <IdeoExposurePointsTooltipJoinDescription>As {BABY_labelShort} interacts with followers of an ideoligion {BABY_pronoun} becomes more likely to join that ideoligion. {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to at the age of {CHILDAGE}.</IdeoExposurePointsTooltipJoinDescription>
+  <IdeoExposurePointsTooltipExposureDescription>Ideoligion exposure is measured by exposure points. Interactions like being breastfed, carried, or played with will cause {BABY_labelShort} to gain exposure points for the ideoligions followed by those {BABY_pronoun} interacts with.</IdeoExposurePointsTooltipExposureDescription>
+  <IdeoExposurePointsTooltipIdeoExposure>{IDEO_name} exposure points</IdeoExposurePointsTooltipIdeoExposure>
+  <IdeoExposurePointsTooltipTotalExposure>Total exposure points</IdeoExposurePointsTooltipTotalExposure>
+
+  <!-- Social tab (romance) -->
+  <TryRomanceButtonLabel>Romance</TryRomanceButtonLabel>
+  <TryRomanceNoOptsMessage>Nobody for {0_labelShort} to romance.</TryRomanceNoOptsMessage>
+  <CantRomanceTargetUnreachable>도달 불가</CantRomanceTargetUnreachable>
+  <CantRomanceTargetSleeping>수면</CantRomanceTargetSleeping>
+  <CantRomanceTargetDowned>무력화됨</CantRomanceTargetDowned>
+  <CantRomanceTargetDrafted>소집됨</CantRomanceTargetDrafted>
+  <CantRomanceTargetMentalState>정신이상</CantRomanceTargetMentalState>
+  <CantRomanceTargetIncest>근친상간</CantRomanceTargetIncest>
+  <CantRomanceTargetOpinion>낮은 의견</CantRomanceTargetOpinion>
+  <CantRomanceTargetSexuality>성적 지향 불일치</CantRomanceTargetSexuality>
+  <CantRomanceTargetPrisoner>수감자</CantRomanceTargetPrisoner>
+  <CantRomanceTargetYoung>너무 어림</CantRomanceTargetYoung>
+  <CantRomanceTargetZeroChance>확률 없음</CantRomanceTargetZeroChance>
+  <CantRomanceInitiateMessagePrisoner>{0_labelShort}(은)는 {0_pronoun}(이)가 수감자라 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessagePrisoner>
+  <CantRomanceInitiateMessageSlave>{0_labelShort}(은)는 {0_pronoun}(이)가 노예라서 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageSlave>
+  <CantRomanceInitiateMessageAsexual>{0_labelShort}(은)는 {0_pronoun}(이)가 무성애자 특성을 지녀 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageAsexual>
+  <CantRomanceInitiateMessageDowned>{0_labelShort}(은)는 {0_pronoun}(이)가 무력화 되어 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageDowned>
+  <CantRomanceInitiateMessageDrafted>{0_labelShort}(은)는 {0_pronoun}(이)가 소집되어 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageDrafted>
+  <CantRomanceInitiateMessageMentalState>{0_labelShort}(은)는 {0_pronoun}(이)가 정신이상 상태가되어 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageMentalState>
+  <CantRomanceInitiateMessageTalk>{0_labelShort}(은)는 {0_pronoun}(이)가 말을 할 수 없어 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageTalk>
+  <CantRomanceInitiateMessageCooldown>{0_labelShort}(은)는 이미 연애 시도를 했으며, 다시 시도할때까지 {1}(을)를 기다려야 합니다.</CantRomanceInitiateMessageCooldown>
+  <TryRomanceFailedMessage>{0_labelShort}의 {1_labelShort}(을)를 향한 연애시도는 실패했습니다.</TryRomanceFailedMessage>
+  <RomanceExistingRelationshipWarning>Having {INITIATOR_nameDef} romance {TARGET_nameDef} could sow resentment among existing partners, lead to breakups, and cause altercations.</RomanceExistingRelationshipWarning>
+  <RomanceChance>Romance chance</RomanceChance>
+  <RomanceChanceExistingRelation>already {PAWN_nameDef}'s {RELATION}</RomanceChanceExistingRelation>
+  <RomanceChanceCant>Cannot romance</RomanceChanceCant>
+  <RomanceChanceAgeFactor>상대 연령</RomanceChanceAgeFactor>
+  <RomanceChanceBeautyFactor>미관</RomanceChanceBeautyFactor>
+  <RomanceChanceOpinionFactor>의견</RomanceChanceOpinionFactor>
+  <RomanceChancePartnerFactor>배우자의 의견</RomanceChancePartnerFactor>
+  <RomanceFailedUnexpected>{0_labelShort} was unable to romance {1_labelShort}</RomanceFailedUnexpected>
+  <RomanceWarningMonogamous>{0_nameDef} is already in a relationship.</RomanceWarningMonogamous>
+  <RomanceWarningPolygamous>{0_nameDef} already has {1} partners.</RomanceWarningPolygamous>
+
+  <!-- Guest tab (prisoners) -->
+  <FactorForGenes>유전자 계수</FactorForGenes>
+  <PrisonBreakingDisabledDueToGene>Prison breaking is disabled by {GENE_label} gene.</PrisonBreakingDisabledDueToGene>
+
+</LanguageData>

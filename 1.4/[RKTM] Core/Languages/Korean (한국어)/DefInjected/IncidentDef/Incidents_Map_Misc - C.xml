@@ -53,6 +53,6 @@
   <WandererJoin.label>방랑자 합류</WandererJoin.label>
   
   <WildManWandersIn.label>방황하는 야생인간</WildManWandersIn.label>
-  <WildManWandersIn.letterLabel>{PAWN_kind} 방황 중</WildManWandersIn.letterLabel>
-  <WildManWandersIn.letterText>야생 동물들 사이에서 함께 사는 사람이 근처에서 방황하고 있습니다. {PAWN_pronoun}는 {0}(이)라고 불립니다.\n\n원한다면 {PAWN_objective} 길들일 수 있습니다.</WildManWandersIn.letterText>
+  <WildManWandersIn.letterLabel>{0} 방황 중</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterText>야생 동물 사이에서 함께 사는 {1}(이)가 근처에서 방황하고 있습니다. {PAWN_pronoun}는 {0}(이)라고 불립니다.\n\n원한다면 {PAWN_objective} 길들일 수 있습니다.</WildManWandersIn.letterText>
 </LanguageData>

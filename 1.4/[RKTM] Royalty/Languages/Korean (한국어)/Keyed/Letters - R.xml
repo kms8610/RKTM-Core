@@ -91,12 +91,6 @@
   <!-- Abilities -->
   <LetterPsychicInspiration>{CASTER_nameIndef}의 초능력 암시는 {PAWN_nameIndef}의 영감을 자극했습니다!</LetterPsychicInspiration>
 
-  <!-- Join Offer -->
-  <LetterJoinOfferLabel>합류 제안: {PAWN_nameDef}</LetterJoinOfferLabel>
-  <LetterJoinOfferTitle>{PAWN_nameDef}(이)가 합류하길 원합니다.</LetterJoinOfferTitle>
-  <LetterJoinOfferText>{PAWN_nameDef}(은)는 {MAP_definite}에서 만족한다고 생각합니다. {PAWN_pronoun}는 영구적으로 합류하길 원합니다.</LetterJoinOfferText>
-  <LetterJoinOfferAccept>수락</LetterJoinOfferAccept>
-
   <LetterLabelBestowingCeremonyExpired>수여식 만료됨</LetterLabelBestowingCeremonyExpired>
   <LetterTextBestowingCeremonyExpired>{TARGET_definite}(이)가 수여식에 나타나지 않았습니다. 수여식이 취소되었습니다.</LetterTextBestowingCeremonyExpired>
 

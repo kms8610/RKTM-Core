@@ -112,6 +112,7 @@
   <!-- Relics collection -->
   <LetterLabelRelicsCollected>유물 수집 완료</LetterLabelRelicsCollected>
   <LetterTextRelicsCollected>{0}에 속한 모든 유물을 수집했습니다. 아래의 사람들이 기뻐합니다</LetterTextRelicsCollected>
+  <LetterTextRelicsCollectedClassic>이 세계에 알려진 모든 유물을 수집했습니다. 아래의 사람들이 기뻐합니다</LetterTextRelicsCollectedClassic>
 
   <!-- Gauranlen tree connection -->
   <LetterLabelPawnConnected>{TREE_label}(와)과의 교감</LetterLabelPawnConnected>

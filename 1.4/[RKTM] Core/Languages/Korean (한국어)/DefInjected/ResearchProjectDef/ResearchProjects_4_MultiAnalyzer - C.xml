@@ -6,8 +6,8 @@
   <Bionics.label>생체공학</Bionics.label>
   <Bionics.description>손상된 팔과 다리, 눈을 대체할 수 있는 생체공학 신체를 만들 수 있습니다.</Bionics.description>
   
-  <ChargedShot.label>전자기 탄환</ChargedShot.label>
-  <ChargedShot.description>펄스 충전식 전자기 탄환을 발사하는 전자기 소총을 만들 수 있습니다.</ChargedShot.description>
+  <ChargedShot.label>펄스 충전 탄환</ChargedShot.label>
+  <ChargedShot.description>피해 극대를 위해 투사체에 펄스 충전을 하는 무기를 제작할 수 있습니다. 고급 부품이 필요합니다.</ChargedShot.description>
   
   <Cryptosleep.label>동면관</Cryptosleep.label>
   <Cryptosleep.description>생물을 영원히 보존하는 동면관을 만들 수 있습니다.</Cryptosleep.description>
@@ -25,6 +25,9 @@
   
   <ReconArmor.label>정찰대 갑옷</ReconArmor.label>
   <ReconArmor.description>정찰대가 사용하는 가벼운 강화 갑옷과 헬멧을 만들 수 있습니다. 고급 부품이 필요합니다.</ReconArmor.description>
+  
+  <RocketswarmLauncher.label>로켓탄막 발사기</RocketswarmLauncher.label>
+  <RocketswarmLauncher.description>중요한 순간에 발동해서 전장의 넓은 범위를 초토화할 수 있는 단발성 로켓탄막 발사기를 만들 수 있습니다.</RocketswarmLauncher.description>
   
   <SniperTurret.label>저격 포탑</SniperTurret.label>
   <SniperTurret.description>장거리 공격용 포탑을 만들 수 있습니다. 플라스틸을 종이처럼 찢는 우라늄 탄을 발사하지만, 근거리에서는 덜 효과적입니다.</SniperTurret.description>

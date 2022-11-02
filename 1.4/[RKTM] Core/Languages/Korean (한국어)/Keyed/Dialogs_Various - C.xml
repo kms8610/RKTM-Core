@@ -7,6 +7,14 @@
   <OK>확인</OK>
   <Close>닫기</Close>
   <Accept>수락</Accept>
+  <Cancel>취소</Cancel>
+  <Reset>초기화</Reset>
+  <ResetAll>모두 초기화</ResetAll>
+  <Disable>비활성</Disable>
+  <Modify>수정</Modify>
+  <ConfirmSettle>정말 여기에 정착하시겠습니까?</ConfirmSettle>
+  <Add>추가</Add>
+  <CannotShoot>발사 불가</CannotShoot>
   
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>림월드가 버전 {0}에서 버전 {1}로 업데이트됐습니다.</GameUpdatedToNewVersionInitial>
@@ -14,19 +22,20 @@
   <GameUpdatedToNewVersionSavesCompatible>구버전 저장 파일은 호환되나 모드는 작동하지 않을 수 있습니다.</GameUpdatedToNewVersionSavesCompatible>
   <GameUpdatedToNewVersionNonSteam>DRM-free 버전은 구버전 및 신버전을 서로 다른 폴더에 설치할 수 있습니다.</GameUpdatedToNewVersionNonSteam>
   <GameUpdatedToNewVersionSteam>계속 이전 버전을 사용하시려면 스팀 베타 기능을 사용하세요.\n\n  1. 라이브러리에서 RimWorld를 오른쪽 클릭하세요.\n  2. 속성을 클릭하세요.\n  3. 베타 탭을 선택하세요.\n  4. 드롭다운 메뉴에서 원하시는 버전을 선택하세요.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteamController>계속 이전 버전을 사용하시려면 스팀 베타 기능을 사용하세요.</GameUpdatedToNewVersionSteamController>
   
   <!-- Recovered from errors caused by mods -->
-  <RecoveredFromErrorsDialogTitle>호환 불가 또는 손상된 모드로 인한 오류에서 복구</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>활성화된 모드 중 일부가 오류를 일으키고 있습니다.\n\n서로와 호환이 되지 않거나, 다른 버전의 림월드를 위한 모드거나, 어쩌면 손상된 모드일수도 있습니다.\n\n모든 모드가 비활성화되었으며, 모드 설정에서 다시 활성화할 수 있습니다.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsDialogTitle>호환되지 않거나 손상된 모드로 인한 오류에서 복구됨</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>활성화된 모드 일부에서 오류가 발생한 것 같습니다.\n\n서로 호환되지 않았거나, 다른 버전의 림월드를 위해 개발됐거나, 손상됐을 수 있습니다.\n\n모든 모드를 비활성화했습니다. 모드 설정에서 다시 활성화할 수 있습니다.</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
-  <ErrorWhileLoadingAssetsTitle>애셋 불러오는 중 오류 발생</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>게임 애셋을 불러오는 도중 오류가 발생했습니다. 자세한 정보는 오류 로그에서 확인하십시오.</ErrorWhileLoadingAssets>
-  <ErrorWhileLoadingAssets_ModsInfo>게임에 사용자 창작 모드가 포함되어 있으며, 이것은 오류의 원인이 될 수도 있습니다.</ErrorWhileLoadingAssets_ModsInfo>
-  <ErrorWhileGeneratingMapTitle>지도 생성 중 오류 발생</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>새로운 지도 생성 도중 오류가 발생했습니다. 자세한 정보는 오류 로그에서 확인하십시오.</ErrorWhileGeneratingMap>
-  <ErrorWhileLoadingMapTitle>지도 불러오는 중 오류 발생</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>지도를 불러오는 도중 오류가 발생했습니다. 자세한 정보는 오류 로그에서 확인하십시오.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingAssetsTitle>애셋을 불러오지 못함</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>게임 애셋을 불러오던 중에 오류가 발생했습니다. 오류 로그에서 자세한 정보를 확인하세요.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>게임에 모드가 포함돼있습니다. 오류의 원인일 수 있습니다.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>지도를 생성하지 못함</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>새로운 지도를 생성하던 중에 오류가 발생했습니다. 오류 로그에서 자세한 정보를 확인하세요.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>지도를 불러오지 못함</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>지도를 불러오던 중에 오류가 발생했습니다. 오류 로그에서 자세한 정보를 확인하세요.</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
   <ModsChanged>모드 목록이 변경됐습니다. 잠시 후 게임을 재시작합니다.</ModsChanged>
@@ -64,11 +73,11 @@
   <SaveIsFromDifferentGameBuild>현재 버전은 {0}이지만 이 파일은 다른 패치인 버전 {1}에서 생성되었습니다.\n\n문제가 생길 수 있습니다.</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>현재 버전에서 생성된 파일입니다.</SaveIsFromThisGameBuild>
   <SaveIsUnknownFormat>저장된 파일의 형식을 읽을 수 없습니다. 오류가 발생할 수 있습니다.</SaveIsUnknownFormat>
-  <ProblemSavingFile>파일 {0}에 저장 중 다음 문제가 발생하였습니다.\n\n{1}\n\n자세한 정보는 오류 로그를 읽어주세요.</ProblemSavingFile>
+  <ProblemSavingFile>파일 {0}에 저장 중 다음 문제가 발생했습니다.\n\n{1}\n\n오류 로그에서 자세한 정보를 확인하세요.</ProblemSavingFile>
   <LoadAnyway>계속 불러오기</LoadAnyway>
   <ChangeLoadedMods>모드 목록 복구하기</ChangeLoadedMods>
   <MissingMods>일부 모드 사용 불가, 재설치 필요</MissingMods>
-  <OfficialContent>공식 컨텐츠</OfficialContent>
+  <OfficialContent>공식 콘텐츠</OfficialContent>
   <ContentActive>활성</ContentActive>
   <ContentInstalledButNotActive>비활성</ContentInstalledButNotActive>
   <ContentNotInstalled>설치되지 않음</ContentNotInstalled>
@@ -79,49 +88,69 @@
   <PlayerFactionNameIsInvalid>유효하지 않은 이름입니다.</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
-  <NamePlayerFactionBaseMessage>이 곳의 이름을 정해야 한다는 {0}의 제안이 들어왔습니다. 어떤 이름이 좋을까요?</NamePlayerFactionBaseMessage>
-  <PlayerFactionBaseGainsName>이 곳은 이제부터 {0}의 이름으로 불립니다.</PlayerFactionBaseGainsName>
+  <NamePlayerFactionBaseMessage>{0}(이)가 이 정착지의 이름을 정하자고 제안했습니다. 어떤 이름이 좋을까요?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>이곳은 이제부터 {0}의 이름으로 불립니다.</PlayerFactionBaseGainsName>
   <PlayerFactionBaseNameIsInvalid>유효하지 않은 이름입니다.</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>이 곳의 이름을 정하자는 {0}의 제안이 들어왔습니다. 어떤 이름이 좋을까요?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0}(은)는 이 정착지의 이름도 같이 정하자고 제안했습니다. 어떤 이름이 좋을까요?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <PlayerFactionAndBaseGainsName>이제부터 당신의 세력은 {0}, 이 장소는 {1}의 이름으로 알려집니다.</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
-  <NameIsInvalid>유효하지 않은 이름입니다.</NameIsInvalid>
-  <NameIsInUse>이미 사용중인 이름입니다.</NameIsInUse>
+  <NameIsInvalid>유효한 이름을 입력해 주세요.</NameIsInvalid>
+  <NameIsInUse>이미 사용 중인 이름입니다.</NameIsInUse>
   <ZoneGainsName>이 구역의 이름은 이제 {0}입니다.</ZoneGainsName>
   
   <!-- Pawn naming -->
-  <PawnGainsName>해당 정착민의 별명은 이제 {0} 입니다. {PAWN_possessive} 배경은 {PAWN_title} 입니다.</PawnGainsName>
-  <AnimalGainsName>해당 동물의 이름은 이제 {0} 입니다.</AnimalGainsName>
+  <NameInvalid>선택한 이름이 유효하지 않습니다.</NameInvalid>
+  <PawnGainsName>이 정착민의 별명은 이제 {0}입니다. {PAWN_possessive} 배경은 {PAWN_title}입니다.</PawnGainsName>
+  <AnimalGainsName>이 동물의 이름은 이제 {0}입니다.</AnimalGainsName>
+  <RenamePerson>개명</RenamePerson>
+  <Mother>어머니</Mother>
+  <Father>아버지</Father>
+  <Unknown>알려지지 않음</Unknown>
+  <FirstName>이름</FirstName>
+  <NickName>별명</NickName>
+  <LastName>성</LastName>
+  <Suggested>제안</Suggested>
 
   <!-- Save game incompatible warning -->
   <VersionMismatch>버전 불일치</VersionMismatch>
-  <SaveGameIncompatibleWarningText>이 게임은 버전 {0}에서 저장되었습니다.\n현재 버전은 {1}입니다.\n\n파일을 불러올 경우 호환성에 문제가 발생할 수 있습니다.</SaveGameIncompatibleWarningText>
-  <WorldFileVersionMismatch>이 세계는 버전 {0}에서 생성되었습니다.\n현재 버전은 {1}입니다.\n\n파일을 불러올 경우 호환성에 문제가 발생할 수 있습니다. 새로운 세계를 생성하는 편이 좋습니다.</WorldFileVersionMismatch>
-  <FileIncompatibleWarning>이 파일은 버전 {0}에서 저장되었습니다.\n현재 버전은 {1}입니다.\n\n파일을 불러올 경우 호환성에 문제가 발생할 수 있습니다.</FileIncompatibleWarning>
+  <SaveGameIncompatibleWarningText>이 게임은 버전 {0}에서 저장되었습니다.\n현재 버전은 {1}입니다.\n\n이 세이브를 불러오면 버그와 충돌이 발생할 수 있습니다.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>이 세계는 버전 {0}에서 생성되었습니다.\n현재 버전은 {1}입니다.\n\n이 세계를 불러오면 버그와 충돌이 발생할 수 있습니다. 새로운 세계를 생성하는 편이 좋습니다.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>이 파일은 버전 {0}에서 저장되었습니다.\n현재 버전은 {1}입니다.\n\n이 파일을 불러오면 버그와 충돌이 발생할 수 있습니다.</FileIncompatibleWarning>
   <ModsMismatchWarningTitle>모드 불일치</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>이 파일은 현재 활성화된 모드와 다른 모드를 사용합니다. 불러오려는 시도는 모드에 따라 성공할 수도, 실패할 수도 있습니다.\n\n해당 파일의 모드 목록 순서:\n\n{0}\n\n현재 사용 중인 모드 목록 순서:\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>이 파일은 현재 활성화된 모드와 다른 모드 목록을 사용합니다. 모드의 기능에 따라 문제가 생길 수도, 아무 문제도 없을 수도 있습니다.</ModsMismatchWarningText>
+  <ModsMismatchOrderChanged>추가했거나 제거한 모드는 없지만 모드의 순서가 달라졌습니다.</ModsMismatchOrderChanged>
+  <ConfirmLoadSaveList>정말 이 세이브에서 모드 목록을 불러오시겠습니까?</ConfirmLoadSaveList>
 
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>변경한 해상도가 정상적으로 적용되고 있습니까?\n\n{0}초 후에 이전 해상도로 되돌아 갑니다.</ConfirmResolutionChange>
-  <ResolutionKeep>변경한 설정 유지</ResolutionKeep>
+  <ConfirmResolutionChange>화면 설정을 바꿨습니다. 아무 문제도 없나요?\n\n{0}초 후에 이전 설정으로 돌아갑니다.</ConfirmResolutionChange>
+  <ResolutionKeep>설정 유지</ResolutionKeep>
   <ResolutionRevert>되돌리기</ResolutionRevert>
 
   <!-- Confirm permanently disable dev mode -->
-  <ConfirmPermanentlyDisableDevMode>개발자 모드를 영구적으로 비활성화 하시겠습니까?\n\n개발자 모드의 유혹을 뿌리치고 순수하게 게임을 즐기고 싶다면 추천합니다.\n\n개발자 모드를 다시 활성화할 수는 있지만 관련 파일을 수동으로 편집해야 합니다. 방법은 인터넷에서 찾아보세요.</ConfirmPermanentlyDisableDevMode>
-  
+  <ConfirmPermanentlyDisableDevMode>정말 개발자 모드를 영구적으로 비활성화하시겠습니까?\n\n개발자 모드의 유혹을 뿌리치고 순수하게 게임을 즐기고 싶은 분을 위한 옵션입니다.\n\n나중에 다시 개발자 모드를 활성화할 수는 있지만 관련 설정 파일을 직접 편집해야 합니다. 자세한 방법은 인터넷에서 찾아보세요.</ConfirmPermanentlyDisableDevMode>
+
+  <!-- Confirm reset learning helper -->
+  <ConfirmResetLearningHelper>정말 도우미를 초기화하시겠습니까?\n\n지금까지 배운 개념의 기록을 전부 지우고, 도우미 시스템이 처음부터 다시 도움말을 제공합니다.</ConfirmResetLearningHelper>
+
+  <!-- Backstory translation restart dialog -->
+  <RestartAfterImportingLegacyBackstoryTanslations>성장 환경도 이제 def로 구현되므로 구버전 성장 환경 번역을 def 번역으로 이전했습니다. 파일 {0}(을)를 변환해 {1}(으)로 이동했습니다. {0}(은)는 이제 삭제해도 괜찮습니다.\n\n게임을 다시 시작해서 변경점을 적용하세요.</RestartAfterImportingLegacyBackstoryTanslations>
+
+  <!-- Game start -->
+  <SelectedCharactersMustInclude>반드시 {SUMMARY}(을)를 포함해야 함</SelectedCharactersMustInclude>
+
   <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>경고: 얼어붙은 환경에 착륙하게 될 것이며 생존하기 매우 힘들 수 있습니다. 만약 극도로 어려운 도전을 하고 싶은 것이 아니라면 다른 지역 또는 계절을 선택하세요.</MapTemperatureDangerWarning>
   <MapSizePerformanceWarning>이 게임은 기본적으로 중간 규모의 지도에서 플레이하도록 설계되었습니다!\n\n지나치게 큰 맵은 성능을 저하시킬 뿐 아니라 게임의 균형에 전체적으로 좋지 않은 영향을 줍니다. 특별한 이유 없이는 사용을 권장하지 않습니다.</MapSizePerformanceWarning>
-  <MapSize>지도 규모</MapSize>
+  <MapSize>지도 크기</MapSize>
   <MapSizeDesc>{0}x{0} ({1}칸)</MapSizeDesc>
   <MapSizeSmall>소형</MapSizeSmall>
   <MapSizeMedium>중형</MapSizeMedium>
   <MapSizeLarge>대형</MapSizeLarge>
-  <MapSizeExtreme>초대형</MapSizeExtreme>
-  <MapStartSeason>착륙하는 계절:</MapStartSeason>
+  <MapSizeExtreme>초대형 (테스트)</MapSizeExtreme>
+  <MapStartSeason>시작 계절</MapStartSeason>
   <MapStartSeasonDefault>자동</MapStartSeasonDefault>
   <Notice>주의</Notice>
 
@@ -144,8 +173,8 @@
   <RecipeCannotHaveTargetCount>(이 제조법은 여러 혹은 예측 불가능한 결과로 인해 목표 수량을 지정할 수 없습니다.)</RecipeCannotHaveTargetCount>
   <WorkAmount>작업량</WorkAmount>
   <MinimumSkills>최소 요구기술:</MinimumSkills>
-  <BillRequires>{0} {1} 필요</BillRequires>
-  <BillRequiresNutrition>열량 {0} 필요</BillRequiresNutrition>
+  <BillRequires>필요</BillRequires>
+  <BillNutrition>열량</BillNutrition>
   <BillRequiresMayVary>참고: 금과 같은 소형 재료는 명시된 필요량의 {0}배가 필요합니다.</BillRequiresMayVary>
   <ThisIsSmallVolume>이 재료는 소용량 재료입니다. 소용량 재료의 한 단위는 다른 재료의 1/{0}이며, 같은 청사진이라도 일반 수량의 {0}배를 필요로 합니다.</ThisIsSmallVolume>
   <UsableIngredients>사용 할 수 있는 재료</UsableIngredients>
@@ -176,7 +205,7 @@
   <BurstShotCount>연발횟수</BurstShotCount>
   <WarmupTime>조준시간</WarmupTime>
   <MeleeWarmupTime>근거리 조준시간</MeleeWarmupTime>
-  <RangedWarmupTime>발사준비시간</RangedWarmupTime>
+  <RangedWarmupTime>조준 지연</RangedWarmupTime>
   <CooldownTime>대기시간</CooldownTime>
   <DisarmedTime>무장해제시간</DisarmedTime>
   <ChargingTime>충전 중</ChargingTime>
@@ -236,7 +265,9 @@
   <ToleranceGain>복용당 내성량</ToleranceGain>
   <ToleranceFallRate>내성 하락률</ToleranceFallRate>
   <MinimumToleranceForAddiction>중독성 최소 내성</MinimumToleranceForAddiction>
-  <SafeDoseInterval>적정 복용 간격</SafeDoseInterval>
+  <SafeDoseInterval>성인 복용 적절 간격</SafeDoseInterval>
+  <AgeXToY>나이 {0}-{1}</AgeXToY>
+  <AgePlus>나이 {0}+</AgePlus>
   <Addictiveness>중독성</Addictiveness>
   <AddictionSeverityInitial>중독 초기 심각도</AddictionSeverityInitial>
   <AddictionSeverityPerDose>복용당 중독 심각도</AddictionSeverityPerDose>
@@ -245,7 +276,7 @@
   <AddictionNeedDoseInterval>중독필요 복용 간격</AddictionNeedDoseInterval>
   <AddictionRecoveryTime>중독 회복 시간</AddictionRecoveryTime>
   <AddictionCost>중독 비용</AddictionCost>
-  <RandomODChance>과다복용 확률</RandomODChance>
+  <RandomODChance>무작위 과다복용 확률</RandomODChance>
   <AlwaysSafe>항상 안전함</AlwaysSafe>
   <NeverSafe>안전하지 않음</NeverSafe>
   <PerDay>{0}/일</PerDay>
@@ -254,7 +285,7 @@
   <PackAnimalExplanation>상단의 짐을 멀리 운송하는데 적합한지의 여부입니다.</PackAnimalExplanation>
   <Skill>기술</Skill>
   <SurgerySuccessChanceFactor>성공률 계수</SurgerySuccessChanceFactor>
-  <SurgeryDeathOnFailChance>실패시 사망확률</SurgeryDeathOnFailChance>
+  <SurgeryDeathOnFailChance>실패 시 사망 확률</SurgeryDeathOnFailChance>
   <WorkSpeedStat>통상 작업 속도:</WorkSpeedStat>
   <EfficiencyStat>수확량 기대값:</EfficiencyStat>
   <SkillRequiredToBuild>{0} 기술 필요</SkillRequiredToBuild>
@@ -417,6 +448,7 @@
   <FactionType>세력 유형</FactionType>
   <TotalBodySize>총 신체 크기</TotalBodySize>
   <AutomaticallySelectTravelSupplies>보급품 자동 선택</AutomaticallySelectTravelSupplies>
+  <CaravanAnimalSick>아픈 동물입니다. 다음 질병을 앓고 있습니다</CaravanAnimalSick>
 
   <!-- Split caravan -->
   <SplitCaravan>상단 분할</SplitCaravan>
@@ -428,8 +460,8 @@
   
   <!-- Load transporters -->
   <LoadTransporters>{0} 적재</LoadTransporters>
-  <TooBigTransportersMassUsage>할당된 내용물이 수송 포드에 싣기에 너무 무겁습니다.</TooBigTransportersMassUsage>
-  <TooBigTransporterSingleMassUsage>할당된 내용물이 왕복선에 싣기에 너무 무겁습니다.</TooBigTransporterSingleMassUsage>
+  <TooBigTransportersMassUsage>수송 포드에 싣기에는 할당한 사람과 물건이 너무 무겁습니다.</TooBigTransportersMassUsage>
+  <TooBigTransporterSingleMassUsage>왕복선에 싣기에는 할당한 사람과 물건이 너무 무겁습니다.</TooBigTransporterSingleMassUsage>
   <CantSendEmptyTransportPods>빈 수송 포드는 발사할 수 없습니다.</CantSendEmptyTransportPods>
   <CantSendEmptyTransporterSingle>빈 왕복선은 발사할 수 없습니다.</CantSendEmptyTransporterSingle>
   <PawnCantReachTransporters>{1_labelShort}(이)가 수송 포드에 접근할 수 없습니다.</PawnCantReachTransporters>
@@ -438,7 +470,7 @@
   <TransporterSingleItemIsUnreachableSingle>{0}에서 왕복선으로 갈 수 있는 경로가 없습니다.</TransporterSingleItemIsUnreachableSingle>
   <TransporterItemIsUnreachableMulti>{0}x {1}에서 수송 포드로 갈 수 있는 경로가 없습니다.</TransporterItemIsUnreachableMulti>
   <TransporterSingleItemIsUnreachableMulti>{0}x {1}에서 왕복선으로 갈 수 있는 경로가 없습니다.</TransporterSingleItemIsUnreachableMulti>
-  <TransporterSingleTooManyColonists>최대 {0} 명의 정착민만 허용됩니다.</TransporterSingleTooManyColonists>
+  <TransporterSingleTooManyColonists>최대 {0}명의 정착민만 허용됩니다.</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <SocialSkillIs>사교기술: {0}</SocialSkillIs>
@@ -496,6 +528,7 @@
 
   <!-- Food restriction management -->
   <FoodRestriction>식량 정책</FoodRestriction>
+  <FoodRestrictionShort>먹이</FoodRestrictionShort>
   <FoodRestrictionLavish>호화로운 식사</FoodRestrictionLavish>
   <FoodRestrictionFine>좋은 식사</FoodRestrictionFine>
   <FoodRestrictionSimple>간단한 식사</FoodRestrictionSimple>
@@ -508,6 +541,7 @@
   <NoFoodRestrictionSelected>선택된 식량 정책 없음</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
+  <DefaultMedicineSettings>기본 약품 설정</DefaultMedicineSettings>
   <MedGroupDefaults>기본</MedGroupDefaults>
   <MedGroupColonist>정착민</MedGroupColonist>
   <MedGroupImprisonedColonist>수감된 정착민</MedGroupImprisonedColonist>
@@ -538,7 +572,7 @@
   <ConfirmSendNotCompletelyLoadedPods>모든 수송 포드의 적재가 끝나지 않았습니다. {1_labelShort}(이)가 빠졌습니다. 발사하시겠습니까?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
-  <ConfirmSettleNearFactionBase>이 위치는 다른 세력 거주지의 {0} 타일 내에 있기 때문에 자신의 땅을 침범하고 있다고 느끼며, 이 세력과 {1}일마다 관계도가 감소됩니다.\n\n그래도 정착하시겠습니까?</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>이 위치는 다른 세력 거주지의 {0} 타일 내에 있기 때문에 자신의 땅을 침범하고 있다고 느끼며, 이 세력과 {1}일마다 관계도가 감소됩니다.</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <ConfirmCleanupTranslationFiles>{0}의 모든 번역 파일을 정리 하시겠습니까?\n\n다음 작업을 수행합니다:\n  - 누락된 Keyed, DefInjected, Backstories 번역에 플레이스홀더 추가\n  - 원문 텍스트를 포함한 주석 추가/업데이트\n  - 모든 Keyed, DefInjected 번역을 적절한 XML파일로 이동\n  - 모든 XML 파일에 자동 서식 적용\n  - 이전 버전과 호환되는 Def 이름 업데이트\n  - 기존의 모든 XML 주석 제거 (리스트 인젝션 제외)\n\nXML 외의 파일은 제거되거나 수정되지 않습니다.\n\n언어 파일을 수정한 후에는 이 도구를 사용하기 전에 게임을 다시 시작해서 모든 데이터를 새로 불러와야 합니다.\n\n정리 전에 번역 파일을 백업하세요.</ConfirmCleanupTranslationFiles>
@@ -551,6 +585,7 @@
   <ConfirmCancelMonumentMarker>이 기념비를 정말로 제거하시겠습니까?</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
+  <CannotUseAbility>{0} 사용 불가</CannotUseAbility>
   <AbilityRequiresLOS>시야 필요</AbilityRequiresLOS>
   <AbilityEntropyGain>신경열 누적</AbilityEntropyGain>
   <AbilityPsyfocusCost>초집중 비용</AbilityPsyfocusCost>
@@ -558,11 +593,12 @@
   <AbilityEffectRadius>효과 범위</AbilityEffectRadius>
   <AbilityCastingTime>시전 시간</AbilityCastingTime>
   <AbilityCannotHitTarget>목표가 시야에 있어야 합니다.</AbilityCannotHitTarget>
+  <AbilityOutOfRange>대상이 사정거리 밖입니다.</AbilityOutOfRange>
   <AbilityCannotReachTarget>목표에 도달할 수 없습니다.</AbilityCannotReachTarget>
   <AbilityNotEnoughFreeSpace>여유 공간이 충분하지 않습니다.</AbilityNotEnoughFreeSpace>
-  <AbilityOccupiedCells>{0}(은)는 빈 공간을 지정해야 합니다.</AbilityOccupiedCells>
-  <AbilityUnwalkable>{0}(은)는 이동 가능한 공간을 지정해야 합니다.</AbilityUnwalkable>
-  <AbilityRoofed>{0}(은)는 지붕이 없는 공간을 지정해야 합니다.</AbilityRoofed>
+  <AbilityOccupiedCells>빈 공간을 지정해야 합니다.</AbilityOccupiedCells>
+  <AbilityUnwalkable>이동 가능한 공간을 지정해야 합니다.</AbilityUnwalkable>
+  <AbilityRoofed>지붕이 없는 공간을 지정해야 합니다.</AbilityRoofed>
   <AbilityCantApplyToMentallyBroken>{0_labelShort}(은)는 정신이상이 생겼습니다.</AbilityCantApplyToMentallyBroken>
   <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort}(은)는 정신이상이 없습니다.</AbilityCanOnlyApplyToMentallyBroken>
   <AbilityCanOnlyApplyToManhunter>{0_labelShort}(은)는 미치지 않았습니다.</AbilityCanOnlyApplyToManhunter>
@@ -572,6 +608,8 @@
   <AbilityCantApplyDowned>{0_labelShort}(은)는 쓰러졌습니다.</AbilityCantApplyDowned>
   <AbilityCantApplyOnAsexual>사용할 수 없음: {0}(은)는 무성애입니다.</AbilityCantApplyOnAsexual>
   <AbilityCantApplyWrongAttractionGender>{1_labelShort}에 대한 {0_labelShort}의 성별이 잘못되었습니다.</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyTooYoung>{0_labelShort}(이)가 너무 어립니다.</AbilityCantApplyTooYoung>
+  <AbilityCantApplyOnBaby>아기를 대상으로 할 수 없습니다.</AbilityCantApplyOnBaby>
   <PsyfocusCostPerMentalBreakIntensity>정신이상 강도당 초집중 비용</PsyfocusCostPerMentalBreakIntensity>
   <AbilityAlreadyInspired>{0_labelShort}(은)는 이미 영감 받았습니다.</AbilityAlreadyInspired>
   <AbilityCantGetInspiredNow>지금은 {0_labelShort}에서 영감을 받을 수 없습니다.</AbilityCantGetInspiredNow>
@@ -640,5 +678,40 @@
   <RoomRequirementAllFineFloored>모든 고급 바닥재</RoomRequirementAllFineFloored>
   <RoomRequirementNoProductionFacilities>생산시설 없음</RoomRequirementNoProductionFacilities>
   <RoomRequirementNoAltars>제단 허용되지 않음</RoomRequirementNoAltars>
+
+  <LifeStageMaxFood>성장 단계에 대한 계수</LifeStageMaxFood>
+
+  <ExpandAllCategories>모두 펼치기</ExpandAllCategories>
+  <CollapseAllCategories>모두 접기</CollapseAllCategories>
+
+  <TooltipDyeExplanation>염료는 상인과 거래하거나, 염색풀을 재배해서 얻을 수 있습니다.</TooltipDyeExplanation>
+
+  <ZoomRange>확대 범위 {0}</ZoomRange>
+
+  <!-- Color picker -->
+  <ColorTemperature>색온도</ColorTemperature>
+  <ChooseAColor>색 선택</ChooseAColor>
+  <Red>빨간색</Red>
+  <Green>녹색</Green>
+  <Blue>파란색</Blue>
+  <Hue>색조</Hue>
+  <Saturation>채도</Saturation>
+  <Value>명도</Value>
+  <Darklight>암광</Darklight>
+  <NotDarklight>암광 아님</NotDarklight>
+  <CurrentColor>현재 색상</CurrentColor>
+  <OldColor>이전 색상</OldColor>
+  <CommandCopyColorLabel>색상 복사</CommandCopyColorLabel>
+  <CommandCopyColorDesc>클립보드에 현재 색상을 복사합니다.</CommandCopyColorDesc>
+  <CommandPasteColorLabel>색상 붙여넣기</CommandPasteColorLabel>
+  <CommandPasteColorDesc>클립보드의 색상으로 덮어씁니다.</CommandPasteColorDesc>
+  <ClipboardInvalidColor>클립보드에 유효한 색상이 없습니다.</ClipboardInvalidColor>
+  <ColorCopiedSuccessfully>클립보드로 색상을 복사했습니다.</ColorCopiedSuccessfully>
+  <ColorPastedSuccessfully>클립보드의 색상으로 바꿨습니다.</ColorPastedSuccessfully>
+  <ToggleDarklightOff>일반 조명으로 변경</ToggleDarklightOff>
+  <ToggleDarklightOffDesc>조명의 색을 일반 조명색으로 바꿉니다.</ToggleDarklightOffDesc>
+  <ToggleDarklightOn>암광 조명으로 변경</ToggleDarklightOn>
+  <ToggleDarklightOnDesc>조명의 색을 암광 조명색으로 바꿉니다.</ToggleDarklightOnDesc>
+  <ColorTemperatureTooltip>색온도로 조명의 색을 선택합니다. 참고: 조명의 색만 바뀌고 발산하는 열은 바뀌지 않습니다.</ColorTemperatureTooltip>
 
 </LanguageData>

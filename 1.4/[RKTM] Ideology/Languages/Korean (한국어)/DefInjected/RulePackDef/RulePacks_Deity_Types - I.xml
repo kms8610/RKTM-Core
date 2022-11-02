@@ -2,7 +2,8 @@
 <LanguageData>
   <DeityTypeMakerGlobal.rulePack.rulesStrings>
     <li>r_deityType->[memeConcept]의 [god]</li>
-    <li>god(p=7)->신</li>
+    <li>god(p=7, gender!=Female)->신</li>
+    <li>god(p=7, gender==Female)->여신</li>
     <li>god(p=4)->[memeGod]</li>
     <li>god(p=3)->영</li>
     <li>god->조물주</li>

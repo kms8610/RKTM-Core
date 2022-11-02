@@ -10,7 +10,7 @@
     <li>raidArrivedLetterLabel->습격: [enemyFaction_name]</li>
     <li>raidArrivedLetterText->[enemyFaction_name]의 [enemyFaction_pawnsPlural](이)가 도착했습니다. 그들은 [map_definite]에 추락한 [asker_faction_pawnsPlural](을)를 공격합니다.\n\n구조선이 도착할 때까지 [rescueShuttleAfterRaidDelay_duration] 동안 [asker_faction_pawnsPlural](을)를 지키세요.</li>
     <li>rescueShuttleArrivedLetterLabel->구조선 도착</li>
-    <li>rescueShuttleArrivedLetterText->추락한 [pawnLabelSingleOrPlural](을)를 데려가기 위해 구조선이 도착했습니다. 구조선이 출발하기 전에 [rescueDelay_duration] 내로 다음 사람들을 탑승시키세요:\n\n[civilians]</li>
+    <li>rescueShuttleArrivedLetterText->추락한 [pawnLabelSingleOrPlural](을)를 구조하기 위해 왕복선이 도착했습니다. 왕복선이 [leaveDelay_duration] 후 떠나기 전에 아래의 사람들을 태우세요.\n\n[civilians]</li>
     <li>questCompletedSuccessLetterLabel->임무 성공: [resolvedQuestName]</li>
     <li>questCompletedSuccessLetterText->[commanderLandingDesc](이)가 탈출했습니다. [asker_pronoun]는 [map_definite]에서 받은 도움에 감사해 합니다.\n\n[successLetterEndingCommon]</li>
     <li>questCompletedCiviliansLostSuccessLetterLabel->임무 성공: [resolvedQuestName]</li>
@@ -31,13 +31,15 @@
   <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
     <li>pawnLabelSingleOrPlural(civilians_count==1)->[pawnLabel]</li>
     <li>pawnLabelSingleOrPlural(civilians_count>=2)->[pawnLabelPlural]</li>
-    <li>questDescription->[asker_faction_name]의 왕복선이 손상되어 착륙할 곳을 찾고 있습니다. 지휘관 [asker_nameDef](은)는 [map_definite]에 착륙하려고 합니다.\n\n[enemyFaction_name]의 [enemyFaction_pawnsPlural](은)는 탑승자들을 죽이려고 추락한 왕복선 지역을 공격하니, 그들을 지켜야 합니다.\n\n왕복선에는 [asker_nameDef][andOtherCivilians](와)과 [soldiers0_kind] [soldiers_count]명이 있습니다. [soldiers0_kind]들은 희생되어도 괜찮지만, [andCivilians]지휘관은 구조되어야 합니다.\n\n[rescueDelay_duration] 후에, 생존자들을 데리러 구조선이 옵니다. [leaveDelay_duration] 내에 모두 탑승시켜야 합니다.</li>
+    <li>questDescription->[asker_faction_name]의 왕복선이 피해를 입고 비상착륙할 장소를 찾고 있습니다. 왕복선의 사령관, [asker_nameDef](은)는 [map_definite]에 착륙하려고 합니다.\n\n탑승객을 사살하기 위한 [enemyFaction_pawnsPlural](이)가 [enemyFaction_name]에서 출발했습니다. 왕복선을 방어하세요.\n\n왕복선에는 [asker_nameDef][andOtherCivilians], [soldierCountKinds](이)가 탑승하고 있습니다. 사령관[andCivilians](은)는 반드시 구조해야 하지만 [soldiers0_kind](은)는 희생할 수 있습니다.\n\n[rescueDelay_duration] 후, 구조 왕복선이 도착해 생존자들을 이송할 것입니다. 구조 왕복선이 착륙한 후 [leaveDelay_duration] 내에 모든 생존자가 탑승해야 합니다.</li>
     <li>andOtherCivilians(civilians_count==1)-></li>
-    <li>andOtherCivilians(civilians_count==2)->, 다른 [pawnLabel]</li>
-    <li>andOtherCivilians(civilians_count>=3)->, 다른 [pawnLabelSingleOrPlural] [civilianCountMinusOne]명</li>
+    <li>andOtherCivilians(civilians_count==2)->(와)과 한 명의 [pawnLabel]</li>
+    <li>andOtherCivilians(civilians_count>=3)->(와)과 [pawnLabelSingleOrPlural] [civilianCountMinusOne]명</li>
     <li>andCivilians(civilians_count==1)-></li>
-    <li>andCivilians(civilians_count==2)->[pawnLabel](와)과 </li>
-    <li>andCivilians(civilians_count>=3)->[pawnLabelPlural](와)과 </li>
+    <li>andCivilians(civilians_count==2)->(와)과 [pawnLabel]</li>
+    <li>andCivilians(civilians_count>=3)->(와)과 [pawnLabelPlural]</li>
+    <li>soldierCountKinds(soldiers_count==1)->[soldiers0_kind] 한 명</li>
+    <li>soldierCountKinds(soldiers_count==1)->[soldiers0_kind] [soldiers_count]명</li>
   </ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
   <ShuttleCrash_Rescue.questNameRules.rulesStrings>
     <li>questName->[shuttle] [crash]</li>

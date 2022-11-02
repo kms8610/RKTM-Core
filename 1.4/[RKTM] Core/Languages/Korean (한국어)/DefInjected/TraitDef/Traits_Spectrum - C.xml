@@ -36,12 +36,12 @@
   <NaturalMood.degreeDatas.optimist.description>{PAWN_nameDef}(은)는 매사에 긍정적이라 쉽게 우울해지지 않습니다.</NaturalMood.degreeDatas.optimist.description>
   <NaturalMood.degreeDatas.pessimist.label>부정적</NaturalMood.degreeDatas.pessimist.label>
   <NaturalMood.degreeDatas.pessimist.description>{PAWN_nameDef}(은)는 자신의 삶을 비관하는 경향이 있습니다.</NaturalMood.degreeDatas.pessimist.description>
-  <NaturalMood.degreeDatas.depressive.label>우울증</NaturalMood.degreeDatas.depressive.label>
+  <NaturalMood.degreeDatas.depressive.label>비관적</NaturalMood.degreeDatas.depressive.label>
   <NaturalMood.degreeDatas.depressive.description>{PAWN_nameDef}(은)는 언제나 불행해서 모든게 잘 돌아가도 기분이 좋지 않습니다.</NaturalMood.degreeDatas.depressive.description>
   
   <Nerves.degreeDatas.ironwilled.label>철의 의지</Nerves.degreeDatas.ironwilled.label>
   <Nerves.degreeDatas.ironwilled.description>{PAWN_nameDef}의 의지는 마치 강철과 같습니다. 다른 사람들이 먼저 주저앉을 때에도 모든 것을 이겨내고 나아갑니다.</Nerves.degreeDatas.ironwilled.description>
-  <Nerves.degreeDatas.steadfast.label>확고</Nerves.degreeDatas.steadfast.label>
+  <Nerves.degreeDatas.steadfast.label>확고한 의지</Nerves.degreeDatas.steadfast.label>
   <Nerves.degreeDatas.steadfast.description>{PAWN_nameDef}(은)는 다른 사람들이 심각한 스트레스로 인해 무너지더라도 잘 버텨내곤 합니다.</Nerves.degreeDatas.steadfast.description>
   <Nerves.degreeDatas.nervous.label>신경과민</Nerves.degreeDatas.nervous.label>
   <Nerves.degreeDatas.nervous.description>{PAWN_nameDef}(은)는 압박을 받았을 때 다른 사람들보다 빠르게 무너지는 경향이 있습니다.</Nerves.degreeDatas.nervous.description>

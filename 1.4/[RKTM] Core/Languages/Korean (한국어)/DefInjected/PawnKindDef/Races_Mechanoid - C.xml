@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mech_Centipede.label>센티피드</Mech_Centipede.label>
+  <Mech_CentipedeBlaster.label>센티피드 블래스터</Mech_CentipedeBlaster.label>
+  
+  <Mech_CentipedeBurner.label>센티피드 버너</Mech_CentipedeBurner.label>
+  
+  <Mech_CentipedeGunner.label>센티피드 거너</Mech_CentipedeGunner.label>
   
   <Mech_Lancer.label>랜서</Mech_Lancer.label>
   

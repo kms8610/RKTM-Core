@@ -4,6 +4,8 @@
   
   <Explosion.label>폭발</Explosion.label>
   
+  <PawnJumper.label>비행</PawnJumper.label>
+  
   <RadialTrigger.label>근접 트리거</RadialTrigger.label>
   
   <RectTrigger.label>직사각 트리거</RectTrigger.label>

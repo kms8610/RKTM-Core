@@ -3,17 +3,11 @@
 
   <MainPageCredit>타이난 실베스터의 이야기 생성기</MainPageCredit>
 
-  <Credits_Developers>개발자</Credits_Developers>
+  <Credits_Developers>엔지니어링</Credits_Developers>
   <Credit_MusicAndSound>음향</Credit_MusicAndSound>
-  <Credit_Code>코딩</Credit_Code>
-  <Credit_GameArt>예술</Credit_GameArt>
+  <Credit_GameArt>아트</Credit_GameArt>
   <Credit_MenuArt>메뉴 아트</Credit_MenuArt>
-  <Credit_AdditionalCode>추가 코딩</Credit_AdditionalCode>
-  
-  <Credits_AdditionalDevelopment>추가 개발</Credits_AdditionalDevelopment>
-
-  <Credit_SpecialThanks>고마운 분들</Credit_SpecialThanks>
-
+  <Credits_AdditionalDevelopment>추가 엔지니어링</Credits_AdditionalDevelopment>
   <Credits_TitleCommunity>커뮤니티 자원자</Credits_TitleCommunity>
   <Credits_TitleTester>커뮤니티 테스터</Credits_TitleTester>
   <Credits_TitleMods>모드</Credits_TitleMods>
@@ -22,13 +16,10 @@
   <Credit_Moderator>포럼 관리</Credit_Moderator>
   <Credit_WikiMaster>위키 관리</Credit_WikiMaster>
   <Credit_TestLead>테스트 리드</Credit_TestLead>
-
   <Credits_TitleLanguage>{0} 번역</Credits_TitleLanguage>
-  <Credit_Writer>작가</Credit_Writer>
-  <Credit_Translator>번역</Credit_Translator>
-  <Credit_OpenSourceLibraries>오픈 소스 라이브러리</Credit_OpenSourceLibraries>
-  <Credit_NoiseGeneration>난수 생성 기술 제공</Credit_NoiseGeneration>
+  <ThanksForPlaying>플레이해 주셔서 감사합니다!</ThanksForPlaying>
 
-  <ThanksForPlaying>플레이해주셔서 감사합니다!</ThanksForPlaying>
+  <!-- Currently unused -->
+  <Credit_SpecialThanks>고마운 분들</Credit_SpecialThanks>
 
 </LanguageData>

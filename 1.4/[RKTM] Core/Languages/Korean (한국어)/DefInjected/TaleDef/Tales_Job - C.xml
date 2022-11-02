@@ -166,8 +166,8 @@
     <li>tale_noun->[HUMAN_nameDef](이)가 [ANIMAL_nameDef](을)를 길들인 목격담</li>
     <li>image->[HUMAN_nameFull](이)가 [ANIMAL_nameFull](을)를 [circumstance_group] 길들이는 모습</li>
     <li>image->[ANIMAL_nameFull]에게 [circumstance_group] 먹이 약간을 내어주는 [HUMAN_nameFull]</li>
-    <li>image->겁 많은 [ANIMAL_nameFull]에게 [circumstance_group] 속삭이는 [HUMAN_nameFull]</li>
-    <li>image->[HUMAN_nameFull](이)가 [circumstance_group] 야생 [ANIMAL_nameFull](을)를 달래는 장면</li>
+    <li>image->겁 많은 [ANIMAL_label]에게 [circumstance_group] 속삭이는 [HUMAN_nameFull]</li>
+    <li>image->[HUMAN_nameFull](이)가 [circumstance_group] 야생 [ANIMAL_label](을)를 달래는 장면</li>
     <li>circumstance_phrase->대단히 주의하며</li>
     <li>circumstance_phrase->미소 지으며</li>
     <li>circumstance_phrase->지쳤지만 행복해하며</li>

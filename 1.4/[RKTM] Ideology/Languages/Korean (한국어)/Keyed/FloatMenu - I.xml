@@ -4,13 +4,16 @@
   <IdeoligionForbids>사상이 금지함</IdeoligionForbids>
   <OnlyMembersCanBuild>{0}만 건설 가능</OnlyMembersCanBuild>
   <CantStartRitualAlreadyInProgress>이미 {0}(을)를 진행하고 있습니다.</CantStartRitualAlreadyInProgress>
+  <CantJoinRitualInExtremeWeather>극단적인 온도로 인해 한 명 이상의 참여자가 참석할 수 없습니다.</CantJoinRitualInExtremeWeather>
   <CantStartRitualTargetIsAlreadyInRitual>{0}(은)는 이미 행사에 참여하고 있습니다.</CantStartRitualTargetIsAlreadyInRitual>
   <CantStartRitualRoleNotAssigned>이 행사를 진행하려면 {0} 지위를 할당해야 합니다.</CantStartRitualRoleNotAssigned>
   <CantStartRitualNoConvertee>{0}(으)로 교화할 사람이 없습니다. 다른 사상을 믿는 정착민, 수감자, 노예가 필요합니다.</CantStartRitualNoConvertee>
   <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef}(은)는 {ROLE}(을)를 맡을 수 없습니다.</CantStartRitualSelectedPawnCannotBeRole>
   <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef}(이)가 {IDEO_memberName}이어야 합니다.</CantStartRitualSelectedPawnMustBeMember>
   <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef}(은)는 정신적으로 무감각합니다.</CantStartRitualSelectedPawnPsychicallyDeaf>
-  <CantStartNotEnoughSpaceDuel>공간이 부족합니다. 반지름 {MINRADIUS}칸의 원형 공간이 비어있어야 합니다.</CantStartNotEnoughSpaceDuel>
+  <CantStartNotEnoughSpaceDuelSpectators>관전자를 위한 공간이 부족합니다. 반경 {MINRADIUS}칸의 빈 원형 공간과, 공간 내 최소 {1}개의 서있을 수 있는 자리가 필요합니다.</CantStartNotEnoughSpaceDuelSpectators>
+  <CantStartNotEnoughSpaceDuelDuelists>결투자를 위한 공간이 부족합니다. 반경 {MINRADIUS}칸의 빈 원형 공간과, 공간 내 최소 {1}개의 서있을 수 있는 자리가 필요합니다.</CantStartNotEnoughSpaceDuelDuelists>
+  <CantStartNotEnoughSpaceDuelSpeaker>연설자를 위한 공간이 부족합니다. 반경 {MINRADIUS}칸의 빈 원형 공간이 필요합니다.</CantStartNotEnoughSpaceDuelSpeaker>
   <CantStartFuneralForSlave>{0_labelShort}(은)는 노예입니다. 노예의 장례식은 진행할 수 없습니다.</CantStartFuneralForSlave>
   <NoSlaveBed>접근 가능하고, 주인이 없으며, 안전한 온도의 노예 침대가 필요합니다.</NoSlaveBed>
   <ReturnToSlaveBed>노예 침대로 돌려보내기</ReturnToSlaveBed>
@@ -35,7 +38,6 @@
   <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>부족 의상 제외</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
   <RoleApparelRequirementIncompatibleAnyMemeRequired>다음 가르침 중 하나 필요</RoleApparelRequirementIncompatibleAnyMemeRequired>
   <BodyPartAlreadyCovered>현재 할당한 의복과 함께 입을 수 없음</BodyPartAlreadyCovered>
-  <AlreadyAssigned>이미 할당됨</AlreadyAssigned>
   <NoteRoleApparelRequirementEffects>의류 요구사항을 충족하면 행복해하고, 위반하면 기분이 나빠집니다.</NoteRoleApparelRequirementEffects>
   <NeuralSuperchargeNotReady>과충전이 준비되지 않음</NeuralSuperchargeNotReady>
   <NeuralSuperchargeAlreadyGetting>이미 받는 중</NeuralSuperchargeAlreadyGetting>
@@ -79,13 +81,13 @@
   <CannotEnter>진입 불가</CannotEnter>
   <BiosculpterCannotStartCycle>{0} 절차를 시작할 수 없습니다.</BiosculpterCannotStartCycle>
   <BiosculpterMissingIngredients>절차 구성 재료 ({INGREDIENTS})(을)를 찾을 수 없습니다.</BiosculpterMissingIngredients>
-  <BiosculpterNoEligiblePawns>Nobody around can use this</BiosculpterNoEligiblePawns>
-  <BiosculpterNoEligiblePawnsBiotuned>Biotuned to {PAWN_labelShort} and {PAWN_pronoun} isn't around</BiosculpterNoEligiblePawnsBiotuned>
+  <BiosculpterNoEligiblePawns>사용 가능한 대상 없음</BiosculpterNoEligiblePawns>
+  <BiosculpterNoEligiblePawnsBiotuned>맞춤 조정된 {PAWN_labelShort}(이)가 근방에 없음</BiosculpterNoEligiblePawnsBiotuned>
   <BiosculpterAutoLoadNutritionLabel>열량 자동 적재</BiosculpterAutoLoadNutritionLabel>
-  <BiosculpterAutoLoadNutritionDescription>절차에 필요한 열량을 자동으로 적재함</BiosculpterAutoLoadNutritionDescription>
-  <BiosculpterAutoAgeReversalLabel>Auto age reversal for {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
-  <BiosculpterAutoAgeReversalDescription>Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
-  <BiosculpterAutoAgeReversalDescriptionFuture>If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready.</BiosculpterAutoAgeReversalDescriptionFuture>
-  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled.</BiosculpterAutoAgeReversalDescriptionNow>
-  <BiosculpterJobReportCollectIngredients>Collecting ingredients for biosculpter cycle</BiosculpterJobReportCollectIngredients>
+  <BiosculpterAutoLoadNutritionDescription>절차에 필요한 열량을 자동으로 적재합니다.</BiosculpterAutoLoadNutritionDescription>
+  <BiosculpterAutoAgeReversalLabel>{PAWN_labelShort}의 자동 노화 역전</BiosculpterAutoAgeReversalLabel>
+  <BiosculpterAutoAgeReversalDescription>{PAWN_labelShort}의 사상에 따라, 자동으로 이 재구축기에서 매년 노화 역전을 받습니다. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <BiosculpterAutoAgeReversalDescriptionFuture>활성화할 경우, 재구축기가 준비된 상태면 {PAWN_labelShort}(은)는 {TIME} 후 스스로 다음 노화 역전을 받습니다.</BiosculpterAutoAgeReversalDescriptionFuture>
+  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort}(이)가 이미 다음 노화 역전을 원합니다. 활성화하면 스스로 절차를 시작할 것입니다.</BiosculpterAutoAgeReversalDescriptionNow>
+  <BiosculpterJobReportCollectIngredients>생체 재구축기 절차를 위한 재료 수집 중</BiosculpterJobReportCollectIngredients>
 </LanguageData>

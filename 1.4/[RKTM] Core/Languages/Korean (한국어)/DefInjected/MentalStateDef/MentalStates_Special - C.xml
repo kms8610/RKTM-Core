@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <BerserkMechanoid.label>공격판단 엉킴</BerserkMechanoid.label>
+  <BerserkMechanoid.baseInspectLine>공격판단 엉킴</BerserkMechanoid.baseInspectLine>
+  
   <Manhunter.label>인간 사냥</Manhunter.label>
   <Manhunter.baseInspectLine>분노: 인간 사냥</Manhunter.baseInspectLine>
   <Manhunter.beginLetter>{0}(이)가 보이는 모든 인간을 사냥하기 시작합니다!</Manhunter.beginLetter>

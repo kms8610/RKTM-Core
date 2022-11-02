@@ -264,6 +264,14 @@
   <Open.gerund>열기</Open.gerund>
   <Open.verb>열기</Open.verb>
   
+  <PaintBuilding.label>건물 색칠</PaintBuilding.label>
+  <PaintBuilding.gerund>색칠하기</PaintBuilding.gerund>
+  <PaintBuilding.verb>색칠</PaintBuilding.verb>
+  
+  <PaintFloor.label>바닥 색칠</PaintFloor.label>
+  <PaintFloor.gerund>색칠하기</PaintFloor.gerund>
+  <PaintFloor.verb>색칠</PaintFloor.verb>
+  
   <PatientGoToBedEmergencyTreatment.label>응급치료를 위해 침대로 가기</PatientGoToBedEmergencyTreatment.label>
   <PatientGoToBedEmergencyTreatment.gerund>요양하기</PatientGoToBedEmergencyTreatment.gerund>
   <PatientGoToBedEmergencyTreatment.verb>요양</PatientGoToBedEmergencyTreatment.verb>
@@ -299,6 +307,14 @@
   <ReleaseToWild.label>야생으로 방출</ReleaseToWild.label>
   <ReleaseToWild.gerund>놓아주기</ReleaseToWild.gerund>
   <ReleaseToWild.verb>방출</ReleaseToWild.verb>
+  
+  <RemovePaintBuilding.label>색칠 제거</RemovePaintBuilding.label>
+  <RemovePaintBuilding.gerund>색칠 제거하기</RemovePaintBuilding.gerund>
+  <RemovePaintBuilding.verb>색칠 제거</RemovePaintBuilding.verb>
+  
+  <RemovePaintFloor.label>바닥 색칠 제거</RemovePaintFloor.label>
+  <RemovePaintFloor.gerund>색칠 제거하기</RemovePaintFloor.gerund>
+  <RemovePaintFloor.verb>색칠 제거</RemovePaintFloor.verb>
   
   <RemoveRoofs.label>지붕 해체</RemoveRoofs.label>
   <RemoveRoofs.gerund>지붕 해체</RemoveRoofs.gerund>

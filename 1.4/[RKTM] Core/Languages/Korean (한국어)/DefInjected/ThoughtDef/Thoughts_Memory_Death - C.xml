@@ -13,7 +13,9 @@
   <KnowColonistExecuted.stages.colonist_executed.label>정착민 처형 목격</KnowColonistExecuted.stages.colonist_executed.label>
   <KnowColonistExecuted.stages.colonist_executed.description>동료가 냉혹하게 처형당했어. 불안해지는데.</KnowColonistExecuted.stages.colonist_executed.description>
   <KnowColonistExecuted.stages.colonist_organharvested.label>정착민 장기 적출 살해 목격</KnowColonistExecuted.stages.colonist_organharvested.label>
-  <KnowColonistExecuted.stages.colonist_organharvested.description>동료의 장기를 뽑아 죽였어. 끔찍해.</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <KnowColonistExecuted.stages.colonist_organharvested.description>누군가가 정착민의 장기를 뽑아 죽였어. 끔찍해.</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <KnowColonistExecuted.stages.colonist_ripscanned.label>정착민을 립스캐너 함</KnowColonistExecuted.stages.colonist_ripscanned.label>
+  <KnowColonistExecuted.stages.colonist_ripscanned.description>우리 립스캐너 때문에 정착민이 사망했어. 그들의 두뇌는 기계에 공급하기 위해 불타 버렸지. 끔찍해.</KnowColonistExecuted.stages.colonist_ripscanned.description>
   
   <KnowGuestExecuted.stages.justified_execution.label>정당한 처형 목격</KnowGuestExecuted.stages.justified_execution.label>
   <KnowGuestExecuted.stages.justified_execution.description>죄를 지은 수감자나 방문객이 처형되었어. 정당했지만 슬픈 일이야.</KnowGuestExecuted.stages.justified_execution.description>
@@ -23,6 +25,8 @@
   <KnowGuestExecuted.stages.someone_was_executed.description>누군가가 냉혹하게 처형당했어. 불안해지는데.</KnowGuestExecuted.stages.someone_was_executed.description>
   <KnowGuestExecuted.stages.someone_was_organmurdered.label>장기 적출 살해 목격</KnowGuestExecuted.stages.someone_was_organmurdered.label>
   <KnowGuestExecuted.stages.someone_was_organmurdered.description>수감자나 방문객이 장기를 뽑혀 죽었어. 끔찍해.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  <KnowGuestExecuted.stages.someone_was_ripscanned.label>누군가를 립스캐너 함</KnowGuestExecuted.stages.someone_was_ripscanned.label>
+  <KnowGuestExecuted.stages.someone_was_ripscanned.description>우리 립스캐너 때문에 수감자가 사망했어. 그들의 두뇌는 기계에 공급하기 위해 불타 버렸지. 끔찍해.</KnowGuestExecuted.stages.someone_was_ripscanned.description>
   
   <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>무고한 수감자 사망</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
   <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>수감자 한 명이 부당한 방식으로 처형당했어. 우리는 포로를 보호할 의무가 있어. 처형하더라도 최소한 이렇게 야만적인 방법이 아니라 정당한 절차를 거쳐야 한다고.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>

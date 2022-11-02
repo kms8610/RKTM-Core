@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Apparel_Bandolier.label>탄약대</Apparel_Bandolier.label>
+  <Apparel_Bandolier.description>A heavy shoulder-belt for keeping spare munitions close at hand. It allows quick access to bullets, grenades, arrows, or whatever the user needs, reducing their weapon's ranged cooldown. Due to its bulk, it can't be worn under other clothing. It doesn't cover the body, so it can be worn happily by nudists and yttakin.</Apparel_Bandolier.description>
+  
+  <Apparel_MechlordSuit.label>기계군주 갑옷</Apparel_MechlordSuit.label>
+  <Apparel_MechlordSuit.description>기계식 보조 장비로 무장한 완력 증강형 장갑 슈트입니다. 기계군주 슈트는 메카니터의 대역폭을 크게 증폭시키지만, 전용 중장갑보다 방어도가 다소 떨어집니다.</Apparel_MechlordSuit.description>
+  
+  <Apparel_Sash.label>현장</Apparel_Sash.label>
+  <Apparel_Sash.description>A long strip of material worn over one shoulder. It offers minimal protection from heat, cold, and attacks. Due to its minimalist nature, nudists won't complain about wearing it.</Apparel_Sash.description>
+</LanguageData>

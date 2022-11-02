@@ -7,9 +7,6 @@
   <RelicAtRitual.stages.three_relics_at_ritual.label>의식의 세 가지 유물</RelicAtRitual.stages.three_relics_at_ritual.label>
   <RelicAtRitual.stages.three_relics_at_ritual.description>우리 의식 중에 세 개의 유물이 있어.</RelicAtRitual.stages.three_relics_at_ritual.description>
   
-  <RitualDelayed.stages.delayed.label>{RITUAL_labelCap} 지연</RitualDelayed.stages.delayed.label>
-  <RitualDelayed.stages.delayed.description>{RITUAL_labelCapDef}(이)가 지연됐어. 진작에 시작했어야 해.</RitualDelayed.stages.delayed.description>
-  
   <TrialConvicted.stages.convicted.label>부당한 선고</TrialConvicted.stages.convicted.label>
   <TrialConvicted.stages.convicted.description>부당한 유죄 선고를 받았어! 이건 모함이야!</TrialConvicted.stages.convicted.description>
   

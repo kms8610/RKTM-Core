@@ -11,7 +11,7 @@
   </supportedVersions>
   <url>https://discord.gg/5UPyCtz</url>
   <description>
-<![CDATA[최종 업데이트: <color=green>2022.10.23</color>
+<![CDATA[최종 업데이트: <color=green>2022.10.31</color>
 
 ========================================================
 이 모드는 <color=orange>바닐라와 DLC 번역</color> 합본팩입니다.
@@ -39,6 +39,7 @@ RKTM 권장 모드배열
 	<li>Ludeon.RimWorld</li>
 	<li>Ludeon.RimWorld.Royalty</li>
 	<li>Ludeon.RimWorld.Ideology</li>
+	<li>Ludeon.RimWorld.Biotech</li>
   </loadAfter>
   <loadBefore>
 	<li>DesTiNy.RKTM.Mod</li>

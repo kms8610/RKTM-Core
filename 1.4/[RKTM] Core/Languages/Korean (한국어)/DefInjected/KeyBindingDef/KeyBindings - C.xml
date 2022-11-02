@@ -32,6 +32,8 @@
   
   <Dev_ToggleDebugSettingsMenu.label>디버그 설정 메뉴 표시</Dev_ToggleDebugSettingsMenu.label>
   
+  <Dev_ToggleDevPalette.label>개발자 팔레트 토글</Dev_ToggleDevPalette.label>
+  
   <Dev_ToggleGodMode.label>갓모드 활성화</Dev_ToggleGodMode.label>
   
   <MapDolly_Down.label>화면 아래로 이동</MapDolly_Down.label>
@@ -82,15 +84,23 @@
   
   <SelectNextInCell.label>같은 칸의 다른 개체 선택</SelectNextInCell.label>
   
+  <ShowCellInspector.label>칸 검사기 표시</ShowCellInspector.label>
+  
+  <ShowEyedropper.label>색 추출기</ShowEyedropper.label>
+  
   <TakeScreenshot.label>스크린샷</TakeScreenshot.label>
   
-  <TimeSpeed_Fast.label>게임 속도: 2</TimeSpeed_Fast.label>
+  <TimeSpeed_Fast.label>게임 속도: 빠르게</TimeSpeed_Fast.label>
   
-  <TimeSpeed_Normal.label>게임 속도: 1</TimeSpeed_Normal.label>
+  <TimeSpeed_Faster.label>게임 속도: 더 빠르게</TimeSpeed_Faster.label>
   
-  <TimeSpeed_Superfast.label>게임 속도: 3</TimeSpeed_Superfast.label>
+  <TimeSpeed_Normal.label>게임 속도: 일반</TimeSpeed_Normal.label>
   
-  <TimeSpeed_Ultrafast.label>게임 속도: 4 (디버그용)</TimeSpeed_Ultrafast.label>
+  <TimeSpeed_Slower.label>게임 속도: 느리게</TimeSpeed_Slower.label>
+  
+  <TimeSpeed_Superfast.label>게임 속도: 아주 빠르게</TimeSpeed_Superfast.label>
+  
+  <TimeSpeed_Ultrafast.label>게임 속도: 완전 빠르게 (디버그)</TimeSpeed_Ultrafast.label>
   
   <ToggleBeautyDisplay.label>미관 점수 표시</ToggleBeautyDisplay.label>
   

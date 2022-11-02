@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanitor -->
+  <LetterLabelMechsFeral>메카노이드 제어불가</LetterLabelMechsFeral>
+  <LetterMechsFeral>통제자가 없던 몇 메카노이드가 고대 행성체 메카노이드 통제신호화 연결되었습니다. 이들은 {0}에 합류하여 적대적으로 변했으며, 지도 밖으로 나가기 위해 싸울 것 입니다.\n\n적대 메카노이드는 파괴되어도 배양기에서 부활이 불가능합니다.\n\n적대시 된 메카노이드들:\n\n{1}</LetterMechsFeral>
+  <LetterLabelMechlinkInstalled>메카링크 설치됨</LetterLabelMechlinkInstalled>
+  <LetterMechlinkInstalled>{PAWN_labelShort} has installed a mechlink! {PAWN_pronoun} is now a mechanitor and can create and control mechanoids.\n\nResearch basic mechtech to get started.\n\n(*SectionTitle)Creating mechs:(/SectionTitle) Your mechanitor can create mechs at a production building called a mech gestator.\n\n(*SectionTitle)About bandwidth:(/SectionTitle) Mechanitors can control as many mechs as their total bandwidth allows. Select {PAWN_labelShort} and look at {PAWN_possessive} 'Bandwidth' readout to see how much bandwidth {PAWN_pronoun} is currently using and how much {PAWN_pronoun} has available. Bandwidth can be increased with certain apparel and by building band node buildings.\n\n(*SectionTitle)About control groups:(/SectionTitle) Mechanitors control mechs in groups. Each control group can be set to one of these modes:\n\n- Work\n- Escort\n- Recharge\n- Dormant self-charge\n\nTo learn more about what each mode does, select the work mode icon on one of {PAWN_labelShort}'s control groups and hover over the different work orders. The maximum number of control groups can be increased with apparel and implants.\n\n(*SectionTitle)About threat calling:(/SectionTitle) Mechanitors can signal ancient leader mechs to attack in order to obtain rare items from them. You must do this to improve your mechanitor past certain limits, but beware the danger.</LetterMechlinkInstalled>
+
+  <MentalStateReason_Gene>이는 다음으로 인해 발생했습니다.</MentalStateReason_Gene>
+
+  <LetterLabelBossgroupSummoned>{0} 소환됨</LetterLabelBossgroupSummoned>
+  <LetterBossgroupSummoned>메카노이드 대역 신호에 이끌려 {0}의 초중량 메카노이드가 곧 도착합니다. 준비하세요.</LetterBossgroupSummoned>
+
+  <LetterLabelBossgroupArrived>{0} 도착함</LetterLabelBossgroupArrived>
+  <LetterBossgroupArrived>{0}의 초중량 메카노이드가 호위와 함께 당신을 멸하기 위해 왔습니다.\n\n{1}\n\n공격 구성원은 다음 {3}(으)로 이루어져 있습니다:\n\n{4}\n\n이들은 준비 태세를 갖추고 공격을 해올 것 입니다.</LetterBossgroupArrived>
+
+  <LetterLabelCommsConsoleSpawned>{LEADER_label} 소환 가능</LetterLabelCommsConsoleSpawned>
+  <LetterCommsConsoleSpawned>A mechanitor can use the {PARENT_label} to summon a dangerous and hostile {LEADER_label} mechanoid. Be prepared, {LEADER_label} mechanoids are extremely powerful.\n\nIf you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
+
+  <LetterLabelBossgroupCallerUnlocked>{LEADER_label} 소환 가능</LetterLabelBossgroupCallerUnlocked>
+  <LetterBossgroupCallerUnlocked>You can now build a {PARENT_label} which a mechanitor can use to summon a {LEADER_label}. If you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
+
+  <LetterLabelMechanitorCasketOpened>{0_nameDef}의 메카링크 사용가능</LetterLabelMechanitorCasketOpened>
+  <LetterMechanitorCasketOpened>당신은 고대 기계공학자의 시체를 찾았습니다!\n\n정착민을 선택한뒤 {0_possessive} 시체를 우클릭하여 메카링크를 추출할 수  있습니다.</LetterMechanitorCasketOpened>
+  <LetterLabelMechanitorCasketFound>기계공학자 동면관 발견</LetterLabelMechanitorCasketFound>
+  <LetterMechanitorCasketFound>기계공학자의 동면관을 발견했습니다.\n\n열어서 내부를 확인하세요.</LetterMechanitorCasketFound>
+  
+  <!-- Pawns lost because map closed (including mechs) -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>Your caravan has been lost. The following people, animals and mechs have been lost with it</LetterPawnsLostIncMechsBecauseMapClosed_Caravan><!-- text_todo -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Home>The following people, animals and mechs have been abandoned</LetterPawnsLostIncMechsBecauseMapClosed_Home><!-- text_todo -->
+  
+
+  <!-- Children -->
+  <LetterLabelBecameChild>{0_nameDef} 어린이가 됨.</LetterLabelBecameChild>
+  <LetterLabelBecameAdult>{0_nameDef} 성인이 됨</LetterLabelBecameAdult>
+  <LetterBecameChild>아기였던 {0_nameDef}(이)가 자라나서 어린이가 되었습니다! {0_pronoun}는 이제 다음 작업을 할수 있게 되었습니다</LetterBecameChild>
+  <LetterBecameChildChanges>어린이들은 여러 작업을 할 수 있습니다. 나이가 들어갈수록 더 많은 작업을 할 수 있게됩니다.\n\n또한 어린이들은 어린이 전용 유흥활동을 할 수 있습니다.\n\n어린이들은 어린이 크기의 옷을 입어야 합니다.</LetterBecameChildChanges>
+  <LetterChildLegalStatus>전통적으로 {0_parentage}인 {0_nameDef}(은)는 {0_legalStatus}입니다만, 예외도 있을 수 있습니다... {0_nameDef}(을)를 {0_legalStatus}(으)로 유지할까요?</LetterChildLegalStatus>
+  <LetterChildFollowIdeo>{0_labelShort} has decided to become a follower of the ideoligion {1_name}.</LetterChildFollowIdeo>
+  <CannotChangeChildStatusReason>{0_nameDef}'s slave status has already changed since {0_possessive} birthday.</CannotChangeChildStatusReason>
+  <Enslave>노예화</Enslave>
+  <Emancipate>해방</Emancipate>
+  <RemainX>{0}(으)로 유지</RemainX>
+  <LetterLabelAdopted>{BABY_nameDef} 입양함</LetterLabelAdopted>
+  <LetterTextAdopted>아기 {BABY_nameDef}(이)가 당신의 정착지에 입양되었습니다. 정착민에게 보육 작업을 할당해 {BABY_objective} 챙겨줄 수 있습니다.</LetterTextAdopted>
+
+  <LetterLabelThirdTrimester>{0_nameDef}의 아기 준비</LetterLabelThirdTrimester>
+  <LetterTextThirdTrimester>{0_nameDef} is due to give birth in less than 6 days. You can prepare for the baby:\n\n- Build a birth room with a clean floor and good bed.\n- Get a skilled doctor ready.\n- In the work tab, assign at least one person to childcare\n- Prepare a food source for the baby. {0_nameDef} can breastfeed the baby, or you can feed them baby food, milk, or insect jelly.\n- Build a crib. High quality cribs will make a baby happy.\n\nYou can make baby food at a stove or campfire.</LetterTextThirdTrimester>
+
+  <LetterVatBirth>{0}(이)가 성장촉진기에서 태어남</LetterVatBirth>
+  <LetterVatHealthyBaby>{0_nameDef}(와)과 {1_nameDef}의 배아가 성장촉진기 안에서 성장을 마치고 건강한 아기가 되었습니다!</LetterVatHealthyBaby>
+  <LetterVatHealthyBabyNoParents>배아가 성장촉진기에서 성장을 마치고 건강한 아기가 되었습니다!</LetterVatHealthyBabyNoParents>
+  <LetterVatInfantIllness>{0_nameDef}(와)과 {1_nameDef}의 배아가 성장촉진기 안에서 성장을 마치고 아기가 되었습니다. 아쉽게도 건강한 아기가 아닙니다.</LetterVatInfantIllness>
+  <LetterVatInfantIllnessNoParents>배아가 성장촉진기 안에서 성장을 마치고 아기가 되었습니다. 아쉽게도 건강한 아기가 아닙니다.</LetterVatInfantIllnessNoParents>
+  <LetterVatStillborn>성장촉진기에서 성장하던 {0_nameDef}(와)과 {1_nameDef}의 아기가 사산되었습니다.</LetterVatStillborn>
+  <LetterVatSillbornNoParents>성장촉진기에서 자라던 아기가 사산되었습니다.</LetterVatSillbornNoParents>
+  <LetterColonistPregnancyLaborLabel>{0_labelShort}(이)가 분만중!</LetterColonistPregnancyLaborLabel>
+  <LetterColonistPregnancyLabor>{0_labelShort}(이)가 아이를 낳으려 하고 있습니다! 아이를 낳기 전 몇시간동안 진통이 있을것입니다. 분만에는 여러 단계의 어려움과 위험이 있습니다.\n\n성공적인 출산의 확률을 높이기 위해 의사를 포함한 다른 사람들을 불러 그녀를 도울 수 있습니다. {0_labelShort}(을)를 선택한뒤, 출산을 위해 모임 을 선택하여 모을 수 있습니다.</LetterColonistPregnancyLabor>
+  <LetterPartColonistDiedAfterChildbirth>{0_labelShort}(은)는 출산 휴우증으로 사망했습니다.</LetterPartColonistDiedAfterChildbirth>
+  <LetterPartSurrogacy>The baby was created from in vitro fertilization and has the genetic makeup of {0_labelShort} and {1_labelShort}.</LetterPartSurrogacy>
+  <InbredBabyBorn>The baby shows signs of genetic abnormalities due to inbreeding.</InbredBabyBorn>
+
+  <BabyAlreadyNamed>{0_nameDef}(은)는 이미 이름이 있습니다.</BabyAlreadyNamed>
+  <NameBaby>아기 이름짓기</NameBaby>
+  <Immediately>immediately</Immediately>
+  <Within>within</Within>
+  <LetterPartNameBaby>아기의 이름이 임시로 {0_nameFull}(으)로 주어졌습니다. 출생 후 {1}까지 변경할 수 있습니다.</LetterPartNameBaby>
+  <LetterPartNameBabyAdopt>아기의 임시 이름이 {0_nameFull}(으)로 주어졌습니다. 아기가 나이가 {1} 미만인 경우 변경할 수 있습니다.</LetterPartNameBabyAdopt> 
+
+  <BirthdayGrowthMoment>{PAWNNAME}의 성장순간</BirthdayGrowthMoment>
+  <BirthdayBiologicalGrowthMoment>{0_nameFull}의 생물학적 나이가 {1}(이)가 되었고 특별한 성장의 순간을 경험했습니다.</BirthdayBiologicalGrowthMoment>
+  <BirthdayBiologicalAgeWorkTypes>{0_nameDef}(은)는 다음 작업을 수행할 수 있을 만큼 성장했습니다</BirthdayBiologicalAgeWorkTypes>
+  <BirthdayPickPassion>{0_nameDef}의 기술 하나를 선택해 {0_possessive} 열정을 키웁니다</BirthdayPickPassion>
+  <BirthdayPickPassions>{0_nameDef}의 기술 {1}개를 선택해 {0_possessive} 열정을 키웁니다</BirthdayPickPassions>
+  <BirthdayPickTrait>{0_nameDef}(이)가 얻을 특성 선택</BirthdayPickTrait>
+  <BirthdayGrowthTier>When this growth moment happened, {0_nameDef} was at growth tier {1}. Children at higher growth tiers get more trait and passion options to choose from, and more passions overall. Satisfying the learning need helps the child gain growth tiers faster. Growth tiers are reset after each growth moment.</BirthdayGrowthTier>
+  <BirthdayChooseHowPawnWillGrow>Open this letter to choose how {0_nameDef} will grow.</BirthdayChooseHowPawnWillGrow>
+
+  <BirthdayPassionArchive>{0}에 대한 열정이 증가했습니다.</BirthdayPassionArchive>
+  <BirthdayTraitArchive>{0} 특성을 얻었습니다.</BirthdayTraitArchive>
+  
+  <BirthdayMakeChoices>닫으려면 먼저 선택을 하세요.</BirthdayMakeChoices>
+  <BirthdayNickname>{0}(은)는 {1}(이)라는 별명을 얻었습니다.</BirthdayNickname>
+  <SelectATrait>특성을 선택하세요.</SelectATrait>
+  <SelectPassionSingular>열정을 선택하세요.</SelectPassionSingular>
+  <SelectPassionsPlural>열정 {0}개를 선택하세요.</SelectPassionsPlural>
+  <Later>나중에</Later>
+  
+  <LetterLabelMechlinkAvailable>메카링크 획득 기회</LetterLabelMechlinkAvailable>
+  <LetterMechlinkAvailable>An opportunity to acquire the unique mechlink implant has become available via the quest '{0}'.\n\nInstalling a mechlink will turn a colonist into a mechanitor. Mechanitors can create, control, and manipulate mechanoids for use in work and in combat.</LetterMechlinkAvailable>
+
+  <!-- Genes -->
+  <LetterLabelXenogermOrderedImplanted>Xenogerm implantation ordered</LetterLabelXenogermOrderedImplanted>
+  <LetterXenogermOrderedImplanted>You have ordered a xenogerm be implanted in {PAWN_nameDef}. This procedure requires a medical bed and {MEDICINENEEDED} medicine.{BEDINFO}{MEDICINEINFO}\n\nYou can cancel this procedure by going to {PAWN_nameDef}'s health -> operations tab.</LetterXenogermOrderedImplanted>
+  <XenogermOrderedImplantedBedNeeded>\n\nYou do not have any medical beds available for {PAWN_nameDef}. Consider marking a bed as medical.</XenogermOrderedImplantedBedNeeded>
+  <XenogermOrderedImplantedMedicineNeeded>\n\nYou do not have enough medicine to implant the xenogerm. Implanting cannot begin until you get {MEDICINENEEDED} medicine.</XenogermOrderedImplantedMedicineNeeded>
+  <LetterLabelInvoluntaryDeathrest>비 자발적 죽음안식</LetterLabelInvoluntaryDeathrest>
+  <LetterTextInvoluntaryDeathrest>{PAWN_nameDef} has fallen into deathrest.</LetterTextInvoluntaryDeathrest>
+  <DeathrestLethalDamage>Lethal damage taken.</DeathrestLethalDamage>
+
+  <LetterLabelSanguophageWaitingToReimplant>Xenogerm implantation</LetterLabelSanguophageWaitingToReimplant>
+  <LetterTextSanguophageWaitingToReimplant>As thanks for allowing {PAWN_objective} and {PAWN_possessive} fellow sanguophages meet here, {PAWN_nameDef} is willing to share a copy of {PAWN_possessive} xenogerm with one of your colonists. This will turn your colonist into a sanguophage.\n\nTo accept, select a colonist and right click on {PAWN_nameDef}.\n\nIf no colonists have claimed the reward in {DURATION}, the sanguophages will leave.</LetterTextSanguophageWaitingToReimplant>
+
+  <LetterLabelGenesImplanted>Genes reimplanted</LetterLabelGenesImplanted>
+  <LetterTextGenesImplanted>{CASTER_nameDef} has implanted a copy of {CASTER_possessive} xenogerm into {TARGET_nameDef}, passing all xenogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in a xenogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} xenogerm again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die.</LetterTextGenesImplanted>
+  
+  <RefugeePodCrashBaby>A baby named {PAWN_nameDef} from {PAWN_factionName} is crashing in a transport pod nearby.\n\nYou may choose to adopt {PAWN_objective} with the 'adopt' command or ignore {PAWN_objective}.</RefugeePodCrashBaby>
+  <RefugeePodCrashBabyHasParent>The body of {PAWN_nameDef}'s deceased parent is contained within the transport pod as well.</RefugeePodCrashBabyHasParent>
+
+  <LetterPsychicBondCreated>Instinctively seeking a mate, {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness.</LetterPsychicBondCreated>
+
+</LanguageData>

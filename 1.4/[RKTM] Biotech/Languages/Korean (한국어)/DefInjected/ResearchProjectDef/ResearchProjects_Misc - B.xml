@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Archogenetics.label>초월유전학</Archogenetics.label>
+  <Archogenetics.description>Allows a gene assembler to use archite capsules to create seemingly-impossible genes. Archite genes and archite capsules can be obtained from traders.</Archogenetics.description>
+  
+  <Deathrest.label>죽음안식</Deathrest.label>
+  <Deathrest.description>Those with the deathrest gene must periodically undergo a special deathrest coma that lasts several days. This research project allows you to construct buildings which accelerate the deathrest coma and confer specific bonuses on the deathrester. Over time, you can build a grand deathrest temple.</Deathrest.description>
+  
+  <FertilityProcedures.label>fertility procedures</FertilityProcedures.label>
+  <FertilityProcedures.description>Perform the surgeries necessary to create a test tube embryo from a fertile man and woman, then implant the embryo in a surrogate mother or growth vat. Also, perform sterilization surgeries on men and women.</FertilityProcedures.description>
+  
+  <GeneProcessor.label>유전자 처리기</GeneProcessor.label>
+  <GeneProcessor.description>Build gene processors, which allow a gene assembler to create xenogerms of higher genetic complexity.</GeneProcessor.description>
+  
+  <GrowthVats.label>성장촉진기</GrowthVats.label>
+  <GrowthVats.description>배아를 배양하거나 아이의 성장을 가속시킬 수 있는 성장촉진기를 건설할 수 있습니다.</GrowthVats.description>
+  
+  <ToxFiltration.label>독소 여과</ToxFiltration.label>
+  <ToxFiltration.description>독성 환경이나 적의 독가스 공격을 견뎌낼 수 있는 생체공학 장기를 제작하거나 설치할 수 있습니다.</ToxFiltration.description>
+  
+  <ToxGas.label>독소 활용</ToxGas.label>
+  <ToxGas.description>부식성의 독소기체를 활용한 무기를 생산할 수 있습니다.</ToxGas.description>
+  
+  <ToxifierGenerator.label>독소 발전기</ToxifierGenerator.label>
+  <ToxifierGenerator.description>전기를 생성하는 대신 오염을 퍼트리는 독소 발전기를 건설할 수 있습니다.</ToxifierGenerator.description>
+  
+  <Xenogermination.label>변형유전학</Xenogermination.label>
+  <Xenogermination.description>Create xenogerms which can be implanted in a person to genetically modify them. Extract genepacks from living people using a gene extractor so you can reimplant their genes into someone else.</Xenogermination.description>
+</LanguageData>

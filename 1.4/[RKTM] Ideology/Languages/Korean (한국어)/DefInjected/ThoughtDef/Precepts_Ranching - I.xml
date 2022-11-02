@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NoRecentAnimalSlaughter.stages.no_recent_slaughter.label>최근 도축 없음</NoRecentAnimalSlaughter.stages.no_recent_slaughter.label>
-  <NoRecentAnimalSlaughter.stages.no_recent_slaughter.description>동물을 죽인지 너무 오래됐어.</NoRecentAnimalSlaughter.stages.no_recent_slaughter.description>
-  
   <Ranching_Central_AnimalMassPerCapita.stages.no_animals.label>동물 없음</Ranching_Central_AnimalMassPerCapita.stages.no_animals.label>
   <Ranching_Central_AnimalMassPerCapita.stages.no_animals.description>동물이 한 마리도 없어! 정말 싫어.</Ranching_Central_AnimalMassPerCapita.stages.no_animals.description>
   <Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.label>동물 부족</Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.label>

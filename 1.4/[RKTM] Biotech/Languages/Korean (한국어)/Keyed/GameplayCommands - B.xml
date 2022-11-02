@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CommandAutoRepair>Auto-repair</CommandAutoRepair>
+  <CommandAutoRepairDesc>If active, a mechanitor will automatically repair this mechanoid. Repairing a mechanoid drains its energy.</CommandAutoRepairDesc>
+
+  <CommandDisabledDeathresting>{0_labelShort} is deathresting.</CommandDisabledDeathresting>
+
+  <CommandCancelGrowth>성장촉진 취소</CommandCancelGrowth>
+  <CommandCancelGrowthDesc>현재 진행되고있는 성장촉진을 취소합니다. 안에 들어있던 정착민은 퇴출됩니다.</CommandCancelGrowthDesc>
+
+  <CommandSelectOverseer>Select overseer</CommandSelectOverseer>
+  <CommandSelectOverseerDesc>Select the mechanitor who is the overseer of this mech.</CommandSelectOverseerDesc>
+  <CommandSelectOverseerDisabledDesc>통제자가 없습니다.</CommandSelectOverseerDisabledDesc>
+
+  <CommandCancelExtraction>추출 취소</CommandCancelExtraction>
+  <CommandCancelExtractionDesc>Cancel the extraction process. The contained person will be ejected.</CommandCancelExtractionDesc>
+
+  <CommandCallBossgroup>Summon mech threat...</CommandCallBossgroup>
+  <CommandCallBossgroupDesc>Summon an enemy leader mechanoid along with escorts.\n\nIf you defeat the leader mechanoid, it will drop a special chip which you can use to advance your own mechanoid technology.\n\nThere are three leader mechanoid types, each summoned a different way, each dropping a different type of chip.</CommandCallBossgroupDesc>
+
+  <CommandAutoLoad>Toggle auto load {0}</CommandAutoLoad>
+  <CommandAutoLoadDesc>If active, colonists will automatically load this with {0}.</CommandAutoLoadDesc>
+
+  <CommandEjectContents>내용물 배출</CommandEjectContents>
+  <CommandEjectContentsDesc>담겨있는 모든 {0}(을)를 바닥으로 배출합니다.</CommandEjectContentsDesc>
+
+  <CommandSelectAllMechs>메카노이드 전체 선택</CommandSelectAllMechs>
+  <CommandSelectAllMechsDesc>이 기계공학자가 제어하는 모든 메카노이드를 선택합니다.</CommandSelectAllMechsDesc>
+
+  <CommandToggleTurret>포탑 활성화됨</CommandToggleTurret>
+  <CommandToggleTurretDesc>포탑이 자율사격을 할 수 있도록 설정합니다.\n\n비활성화 될 시, 포탑은 자율적으로 사격을 하지 않을 것 입니다. 이는 적에게 몰래 다가갈때 유용합니다.</CommandToggleTurretDesc>
+
+</LanguageData>

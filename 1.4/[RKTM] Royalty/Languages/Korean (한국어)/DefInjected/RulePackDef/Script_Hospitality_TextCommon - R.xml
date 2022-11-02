@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <QuestHospitalityCommon.rulePack.rulesStrings>
-    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo]</li>
+    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo][includesChildren]</li>
     <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->[lodgersLabelPlural]</li>
+    <li>includesChildren(priority=-999)-></li>
+    <li>includesChildren(childCount==1)->\n\n[lodgersLabelSingOrPluralDef] 중 한 명은 어린이입니다.</li>
+    <li>includesChildren(childCount>=2)->\n\n[lodgersLabelSingOrPluralDef]의 일부는 어린이입니다.</li>
     <li>healthInfo-></li>
     <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
     <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
@@ -43,7 +46,7 @@
     <li>areIs(lodgersCount==1)-></li>
     <li>areIs(lodgersCount>=2)-></li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>
-    <li>remainingWillNowLeave(lodgersCount>=2)->남아 있던 [lodgersLabelPlural](이)가 떠납니다. </li>
+    <li>remainingWillNowLeave(lodgersCount>=2)->남아있던 모든 [lodgersLabelPlural]은 떠날 것입니다. </li>
     <li>failLetterEndingQuest->'[resolvedQuestName]' 임무에 실패했습니다.</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
     <li>failLetterEndingCommon->[failLetterEndingQuest]\n\n[asker_faction_name](와)과의 관계가 [goodwillPenalty] 만큼 감소했습니다.</li>

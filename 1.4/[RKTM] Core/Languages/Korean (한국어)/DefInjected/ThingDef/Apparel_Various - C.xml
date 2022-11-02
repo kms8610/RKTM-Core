@@ -6,6 +6,9 @@
   <Apparel_BasicShirt.label>티셔츠</Apparel_BasicShirt.label>
   <Apparel_BasicShirt.description>간소한 티셔츠입니다.</Apparel_BasicShirt.description>
   
+  <Apparel_Cape.label>망토</Apparel_Cape.label>
+  <Apparel_Cape.description>우아한 디자인의 긴 망토입니다. 몸통의 한쪽에 맬 수 있습니다.</Apparel_Cape.description>
+  
   <Apparel_CollarShirt.label>셔츠</Apparel_CollarShirt.label>
   <Apparel_CollarShirt.description>보기 좋은 셔츠로 깃과 단추가 달려 있습니다.</Apparel_CollarShirt.description>
   

@@ -10,7 +10,7 @@
   <IdeoRole_MedicalSpecialist.description>의학에 특화된 고유 지위입니다. 이 지위는 수술과 치료 효율을 높여주며, 주변 동료들의 의학 기술을 개선하는 능력을 부여합니다. 이 지위를 가진 사람이 같은 사상의 구성원을 치료하면 그 구성원의 기분이 개선됩니다. 이 지위를 소유한 자는 의학과 관련되지 않은 일부 작업 및 모든 폭력 행위를 거부할 것입니다.</IdeoRole_MedicalSpecialist.description>
   
   <IdeoRole_MeleeSpecialist.label>격투 전문가</IdeoRole_MeleeSpecialist.label>
-  <IdeoRole_MeleeSpecialist.description>근접 전투에 특화된 고유 지위입니다. 이 지위는 근접 회피율과 명중률을 높여주며, 주변 아군의 격투능력을 향상시키는 능력을 부여합니다. 이 지위를 소유한 자는 격투와 관련되지 않은 많은 작업을 거부할 것입니다.</IdeoRole_MeleeSpecialist.description>
+  <IdeoRole_MeleeSpecialist.description>근접 전투에 특화된 고유 지위입니다. 이 지위는 근접 회피율과 명중률을 높여주며, 짧은 시간동안 무아지경에 빠지는 광폭화 능력을 부여합니다. 이 지위를 소유한 자는 격투와 관련되지 않은 많은 작업을 거부할 것입니다.</IdeoRole_MeleeSpecialist.description>
   
   <IdeoRole_MiningSpecialist.label>채굴 전문가</IdeoRole_MiningSpecialist.label>
   <IdeoRole_MiningSpecialist.description>채굴에 특화된 고유 지위입니다. 이 지위는 채굴 속도를 높여주며, 주변 동료들의 채굴 속도를 향상시키는 능력을 부여합니다. 이 지위를 소유한 자는 채굴과 관련되지 관련되지 않은 작업 일부를 거부할 것입니다.</IdeoRole_MiningSpecialist.description>

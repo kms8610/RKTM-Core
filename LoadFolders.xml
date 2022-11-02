@@ -14,6 +14,7 @@
     <li IfModActive="Ludeon.RimWorld">1.4/[RKTM] Core</li>
 	<li IfModActive="Ludeon.RimWorld.Royalty">1.4/[RKTM] Royalty</li>
 	<li IfModActive="Ludeon.RimWorld.Ideology">1.4/[RKTM] Ideology</li>
+	<li IfModActive="Ludeon.RimWorld.Biotech">1.4/[RKTM] Biotech</li>
   </v1.4>
 
 </loadFolders>

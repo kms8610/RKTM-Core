@@ -13,6 +13,8 @@
   <Owner>주인</Owner>
   <Owners>주인</Owners>
   <AssignedColonist>할당된 정착민</AssignedColonist>
+  <BedUncomfortableTemperature>가혹한 방 온도</BedUncomfortableTemperature>
+  <BedUnsafeTemperature>위험한 방 온도</BedUnsafeTemperature>
   <DiedOn>{0}에서 사망</DiedOn>
   <Nobody>아무도 없음</Nobody>
   <Unowned>주인 없음</Unowned>
@@ -125,19 +127,22 @@
   <CaravanEntering>{0} 진입 중</CaravanEntering>
   <CaravanAttacking>{0} 공격 중</CaravanAttacking>
   <CaravanOfferingGifts>{0}에게 선물 제공 중</CaravanOfferingGifts>
-  <CaravanTrading>{0}(와)과 거래 중</CaravanTrading>
+  <CaravanTrading>{0}(와)과 거래 중.</CaravanTrading>
   <WasWornByCorpse>시체에서 벗겼기 때문에 찝찝합니다.</WasWornByCorpse>
   <WornByCorpseChar>유품</WornByCorpseChar>
   <DeterioratingUnroofed>지붕 없음</DeterioratingUnroofed>
   <DeterioratingOutdoors>야외</DeterioratingOutdoors>
-  <DeterioratingBecauseOf>손상 중</DeterioratingBecauseOf>
+  <DeterioratingRaining>비</DeterioratingRaining> 
+  <Protected>보호됨</Protected>
+  <DeterioratingBecauseOf>손상되는 중</DeterioratingBecauseOf>
+  <DeteriorateInDuration>{0} 후 훼손됩니다.</DeteriorateInDuration>
   <Map>지도</Map>
   <CaravanDetectedRaidCountdown>적이 도착할 때까지 {0}</CaravanDetectedRaidCountdown>
   <CaravanDetectedRaidCountdownTip>적 증원군이 이 지역에 도착하기 까지 {0}.</CaravanDetectedRaidCountdownTip>
   <Room>방</Room>
   <BeautyHere>미관</BeautyHere>
   <NoPower>전력 없음</NoPower>
-  <WorkSpeedPenalty>작업 속도 페널티</WorkSpeedPenalty>
+  <WorkSpeedPenalty>작업 속도</WorkSpeedPenalty>
   <DisabledCommand>사용 불가</DisabledCommand>
   <ReadyForLaunch>발사 준비됨</ReadyForLaunch>
   <NotReadyForLaunch>발사 준비되지 않음</NotReadyForLaunch>
@@ -166,6 +171,8 @@
   <KnownSiteThreatEnemyCountAppend>{1} x{0}</KnownSiteThreatEnemyCountAppend>
   <SkillRequirements>기술 필요량</SkillRequirements>
   <Products>생산품</Products>
+  <Requires>필요</Requires>
+  <NumAnyOf>아무 {0}x</NumAnyOf>
   <Relationship>{1}의 {0}</Relationship>
   <Prisoner>수감자</Prisoner>
   <Refugee>피난민</Refugee>
@@ -225,7 +232,7 @@
   <RadiusExpandRate>범위 확장 속도</RadiusExpandRate>
   <ViewHyperlink>{0} 보기</ViewHyperlink>
   <DetonationCountdown>{0}일 후에 자폭</DetonationCountdown>
-  <ExplosionOnDamageWarning>손상되면 대폭발을 일으킴</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>손상되면 대폭발을 일으킴.</ExplosionOnDamageWarning>
   <MechCluster>메카 전초기지</MechCluster>
   <SpawningNextPawnIn>{0} 후 생성</SpawningNextPawnIn>
   <MechAssemblyCompleteIn>{1} 후 {0} 조립 완료됨</MechAssemblyCompleteIn>
@@ -266,6 +273,14 @@
   <RemoveByAttackingTooltip>공격해서 제거하세요.</RemoveByAttackingTooltip>
   <ThoughtFoodEatenFood>먹이</ThoughtFoodEatenFood>
   <ThoughtFoodEatenIngredients>재료</ThoughtFoodEatenIngredients>
+  <ShieldInbuilt>보호막 벨트</ShieldInbuilt>
+  <PuncturedWillExplode>손상됨 - 곧 폭발합니다.</PuncturedWillExplode>
+  <ClickToOpenResearchTab>클릭해서 연구 화면 열기</ClickToOpenResearchTab>
+  <TargetBelongsToNPCFaction>대상이 다른 세력 소속입니다.</TargetBelongsToNPCFaction>
+  <MoreLower>더 보기</MoreLower>
+  <RequiredTechprintTip>필요</RequiredTechprintTip>
+  <Size>크기</Size>
+  <Cost>비용</Cost>
 
   <!-- Scanning -->
   <UserScanAbility>사용자 탐색 속도</UserScanAbility>
@@ -334,7 +349,32 @@
   <PenSizeDesc_Unenclosed>뚫림 - 울타리 필요</PenSizeDesc_Unenclosed>
   <PenCapacityDesc>{ANIMALDEF_label} 수용량</PenCapacityDesc>
   <PenExampleAnimals>예시 동물</PenExampleAnimals>
+  <NoExteriorAccess>외부 접근 불가 - 동물들이 출입할 수 없습니다.</NoExteriorAccess>
 
+  <!-- Cell Inspector -->
+  <Beauty_Label>미관</Beauty_Label>
+  <Zone_Label>지역</Zone_Label>
+  <Roof_Label>지붕</Roof_Label>
+  <Terrain_Label>지형</Terrain_Label>
+  <Snow_Label>눈</Snow_Label>
+  <WalkSpeed_Label>이동 속도</WalkSpeed_Label>
+  <Fertility_Label>토질</Fertility_Label>
+  <Temperature_Label>온도</Temperature_Label>
+  <LightLevel_Label>광량</LightLevel_Label>
+  <Biome_Label>기후</Biome_Label>
+  <Hilliness_Label>지형</Hilliness_Label>
+  <Road_Label>도로</Road_Label>
+  <River_Label>강</River_Label> 
+  <MovementDifficulty_Label>이동 난이도</MovementDifficulty_Label>
+  <Pollution_Label>오염</Pollution_Label>
+  <Filth_Label>오물</Filth_Label>
+  
+  <Faction_Label>세력</Faction_Label>
+  <Relationship_Label>관계</Relationship_Label>
+  <CaravanColonists_Label>정착민들</CaravanColonists_Label>
+  <CaravanStatus_Label>상태</CaravanStatus_Label>
+  <CaravanTTD_Label>목적지까지 남은 시간</CaravanTTD_Label>
+  
 
   <!-- Control -->
   <CannotOrderNonControlled>조종할 수 없는 대상에게 명령을 내릴 수 없습니다.</CannotOrderNonControlled>
@@ -344,11 +384,12 @@
   <ApparelPreventsShooting>{PAWN_nameDef}(이)가 착용한 {APPAREL_label}(으)로 인해 사격할 수 없습니다.</ApparelPreventsShooting>
 
   <!-- Snow -->
+  <Snow>눈</Snow>
   <SnowNone>눈 없음</SnowNone>
-  <SnowDusting>눈</SnowDusting>
-  <SnowThin>눈</SnowThin>
-  <SnowMedium>쌓인 눈</SnowMedium>
-  <SnowThick>두껍게 쌓인 눈</SnowThick>
+  <SnowDusting>흩날림</SnowDusting>
+  <SnowThin>얇음</SnowThin>
+  <SnowMedium>보통</SnowMedium>
+  <SnowThick>두꺼움</SnowThick>
 
   <!-- Turrets -->
   <GunInstalled>장착</GunInstalled>
@@ -358,6 +399,14 @@
   <Roofed>지붕 있음</Roofed>
   <ShellLoaded>장전된 탄약: {1_label}</ShellLoaded>
   <ShellNotLoaded>탄약 없음</ShellNotLoaded>
+  <AlreadyActive>이미 활성화됨</AlreadyActive>
+  <OrderActivation>활성 명령</OrderActivation>
+  <OrderActivationDesc>정착민에게 {THING_definite}(을)를 활성화하도록 명령합니다.</OrderActivationDesc>
+  <MustBeActivatedByColonist>정착민이 활성화해야 합니다.</MustBeActivatedByColonist>
+  <NoNearbyFire>근처에 화염 없음</NoNearbyFire>
+  <NoNearbyFireNoFuelUsed>근처에 화염이 없습니다. 연료를 사용하지 않았습니다.</NoNearbyFireNoFuelUsed>
+  <ChooseWhoShouldActivate>활성화할 사람을 선택합니다.</ChooseWhoShouldActivate>
+  <NoFuel>연료 없음</NoFuel>
 
   <!-- Job reports -->
   <ReportHaulingTo>{THING_label}(을)를 {DESTINATION}에 운반 중</ReportHaulingTo>
@@ -381,6 +430,8 @@
   <ReportExtinguishingFire>불 끄는 중</ReportExtinguishingFire>
   <ReportExtinguishingFireOn>{TARGET_label}에 붙은 불 끄는 중</ReportExtinguishingFireOn>
   <ReportDiggingUpCorpse>시체 파내는 중</ReportDiggingUpCorpse>
+  <CarriedBy>{0_labelShort}에 의해 옮겨지는 중.</CarriedBy> 
+  <InContainer>{0_labelShort} 내부.</InContainer> 
 
   <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>결혼식 참여 중</LordReportAttendingMarriageCeremony>
@@ -427,7 +478,6 @@
   <PawnMainDescFactionedWrap>{1}의 {0}</PawnMainDescFactionedWrap>
   <PawnTitleDescWrap>{1}의 {0}</PawnTitleDescWrap>
   <PawnMainDescUnderFactionedWrap>{1}에서 {0}</PawnMainDescUnderFactionedWrap>
-  <PawnMainDescTempFactionedWrap>{1}에서 {0}\n출신 세력: {2}</PawnMainDescTempFactionedWrap>
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <Faction>세력</Faction>
   <FactionDesc>{PAWN_labelShort}의 현재 소속된 세력입니다.</FactionDesc>
@@ -445,10 +495,12 @@
   <Queued>예약됨</Queued>
   <State>상태</State>
   <StunLower>기절</StunLower>
+  <SlowedByDamage>피해로 인해 느려짐</SlowedByDamage>
 
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>같은 칸의 다음 물건을 선택합니다.\n\n(*SectionTitle)바로가기 키:(/SectionTitle) {0}\n\n해당 칸을 천천히 여러 번 눌러도 같은 작업을 할 수 있습니다.</SelectNextInSquareTip>
   <DefInfoTip>상세 정보</DefInfoTip>
+  <SelectNextInSquareTipController>같은 칸의 다음 물건을 선택합니다.\n\n해당 칸을 천천히 여러 번 눌러도 같은 작업을 할 수 있습니다.</SelectNextInSquareTipController>
 
   <!-- Hostility response -->
   <HostilityReponseTip>소집되지 않았을 때 주변 적에 대해 어떻게 반응할지 설정합니다.</HostilityReponseTip>
@@ -462,6 +514,7 @@
   <PowerConnectedRateStored>송전/저장 용량: {0} W / {1} Wd</PowerConnectedRateStored>
   <PowerNeeded>필요 전력량</PowerNeeded>
   <PowerOutput>전력 출력량</PowerOutput>
+  <PowerActiveNeeded>활성 상태일 때 {0} W</PowerActiveNeeded> <!-- text_todo -->
   <PowerBatteryStored>저장됨</PowerBatteryStored>
   <PowerBatteryEfficiency>전력 효율</PowerBatteryEfficiency>
   <SelfDischarging>자가방전 중</SelfDischarging>
@@ -494,6 +547,9 @@
 
   <!-- Meal -->
   <Ingredients>성분</Ingredients>
+  <IngredientsDesc>이 음식을 만들 때 사용한 재료입니다.</IngredientsDesc>
+  <DietaryType>식성 유형</DietaryType>
+  <DietaryTypeDesc>음식의 유형입니다. 어떤 사람들은 특정 유형의 음식을 바랍니다.</DietaryTypeDesc>
   <OnlyStacksWithCompatibleMeals>유사한 음식만 겹칠 수 있음</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
@@ -506,6 +562,8 @@
   <OutOfIdealTemperatureRangeNotGrowing>부적합한 온도. 성장 불가.</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>수확 가능</ReadyToHarvest>
   <Mature>성숙</Mature>
+  <AveragePlantAge>평균 작물 나이</AveragePlantAge>
+  <OldestPlantAge>최고령 작물 나이</OldestPlantAge>
   <OutdoorGrowingPeriod>성장 기간</OutdoorGrowingPeriod>
   <NoGrowingPeriod>불가능</NoGrowingPeriod>
   <GrowYearRound>연중 계속</GrowYearRound>
@@ -516,6 +574,8 @@
   <AutoCutNow>지금 제초</AutoCutNow>
   <HarvestGerund>수확</HarvestGerund>
   <CutGerund>제초</CutGerund>
+  <CutAllBlight>모든 마름병 작물 제초</CutAllBlight>
+  <CutAllBlightDesc>마름병 피해를 입은 모든 작물에 제초 명령을 내립니다. 마름병에 걸린 작물에서는 어떤 식량이나 재료도 얻을 수 없으며, 병이 더 퍼지기 전에 제거해야 합니다.</CutAllBlightDesc>
 
   <!-- Zones -->
   <Zone>지역</Zone>
@@ -535,22 +595,24 @@
   <Undiscovered>발견되지 않음</Undiscovered>
 
   <!-- Buttons -->
-  <ShowLearningHelperWhenEmptyToggleButton>남은 도움말 항목이 없는 경우의 도우미 표시 여부를 설정합니다.\n\n제공할 도움말이 있다면 도우미는 언제나 표시됩니다. 이 설정으로는 도움말이 없을 때 도우미를 숨길 수 있습니다.</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>남은 도움말 항목이 없는 경우의 도우미 표시 여부를 설정합니다.\n\n학습하지 않은 도움말이 하나라도 남아있으면 항상 도우미가 표시됩니다. 이 설정으로는 활성화된 학습 주제가 없을 때 도우미를 숨깁니다.</ShowLearningHelperWhenEmptyToggleButton>
   <ZoneVisibilityToggleButton>구역을 표시합니다.</ZoneVisibilityToggleButton>
-  <ShowBeautyToggleButton>미관 화면으로 전환합니다.\n\n마우스가 가리키는 곳에 주변의 미관을 표시합니다.</ShowBeautyToggleButton>
-  <ShowRoomStatsToggleButton>방의 정보 화면으로 전환합니다.\n\n마우스가 가리키는 방의 정보를 표시합니다.</ShowRoomStatsToggleButton>
+  <ShowBeautyToggleButton>미관을 표시합니다.\n\n마우스가 가리키는 곳에 주변의 미관을 표시합니다.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>방 정보를 표시합니다.\n\n마우스가 가리키는 방의 정보를 표시합니다.</ShowRoomStatsToggleButton>
   <ShowColonistBarToggleButton>정착민 상태표시줄을 활성화합니다.\n\n화면 상단에 아이콘과 기본적인 상태를 표시합니다.\n\n우클릭 상태에서 드래그를 하면 순서를 변경할 수 있습니다.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButtonController>정착민 상태표시줄을 활성화합니다.\n\n화면 상단에 아이콘과 기본적인 상태를 표시합니다.\n\n왼쪽 트리거를 누른 상태에서 드래그를 하면 순서를 변경할 수 있습니다.</ShowColonistBarToggleButtonController>
   <AutoHomeAreaToggleButton>새로 건설한 건물 주변에 자동으로 주거구역을 설정합니다.</AutoHomeAreaToggleButton>
-  <AutoRebuildButton>파괴된 구조물에 청사진을 남깁니다.</AutoRebuildButton>
+  <AutoRebuildButton>주거구역 내에서 구조물이 파괴되면 자동으로 같은 구조물의 청사진을 배치합니다.</AutoRebuildButton>
   <CategorizedResourceReadoutToggleButton>자원 개요를 분류별로 묶어 보여줍니다.</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>길들인 동물의 이름을 표시합니다.</ShowAnimalNamesToggleButton>
-  <ShowRoofOverlayToggleButton>지붕 상태를 표시합니다.</ShowRoofOverlayToggleButton>
-  <ShowFertilityOverlayToggleButton>지형의 토질을 시각화하여 표시합니다.\n\n이것은 식물의 종류나 자라는 속도에 영향을 미칩니다.</ShowFertilityOverlayToggleButton>
-  <ShowTerrainAffordanceOverlayToggleButton>지형이 버틸 수 있는 무게를 시각화하여 표시합니다.\n\n이것으로 지형 위에 어떤 종류의 건물을 설치할 수 있는지 알 수 있습니다.\n\n어떤 유형의 땅 위에는 가벼운 건물을 지을 수 있지만 무거운 건물은 짓지 못합니다. 교량은 물 위에만 지을 수 있습니다.</ShowTerrainAffordanceOverlayToggleButton>
+  <ShowRoofOverlayToggleButton>지붕을 표시합니다.</ShowRoofOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>토질을 시각화합니다.\n\n토질은 흙에 포함된 양분의 양으로, 재배할 수 있는 식물과 생장 속도에 영향을 미칩니다.</ShowFertilityOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>지형이 버틸 수 있는 무게를 시각화합니다.\n\n버틸 수 있는 무게는 어떤 장소에 어떤 건물을 건설할 수 있는지 결정합니다.\n\n예를 들어, 어떤 땅은 가벼운 건물을 지탱할 수 있지만 무거운 건물은 버티지 못합니다. 교량은 물 위에만 지을 수 있습니다.</ShowTerrainAffordanceOverlayToggleButton>
   <LockNorthUpToggleButton>카메라 방향을 고정해 언제나 북쪽을 위로 향하게 합니다.</LockNorthUpToggleButton>
   <UsePlanetDayNightSystemToggleButton>낮/밤 광원 모드를 설정합니다.</UsePlanetDayNightSystemToggleButton>
   <ShowExpandingIconsToggleButton>멀리 있는 지역 아이콘을 확대합니다.</ShowExpandingIconsToggleButton>
   <ShowWorldFeaturesToggleButton>지명을 표시합니다.</ShowWorldFeaturesToggleButton>
+  <ShowTemperatureOverlayToggleButton>온도를 시각화합니다. 모든 방과 실외 공간의 기온을 볼 수 있습니다.\n\n정착민들은 온도가 너무 높거나 너무 낮으면 기분이 나빠집니다. 극한 온도에 노출된 정착민은 저체온증, 동상, 열사병, 화상을 겪거나 사망할 수 있습니다.</ShowTemperatureOverlayToggleButton>
 
   <!-- Fire -->
   <FireOn>{1_label}에 화재</FireOn>
@@ -703,6 +765,7 @@
   
   <!-- Learning helper -->
   <LearningHelper>도우미</LearningHelper>
+  <LearningHelperTooltip>현재 정착지의 상태에 맞는 주제를 학습할 수 있는 도우미입니다.</LearningHelperTooltip>
   <MarkLearned>배움 표시</MarkLearned>
   <AlreadyLearned>이미 배움</AlreadyLearned>
   <Filter>필터</Filter>
@@ -718,8 +781,11 @@
   <RoutePlannerUsingAverageTicksPerMoveWarning>계획 모드에서는 기본 상단 속도를 사용합니다. 실제 속도는 다를 수 있습니다.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <RoutePlannerUsingTicksPerMoveOfCaravan>계산: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>우클릭: 경유지 추가/제거.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>왼쪽 트리거: 경유지 추가/제거.</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
   <RoutePlannerPressEscapeToExit>ESC: 계획 모드 나가기.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExitController>{Key:Cancel}: 계획 모드 나가기.</RoutePlannerPressEscapeToExitController>
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: 상단 구성 창으로 돌아가기.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: 상단 구성 창으로 돌아가기.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
   <EstimatedTimeToWaypoint>예상 여행기간: {0}</EstimatedTimeToWaypoint>
   <EstimatedTimeToWaypointFromPrevious>예상 여행기간 (이전 경유지로부터): {0}</EstimatedTimeToWaypointFromPrevious>
   <EstimatedTimeToTile>예상 여행기간: {0}</EstimatedTimeToTile>
@@ -744,12 +810,12 @@
   <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
   <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
-  <PawnTooltipPsychicEntropyStats>신경열: {0} / {1}\n하락률: {2} / 초 (0까지 {3}초)</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyStats>하락률: {0}/초 (0까지 {1}초)</PawnTooltipPsychicEntropyStats>
   <PawnTooltipPsychicEntropyDesc>초능력을 시전한 이후 신경열이 증가합니다. 정상적인 한계를 넘어서면 정신이상이 나타날 수 있습니다.\n\n신경열은 시간이 지남에 따라 사라집니다. 이 과정은 엘텍스 의복을 착용하거나 고통을 겪으면서 가속화될 수 있습니다.</PawnTooltipPsychicEntropyDesc>
   <PawnTooltipPsychicEntropyPainFocus>물리적 고통은 잡념을 제거하여 신경열을 빠르게 안정시킵니다.\n\n고통 수준: {0}\n신경열 회복 보너스: {1}</PawnTooltipPsychicEntropyPainFocus>
   <PawnTooltipPsychicEntropyLimit>신경열 한계 전환\n\n신경열 한계를 초과하면 장기적인 정신적 장애와 과잉에 대한 뇌손상을 포함하여 심각한 건강상의 문제가 발생될 수 있습니다. 신경열 한계보다 지나치게 높아질수록, 그 위험은 더 커집니다.</PawnTooltipPsychicEntropyLimit>
   <PawnTooltipPsyfocus>초집중: {0}</PawnTooltipPsyfocus>
-
+  
   <!-- Pawn tooltip description -->
   <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
 
@@ -792,8 +858,8 @@
   <!-- Projectile interceptor -->
   <InterceptsProjectilesEvery>{1} 마다 {0} 요격</InterceptsProjectilesEvery>
   <InterceptsProjectiles>{0} 요격</InterceptsProjectiles>
-  <InterceptsProjectiles_GroundProjectiles>직사</InterceptsProjectiles_GroundProjectiles>
-  <InterceptsProjectiles_AerialProjectiles>곡사</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>직사 투사체</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>곡사 투사체</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <AffectedGender>영향받는 성별</AffectedGender>
@@ -819,6 +885,10 @@
   <RitualNobodyAttended>참석자가 없어서 {0}(이)가 취소됐습니다.</RitualNobodyAttended>
   <RitualFinished>{0}(이)가 끝났습니다.</RitualFinished>
   <RitualEndsIn>{0} 후 끝</RitualEndsIn>
+  <RitualStartAnyTime>아무 때나 시작 가능</RitualStartAnyTime>
+  <RitualStartEvent>사건 후 시작 가능</RitualStartEvent>
+  <RitualFocusObjects>집중물체</RitualFocusObjects>
+  <RitualParticipatingRoles>필요한 지위</RitualParticipatingRoles>
   <Organizers>주최자</Organizers>
   <QualityFactors>품질 요소</QualityFactors>
   <QualityFactorTooltipUncertain>잘 진행되면 이 조건을 만족할 수도 있습니다.\n\n만족할 경우 품질 보너스를 받을 수 있습니다.</QualityFactorTooltipUncertain>
@@ -826,6 +896,7 @@
   <Spectators>관전자</Spectators>
   <NotParticipating>참여 안함</NotParticipating>
   <DragPawnsToRolesInfo>클릭 후 드래그하여 이동 가능</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfoController>드래그하거나 클릭하여 이동하세요.</DragPawnsToRolesInfoController>
   <RitualBeginSlaveDesc>노예입니다. 다른 이의 재산입니다.</RitualBeginSlaveDesc>
   <RitualBeginSleepingDesc>{0_labelShort}(은)는 자고 있습니다. 행사가 시작되면 깨어나 참여할 것입니다.</RitualBeginSleepingDesc>
   <RitualBeginSleepingWarning>선택한 참여자 중 일부가 자고 있습니다. 행사가 시작되면 깨어나 참여할 것입니다.</RitualBeginSleepingWarning>
@@ -842,6 +913,7 @@
   <AbilitySpeechDisabledNoSpot>도달 가능하고 연설에 적합한 장소가 없습니다.</AbilitySpeechDisabledNoSpot>
   <AbilityDisabledNoCapacity>{0_labelShort}(은)는 {1}(을)를 할 수 없습니다.</AbilityDisabledNoCapacity>
   <RitualOutcomeExtraDesc_Mood>행사에 참여한 모든 사람의 기분이 {1}일간 {0}만큼 영향을 받습니다.</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeNoQuality>이 의식에는 품질 영향이 없으므로 항상 최선의 결과를 낳습니다.</RitualOutcomeNoQuality>
   
   <ChooseParticipants>{RITUAL_labelDef}에 참여해야 하는 사람을 선택하세요.</ChooseParticipants>
   <Begin>시작</Begin>
@@ -860,6 +932,8 @@
   <RitualPredictedOutcomeDescRoomBeauty>방 미관</RitualPredictedOutcomeDescRoomBeauty>
   <RitualPredictedOutcomeDescParticipantCount>참여자</RitualPredictedOutcomeDescParticipantCount>
   <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}의 기대감</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualOutcomeLovedOnePresentLabel>사랑하는 사람 참석</RitualOutcomeLovedOnePresentLabel>
+  <RitualOutcomeLovedOnePresentTip>{PAWN_labelShort}(이)가 친구 또는 친구 이상으로 생각하는 아무나.</RitualOutcomeLovedOnePresentTip>
 
   <RitualOutcomeLabelAnyOfThese>다음 중 아무거나</RitualOutcomeLabelAnyOfThese>
   <RitualRoleReplaces>{PAWN_labelShort}(을)를 대체</RitualRoleReplaces>
@@ -875,6 +949,12 @@
 
   <ThingOf>{0}</ThingOf>
   <ThingOfSource>{1}의 {0}</ThingOfSource>
+  <ThingOfTwoSources>{1}(와)과 {2}의 {0}</ThingOfTwoSources>
+
+  <!-- Gas types -->
+  <BlindSmoke>실명 연막</BlindSmoke>
+  <ToxGas>독소 가스</ToxGas>
+  <RotStink>부패 가스</RotStink>
 
   <!-- Abilities -->
   <AbilityDisabledUndrafted>소집 중이어야 합니다.</AbilityDisabledUndrafted>
@@ -882,5 +962,23 @@
   <AbilityAlreadyQueued>이미 대기열에 있습니다.</AbilityAlreadyQueued>
   <AbilityReadyLabel>{0} 능력이 준비되었습니다.</AbilityReadyLabel>
   <AbilityReadyText>{0_nameDef}(이)가 {1}(을)를 사용할 준비가 되었습니다.</AbilityReadyText>
+  <AbilityDisabledInRitual>{0_labelShort}(은)는 {1}에 참여 중입니다.</AbilityDisabledInRitual>
+  <Charges>충전</Charges>
+
+  <PawnIsInMentalState>{0_nameDef}(은)는 공격적인 정신 이상을 겪고 있습니다.</PawnIsInMentalState>
+
+  <DisabledWorkLabel>비활성화된 작업</DisabledWorkLabel>
+
+  <!-- Glowers -->
+  <GlowerChangeColor>색상 변경</GlowerChangeColor>
+  <GlowerChangeColorDescription>조명의 색을 바꿉니다.</GlowerChangeColorDescription>
+  <GlowerChangeColorNeedsResearch>조명의 색을 바꾸려면 {0}(을)를 연구해야 합니다.</GlowerChangeColorNeedsResearch>
+
+  <!-- Shields -->
+  <ShieldPersonalTip>날아오는 투사체나 파편을 방어하는 개인용 보호막입니다. 착용자의 사격도 차단하며 전자기 공격을 받으면 즉시 해제됩니다.</ShieldPersonalTip>
+
+  <UnrecruitableDesc>{PAWN_nameDef}(은)는 자신의 소속 세력에 너무나 충성스러워서 수감자로 삼아도 포섭할 수 없습니다.</UnrecruitableDesc>
+
+  <Random>무작위</Random>
 
 </LanguageData>

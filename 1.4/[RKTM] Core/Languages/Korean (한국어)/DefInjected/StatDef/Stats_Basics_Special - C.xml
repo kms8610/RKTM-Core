@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <CleaningTimeFactor.label>청소 시간 계수</CleaningTimeFactor.label>
+  <CleaningTimeFactor.description>표면에서 오염을 청소할 때 필요한 시간에 곱해집니다.</CleaningTimeFactor.description>
+  
   <ConstructionSpeedFactor.label>건설 속도</ConstructionSpeedFactor.label>
   <ConstructionSpeedFactor.description>해당 재료가 사용된 건물을 건설할 때 속도에 영향을 주는 수치입니다.\n\n예를 들어 석재 건물은 느리게 만들어지지만 목재 건물은 빠르게 만들어집니다.</ConstructionSpeedFactor.description>
   <ConstructionSpeedFactor.labelForFullStatList>건설 속도 (재료 계수)</ConstructionSpeedFactor.labelForFullStatList>

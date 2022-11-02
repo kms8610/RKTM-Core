@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BottleFeedBaby.label>아기 밥 먹이기</BottleFeedBaby.label>
+  <BottleFeedBaby.gerund>먹이 주기</BottleFeedBaby.gerund>
+  <BottleFeedBaby.verb>먹이 주기</BottleFeedBaby.verb>
+  
+  <BreastfeedBaby.label>아기에게 모유 수유</BreastfeedBaby.label>
+  <BreastfeedBaby.gerund>모요 수유중</BreastfeedBaby.gerund>
+  <BreastfeedBaby.verb>모유 수유</BreastfeedBaby.verb>
+  
+  <BringBabyToSafety.label>아이를 안전한 온도로 옮기기</BringBabyToSafety.label>
+  <BringBabyToSafety.gerund>구조하기</BringBabyToSafety.gerund>
+  <BringBabyToSafety.verb>구조</BringBabyToSafety.verb>
+  
+  <CarryToBreastfeed.label>산모에게 전달</CarryToBreastfeed.label>
+  <CarryToBreastfeed.gerund>모유 수유 시키는중</CarryToBreastfeed.gerund>
+  <CarryToBreastfeed.verb>모유 수유 시키기</CarryToBreastfeed.verb>
+  
+  <CarryToGeneExtractor.label>건물로 옮기기</CarryToGeneExtractor.label>
+  <CarryToGeneExtractor.gerund>다음에서 유전자 추출</CarryToGeneExtractor.gerund>
+  <CarryToGeneExtractor.verb>유전자 추출</CarryToGeneExtractor.verb>
+  
+  <CarryToGrowthVat.label>건물로 옮기기</CarryToGrowthVat.label>
+  <CarryToGrowthVat.gerund>재배</CarryToGrowthVat.gerund>
+  <CarryToGrowthVat.verb>재배</CarryToGrowthVat.verb>
+  
+  <CarryToSubcoreScanner.label>서브코어 스캐너로 옮기기</CarryToSubcoreScanner.label>
+  <CarryToSubcoreScanner.gerund>운반 중</CarryToSubcoreScanner.gerund>
+  <CarryToSubcoreScanner.verb>운반</CarryToSubcoreScanner.verb>
+  
+  <ChildcarerTeach.label>아이 가르치기</ChildcarerTeach.label>
+  <ChildcarerTeach.gerund>교육중</ChildcarerTeach.gerund>
+  <ChildcarerTeach.verb>가르치기</ChildcarerTeach.verb>
+  
+  <CleanClearPollution.label>오염물질 청소</CleanClearPollution.label>
+  <CleanClearPollution.gerund>오염물질 청소중</CleanClearPollution.gerund>
+  <CleanClearPollution.verb>오염물질 청소</CleanClearPollution.verb>
+  
+  <CreateXenogerm.label>변형이식체 생성</CreateXenogerm.label>
+  <CreateXenogerm.gerund>다음 위치에서 변형이식체 생성중</CreateXenogerm.gerund>
+  <CreateXenogerm.verb>변형이식체 생성</CreateXenogerm.verb>
+  
+  <DeliverHemogenToPrisoner.label>수감자에게 혈액정수 전달</DeliverHemogenToPrisoner.label>
+  <DeliverHemogenToPrisoner.gerund>혈액정수 전달</DeliverHemogenToPrisoner.gerund>
+  <DeliverHemogenToPrisoner.verb>혈액정수 전달</DeliverHemogenToPrisoner.verb>
+  
+  <DoBillsMechGestator.label>메카노이드 배양기에서 물건 만들기</DoBillsMechGestator.label>
+  <DoBillsMechGestator.gerund>에서 작업하기</DoBillsMechGestator.gerund>
+  <DoBillsMechGestator.verb>작업</DoBillsMechGestator.verb>
+  
+  <DoBillsSubcoreEncoder.label>make things at subcore encoder</DoBillsSubcoreEncoder.label>
+  <DoBillsSubcoreEncoder.gerund>에서 작업하기</DoBillsSubcoreEncoder.gerund>
+  <DoBillsSubcoreEncoder.verb>작업</DoBillsSubcoreEncoder.verb>
+  
+  <EmptyWasteContainer.label>생성된 독성 폐기물 없음</EmptyWasteContainer.label>
+  <EmptyWasteContainer.gerund>추출</EmptyWasteContainer.gerund>
+  <EmptyWasteContainer.verb>추출</EmptyWasteContainer.verb>
+  
+  <EnterGeneExtractor.label>유전자 추출기에 들어가기</EnterGeneExtractor.label>
+  <EnterGeneExtractor.gerund>진입</EnterGeneExtractor.gerund>
+  <EnterGeneExtractor.verb>진입</EnterGeneExtractor.verb>
+  
+  <EnterGrowthVat.label>성장촉진기에 들어가기</EnterGrowthVat.label>
+  <EnterGrowthVat.gerund>진입</EnterGrowthVat.gerund>
+  <EnterGrowthVat.verb>진입</EnterGrowthVat.verb>
+  
+  <EnterSubcoreScanner.label>서브코어 스캐너 들어가기</EnterSubcoreScanner.label>
+  <EnterSubcoreScanner.gerund>진입</EnterSubcoreScanner.gerund>
+  <EnterSubcoreScanner.verb>진입</EnterSubcoreScanner.verb>
+  
+  <FeedHemogen.label>혈액정수 투여</FeedHemogen.label>
+  <FeedHemogen.gerund>혈액정수 투여</FeedHemogen.gerund>
+  <FeedHemogen.verb>혈액정수 투여</FeedHemogen.verb>
+  
+  <HaulMechsToCharger.label>메카노이드를 충전소로 운반</HaulMechsToCharger.label>
+  <HaulMechsToCharger.gerund>옮기기</HaulMechsToCharger.gerund>
+  <HaulMechsToCharger.verb>운반</HaulMechsToCharger.verb>
+  
+  <HaulToCarrier.label>자원은 모체로 운반</HaulToCarrier.label>
+  <HaulToCarrier.gerund>hauling to</HaulToCarrier.gerund>
+  <HaulToCarrier.verb>haul to</HaulToCarrier.verb>
+  
+  <HaulToGeneBank.label>유전자묶음 보관</HaulToGeneBank.label>
+  <HaulToGeneBank.gerund>banking</HaulToGeneBank.gerund>
+  <HaulToGeneBank.verb>bank</HaulToGeneBank.verb>
+  
+  <HaulToGrowthVat.label>성장촉진기로 옮기기</HaulToGrowthVat.label>
+  <HaulToGrowthVat.gerund>채우기</HaulToGrowthVat.gerund>
+  <HaulToGrowthVat.verb>채우기</HaulToGrowthVat.verb>
+  
+  <HaulToSubcoreScanner.label>자원을 서브코어 스캐너로 운반</HaulToSubcoreScanner.label>
+  <HaulToSubcoreScanner.gerund>운반 중</HaulToSubcoreScanner.gerund>
+  <HaulToSubcoreScanner.verb>haul to</HaulToSubcoreScanner.verb>
+  
+  <HaulToWastepackAtomizer.label>폐기물 원자분해기로 자원을 운반</HaulToWastepackAtomizer.label>
+  <HaulToWastepackAtomizer.gerund>운반</HaulToWastepackAtomizer.gerund>
+  <HaulToWastepackAtomizer.verb>운반</HaulToWastepackAtomizer.verb>
+  
+  <PlayWithBaby.label>아기들과 놀아주기</PlayWithBaby.label>
+  <PlayWithBaby.gerund>놀기</PlayWithBaby.gerund>
+  <PlayWithBaby.verb>놀기</PlayWithBaby.verb>
+  
+  <RepairMech.label>메카노이드 수리</RepairMech.label>
+  <RepairMech.gerund>수리하기</RepairMech.gerund>
+  <RepairMech.verb>수리</RepairMech.verb>
+</LanguageData>

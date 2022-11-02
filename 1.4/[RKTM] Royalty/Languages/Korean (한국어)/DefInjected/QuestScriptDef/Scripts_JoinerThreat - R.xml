@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]살의 [joiner_title], [joiner_nameFull](이)가 도움을 요청하고 있습니다! [joiner_pronoun]는 [hidingFrom](으)로부터 숨어 있습니다. [joiner_pronoun]는 도망쳐서 [map_definite]에 합류를 원합니다.[joiner_relationInfo]\n\n[condDesc]\n\n지금 상황이 절망적이라, [joiner_nameDef](은)는 자신에 대한 정보를 더 제공하기 힘들다고 말합니다.</li>
+    <li>questDescription->[introduction], [joiner_nameFull](이)가 도움을 요청하고 있습니다! [joiner_pronoun]는 [hidingFrom](으)로부터 숨어 있습니다. [joiner_pronoun]는 도망쳐서 [map_definite]에 합류를 원합니다.[joiner_relationInfo]\n\n[condDesc]\n\n지금 상황이 절망적이라, [joiner_nameDef](은)는 자신에 대한 정보를 더 제공하기 힘들다고 말합니다.</li>
     <li>hidingFrom(gameCondition==ToxicFallout)->굶주린 늑대무리</li>
     <li>condDesc(gameCondition==ToxicFallout)->그러나, [joiner_nameDef](은)는 근처의 거대한 독성 화학 폐기물에 불을 질러야만 늑대를 죽일 수 있으며, [gameConditionDuration_duration] 동안 유독성 낙진이 발생됩니다.</li>
     <li>hidingFrom(gameCondition==VolcanicWinter)->식인 동물무리</li>
@@ -18,6 +18,8 @@
     <li>condDesc(gameCondition==PsychicDrone)->[joiner_pronoun]가 오게 된다면, [gameConditionDuration_duration] 동안 [psychicDroneGender]에게 맞춰진 [psychicDroneLevel] 수준의 정신파동을 일으켜, [map_definite]에 있는 모든 [psychicDroneGender]들의 기분이 나빠집니다.</li>
     <li>hidingFrom(gameCondition==PsychicSuppression)->최근에 깨어나 움직이는 기계</li>
     <li>condDesc(gameCondition==PsychicSuppression)->[joiner_pronoun]가 오게 된다면, [gameConditionDuration_duration] 동안 [psychicSuppressorGender]에게 맞춰진 정신파동을 일으켜, [map_definite]에 있는 모든 [psychicSuppressorGender]의 의식이 감소하게 됩니다.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age] 살의 아이</li>
+    <li>introduction->[joiner_age] 살의 [joiner_title]</li>
   </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
   <ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
     <li>questName->[joiner_nameDef]의 [gameCondition_label]</li>
@@ -26,7 +28,9 @@
   </ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
   
   <ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]살의 [joiner_title], [joiner_nameDef](이)가 긴급 신호를 보냅니다. [joiner_pronoun]는 거대한 곤충들이 지하로부터 습격해왔고, 탈출하는 과정에서 페로몬에 오염되었다고 합니다!\n\n[joiner_pronoun]는 [map_definite]에 합류하여 보호받기를 원합니다.[joiner_relationInfo]\n\n[joiner_nameDef](을)를 받아들이면, [infestationDelayTicks_duration]이 지난 후 [hivesCount]개의 곤충 군락이 발생합니다.\n\n[joiner_nameDef](은)는 급박한 와중이라 자신을 자세히 소개할 시간이 없는 것 같습니다.</li>
+    <li>questDescription->[introduction], [joiner_nameDef](이)가 긴급 신호를 보냅니다. [joiner_pronoun]는 거대한 곤충들이 지하로부터 습격해왔고, 탈출하는 과정에서 페로몬에 오염되었다고 합니다!\n\n[joiner_pronoun]는 [map_definite]에 합류하여 보호받기를 원합니다.[joiner_relationInfo]\n\n[joiner_nameDef](을)를 받아들이면, [infestationDelayTicks_duration]이 지난 후 [hivesCount]개의 곤충 군락이 발생합니다.\n\n[joiner_nameDef](은)는 급박한 와중이라 자신을 자세히 소개할 시간이 없는 것 같습니다.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age] 살의 아이</li>
+    <li>introduction->[joiner_age] 살의 [joiner_title]</li>
   </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
   <ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
     <li>questName->[joiner_nameDef]의 감염</li>
@@ -39,10 +43,12 @@
   <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n                  \n[joiner_nameDef](을) 따라 온 곤충이 등장했습니다.</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
   
   <ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription(animalCount==1)->[joiner_age]살의 [joiner_title], [joiner_nameDef](이)가 근처에서 호출합니다. [joiner_pronoun]는 식인 [animalKind_label](이)가 [joiner_objective] 뒤쫓아 오는 중이라고 합니다!\n\n[joiner_pronoun]는 보호를 요청하며 [map_definite]에 합류할 의사를 보였습니다.[joiner_relationInfo]\n\n[joiner_nameDef](을)를 수락하면, 식인 [animalKind_label](이)가 [manhuntersDelayTicks_duration] 뒤에 공격해 올 것입니다.\n\n[joiner_nameDef](은)는 급박한 와중이라 자신을 자세히 소개할 시간이 없는 것 같습니다.</li>
+    <li>questDescription(animalCount==1)->[introduction], [joiner_nameDef](이)가 근처에서 호출합니다. [joiner_pronoun]는 식인 [animalKind_label](이)가 [joiner_objective] 뒤쫓아 오는 중이라고 합니다!\n\n[joiner_pronoun]는 보호를 요청하며 [map_definite]에 합류할 의사를 보였습니다.[joiner_relationInfo]\n\n[joiner_nameDef](을)를 수락하면, 식인 [animalKind_label](이)가 [manhuntersDelayTicks_duration] 뒤에 공격해 올 것입니다.\n\n[joiner_nameDef](은)는 급박한 와중이라 자신을 자세히 소개할 시간이 없는 것 같습니다.</li>
     <li>manhunterArrivalLetterEnd(animalCount==1)->[animalKind_label](이)가 [joiner_nameDef](을)를 쫓아왔습니다.</li>
-    <li>questDescription(animalCount>=2)->[joiner_age]살의 [joiner_title], [joiner_nameDef](이)가 근처에서 호출합니다. [joiner_pronoun]는 [animalCount]마리의 식인 [animalKind_labelPlural] 무리가 [joiner_objective] 뒤쫓아 오는 중이라고 합니다!\n\n[joiner_pronoun]는 보호를 요청하며 [map_definite]에 합류할 의사를 보였습니다.[joiner_relationInfo]\n\n[joiner_nameDef](을)를 수락하면, 식인 [animalKind_labelPlural] 무리가 [manhuntersDelayTicks_duration] 뒤에 공격해 올 것입니다.\n\n[joiner_nameDef](은)는 급박한 와중이라 자신을 자세히 소개할 시간이 없는 것 같습니다.</li>
+    <li>questDescription(animalCount>=2)->[introduction], [joiner_nameDef](이)가 근처에서 호출합니다. [joiner_pronoun]는 [animalCount]마리의 식인 [animalKind_labelPlural] 무리가 [joiner_objective] 뒤쫓아 오는 중이라고 합니다!\n\n[joiner_pronoun]는 보호를 요청하며 [map_definite]에 합류할 의사를 보였습니다.[joiner_relationInfo]\n\n[joiner_nameDef](을)를 수락하면, 식인 [animalKind_labelPlural] 무리가 [manhuntersDelayTicks_duration] 뒤에 공격해 올 것입니다.\n\n[joiner_nameDef](은)는 급박한 와중이라 자신을 자세히 소개할 시간이 없는 것 같습니다.</li>
     <li>manhunterArrivalLetterEnd(animalCount>=2)->[animalKind_labelPlural](이)가 [joiner_nameDef](을)를 쫓아왔습니다.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age] 살의 아이</li>
+    <li>introduction->[joiner_age] 살의 [joiner_title]</li>
   </ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
   <ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
     <li>questName(animalCount==1)->[joiner_nameDef]의 [animalKind_label]</li>
@@ -56,7 +62,9 @@
   <ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>{BASETEXT}\n\n[manhunterArrivalLetterEnd]</ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>
   
   <ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]살의 [joiner_title], [joiner_nameDef](이)가 근처에서 호출합니다. [joiner_pronoun]는 [map_definite]에 합류를 원합니다.[joiner_relationInfo]\n\n[joiner_nameDef](을)를 뒤쫓아 오는 위협이 있지만, [joiner_pronoun]는 그게 무엇인지 언제 일어날지 말할 마음이 없어 보이며 또한, 자신에 대한 이야기도 해주지 않았습니다.</li>
+    <li>questDescription->[introduction], [joiner_nameDef](이)가 근처에서 호출합니다. [joiner_pronoun]는 [map_definite]에 합류를 원합니다.[joiner_relationInfo]\n\n[joiner_nameDef](을)를 뒤쫓아 오는 위협이 있지만, [joiner_pronoun]는 그게 무엇인지 언제 일어날지 말할 마음이 없어 보이며 또한, 자신에 대한 이야기도 해주지 않았습니다.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age] 살의 아이</li>
+    <li>introduction->[joiner_age] 살의 [joiner_title]</li>
   </ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
   <ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
     <li>questName->[joiner_nameDef]의 [problem]</li>
@@ -75,7 +83,9 @@
   <ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>[joiner_nameDef](은)는 자신이 도피 중이라는 사실을 인정했습니다.\n    \n[joiner_nameDef](은)는 여행 중에 [animalKind_labelPlural]의 무리를 마주쳤습니다. 기분이 좋지 않았던 [joiner_pronoun](은)는위협적인 몸짓을 취했습니다.  뜻밖에도 [animalKind_labelPlural](은)는 곧바로 반격했고, [joiner_objective](을)를 쫓아 먼 거리를 추격해 왔습니다.\n    \n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>
   
   <ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]살의 [joiner_title], [joiner_nameDef](이)가 근처에서 호출합니다. [joiner_pronoun]가 [raid1/enemyFaction_name](와)과 [raid2/enemyFaction_name] 간의 평화 협상을 모독 했음을 인정했고, 그들은 둘 다 [joiner_objective] 추격하고 있습니다!\n\n[joiner_pronoun]는 보호를 요청하고 [map_definite]의 당신에게 합류할 의사를 표현합니다.[joiner_relationInfo]\n\n[joiner_nameDef](을)를 받아들인다면, [raid1/enemyFaction_name](와)과 [raid2/enemyFaction_name] 둘 다 [raidDelayTicks_duration] 안에 습격하러 올 것입니다.\n\n[joiner_nameDef](은)는 급박한 와중이라 자신을 자세히 소개할 시간이 없는 것 같습니다.</li>
+    <li>questDescription->[introduction], [joiner_nameDef](이)가 근처에서 호출합니다. [joiner_pronoun]가 [raid1/enemyFaction_name](와)과 [raid2/enemyFaction_name] 간의 평화 협상을 모독 했음을 인정했고, 그들은 둘 다 [joiner_objective] 추격하고 있습니다!\n\n[joiner_pronoun]는 보호를 요청하고 [map_definite]의 당신에게 합류할 의사를 표현합니다.[joiner_relationInfo]\n\n[joiner_nameDef](을)를 받아들인다면, [raid1/enemyFaction_name](와)과 [raid2/enemyFaction_name] 둘 다 [raidDelayTicks_duration] 안에 습격하러 올 것입니다.\n\n[joiner_nameDef](은)는 급박한 와중이라 자신을 자세히 소개할 시간이 없는 것 같습니다.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age] 살의 아이</li>
+    <li>introduction->[joiner_age] 살의 [joiner_title]</li>
   </ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
   <ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
     <li>questName->[joiner_nameDef]의 많은 친구들</li>
@@ -87,7 +97,9 @@
   <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>{BASETEXT}\n                        \n[enemyFaction_pawnsPlural](이)가 [../joiner_nameFull](을)를 따라왔습니다.</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>
   
   <ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_nameFull]이라는 이름의 [joiner_age]살 [joiner_title](이)가 연락해 왔습니다. [joiner_pronoun](은)는 [threat]을 피해 근처에 숨어있으며, 곧 은신처를 탈출하여 [map_Reservation]에 합류하려 합니다.[joiner_relationInfo]\n\n[joiner_objective]를 수락하면 [joinersEnemies]가 근처에 초소를 세우고 정착지를 위협할 것입니다. [site/allSitePartsDescriptions]\n\n초소는 당신이 파괴할 때까지 계속 남아있습니다.</li>
+    <li>questDescription->[introduction], [joiner_nameFull](이)가 연락해 왔습니다. [joiner_pronoun](은)는 [threat](을)를 피해 근처에 숨어있으며, 곧 은신처를 탈출하여 [map_definite]에 합류하려 합니다.[joiner_relationInfo]\n\n[joiner_objective] 수락하면 [joinersEnemies](이)가 근처에 초소를 세우고 정착지를 위협할 것입니다. [site/allSitePartsDescriptions]\n\n초소는 파괴될 때까지 계속 남아있습니다.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age] 살의 아이</li>
+    <li>introduction->[joiner_age] 살의 [joiner_title]</li>
     <li>threat(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]의 [site/enemyFaction_pawnsPlural]</li>
     <li>threat(priority=1,site/MechCluster_exists==True)->메카노이드들</li>
     <li>threat(priority=1,site/SleepingMechanoids_exists==True)->메카노이드들</li>

@@ -25,6 +25,18 @@
   <PawnTrapSpringChance.label>덫 작동 확률</PawnTrapSpringChance.label>
   <PawnTrapSpringChance.description>캐릭터의 부주의로 함정을 건드려 발동시킬 확률입니다.</PawnTrapSpringChance.description>
   
+  <ShootingAccuracyFactor_Long.label>장거리 명중률 계수</ShootingAccuracyFactor_Long.label>
+  <ShootingAccuracyFactor_Long.description>40칸 이상의 명중률 계수입니다.</ShootingAccuracyFactor_Long.description>
+  
+  <ShootingAccuracyFactor_Medium.label>중거리 명중률 계수</ShootingAccuracyFactor_Medium.label>
+  <ShootingAccuracyFactor_Medium.description>25칸 거리의 명중률 계수입니다.</ShootingAccuracyFactor_Medium.description>
+  
+  <ShootingAccuracyFactor_Short.label>근거리 명중률 계수</ShootingAccuracyFactor_Short.label>
+  <ShootingAccuracyFactor_Short.description>12칸 거리의 명중률 계수입니다.</ShootingAccuracyFactor_Short.description>
+  
+  <ShootingAccuracyFactor_Touch.label>근접 명중률 계수</ShootingAccuracyFactor_Touch.label>
+  <ShootingAccuracyFactor_Touch.description>3칸 이하의 명중률 계수입니다.</ShootingAccuracyFactor_Touch.description>
+  
   <ShootingAccuracyPawn.label>사격 정확도</ShootingAccuracyPawn.label>
   <ShootingAccuracyPawn.description>발사 거리 당 적을 맞출 수 있는 확률입니다.\n\n정확도는 대상, 엄폐물, 주변 환경에도 영향을 받으며 사수를 선택하고 대상에 커서를 올려 확인할 수 있습니다.</ShootingAccuracyPawn.description>
   <ShootingAccuracyPawn.labelForFullStatList>사격 정확도 (사람)</ShootingAccuracyPawn.labelForFullStatList>

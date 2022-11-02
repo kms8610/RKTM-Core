@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CentipedeBlaster.label>센티피드 블래스터 배양</CentipedeBlaster.label>
+  <CentipedeBlaster.description>Gestate a centipede mechanoid armed with a heavy charge blaster.</CentipedeBlaster.description>
+  <CentipedeBlaster.jobString>Gestating mech.</CentipedeBlaster.jobString>
+  
+  <Lancer.label>랜서 배양</Lancer.label>
+  <Lancer.description>Gestate a lancer mechanoid.</Lancer.description>
+  <Lancer.jobString>Gestating mech.</Lancer.jobString>
+  
+  <Legionary.label>레져나리 배양</Legionary.label>
+  <Legionary.description>Gestate a legionary mechanoid.</Legionary.description>
+  <Legionary.jobString>Gestating mech.</Legionary.jobString>
+  
+  <Pikeman.label>파이크맨 배양</Pikeman.label>
+  <Pikeman.description>Gestate a pikeman mechanoid.</Pikeman.description>
+  <Pikeman.jobString>Gestating mech.</Pikeman.jobString>
+  
+  <Scorcher.label>스코쳐 배양</Scorcher.label>
+  <Scorcher.description>Gestate a scorcher mechanoid.</Scorcher.description>
+  <Scorcher.jobString>Gestating mech.</Scorcher.jobString>
+  
+  <Scyther.label>사이더 배양</Scyther.label>
+  <Scyther.description>Gestate a scyther mechanoid.</Scyther.description>
+  <Scyther.jobString>Gestating mech.</Scyther.jobString>
+  
+  <Tesseron.label>테서론 배양</Tesseron.label>
+  <Tesseron.description>Gestate a tesseron mechanoid.</Tesseron.description>
+  <Tesseron.jobString>Gestating mech.</Tesseron.jobString>
+</LanguageData>

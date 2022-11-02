@@ -223,7 +223,7 @@
     <li>tale_noun->[PAWN_nameDef]의 [Community](이)가 미친 동물들에게 공격 받는 모습</li>
     <li>image->[circumstance_phrase] [Animal] 무리</li>
     <li>image->[circumstance_phrase] [Quantity_adjphrase] 마리의 [Animal]</li>
-    <li>image->[circumstance_phrase] [huge] [Animal]</li>
+    <li>image->[circumstance_phrase] [AdjectiveLarge] [Animal]</li>
     <li>image->[circumstance_phrase] [Quantity_adjphrase] 개의 동물 실루엣</li>
     <li>image->[circumstance_phrase] [Quantity_adjphrase] 개의 동물 그림자</li>
     <li>circumstance_phrase->[TerrainFeature](을)를 가로질러 전진하는</li>
@@ -314,7 +314,7 @@
     <li>image->[circumstance_phrase] [Mechanoid] 무리</li>
     <li>image->[circumstance_phrase] [Mechanoid] 군단</li>
     <li>image->[circumstance_phrase] [Quantity_adjphrase] 마리의 [Mechanoid]</li>
-    <li>image->[circumstance_phrase] [huge] [Mechanoid]</li>
+    <li>image->[circumstance_phrase] [AdjectiveLarge] [Mechanoid]</li>
     <li>image->[circumstance_phrase] [Quantity_adjphrase] 마리의 [Mechanoid] 그림자</li>
     <li>image->[circumstance_phrase], [Color](으)로 빛나는 센서의 [Quantity_adjphrase] 마리 [Mechanoid]</li>
     <li>circumstance_phrase->[TerrainFeature](을)를 가로질러 전진하는</li>

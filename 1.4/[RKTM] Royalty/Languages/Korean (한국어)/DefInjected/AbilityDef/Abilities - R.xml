@@ -16,22 +16,22 @@
   <BlindingPulse.description>대상 범위 내 모든 사람들의 시각 중추에 간섭하여 시야를 방해합니다.</BlindingPulse.description>
   
   <BulletShield.label>보호막</BulletShield.label>
-  <BulletShield.description>경계에 닿는 모든 발사체를 방향에 관계없이 소멸시키는 구형의 지대를 형성합니다. 이동에는 영향을 미치지 않습니다.</BulletShield.description>
+  <BulletShield.description>구형 관문을 생성해서 드나드는 모든 투사체를 멀리 떨어진 곳으로 보냅니다. 관문의 투사체 도약 과정은 폭발성 투사체가 폭발하기 충분한 위력을 가지고 있습니다. 사람과 물품은 영향을 받지 않습니다.</BulletShield.description>
   
   <Burden.label>과부하</Burden.label>
   <Burden.description>대상의 뇌 기능을 잠시 억제하여 느려지게 합니다.</Burden.description>
   
   <ChaosSkip.label>혼돈의 도약</ChaosSkip.label>
-  <ChaosSkip.description>대상을 근처의 무작위 위치로 순간 이동시킵니다.</ChaosSkip.description>
+  <ChaosSkip.description>대상을 근처의 무작위 위치로 순간이동시킵니다. 일정 크기 이상의 물체는 지정할 수 없습니다.</ChaosSkip.description>
   
   <Chunkskip.label>장애물 생성</Chunkskip.label>
-  <Chunkskip.description>돌덩어리나 고철덩어리 5개를 목표지점 근처에 흩뿌립니다. 전투 중 엄폐물을 만드는데 유용합니다.</Chunkskip.description>
+  <Chunkskip.description>돌덩어리나 고철덩어리 5개를 목표지점 근처에 흩뿌립니다. 전투 중 엄폐물을 만들 때 유용합니다.</Chunkskip.description>
   
   <EntropyDump.label>신경열 떠넘기기</EntropyDump.label>
   <EntropyDump.description>쌓인 신경열을 다른 사람에게 떠넘겨 해소합니다. 부작용으로 대상은 약 하루 동안 부작용 없는 혼수 상태에 빠질 것입니다. 이 작업은 정신적 공명이 필요하기 때문에 의식이 있는 아군만을 대상으로 할 수 있습니다.</EntropyDump.description>
   
   <Farskip.label>장거리 도약</Farskip.label>
-  <Farskip.description>시전자 본인과 근처의 동료들을 먼 지역으로 도약시킵니다. 행성 전체를 가로지를 수 있지만, 아군이 이미 존재하는 곳만이 대상이 될 수 있습니다.</Farskip.description>
+  <Farskip.description>시전자 본인과 근처의 동료들을 먼 지역의 아군 근처로 도약시킵니다. 행성 전체를 가로지를 수 있지만 아군이 있는 곳으로만 갈 수 있습니다. 동료들은 항상 시전자 근처 무작위 위치에 나타납니다.</Farskip.description>
   
   <Flashstorm.label>섬광폭풍</Flashstorm.label>
   <Flashstorm.description>대상 지점의 대기압을 조정하여 국소 지역을 강타하는 섬광폭풍을 생성합니다. 폭풍은 소멸하기 전까지 번개로 지상을 강타합니다.</Flashstorm.description>
@@ -46,7 +46,7 @@
   <ManhunterPulse.description>근처 동물들에게 분노를 유발하여 인간을 사냥하게끔 합니다.</ManhunterPulse.description>
   
   <MassChaosSkip.label>집단 혼돈의 도약</MassChaosSkip.label>
-  <MassChaosSkip.description>대상 지점 근처의 모든 사람을 근처 무작위 위치로 순간 이동시킵니다.</MassChaosSkip.description>
+  <MassChaosSkip.description>범위 내의 모두를 근처 무작위 위치로 순간이동시킵니다. 일정 크기 이상의 물체는 이동하지 않습니다.</MassChaosSkip.description>
   
   <Neuroquake.label>신경 지진</Neuroquake.label>
   <Neuroquake.description>정신장의 불연속면을 통해 엄청난 양의 정신 에너지를 방출합니다. 시전자 주변에는 작은 안전범위가 생성되며, 바깥에 있는 생명체는 모두 미쳐 날뛰게 됩니다. 시전자는 12초 동안의 명상 후 정신 에너지를 방출하며, 이후 5일간 혼수상태에 빠집니다. 신경 지진은 광범위한 정신적 여파를 남기기 때문에 모든 세력의 우호도를 감소시킬 것입니다.</Neuroquake.description>
@@ -56,7 +56,7 @@
   <Painblock.description>대상의 뇌의 통증 전달 기능을 잠시 차단합니다. 이를 통해 대상은 일반적으로 무력화될 정도로 심하게 다친 상태에서도 행동할 수 있게 됩니다.</Painblock.description>
   
   <Skip.label>도약</Skip.label>
-  <Skip.description>대상을 근처의 원하는 위치로 순간 이동시킵니다.</Skip.description>
+  <Skip.description>대상을 너무 멀지 않은 곳으로 순간이동시킵니다. 일정 크기 이상의 물체는 지정할 수 없습니다.</Skip.description>
   
   <Smokepop.label>연막 구름</Smokepop.label>
   <Smokepop.description>지표면에서 먼지 입자를 끌어올려 두꺼운 구름을 형성합니다. 구름 사이를 통과하는 모든 사격의 정확성을 감소시키고, 포탑 조준을 방지합니다.</Smokepop.description>
@@ -77,16 +77,16 @@
   <Wallraise.description>지하 깊은 곳에서 돌무더기와 흙을 끌어올려 일시적으로 벽을 만듭니다.</Wallraise.description>
   
   <Waterskip.label>물폭탄</Waterskip.label>
-  <Waterskip.description>대상 지점에 물을 쏟아부어 불을 끕니다. 이 물은 멀리 떨어진 수원이나 지하수를 순간 이동시킨 것입니다.</Waterskip.description>
+  <Waterskip.description>대상 지점에 물을 쏟아부어 불을 끕니다. 이 물은 멀리 떨어진 수원이나 지하수에서 순간이동으로 옮겨온 것입니다.</Waterskip.description>
   
   <WordOfInspiration.label>영감의 단어</WordOfInspiration.label>
   <WordOfInspiration.description>초자연적 영향력을 발휘하여 대상의 창의력을 고무시킵니다. 대상은 자신에게 적절한 형태의 무작위 영감을 얻습니다.</WordOfInspiration.description>
   
   <WordOfJoy.label>재미의 단어</WordOfJoy.label>
-  <WordOfJoy.description>초자연적 영향력을 발휘하여 대상에게 쾌락잔향을 심습니다. 이는 대상에게 차분함과 행복함을 선사하지만, 의식이 흐려지는 부작용이 있습니다.</WordOfJoy.description>
+  <WordOfJoy.description>초자연적 영향력을 발휘하여 대상에게 쾌락잔향을 심습니다. 대상에게 차분함과 행복함을 선사하지만, 의식이 흐려지는 부작용이 있습니다.</WordOfJoy.description>
   
   <WordOfLove.label>사랑의 단어</WordOfLove.label>
-  <WordOfLove.description>초자연적 영향력을 발휘하여 대상에게 낭만적 이끌림을 유발합니다. 이는 연인에 대한 의견을 크게 증가시키고, 고백이나 청혼을 시도할 확률을 높입니다. 이 능력으로 두 사람을 짝지어주거나, 시전자에 대한 사랑을 유도하거나, 다른 사람을 사랑하도록 강요할 수 있습니다.</WordOfLove.description>
+  <WordOfLove.description>초자연적 영향력을 발휘하여 대상에게 낭만적 이끌림을 유발합니다. 연인에 대한 의견을 크게 증가시키고, 고백이나 청혼을 시도할 확률을 높입니다. 이 능력으로 두 사람을 짝지어주거나, 시전자에 대한 사랑을 유도하거나, 다른 사람을 사랑하도록 강요할 수 있습니다.</WordOfLove.description>
   
   <WordOfSerenity.label>평온의 단어</WordOfSerenity.label>
   <WordOfSerenity.description>초자연적 영향력을 발휘하여 정신이상에 빠진 사람이나 동물을 진정시킵니다. 대상은 짧은 수면에 빠지게 됩니다. 대상의 정신이상 강도에 따라 초집중 소모가 달라집니다.</WordOfSerenity.description>

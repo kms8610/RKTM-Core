@@ -7,7 +7,5 @@
   <MonumentMarker.label>기념비</MonumentMarker.label>
   <MonumentMarker.description>기념비를 세울 장소를 표시합니다. 일단 배치되면 이동할 수 없습니다.</MonumentMarker.description>
   
-  <PawnJumper.label>비행</PawnJumper.label>
-  
   <SolarPinhole.label>빛의 구멍</SolarPinhole.label>
 </LanguageData>

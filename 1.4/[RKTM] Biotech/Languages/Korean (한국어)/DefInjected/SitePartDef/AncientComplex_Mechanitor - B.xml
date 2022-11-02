@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AncientComplex_Mechanitor.label>고대 기계공학자 유적</AncientComplex_Mechanitor.label>
+  <AncientComplex_Mechanitor.description>기계공학자의 시체가 안치되어있는 고대 유적지입니다. 위험한 구조물에 침투하여 메카링크를 추출할 수 있습니다. 추출된 메카링크는 사용 가능합니다.</AncientComplex_Mechanitor.description>
+  <AncientComplex_Mechanitor.approachingReportString>{0} 조사</AncientComplex_Mechanitor.approachingReportString>
+  <AncientComplex_Mechanitor.approachOrderString>{0} 조사</AncientComplex_Mechanitor.approachOrderString>
+</LanguageData>

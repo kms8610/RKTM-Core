@@ -15,11 +15,13 @@
   <BlowbackOperation.label>노리쇠 장치</BlowbackOperation.label>
   <BlowbackOperation.description>자동권총, 기관권총, 기관단총 등의 간단한 반자동, 자동 총기를 만들 수 있습니다.</BlowbackOperation.description>
   
-  <ColoredLights.label>색상 조명</ColoredLights.label>
-  <ColoredLights.description>장식용으로 색을 입힌 조명을 만들 수 있습니다.</ColoredLights.description>
+  <ColoredLights.label>고급 조명</ColoredLights.label>
+  <ColoredLights.description>일반 전기 조명의 색을 바꾸고 전력 소모량을 반으로 줄입니다. 태양등에는 영향을 주지 않습니다.</ColoredLights.description>
   
   <Electricity.label>전기</Electricity.label>
   <Electricity.description>전기를 생산하고 요리나 기타 간단한 작업에 사용할 수 있습니다.</Electricity.description>
+  <Electricity.discoveredLetterText>외부인들이 "전기"라고 부르는 힘을 부리게 됐습니다. 이 힘에는 사람들의 모든 생활 방식을 바꿀 수 있는 잠재력이 있습니다.\n\n이제 구상 메뉴의 전력 탭을 사용할 수 있습니다. 전력 탭에서는 발전기와 전선 등 새로운 힘을 통제하기 위한 수단을 건설할 수 있습니다. 또한 전력 탭으로 발전기와 가전제품을 잇는 전력망의 모습을 확인할 수 있습니다.</Electricity.discoveredLetterText>
+  <Electricity.discoveredLetterTitle>전기에 대해</Electricity.discoveredLetterTitle>
   
   <Firefoam.label>소방거품</Firefoam.label>
   <Firefoam.description>화재 진압에 도움을 주는 소방거품 발포 장치를 만들 수 있습니다.</Firefoam.description>
@@ -27,8 +29,11 @@
   <FlakArmor.label>방탄 장비</FlakArmor.label>
   <FlakArmor.description>총탄이나 폭발로부터 몸을 지킬 수 있는 복장을 만들 수 있습니다. 장비하면 움직임이 느려집니다.</FlakArmor.description>
   
+  <FoamTurret.label>거품 포탑</FoamTurret.label>
+  <FoamTurret.description>발동하면 소방 거품을 뿌리는 포탑을 만들 수 있습니다.</FoamTurret.description>
+  
   <GasOperation.label>가스압 장치</GasOperation.label>
-  <GasOperation.description>전투 산탄총, 경기관총 등의 진보한 반자동, 자동 총기를 만들 수 있습니다.</GasOperation.description>
+  <GasOperation.description>전투 산탄총, 경기관총, 기관단총 등 고위력 총기를 제작할 수 있습니다.</GasOperation.description>
   
   <GeothermalPower.label>지열 발전</GeothermalPower.label>
   <GeothermalPower.description>간헐천을 이용해 일정하게 전기를 생산하는 발전기를 만들 수 있습니다.</GeothermalPower.description>

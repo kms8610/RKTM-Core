@@ -3,6 +3,12 @@
   <BlindingCeremony.label>실명 의식</BlindingCeremony.label>
   <BlindingCeremony.description>의식을 통해 대상의 눈을 적출하여 실명시킵니다. 관중들은 절단자가 연설하고, 대상의 눈을 모두 적출한 뒤 의식을 마칠 때까지 지켜볼 것입니다. 대상은 의식 직후에 출혈 상태가 되므로 즉시 치료해야 합니다.</BlindingCeremony.description>
   
+  <Classic_DanceParty.label>무도회</Classic_DanceParty.label>
+  <Classic_DanceParty.description>즐기기 위한 축하 모임입니다. 지도자의 격려가 끝나면 모두가 한 데 어울려 즐거운 시간을 보냅니다.</Classic_DanceParty.description>
+  
+  <Classic_DrumParty.label>북 파티</Classic_DrumParty.label>
+  <Classic_DrumParty.description>즐기기 위한 축하 모임입니다. 지도자의 격려가 끝나면 모두가 한 데 어울려 즐거운 시간을 보냅니다.</Classic_DrumParty.description>
+  
   <Conversion.label>교화 의식</Conversion.label>
   <Conversion.description>누군가가 당신의 사상을 따르도록 설득합니다.</Conversion.description>
   

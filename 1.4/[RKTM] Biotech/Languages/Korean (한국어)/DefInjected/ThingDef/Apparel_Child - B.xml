@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Apparel_KidHelmet.label>어린이 방탄모</Apparel_KidHelmet.label>
+  <Apparel_KidHelmet.description>어린이용 크기의 방탄모 입니다. 날카로움 공격에 적당한 방어를 제공하지만, 둔탁함 공격에 약합니다. 이게 전투에 쓰인다는 것 조차 이미 무언가 잘못된겁니다.</Apparel_KidHelmet.description>
+  
+  <Apparel_KidPants.label>어린이 바지</Apparel_KidPants.label>
+  <Apparel_KidPants.description>아이들에게 맞는 크기의 작은 바지.</Apparel_KidPants.description>
+  
+  <Apparel_KidParka.label>어린이 파카</Apparel_KidParka.label>
+  <Apparel_KidParka.description>추운 날씨에 아이를 따뜻하게 유지하기 위한 두꺼운 겉옷.</Apparel_KidParka.description>
+  
+  <Apparel_KidRomper.label>어린이 롬퍼</Apparel_KidRomper.label>
+  <Apparel_KidRomper.description>편안한 내복이 들어있는 티셔츠와 바지가 하나로 합쳐진 아이 옷입니다. 어린이들이 엄청 좋아합니다!</Apparel_KidRomper.description>
+  
+  <Apparel_KidShirt.label>어린이 셔츠</Apparel_KidShirt.label>
+  <Apparel_KidShirt.description>아이들에게 맞는 사이즈의 작고 간단한 티셔츠입니다.</Apparel_KidShirt.description>
+</LanguageData>

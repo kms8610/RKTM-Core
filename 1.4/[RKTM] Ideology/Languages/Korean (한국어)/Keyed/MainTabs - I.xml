@@ -52,7 +52,6 @@
   <RandomizeSymbols>무작위 상징</RandomizeSymbols>
   <RandomizeSymbolsTooltip>사상의 이름, 아이콘, 구절, 지도자 호칭, 의식 이름, 보직 이름 등 모든 텍스트를 무작위로 지정합니다. 가르침과 규율처럼 게임 플레이에 영향을 주는 요소는 바꾸지 않습니다.</RandomizeSymbolsTooltip>
   <ClickAnyElementToEditIt>구성 요소를 클릭해 편집</ClickAnyElementToEditIt>
-  <ClickToEdit>클릭해서 편집</ClickToEdit>
   <LeaderTitle>지도자 호칭</LeaderTitle>
   <DeityName>신적 존재 이름</DeityName>
   <DeityTitle>신적 존재 호칭</DeityTitle>
@@ -68,6 +67,7 @@
   <Formerly>이전</Formerly>
   <All>모두</All>
   <RelicTip>유물은 영적으로, 또는 사상적으로 중요한 물체로서 길고 위험한 임무를 통해 찾아낼 수 있습니다. 유물을 유물함에 설치하면 순례자가 찾아오고, 의식의 효과가 증가하며, 외부인이 유물의 사상으로 전향할 확률이 높아집니다.</RelicTip>
+  <RelicTipClassic>유물은 영적으로, 또는 사상적으로 중요한 물체로서 길고 위험한 임무를 통해 찾아낼 수 있습니다. 유물을 유물함에 설치하면 순례자가 찾아오고, 의식의 효과가 증가합니다.</RelicTipClassic>
   <Animal>동물</Animal>
   <VeneratedAnimals>성스러운 동물</VeneratedAnimals>
   <IdeoWeapon>무기 속성별 호불호 추가</IdeoWeapon>

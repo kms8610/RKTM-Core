@@ -118,12 +118,26 @@
   <PawnGenerationContext_All>모든 캐릭터</PawnGenerationContext_All>
   <PawnGenerationContext_PlayerStarter>플레이어 시작 캐릭터</PawnGenerationContext_PlayerStarter>
   <PawnGenerationContext_NonPlayer>NPC</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <ScreenShakeIntensity>화면 진동 세기</ScreenShakeIntensity>
   
   <!-- Animal name display mode -->
   <ShowAnimalNames>가축 이름 표시</ShowAnimalNames>
   <AnimalNameDisplayMode_TameNamed>이름붙은 가축</AnimalNameDisplayMode_TameNamed>
   <AnimalNameDisplayMode_TameAll>모든 가축</AnimalNameDisplayMode_TameAll>
   
+  <!-- Mech name display mode -->
+  <ShowMechNames>플레이어 메카 이름 표시</ShowMechNames>
+  <MechNameDisplayMode_WhileDrafted>소집 중</MechNameDisplayMode_WhileDrafted>
+  <MechNameDisplayMode_Always>항상</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <ShowWeaponsUnderPortrait>초상화 아래에 무기 표시</ShowWeaponsUnderPortrait>
+  <ShowWeaponsUnderPortraitTooltip>화면 위쪽 정착민 바의 초상화 아래에 무기를 표시합니다.</ShowWeaponsUnderPortraitTooltip>
+  <ShowWeapons_Always>항상</ShowWeapons_Always>
+  <ShowWeapons_WhileDrafted>소집 중에만</ShowWeapons_WhileDrafted>
+
   <!-- Temperature -->
   <Celsius>섭씨</Celsius>
   <Fahrenheit>화씨</Fahrenheit>
@@ -169,9 +183,9 @@
   
   <!-- Automatic pause mode -->
   <AutomaticPauseMode_Never>해제</AutomaticPauseMode_Never>
-  <AutomaticPauseMode_MajorThreat>매우 위협적인 사건</AutomaticPauseMode_MajorThreat>
-  <AutomaticPauseMode_AnyThreat>위협적인 사건</AutomaticPauseMode_AnyThreat>
-  <AutomaticPauseMode_AnyLetter>모든 사건</AutomaticPauseMode_AnyLetter>
+  <AutomaticPauseMode_MajorThreat>심각한 위협</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_AnyThreat>위협</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyLetter>아무 편지</AutomaticPauseMode_AnyLetter>
 
   <!-- Pain category -->
   <PainCategory_LowPain>가려움</PainCategory_LowPain>

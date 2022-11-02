@@ -5,6 +5,7 @@
   <BlindingCeremony.roles.1.label>집도자</BlindingCeremony.roles.1.label>
   <BlindingCeremony.roles.1.missingDesc>실명 집도자</BlindingCeremony.roles.1.missingDesc>
   <BlindingCeremony.stages.0.failTriggers.0.desc>목표에 도달할 수 없습니다.</BlindingCeremony.stages.0.failTriggers.0.desc>
+  <BlindingCeremony.stages.0.failTriggers.1.desc>호위 잠듦</BlindingCeremony.stages.0.failTriggers.1.desc>
   
   <BurnCircle.spectatorGerund>참여자</BurnCircle.spectatorGerund>
   <BurnCircle.spectatorsLabel>참여자</BurnCircle.spectatorsLabel>
@@ -24,6 +25,7 @@
   <Conversion.roles.0.label>연설자</Conversion.roles.0.label>
   <Conversion.roles.1.label>교화 대상</Conversion.roles.1.label>
   <Conversion.stages.0.failTriggers.0.desc>수감자가 접근할 수 없는 위치에 있습니다.</Conversion.stages.0.failTriggers.0.desc>
+  <Conversion.stages.0.failTriggers.1.desc>호위 잠듦</Conversion.stages.0.failTriggers.1.desc>
   
   <DancePartyTech.spectatorGerund>참여자</DancePartyTech.spectatorGerund>
   <DancePartyTech.spectatorsLabel>참여자</DancePartyTech.spectatorsLabel>
@@ -42,6 +44,7 @@
   <Execution.roles.1.missingDesc>수감자</Execution.roles.1.missingDesc>
   <Execution.spectatorFilter.description>관전자들이 처형을 관전하길 원해야 합니다.</Execution.spectatorFilter.description>
   <Execution.stages.0.failTriggers.0.desc>수감자가 접근할 수 없는 위치에 있습니다.</Execution.stages.0.failTriggers.0.desc>
+  <Execution.stages.0.failTriggers.1.desc>호위 잠듦</Execution.stages.0.failTriggers.1.desc>
   
   <FeastCannibal.spectatorGerund>참여자</FeastCannibal.spectatorGerund>
   <FeastCannibal.spectatorsLabel>참여자</FeastCannibal.spectatorsLabel>
@@ -64,6 +67,8 @@
   <GladiatorDuel.spectatorGerund>참여자</GladiatorDuel.spectatorGerund>
   <GladiatorDuel.spectatorsLabel>관전자</GladiatorDuel.spectatorsLabel>
   <GladiatorDuel.stages.2.failTriggers.0.desc>결투자가 접근할 수 없는 위치에 있습니다.</GladiatorDuel.stages.2.failTriggers.0.desc>
+  <GladiatorDuel.stages.2.failTriggers.1.desc>호위 잠듦</GladiatorDuel.stages.2.failTriggers.1.desc>
+  <GladiatorDuel.stages.2.failTriggers.2.desc>호위 잠듦</GladiatorDuel.stages.2.failTriggers.2.desc>
   
   <LeaderSpeech.letterText>{SPEAKER_labelShort}(이)가 {RITUAL_labelIndef}(을)를 진행하고 있습니다.\n      \n아무 문제 없이 진행된다면 청자들은 영감을 받고, {SPEAKER_labelShort}에 대한 존경심을 얻게될 것입니다. 만약 진행이 제대로 되지 않는다면, 연설은 사회적으로 부정적인 영향을 끼칠것입니다. 다른 사상을 가진이들에게는 긍정적인 효과가 반감됩니다.</LeaderSpeech.letterText>
   <LeaderSpeech.letterTitle>{RITUAL_labelCap}</LeaderSpeech.letterTitle>
@@ -80,6 +85,7 @@
   <SacrificeAnimal.spectatorGerund>참여자</SacrificeAnimal.spectatorGerund>
   <SacrificeAnimal.spectatorsLabel>참여자</SacrificeAnimal.spectatorsLabel>
   <SacrificeAnimal.stages.0.failTriggers.0.desc>동물에게 도달할 수 없습니다.</SacrificeAnimal.stages.0.failTriggers.0.desc>
+  <SacrificeAnimal.stages.0.failTriggers.1.desc>호위 잠듦</SacrificeAnimal.stages.0.failTriggers.1.desc>
   
   <SacrificePrisoner.roles.0.label>집도자</SacrificePrisoner.roles.0.label>
   <SacrificePrisoner.roles.1.label>산제물</SacrificePrisoner.roles.1.label>
@@ -87,17 +93,20 @@
   <SacrificePrisoner.spectatorGerund>참여자</SacrificePrisoner.spectatorGerund>
   <SacrificePrisoner.spectatorsLabel>참여자</SacrificePrisoner.spectatorsLabel>
   <SacrificePrisoner.stages.0.failTriggers.0.desc>수감자가 접근할 수 없는 위치에 있습니다.</SacrificePrisoner.stages.0.failTriggers.0.desc>
+  <SacrificePrisoner.stages.0.failTriggers.1.desc>호위 잠듦</SacrificePrisoner.stages.0.failTriggers.1.desc>
   
   <ScarificationCeremony.roles.0.label>목표</ScarificationCeremony.roles.0.label>
   <ScarificationCeremony.roles.0.missingDesc>겁주는 사람</ScarificationCeremony.roles.0.missingDesc>
   <ScarificationCeremony.roles.1.label>절단자</ScarificationCeremony.roles.1.label>
   <ScarificationCeremony.roles.1.missingDesc>상흔 문신을 새기는 사람</ScarificationCeremony.roles.1.missingDesc>
   <ScarificationCeremony.stages.0.failTriggers.0.desc>목표에 도달할 수 없습니다.</ScarificationCeremony.stages.0.failTriggers.0.desc>
+  <ScarificationCeremony.stages.0.failTriggers.1.desc>호위 잠듦</ScarificationCeremony.stages.0.failTriggers.1.desc>
   
   <SmokeCircle.spectatorGerund>참여자</SmokeCircle.spectatorGerund>
   <SmokeCircle.spectatorsLabel>참여자</SmokeCircle.spectatorsLabel>
   
   <TreeConnection.roles.0.label>교감자</TreeConnection.roles.0.label>
+  <TreeConnection.roles.0.customChildDisallowMessage>성인만 요정나무와 결속할 수 있습니다.</TreeConnection.roles.0.customChildDisallowMessage>
   <TreeConnection.spectatorGerund>관전</TreeConnection.spectatorGerund>
   <TreeConnection.spectatorsLabel>관전자</TreeConnection.spectatorsLabel>
   
@@ -110,4 +119,5 @@
   <TrialPrisoner.roles.0.label>판사</TrialPrisoner.roles.0.label>
   <TrialPrisoner.roles.1.label>피고인</TrialPrisoner.roles.1.label>
   <TrialPrisoner.stages.0.failTriggers.0.desc>수감자가 접근할 수 없는 위치에 있습니다.</TrialPrisoner.stages.0.failTriggers.0.desc>
+  <TrialPrisoner.stages.0.failTriggers.1.desc>호위 잠듦</TrialPrisoner.stages.0.failTriggers.1.desc>
 </LanguageData>

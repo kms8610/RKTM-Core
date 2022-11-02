@@ -8,6 +8,7 @@
   
   <CommsConsole.label>통신기</CommsConsole.label>
   <CommsConsole.description>멀리 떨어진 상인들과 거래를 하거나, 다른 세력들과의 외교에 필요한 라디오 송출기입니다.</CommsConsole.description>
+  <CommsConsole.comps.CompUsable.useLabel>끔찍한 위협 소환</CommsConsole.comps.CompUsable.useLabel>
   
   <CryptosleepCasket.label>동면관</CryptosleepCasket.label>
   <CryptosleepCasket.description>수 년간 내부의 사람을 그대로 보존하기 위한 자가발전형 동면관입니다.</CryptosleepCasket.description>
@@ -17,7 +18,7 @@
   
   <FirefoamPopper.label>소방거품 분사기</FirefoamPopper.label>
   <FirefoamPopper.description>수동으로, 또는 불이 닿으면 터져 주위에 원형으로 불연성 거품을 뿌립니다.</FirefoamPopper.description>
-  <FirefoamPopper.comps.CompUsable.useLabel>소방거품 분사기</FirefoamPopper.comps.CompUsable.useLabel>
+  <FirefoamPopper.comps.CompUsable.useLabel>{0_label} 발동</FirefoamPopper.comps.CompUsable.useLabel>
   
   <Grave.label>무덤</Grave.label>
   <Grave.description>죽은 사람을 무덤 속에 넣어 최후의 안식처를 선사하세요.</Grave.description>

@@ -74,16 +74,19 @@
   <CommandDeleteZoneDesc>구역을 제거합니다.</CommandDeleteZoneDesc>
 
   <CommandCopyZoneSettingsLabel>설정 복사</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>다른 구역에 적용할 수 있도록 설정을 복사합니다.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>다른 구역에 적용할 수 있도록 클립보드에 보관 설정을 복사합니다.</CommandCopyZoneSettingsDesc>
 
   <CommandPasteZoneSettingsLabel>설정 붙여넣기</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>구역의 설정을 복사한 설정으로 덮어씁니다.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>보관 설정을 클립보드에 복사한 설정으로 덮어씁니다.</CommandPasteZoneSettingsDesc>
 
   <CommandAllowSow>재배 허용</CommandAllowSow>
   <CommandAllowSowDesc>비활성화된 경우 정착민들이 식물을 더 심지 않지만 수확은 가능합니다.</CommandAllowSowDesc>
 
   <CommandAllowCut>제초 허용</CommandAllowCut>
-  <CommandAllowCutDesc>비활성화하면 정착민이 이 구역 안의 식물을 제초하지 않습니다. 빈 공간에는 계속해서 새로운 식물을 심고 수확할 수 있습니다.</CommandAllowCutDesc>
+  <CommandAllowCutDesc>비활성화하면 정착민이 이 구역 안의 식물을 제초하지 않습니다. 빈 공간에는 계속 식물을 심고, 재배를 명령한 식물은 수확합니다.</CommandAllowCutDesc>
+  
+  <CommandSelectStoredThing>{0_label} 선택</CommandSelectStoredThing>
+  <CommandSelectStoredThingDesc>여기에 보관한 물품을 선택합니다.</CommandSelectStoredThingDesc>
 
   <!-- Artillery -->
   <CommandSetForceAttackTarget>강제 사격 지점 설정</CommandSetForceAttackTarget>
@@ -161,6 +164,7 @@
   
   <!-- reload -->
   <CommandReload_NoCharges>남은 {CHARGENOUN_plural}(이)가 없습니다.</CommandReload_NoCharges>
+  <CommandReload_Cooldown>{TIME}동안 {COOLDOWNGERUND}</CommandReload_Cooldown>
   <CommandReload_NoAmmo>{AMMO_label} {COUNT}개로 재장전해야 합니다.</CommandReload_NoAmmo>
   
   <!-- Select plant to grow -->
@@ -178,6 +182,7 @@
   <!-- Form caravan -->
   <CommandFormCaravan>상단 구성</CommandFormCaravan>
   <CommandFormCaravanDesc>새로운 지역으로 떠날 수 있는 정착민 그룹을 만듭니다. 상단원들은 할당된 자원과 동물을 모두 모은 후에 현재 지역을 벗어나 다음 명령을 기다립니다.</CommandFormCaravanDesc>
+  <CommandFormCaravanDescAtSpot>이곳을 상단의 소집 지점으로 사용합니다. 지역을 떠나기 전에 모든 물품과 동물을 먼저 여기로 모읍니다.</CommandFormCaravanDescAtSpot>
   
   <!-- Reform caravan -->
   <CommandReformCaravan>상단 재구성</CommandReformCaravan>
@@ -342,7 +347,19 @@
   <!-- Carry -->
   <CommandDropPawn>{0_nameDef} 내려놓기</CommandDropPawn>
   <CommandDropPawnDesc>들쳐 멘 사람을 내려놓습니다.</CommandDropPawnDesc>
-  
+  <CommandSelectCarriedPawn>{0_nameDef} 선택</CommandSelectCarriedPawn>
+  <CommandSelectCarriedPawnDesc>운반 중인 동물을 선택합니다.</CommandSelectCarriedPawnDesc>
+  <CommandSelectCarriedThing>{0_label} 선택</CommandSelectCarriedThing>
+  <CommandSelectCarriedThingDesc>운반 중인 물건을 선택합니다.</CommandSelectCarriedThingDesc>
+  <CommandSelectContainerThing>{0_label} 선택</CommandSelectContainerThing>
+  <CommandSelectContainerThingDesc>컨테이너를 선택합니다.</CommandSelectContainerThingDesc>
+  <CommandSelectCarryingPawn>{0_nameDef} 선택</CommandSelectCarryingPawn>
+  <CommandSelectCarryingPawnDesc>운반 중인 생물을 선택합니다.</CommandSelectCarryingPawnDesc>
+  <CommandSelectContainedPawn>{0_nameDef} 선택</CommandSelectContainedPawn>
+  <CommandSelectContainedPawnDesc>내부의 생물을 선택합니다.</CommandSelectContainedPawnDesc>
+  <CommandSelectContainedThing>{0_label} 선택</CommandSelectContainedThing>
+  <CommandSelectContainedThingDesc>내부의 물건을 선택합니다.</CommandSelectContainedThingDesc>
+
   <!-- Take a drug -->
   <TakeDrug>약물 복용...</TakeDrug>
   <TakeDrugDesc>소지품에서 즉시 복용할 약물을 선택하세요.</TakeDrugDesc>
@@ -358,5 +375,18 @@
   <CommandCancelRitual>{RITUAL_label} 취소</CommandCancelRitual>
   <CommandCancelRitualDesc>{RITUAL_labelDef}(을)를 즉시 끝냅니다. 의식의 의무는 남아있으며 나중에 다시 시작할 수 있습니다.</CommandCancelRitualDesc>
   <CommandCancelRitualConfirm>정말 {RITUAL_labelDef}(을)를 취소하시겠습니까?</CommandCancelRitualConfirm>
+
+  <!-- Storage linking -->
+  <LinkStorageSettings>설정 연결</LinkStorageSettings>
+  <LinkStorageSettingsDesc>선택한 다수의 건물을 연결해서 보관 설정을 공유합니다.\n\n제일 처음 선택한 건물의 설정을 따라갑니다.</LinkStorageSettingsDesc>
+  <LinkStorageDisabledSelectTwo>보관 설정을 연결하려면 두 개 이상의 건물을 선택해야 합니다.</LinkStorageDisabledSelectTwo>
+  <AlreadyLinked>이미 연결됐습니다.</AlreadyLinked>
+  <UnlinkStorageSettings>연결 끊기</UnlinkStorageSettings>
+  <UnlinkStorageSettingsDesc>다른 건물과의 보관 설정 연결을 끊습니다.</UnlinkStorageSettingsDesc>
+  <LinkedStorageSettings>연결된 보관 설정</LinkedStorageSettings>
+  <NumBuildings>{0}개 건물</NumBuildings>
+  <StoresThings>보관됨</StoresThings>
+  <SelectAllLinked>연결 선택</SelectAllLinked>
+  <SelectAllLinkedDesc>연결된 모든 보관 건물을 선택합니다.</SelectAllLinkedDesc>
   
 </LanguageData>

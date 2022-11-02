@@ -2,7 +2,9 @@
 <LanguageData>
   <ActiveDropPod.label>낙하기</ActiveDropPod.label>
   
-  <Fire.label>화재</Fire.label>
+  <ActiveDropPodMechanoid.label>낙하기</ActiveDropPodMechanoid.label>
   
-  <Spark.label>스파크</Spark.label>
+  <Fire.label>화염</Fire.label>
+  
+  <Spark.label>불꽃</Spark.label>
 </LanguageData>

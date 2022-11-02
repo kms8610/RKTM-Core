@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bloodfeed.label>핏주머니</Bloodfeed.label>
+  <Bloodfeed.description>간수는 이 수감자를 무시합니다. 흡혈귀의 혈액정수이 낮아지면 이 수감자를 흡혈합니다. 다른 흡혈귀 죄수도 같은 방에 있다면 이 죄수에게서 피를 흡혈합니다.</Bloodfeed.description>
+  
+  <HemogenFarm.label>혈액정수 농장</HemogenFarm.label>
+  <HemogenFarm.description>수감자가 죽지 않을 간격으로 혈액팩 추출을 계속 실행합니다. 수술은 의사가 합니다.</HemogenFarm.description>
+</LanguageData>

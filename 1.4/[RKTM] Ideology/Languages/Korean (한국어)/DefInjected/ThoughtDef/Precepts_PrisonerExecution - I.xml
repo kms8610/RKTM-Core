@@ -7,7 +7,9 @@
   <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.label>정착민 처형 목격</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.label>
   <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>동료가 냉혹하게 처형당했어. 불안해지는데.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>
   <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>정착민 장기 적출 살해 목격</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>
-  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>동료의 장기를 뽑아 죽였어. 끔찍해.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>누군가가 정착민의 장기를 뽑아 죽였어. 끔찍해.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>정착민을 립스캐너 함</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.description>우리 립스캐너 때문에 정착민이 사망했어. 그들의 두뇌는 기계에 공급하기 위해 불타 버렸지. 끔찍해</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.description>
   
   <ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.label>정당한 처형 목격</ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.label>
   <ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.description>죄를 지은 수감자나 방문객이 처형되었어. 정당했지만 슬픈 일이야.</ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.description>
@@ -17,6 +19,8 @@
   <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>누군가가 냉혹하게 처형당했어. 불안해지는데.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>
   <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>장기 적출 살해 목격</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>
   <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.description>수감자나 방문객이 장기를 뽑혀 죽었어. 끔찍해.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>누군가를 립스캐너 함</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>우리 립스캐너 때문에 수감자가 사망했어. 그들의 두뇌는 기계에 공급하기 위해 불타 버렸지. 끔찍해.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>
   
   <ExecutedPrisonerGuilty_Know_Respected.stages.executed_guilty_prisoner.label>범죄자 처형 목격</ExecutedPrisonerGuilty_Know_Respected.stages.executed_guilty_prisoner.label>
   

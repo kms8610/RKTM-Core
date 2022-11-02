@@ -9,7 +9,7 @@
   <MessageRitualMissingTarget>{PRECEPT}에는 다음 건물 중 하나 필요</MessageRitualMissingTarget>
   <MessageBuildingMissingRitual>{PRECEPT}에는 관련된 행사가 필요합니다.</MessageBuildingMissingRitual>
   <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort}의 사상으로 인해 이 일을 거부했습니다.</MessagePawnUnwillingToDoDueToIdeo>
-  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef}(이)가 {RECIPIENT_nameDef}(을)를 자신의 사상으로 교화하려고 시도했습니다. {RECIPIENT_nameDef}의 믿음이 {CERTAINTYBEFORE}에서 {CERTAINTYAFTER}까지 떨어졌으나, 자신을 향한 교화 시도에는 분노했습니다.</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef}(이)가 {RECIPIENT_nameDef}(을)를 자신의 사상으로 물들이려 했습니다. {RECIPIENT_nameDef}(은)는 분노했지만, {CERTAINTYBEFORE}에서 {CERTAINTYAFTER}까지 믿음을 잃었습니다.</MessageFailedConvertIdeoAttempt>
   <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef}(이)가 {PAWN2_nameDef}(을)를 자신의 사상으로 교화하려고 시도했습니다. 이로 인해 사교적 다툼이 발생했습니다!</MessageFailedConvertIdeoAttemptSocialFight>
   <MessageNotEnoughMemes>최소 {0}개의 가르침을 선택해야 합니다.</MessageNotEnoughMemes>
   <MessageTooManyMemes>{0}개보다 많은 가르침을 선택할 수 없습니다.</MessageTooManyMemes>
@@ -58,7 +58,7 @@
   <RequiredByFaction>{FACTION_name} 요구사항</RequiredByFaction>
   <OverlappingRoleApparel>각각의 지위는 서로 같은 예복을 가질 수 없습니다.</OverlappingRoleApparel>
   
-  <SelfDestructCountdown>{0_label}(이)가 {1} 후 자폭합니다.</SelfDestructCountdown>
+  <SelfDestructCountdown>{0}(은)는 {1} 후 자폭합니다.</SelfDestructCountdown>
   <PreceptNameTooLong>설정된 이름이 너무 깁니다. (최대 {0}자)</PreceptNameTooLong>
 
   <!-- Ancient complex -->

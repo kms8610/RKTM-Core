@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BandNode.label>대역 증폭기 (조율됨)</BandNode.label>
+  <BandNode.description>이 메카나이터의 대역폭은 대역 증폭기로 인해 증가했습니다.</BandNode.description>
+  
+  <ControlSublinkImplant.label>통제 서브링크</ControlSublinkImplant.label>
+  <ControlSublinkImplant.description>메카나이터의 최대 제어 집단 수를 늘리고, 제어 중인 메카노이드들의 작업 속도를 높이는 이식물입니다.\n\n통제 서브링크는 최대 6개까지 장착해서 효과를 중첩할 수 있습니다.</ControlSublinkImplant.description>
+  
+  <MechFormfeederImplant.label>메카노이드 배양 연산기</MechFormfeederImplant.label>
+  <MechFormfeederImplant.description>메카나이터의 배양기의 배양 속도를 높일 수 있는 이식물입니다. 이 연산기는 메카노이드 형성 수조에 들어있는 메카나이트의 행동을 최적화할 수 있습니다.\n\n배양 연산기는 메크링크처럼 스스로 설치할 수 있습니다.\n\n메카노이드 배양 연산기는 최대 6개까지 장착해서 효과를 중첩할 수 있습니다.</MechFormfeederImplant.description>
+  <MechFormfeederImplant.descriptionShort>메카나이터가 새로운 메카노이드를 더 빠르게 배양할 수 있도록 돕는 이식물입니다. 최대 6번까지 이식해 효과를 중첩할 수 있습니다.</MechFormfeederImplant.descriptionShort>
+  
+  <MechlinkImplant.label>메크링크</MechlinkImplant.label>
+  <MechlinkImplant.description>메카노이드에 직접적인 통제를 가능케 하는 생체공학 삽입물입니다. 메카링크는 병사들이 전투기계들을 조종하거나, 일꾼들이 작업용 기계를 조종할때 쓰입니다. 메카링크가 설치된 사람을 기계공학자 라고 부릅니다.\n\n메카링크는 자가설치가 가능합니다. 목구멍 뒷쪽에 꾹 붙이면, 두개골과 척추가 만나는 부분의 살점을 통해 이 기계가 주입되어 단단히 부착하게 됩니다. 그리고 극세전선이 주변 신경세포 조직으로 거미줄처럼 뻗어나와 사용자와 메카노이드 통제신호를 정신적으로 연결합니다.\n\n메카링크는 메카노이드에 단순히 무선신호를 보내는것이 아닙니다. 메카노이드가 단순히 로봇이 아니라, 기계부분에 더해 미약하지만 정신이 존재하기 때문에 이들을 더욱 자연스러운 통제를 위해 정신적으로도 연결이 되어야 합니다. 기계공학자를 메카노이드와 정신적, 그리고 전자기파적으로 연결하면 화면에 버튼을 누르는것 이상의 심층 통제를 가능하게 합니다.\n\n메카링크는 심층뇌조직과 엃히게되어 오직 사망시에만 제거할 수 있습니다.\n\n주의: 기계공학자는 메카노이드 잉태를 위해 제련작업이 가능해야 합니다.</MechlinkImplant.description>
+  <MechlinkImplant.comps.HediffComp_LetterOnDeath.letterLabel>재사용 가능한 {HEDIFF_label}.</MechlinkImplant.comps.HediffComp_LetterOnDeath.letterLabel>
+  <MechlinkImplant.comps.HediffComp_LetterOnDeath.letterText>{PAWN}(은)는 {HEDIFF_label}(이)가 설치된 상태로 죽었습니다. {HEDIFF_label}(은)는 제거되어 다른이에게 설치할 수 있습니다.</MechlinkImplant.comps.HediffComp_LetterOnDeath.letterText>
+  <MechlinkImplant.descriptionShort>메카노이드를 직접 제어할 수 있게 해주는 생체공학 삽입물입니다. 사망 후에만 제거할 수 있습니다.</MechlinkImplant.descriptionShort>
+  
+  <RemoteRepairerImplant.label>원격 수리기</RemoteRepairerImplant.label>
+  <RemoteRepairerImplant.description>기계공이 원거리에서 메카노이드를 수리할 수 있게 해주는 삽입물입니다. 사용자의 뇌와 메카노이드를 연결하여 자가 수리 메카나이트에 정신적으로 명령을 내릴 수 있게됩니다.\n\n이 삽입물은 최대 3번까지 설치하여 범위를 늘릴 수 있습니다.</RemoteRepairerImplant.description>
+  <RemoteRepairerImplant.descriptionShort>기계공학자가 메카노이드의 원격 수리를 하게 해주는 삽입물입니다. 최대 3번 까지 설치 가능합니다.</RemoteRepairerImplant.descriptionShort>
+  
+  <RemoteShielderImplant.label>원격 보호막 생성기</RemoteShielderImplant.label>
+  <RemoteShielderImplant.description>기계공학자가 메카노이드에게 개인용 보호막을 생성하게 해주는 삽입물입니다. 기계공학자는 보호막 유지를 위해 지속적으로 집중해야합니다. 이는 중요한 순간에 사용하여 메카노이드를 구해내는데 쓰일 수 있습니다.\n\n이 삽입물은 최대 3번까지 설치하여 범위와 보호량을 늘릴 수 있습니다.</RemoteShielderImplant.description>
+  
+  <RepairProbeImplant.label>수리 탐침기</RepairProbeImplant.label>
+  <RepairProbeImplant.description>기계공학자의 메카노이드 수리 속도를 증가시키는 삽입물입니다. 메카노이드 수리에 필요한 전체 에너지량에 변화를 주지 않습니다.\n\n기계공학자는 이 삽입물을 통해 수리하는 동안 메카노이드에 직접 연결해 자가 수리 메카나이트를 더 구체적으로 지시할 수 있습니다.\n\n이 삽입물은 효과를 높이기 위해 최대 6번까지 설치할 수 있습니다.</RepairProbeImplant.description>
+  <RepairProbeImplant.descriptionShort>기계공학자의 메카노이드 수리 속도를 증가시키는 삽입물입니다. 최대 6번 까지 설치 가능합니다.</RepairProbeImplant.descriptionShort>
+</LanguageData>

@@ -200,8 +200,8 @@
     <li>tale_noun->[TAMER_nameDef](이)가 [ANIMAL_nameDef](을)를 길들인 목격담</li>
     <li>image->[TAMER_nameFull](이)가 [ANIMAL_nameFull](을)를 [circumstance_group] 길들이는 모습</li>
     <li>image->[ANIMAL_nameFull]에게 [circumstance_group] 먹이 약간을 내어주는 [TAMER_nameFull]</li>
-    <li>image->겁 많은 [ANIMAL_nameFull]에게 [circumstance_group] 속삭이는 [TAMER_nameFull]</li>
-    <li>image->[TAMER_nameFull](이)가 [circumstance_group] 야생 [ANIMAL_nameFull](을)를 달래는 장면</li>
+    <li>image->겁 많은 [ANIMAL_label]에게 [circumstance_group] 속삭이는 [TAMER_nameFull]</li>
+    <li>image->[TAMER_nameFull](이)가 [circumstance_group] 야생 [ANIMAL_label](을)를 달래는 장면</li>
     <li>circumstance_phrase->대단히 주의하며</li>
     <li>circumstance_phrase->미소 지으며</li>
     <li>circumstance_phrase->지쳤지만 행복해하며</li>
@@ -262,7 +262,7 @@
     <li>desc_sentence->[ANIMAL_nameDef](은)는 멋지게 조각되어 있습니다.</li>
     <li>desc_sentence->[ANIMAL_nameDef]의 반은 [Color], 반은 [Color]입니다.</li>
     <li>desc_sentence->[ANIMAL_nameDef]의 털이 곤두서 있습니다.</li>
-    <li>desc_sentence->[TRAINER_nameDef](은)는 [quantity] 팔로 묘사되어 있습니다.</li>
-    <li>desc_sentence->[TRAINER_nameDef] 또한 [ANIMAL_ShortDefinite](와)과 같은 모습을 취하고 있습니다.</li>
+    <li>desc_sentence->[TRAINER_nameDef](은)는 [Quantity_adjphrase] 팔로 묘사되어 있습니다.</li>
+    <li>desc_sentence->[TRAINER_nameDef] 또한 [ANIMAL_definite](와)과 같은 모습을 취하고 있습니다.</li>
   </TrainedAnimal.rulePack.rulesStrings>
 </LanguageData>

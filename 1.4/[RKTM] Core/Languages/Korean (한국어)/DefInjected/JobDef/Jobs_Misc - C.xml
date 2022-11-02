@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <ActivateThing.reportString>TargetA 활성화 중</ActivateThing.reportString>
+  
   <ApplyTechprint.reportString>TargetB에 기술청사진 적용 중</ApplyTechprint.reportString>
   
   <AttackMelee.reportString>TargetA 공격 중</AttackMelee.reportString>
@@ -7,6 +9,8 @@
   <AttackStatic.reportString>TargetA에 사격 중</AttackStatic.reportString>
   
   <BeatFire.reportString>화재 진압 중</BeatFire.reportString>
+  
+  <Carried.reportString>뭔가 하는 중</Carried.reportString>
   
   <CastAbilityOnThing.reportString>뭔가 하는 중</CastAbilityOnThing.reportString>
   
@@ -66,6 +70,8 @@
   
   <HaulToTransporter.reportString>TargetA 옮기는 중</HaulToTransporter.reportString>
   
+  <IdleWhileDespawned.reportString>대기 중</IdleWhileDespawned.reportString>
+  
   <Ignite.reportString>TargetA에 방화 중</Ignite.reportString>
   
   <InducePrisonerToEscape.reportString>TargetA의 탈출 모의 중</InducePrisonerToEscape.reportString>
@@ -87,6 +93,8 @@
   <OfferHelp.reportString>TargetA 돕는 중</OfferHelp.reportString>
   
   <Open.reportString>TargetA 여는 중</Open.reportString>
+  
+  <PickupToHold.reportString>TargetA 줍는 중</PickupToHold.reportString>
   
   <RearmTurret.reportString>TargetA 재장전 중</RearmTurret.reportString>
   
@@ -116,7 +124,7 @@
   
   <TradeWithPawn.reportString>TargetA(와)과 거래 중</TradeWithPawn.reportString>
   
-  <TriggerFirefoamPopper.reportString>화재진압 거품 터트리는 중</TriggerFirefoamPopper.reportString>
+  <TriggerObject.reportString>TargetA 발동 중</TriggerObject.reportString>
   
   <UnloadInventory.reportString>TargetA 비우는 중</UnloadInventory.reportString>
   
@@ -135,6 +143,8 @@
   <Vomit.reportString>토하는 중</Vomit.reportString>
   
   <Wait.reportString>대기 중</Wait.reportString>
+  
+  <Wait_Asleep.reportString>수면 중</Wait_Asleep.reportString>
   
   <Wait_Combat.reportString>적을 찾는 중</Wait_Combat.reportString>
   

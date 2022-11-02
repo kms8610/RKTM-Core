@@ -28,6 +28,9 @@
   
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>적의 지도자를 물리침</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
+  <DefeatedInsectHive.stages.defeated_insect_hive.label>곤충 군락 물리침</DefeatedInsectHive.stages.defeated_insect_hive.label>
+  <DefeatedInsectHive.stages.defeated_insect_hive.description>좋은 곤충은 죽은 곤충 뿐이다!</DefeatedInsectHive.stages.defeated_insect_hive.description>
+  
   <DefeatedMechCluster.stages.defeated_mech_cluster.label>메카 전초기지 물리침</DefeatedMechCluster.stages.defeated_mech_cluster.label>
   <DefeatedMechCluster.stages.defeated_mech_cluster.description>피는 금속보다 우월하다, 망할 기계들아!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
   

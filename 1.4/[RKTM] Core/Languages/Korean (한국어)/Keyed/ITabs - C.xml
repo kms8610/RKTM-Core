@@ -26,6 +26,7 @@
   <TabFormingCaravan>상단</TabFormingCaravan>
   <TabTransporterContents>내용물</TabTransporterContents>
   <TabCasketContents>내용물</TabCasketContents>
+  <TabWindTurbineAutoCut>자동 제초</TabWindTurbineAutoCut>
   
   <!-- Bills tab  -->
   <AddBill>계획서 추가</AddBill>
@@ -57,13 +58,23 @@
   <FactorForDoorCount>출입문의 수로 인한 계수</FactorForDoorCount>
   <FactorForMovement>이동 능력으로 인한 계수</FactorForMovement>
   <SlavePrice>노예 가치</SlavePrice>
-  <SlavePriceDescription>이 {0}(을)를 팔았을 때의 기본 시장 가치입니다.</SlavePriceDescription>
+  <SlavePriceDescription>이 노예를 팔았을 때의 기본 시장 가치입니다.</SlavePriceDescription>
   <GetsFood>음식 제공</GetsFood>
   <DoctorsCare>의사 진료</DoctorsCare>
   <GetsMedicine>약품 제공</GetsMedicine>
   <ShouldTryToRecruit>포섭 시도</ShouldTryToRecruit>
   <ConsideredGuilty>유죄 판결 ({0} 후 만료)</ConsideredGuilty>
   <ConsideredGuiltyNoTimer>유죄 판결</ConsideredGuiltyNoTimer>
+  <LastRecruitment>마지막 저항심 감소</LastRecruitment>
+  <LastRecruitmentDescription>이전에 {1}(이)가 {0_nameDef}(을)를 포섭하려 시도했을 때 감소한 저항심 수치입니다.</LastRecruitmentDescription>
+  <OpinionOfRecruiter>포섭자의 의견</OpinionOfRecruiter>
+  <RecruiterNegotiationAbility>포섭자의 협상 능력</RecruiterNegotiationAbility>
+  <NonRecruitable>확고한 충성심</NonRecruitable>
+  <NonRecruitableTip>이 수감자는 소속 세력에 너무 확고한 충성심을 갖고 있어서 포섭할 수 없습니다.</NonRecruitableTip>
+  <NonRecruitableTipCannotConvert>충성심이 사상까지 이어지므로 교화도 불가능합니다.</NonRecruitableTipCannotConvert>
+
+
+
 
   <!-- Medical - general -->
   <MoveSpeed>이동속도</MoveSpeed>
@@ -88,8 +99,8 @@
   <TimeToDeath>{0} 후 사망</TimeToDeath>
   <WontBleedOutSoon>아직 큰 위험 없음</WontBleedOutSoon>
   <HealthOverview>개요</HealthOverview>
-  <MedicalOperationsShort>수술 ({0})</MedicalOperationsShort>
-  <MedicalOperationsMechanoidsShort>개조 ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsShort>수술</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>개조</MedicalOperationsMechanoidsShort>
   <MedicalOperations>의료 작업</MedicalOperations>
   <Amputate>절단</Amputate>
   <HarvestOrgan>장기 적출</HarvestOrgan>
@@ -97,6 +108,7 @@
   <MemoryLower>기억</MemoryLower>
   <SocialInteractionsLower>사회적 상호작용</SocialInteractionsLower>
   <HungerRate>굶주림</HungerRate>
+  <FoodConsumption>식량 섭취량</FoodConsumption>
   <Tiredness>피로도</Tiredness>
   <PainFactor>고통</PainFactor>
   <PreventsInfection>감염 방지</PreventsInfection>
@@ -128,14 +140,13 @@
   <TrainingNeedsPrerequisite>선행훈련 필요: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
-  <NoRelationships>(관계 없음)</NoRelationships>
   <Kidnapped>납치</Kidnapped>
   <Lent>{FACTION_name}에 빌려준 {1}(이)가 돌아옴</Lent>
   <Missing>실종</Missing>
   <Slave>노예</Slave>
   <FactionLeader>세력 지도자</FactionLeader>
-  <OpinionOf>{1_labelShort}에 대한 생각</OpinionOf>
-  <SomeonesOpinionOfMe>나에 대한 {1_labelShort}의 생각</SomeonesOpinionOfMe>
+  <OpinionOf>{0}(와)과의 관계</OpinionOf>
+  <SomeonesOpinionOfMe>나에 대한 {0}의 생각</SomeonesOpinionOfMe>
   <IAmDead>나는 죽었어</IAmDead>
   <IAmPsychopath>나는 사이코패스야</IAmPsychopath>
   
@@ -217,5 +228,7 @@
 
   <AutocutUnenclosedPen>뚫린 우리</AutocutUnenclosedPen>
   <AutocutUnenclosedPenTip>우리가 뚫려 있습니다. 자동 제초를 하지 않습니다.</AutocutUnenclosedPenTip>
+
+  <WindTurbineAutoCut_EnabledCheckbox>풍력 발전기를 가로막는 식물 자동 제초</WindTurbineAutoCut_EnabledCheckbox>
 
 </LanguageData>

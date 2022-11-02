@@ -7,11 +7,13 @@
     <li>disease->말라리아</li>
     <li>disease->감염</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]의 [asker_royalTitleInCurrentFaction], [asker_nameFull](은)는 [dutyRoyalDescription](을)를 도와줄 사람이 필요하다고 합니다.\n\n[asker_pronoun]는 [colonistCountToLend]을 [lendForDays]일 동안 빌려달라고 요청합니다.\n\n[willSendShuttle]</li>
-    <li>colonistCountToLend(colonistsToLendCount==1)->정착민 1명</li>
-    <li>colonistCountToLend(colonistsToLendCount>1)->정착민 [colonistsToLendCount]명</li>
+    <li>colonistCountToLend(colonistsToLendCount==1)->1명의[minAgeOrOlder] 정착민</li>
+    <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount]명의[minAgeOrOlder] 정착민</li>
     <li>willSendShuttle->[asker_pronoun]는 [colonists]을 데려가기 위해 왕복선을 보냅니다.</li>
     <li>colonists(colonistsToLendCount==1)->정착민</li>
     <li>colonists(colonistsToLendCount>1)->정착민들</li>
+    <li>minAgeOrOlder(minAge==0)-></li>
+    <li>minAgeOrOlder(minAge>0)-> [minAge]살 이상</li>
     <li>pawnListHaveConjugation(colonistsToLendCount==1)-></li>
     <li>pawnListHaveConjugation(colonistsToLendCount>1)-></li>
   </PawnLend.questDescriptionRules.rulesStrings>
@@ -20,7 +22,7 @@
     <li>questName->[worker] 계약</li>
     <li>questName->임시 작업자</li>
     <li>questName->[worker] 파견</li>
-    <li>questName->[asker_faction_name]의 [worker]들</li>
+    <li>questName->[asker_faction_name](을)를 위한 [worker]들</li>
     <li>questName->임시 [worker]들</li>
     <li>questName->[worker] 요청</li>
     <li>worker->정착민</li>
@@ -33,12 +35,12 @@
       <li>dutyDescription->곡식 수확</li>
       <li>dutyDescription->정착지 요새화</li>
       <li>dutyDescription->정착지 설립</li>
-      <li>dutyDescription->습격자 감시</li>
+      <li>dutyDescription->습격 감시</li>
       <li>dutyDescription->병원 설립</li>
-      <li>dutyDescription->[disease]의 확산 차단</li>
+      <li>dutyDescription->[disease] 확산 차단</li>
     </rulesStrings>
   </PawnLend.DutyRulesAny.slateRef>
-  <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS} [pawnListHaveConjugation](은)는 [asker_faction_name]의 [asker_nameFull](을)를 도운 뒤 [dutyDescription]에 돌아갔습니다.</PawnLend.LetterTextReturnAfterHelping.slateRef>
+  <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS}(이)가 [asker_faction_name] [asker_nameFull]의 [dutyDescription](을)를 지원한 후 돌아왔습니다.</PawnLend.LetterTextReturnAfterHelping.slateRef>
   <PawnLend.DutyRulesRoyal.slateRef>
     <rulesStrings>
       <li>dutyRoyalDescription->수여식 준비</li>
@@ -49,7 +51,7 @@
       <li>dutyRoyalDescription->작물 수확</li>
     </rulesStrings>
   </PawnLend.DutyRulesRoyal.slateRef>
-  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS} [pawnListHaveConjugation](은)는 [asker_faction_name]의 [asker_royalTitleInCurrentFaction] [asker_nameFull](을)를 도운 뒤 [dutyRoyalDescription]에 돌아갔습니다.</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
+  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS}(이)가 [asker_faction_name] [asker_royalTitleInCurrentFaction], [asker_nameFull]의 [dutyRoyalDescription](을)를 지원한 후 돌아왔습니다.</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
   <PawnLend.LetterLabelShuttleArrived.slateRef>왕복선 도착</PawnLend.LetterLabelShuttleArrived.slateRef>
   <PawnLend.LetterTextShuttleArrived.slateRef>정착민 [colonistsToLendCount]명을 태우기 위해 왕복선이 도착했습니다.</PawnLend.LetterTextShuttleArrived.slateRef>
   <PawnLend.LetterLabelShuttleDestroyed.slateRef>왕복선 파괴됨</PawnLend.LetterLabelShuttleDestroyed.slateRef>

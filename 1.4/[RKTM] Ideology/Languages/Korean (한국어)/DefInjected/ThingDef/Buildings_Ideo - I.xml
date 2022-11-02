@@ -19,7 +19,7 @@
   <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>신체 재생</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>
   <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>모든 상처 및 무작위 흉터 하나를 제거하고, 손가락처럼 작은 신체 결손 부위를 복원하며, 노화로 인해 발생하는 여러 질병들을 제거합니다.</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>
   <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>노화 역전</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
-  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>정착민의 생체적 나이를 1년 전으로 되돌립니다.</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>{DURATION}만큼의 노화 역전</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
   <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>욕구 충족</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
   <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>정착민의 신경계를 일시적으로 조작해 일정 시간 행복도를 증가시킵니다.</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
   
@@ -31,9 +31,6 @@
   
   <ChristmasTree.label>성탄 나무</ChristmasTree.label>
   <ChristmasTree.description>전통적인 성탄절 기념 행사의 일부로서 만들어진, 장식품과 전구들로 꾸민 기념물입니다.</ChristmasTree.description>
-  
-  <Darklamp.label>희미한 스탠드 조명</Darklamp.label>
-  <Darklamp.description>넓은 면적에 희미한 빛을 발산하는 저전력 전기 전등입니다. 어두운 곳을 선호하는 사람들은 이 정도 광원으로도 만족합니다.</Darklamp.description>
   
   <Darktorch.label>희미한 횃불</Darktorch.label>
   <Darktorch.description>넓은 면적에 희미한 빛을 발산하는 특수 처리된 나무 횃불입니다. 어두운 곳을 선호하는 사람들은 이 정도 광원으로도 만족합니다. 나무로 연료를 보급할 수 있습니다. 소량의 열이 발생합니다.</Darktorch.description>

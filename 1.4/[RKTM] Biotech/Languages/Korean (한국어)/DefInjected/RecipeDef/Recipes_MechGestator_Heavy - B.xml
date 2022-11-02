@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CentipedeBurner.label>센티피드 버너 배양</CentipedeBurner.label>
+  <CentipedeBurner.description>Gestate a centipede mechanoid armed with an inferno cannon.</CentipedeBurner.description>
+  <CentipedeBurner.jobString>Gestating mech.</CentipedeBurner.jobString>
+  
+  <CentipedeGunner.label>센티피드 거너 배양</CentipedeGunner.label>
+  <CentipedeGunner.description>Gestate a centipede mechanoid armed with a minigun.</CentipedeGunner.description>
+  <CentipedeGunner.jobString>Gestating mech.</CentipedeGunner.jobString>
+  
+  <Diabolus.label>디아볼루스 배양</Diabolus.label>
+  <Diabolus.description>Gestate a diabolus mech.</Diabolus.description>
+  <Diabolus.jobString>Gestating mech.</Diabolus.jobString>
+  
+  <Tunneler.label>터널러 배양</Tunneler.label>
+  <Tunneler.description>Gestate a tunneler mechanoid.</Tunneler.description>
+  <Tunneler.jobString>Gestating mech.</Tunneler.jobString>
+</LanguageData>

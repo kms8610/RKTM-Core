@@ -10,6 +10,8 @@
 
   <Stat_Thing_RelicOf_Name>유물</Stat_Thing_RelicOf_Name>
   <Stat_Thing_RelicOf_Desc>이 유물이 속한 사상입니다.</Stat_Thing_RelicOf_Desc>
+  <Stat_Thing_RelicStatus>유물 상태</Stat_Thing_RelicStatus>
+  <Stat_Thing_RelicStatus_Desc>많은 사람들이 찾는 종교적 혹은 사상적으로 중요한 물품입니다.</Stat_Thing_RelicStatus_Desc>
 
   <Stat_Thing_RelatedToIdeos_Name>관련됨</Stat_Thing_RelatedToIdeos_Name>
   <Stat_Thing_RelatedToIdeos_Desc>이 물체가 속한 사상입니다.</Stat_Thing_RelatedToIdeos_Desc>
@@ -22,11 +24,12 @@
   <Stat_Thing_StyleDominanceCategory>주요 양식</Stat_Thing_StyleDominanceCategory>
   <Stat_Thing_StyleDominanceCategoryDesc>이 물체의 양식입니다. 이 양식은 특정 사상과 관련이 있을 수도 있습니다. 사람들은 양식에 대해 각자의 사상에 따라 다른 방식으로 반응을 보입니다.</Stat_Thing_StyleDominanceCategoryDesc>
   <Stat_Thing_IdeosSatisfied>만족하는 사상</Stat_Thing_IdeosSatisfied>
+  <Style>양식</Style>
 
   <Stat_Pawn_DarknessCombatShooting_Name>어둠 속 사격 명중률</Stat_Pawn_DarknessCombatShooting_Name>
   <Stat_Pawn_DarknessCombatShooting_Desc>대상의 밝기 단계에 따라 명중률에 더하는 수입니다.</Stat_Pawn_DarknessCombatShooting_Desc>
   <Stat_Pawn_DarknessMeleeDodgeChance_Name>어둠 속 근접 회피 확률</Stat_Pawn_DarknessMeleeDodgeChance_Name>
-  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>대상의 밝기 단계에 따라 회피율에 더하는 수입니다.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>현재 위치의 밝기 단계에 따라 근접 회피 확률에 더하는 수입니다.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
   <Stat_Pawn_DarknessMeleeHitChance_Name>어둠 속 근접 명중 확률</Stat_Pawn_DarknessMeleeHitChance_Name>
   <Stat_Pawn_DarknessMeleeHitChance_Desc>대상의 밝기 단계에 따라 명중률에 더하는 수입니다.</Stat_Pawn_DarknessMeleeHitChance_Desc>
   <Stat_PawnDarkness_FollowingOffset>다음 영향 적용</Stat_PawnDarkness_FollowingOffset>

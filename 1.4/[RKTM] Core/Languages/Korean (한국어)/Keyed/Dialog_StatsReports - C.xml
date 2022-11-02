@@ -13,14 +13,16 @@
   <StatsReport_Material>재료</StatsReport_Material>
   <StatsReport_CharacterQuality>품질</StatsReport_CharacterQuality>
   <StatsReport_Skills>기술</StatsReport_Skills>
-  <StatsReport_OtherStats>기타 능력치</StatsReport_OtherStats>
+  <StatsReport_OtherStats>후처리 - 기타 능력치</StatsReport_OtherStats>
   <StatsReport_Health>건강</StatsReport_Health>
   <HealthFactorPercentImpact>비율 {0}</HealthFactorPercentImpact>
   <HealthOffsetScale>영향 {0}</HealthOffsetScale>
   <HealthFactorMaxImpact>최대 {0}</HealthFactorMaxImpact>
-  <HealthFactorAllowedDefect>{0}이하일 경우</HealthFactorAllowedDefect>
+  <HealthFactorAllowedDefect>{0} 이하일 경우</HealthFactorAllowedDefect>
   <StatsReport_PostProcessed>후처리 커브</StatsReport_PostProcessed>
+  <StatsReport_ShootingExampleDistances>사거리별 명중률은 다음과 같습니다.</StatsReport_ShootingExampleDistances>
   <StatsReport_FinalValue>최종값</StatsReport_FinalValue>
+  <StatsReport_MultiplierFor>{0}의 계수</StatsReport_MultiplierFor>
   <StatsReport_MarketValueFromStuffsAndWork>재료와 노동</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>품질 계수</StatsReport_QualityMultiplier>
   <StatsReport_QualityOffset>품질 영향</StatsReport_QualityOffset>
@@ -67,7 +69,7 @@
   <StatsReport_NonToolAttack>공격</StatsReport_NonToolAttack>
   <StatsReport_Ideoligion>믿음관</StatsReport_Ideoligion>
   <StatsReport_Malnutrition>영양실조 {0}에 대한 계수</StatsReport_Malnutrition>
-  
+
   <StatReport_PossibleOffsets>가능한 오프셋</StatReport_PossibleOffsets>
   <StatsReport_RoomImpressiveness>인상적인 방</StatsReport_RoomImpressiveness>
   <StatsReport_Lit>조명</StatsReport_Lit>
@@ -151,15 +153,15 @@
   <Stat_Hediff_HungerRateFactor_Desc>포만감 상실 계수입니다.</Stat_Hediff_HungerRateFactor_Desc>
   <Stat_Hediff_HungerRateOffset_Desc>포만감이 상실되는 기본 속도입니다.</Stat_Hediff_HungerRateOffset_Desc>
   <Stat_Hediff_TirednessOffset_Name>피로 누적 속도</Stat_Hediff_TirednessOffset_Name>
-  <Stat_Hediff_TirednessOffset_Desc>생명체가 휴식을 필요로 하는 비율에 적용되는 속도입니다.</Stat_Hediff_TirednessOffset_Desc>
-  <Stat_Hediff_TirednessFactor_Desc>생명체가 휴식을 필요로 하는 비율에 적용되는 계수입니다.</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_TirednessOffset_Desc>생명체가 수면을 필요로 하는 비율에 적용되는 속도입니다.</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessFactor_Desc>생명체가 수면을 필요로 하는 비율에 적용되는 계수입니다.</Stat_Hediff_TirednessFactor_Desc>
   <Stat_Hediff_PreventsInfection_Desc>감염 예방 확률입니다.</Stat_Hediff_PreventsInfection_Desc>
   <Stat_Thing_Terrain_Supports_Desc>지형이 지탱할 수 있는 무게입니다.</Stat_Thing_Terrain_Supports_Desc>
   <Stat_Thing_TerrainRequirement_Desc>해당 유형의 지형에만 배치할 수 있습니다.</Stat_Thing_TerrainRequirement_Desc>
   <Stat_Thing_Terrain_Fine_Name>존경</Stat_Thing_Terrain_Fine_Name>
   <Stat_Thing_Terrain_Fine_Value>좋음</Stat_Thing_Terrain_Fine_Value>
   <Stat_Thing_Terrain_Fine_Desc>왕실에 적절한 바닥입니다.</Stat_Thing_Terrain_Fine_Desc>
-  <Stat_Thing_PowerConsumption_Desc>시설이 작동하기 위해 요구하는 전력의 양입니다.</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_PowerConsumption_Desc>시설이 작동하기 위해 필요한 전력의 양입니다.</Stat_Thing_PowerConsumption_Desc>
   <Stat_Thing_ReloadChargesRemaining_Name>잔여 {CHARGENOUN_plural}</Stat_Thing_ReloadChargesRemaining_Name>
   <Stat_Thing_ReloadChargesRemaining_Desc>이 개체에 남아있는 {CHARGENOUN_plural}의 수입니다. 모두 소모되면 특수 능력을 사용할 수 없습니다.</Stat_Thing_ReloadChargesRemaining_Desc>
   <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
@@ -171,12 +173,25 @@
   <Stat_Thing_ReloadDestroyOnEmpty_Name>배기장치 사라짐</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <Stat_Thing_ReloadDestroyOnEmpty_Desc>이 품목은 마지막 {CHARGENOUN}(을)를 사용하면 사라집니다.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <Stat_Thing_BodyPartEfficiency_Desc>신체부위의 전반적인 효율성을 나타냅니다.</Stat_Thing_BodyPartEfficiency_Desc>
+  <Stat_Thing_InstallSites>설치 위치</Stat_Thing_InstallSites>
+  <Stat_Thing_InstallSites_Desc>대상을 설치할 수 있는 신체 부위입니다.</Stat_Thing_InstallSites_Desc>
+  <Stat_Thing_ReplacesParts>대체 부위</Stat_Thing_ReplacesParts>
+  <Stat_Thing_ReplacesParts_Desc>설치했을 때 대상이 대체하는 신체 부위입니다.</Stat_Thing_ReplacesParts_Desc>
   <Stat_Thing_Biocoded_Name>생체인증</Stat_Thing_Biocoded_Name>
-  <Stat_Thing_Biocoded_Desc>이 장비를 작동하기 위해서는 지정된 인물의 생체인증을 필요로 합니다.</Stat_Thing_Biocoded_Desc>
+  <Stat_Thing_Biocoded_Desc>이 장비가 작동하려면 특정 인물의 생체인증이 필요합니다.</Stat_Thing_Biocoded_Desc>
   <Stat_Pawn_RequiredApparel_Name>의복 종류 요구사항</Stat_Pawn_RequiredApparel_Name>
+  <Stat_Thing_Plant_GrowthRate>생장 속도</Stat_Thing_Plant_GrowthRate>
+  <Stat_Thing_Plant_GrowthRate_Desc>식물이 자라나는 속도입니다.\n\n생장률은 토질, 기온, 광량, 환경 등 여러 요인의 영향을 받습니다.</Stat_Thing_Plant_GrowthRate_Desc>
+  <Stat_Thing_Plant_Age>나이</Stat_Thing_Plant_Age>
+  <Stat_Thing_Plant_AgeDesc>얼마나 오래 살았는지 알 수 있습니다.</Stat_Thing_Plant_AgeDesc>
+  <Stat_Thing_Plant_Lifespan>수명</Stat_Thing_Plant_Lifespan>
+  <Stat_Building_Paintable>색칠 가능</Stat_Building_Paintable>
+  <Stat_Building_PaintableDesc>염료를 사용해 색칠할 수 있는지를 나타냅니다.</Stat_Building_PaintableDesc>
+  <Stat_Building_PaintColor>색</Stat_Building_PaintColor>
+  <Stat_Building_PaintColorDesc>이 건물을 색칠한 색입니다.</Stat_Building_PaintColorDesc>
 
   <!-- Drugs -->
-  <Stat_Thing_Drug_Chemical_Desc>이 약의 활성 화학물질입니다.\n\n때에 따라 같은 화학물질이 여러 가지의 다른 약물에 존재합니다. 이러한 약물들은 다른 방법으로 같은 중독성을 만족할 수 있습니다.</Stat_Thing_Drug_Chemical_Desc>
+  <Stat_Thing_Drug_Chemical_Desc>이 약의 활성 화학물질입니다.\n\n종류에 따라 하나의 화학물질이 다양한 약물에 존재할 수 있습니다. 이런 약물들은 화학물질 중독을 다른 방법으로 만족할 수 있습니다.</Stat_Thing_Drug_Chemical_Desc>
   <Stat_Thing_Drug_Category_Desc>이 약물이 속하는 약물 범주입니다.</Stat_Thing_Drug_Category_Desc>
   <Stat_Thing_Drug_HighGainPerDose_Desc>이 약물의 복용당 획득량입니다.</Stat_Thing_Drug_HighGainPerDose_Desc>
   <Stat_Thing_Drug_HighFallPerDay_Desc>이 약물의 취함에 대해 하루에 감소되는 양입니다.</Stat_Thing_Drug_HighFallPerDay_Desc>
@@ -184,8 +199,8 @@
   <Stat_Thing_Drug_ToleranceGainPerDose_Desc>복용당 화학물질에 대한 사용자의 내성이 얼마나 증가하는지 나타냅니다.\n\n같은 화학물질이 다른 형태에 따라 다를 수 있습니다.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
   <Stat_Thing_Drug_ToleranceFallPerDay_Desc>화학물질에 대한 내성이 하루에 얼마나 떨어지는지 나타냅니다.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
   <Stat_Thing_Drug_MinToleranceForAddiction_Desc>이 약물에 중독되는 데 필요한 최소 내성입니다.\n\n사용자가 이 내성보다 낮다면 약물 복용으로 말미암은 중독은 없습니다.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
-  <Stat_Thing_Drug_SafeDoseInterval_Desc>사용자가 이만큼 자주 복용을 하지 않는다면 중독되지 않습니다.\n\n이는 중독성 최소 내성, 복용당 내성량, 내성 하락률로부터 계산됩니다.\n\n일부 약물에는 복용 적절 간격이 없습니다. 이러한 약물은 복용할 때 중독될 수도 있으며, 처음 복용하자마자 중독될 수도 있습니다.</Stat_Thing_Drug_SafeDoseInterval_Desc>
-  <Stat_Thing_Drug_RandomODChance_Desc>약을 복용할 때 걸릴 과다복용 확률입니다. 과다복용하는 것은 처음 복용을 하든, 여러 번 복용을 하든 상관없이 모든 복용에 발생할 수 있습니다.</Stat_Thing_Drug_RandomODChance_Desc>
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>성인은 약물을 이보다 자주 복용해야 중독됩니다.\n\n이 값은 약물의 중독성 최소 내성, 복용당 내성량, 내성 하락률로부터 계산됩니다. 일부 약물에는 복용 적절 간격이 없으며, 매 복용마다 중독의 위험이 있습니다.\n\n복용자의 신체 크기에 따라 복용 적절 간격이 다를 수 있습니다.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <Stat_Thing_Drug_RandomODChance_Desc>약물을 무작위로 과다 복용할 확률입니다. 무작위 과다 복용은 첫 복용자와 경험 많은 중독자 모두에게 발생할 수 있습니다.</Stat_Thing_Drug_RandomODChance_Desc>
   <Stat_Thing_Drug_Addictiveness_Desc>이 약의 복용당 중독확률입니다.\n\n약물 중독에 대한 최소 내성이 있다면, 내성이 이 수준을 초과해야 적용됩니다. 최소 내성이 없다면, 복용할 때마다 중독될 수 있습니다.</Stat_Thing_Drug_Addictiveness_Desc>
   <Stat_Thing_Drug_AddictionSeverityInitial_Desc>이 약물 중독의 심각도 단계입니다.\n\n많은 약물을 복용하면 중독의 심각도가 증가하지만, 시간이 지나면 감소합니다.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
   <Stat_Thing_Drug_AddictionRecoveryTime_Desc>초기 중독에서 회복되는 시간을 나타냅니다.\n\n중독 심각도를 중독 회복률로 나눈 값으로 계산됩니다. 다시 먹게 된다면 중독이 더 오래 걸립니다.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>

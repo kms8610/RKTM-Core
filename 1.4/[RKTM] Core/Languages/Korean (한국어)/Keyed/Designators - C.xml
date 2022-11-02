@@ -52,16 +52,16 @@
   <DesignatorAreaHomeClear>주거구역 제거</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>주거구역을 지웁니다. 정착민들은 주거구역 바깥에서는 스스로 수리, 청소, 진화작업을 하지 않습니다.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>지붕 건설 설정</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>지붕 건설 구역</DesignatorAreaBuildRoofExpand>
   <DesignatorAreaBuildRoofExpandDesc>정착민들이 지붕을 건설할 곳을 정합니다.</DesignatorAreaBuildRoofExpandDesc>
 
-  <DesignatorAreaNoRoofExpand>지붕 제거 설정</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>지붕 제거 구역</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>정착민들이 지붕을 제거할 곳을 정합니다. (산 제외)</DesignatorAreaNoRoofExpandDesc>
 
-  <DesignatorAreaIgnoreRoofExpand>지붕 무시 구역 설정</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>지붕 무시 구역</DesignatorAreaIgnoreRoofExpand>
   <DesignatorAreaIgnoreRoofExpandDesc>정착민들이 이 구역에 지붕이 있든 없든 무시하도록 합니다.</DesignatorAreaIgnoreRoofExpandDesc>
 
-  <DesignatorAreaSnowClearExpand>제설구역 설정</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>제설구역</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>정착민들이 눈을 치울 구역을 설정합니다.</DesignatorAreaSnowClearExpandDesc>
   <DesignatorAreaSnowClearClear>제설구역 제거</DesignatorAreaSnowClearClear>
   <DesignatorAreaSnowClearClearDesc>정착민들이 눈을 치울 구역을 해제합니다.</DesignatorAreaSnowClearClearDesc>
@@ -70,7 +70,7 @@
   <DesignatorExpandAreaAllowedDesc>허가구역의 범위를 확장합니다.\n\n허가구역은 각 정착민들이 위치하도록 등록할 수 있는 구역입니다. 허가구역에 등록된 정착민들은 스스로 해당 구역 밖으로 나가지 않게 됩니다.</DesignatorExpandAreaAllowedDesc>
   <DesignatorClearAreaAllowed>허가구역 제거</DesignatorClearAreaAllowed>
   <DesignatorClearAreaAllowedDesc>선택된 칸을 허가구역에서 제외합니다.\n\n허가구역은 각 정착민들을 등록할 수 있는 구역입니다. 등록된 정착민들은 해당 구역 밖에서 일을 하거나 필요를 채우지 않습니다.</DesignatorClearAreaAllowedDesc>
-  <ManageAreas>구역 관리</ManageAreas>
+  <ManageAreas>구역 관리...</ManageAreas>
   <ManageAutoSlaughter>자동 도축 관리</ManageAutoSlaughter>
 
   <DesignatorGrowingZoneDesc>정착민들이 식물을 재배할 수 있는 구역을 지정합니다.</DesignatorGrowingZoneDesc>
@@ -111,6 +111,27 @@
 
   <DesignatorStudy>연구</DesignatorStudy>
   <DesignatorStudyDesc>이 물체를 연구해서 더 많은 것을 알아냅니다.</DesignatorStudyDesc>
+
+  <DesignatorPaintBuilding>건물 색칠...</DesignatorPaintBuilding>
+  <DesignatorPaintBuildingDesc>재배한 염색풀에서 추출한 염료로 벽과 건물을 색칠합니다. 특정한 건물 종류만 색칠할 수 있습니다.</DesignatorPaintBuildingDesc>
+  <DesignatorPaintFloor>바닥 색칠...</DesignatorPaintFloor>
+  <DesignatorPaintFloorDesc>재배한 염색풀에서 추출한 염료로 바닥을 색칠합니다. 특정한 바닥 종류만 색칠할 수 있습니다.</DesignatorPaintFloorDesc>
+
+  <DesignatorRemovePaint>색칠 제거</DesignatorRemovePaint>
+  <DesignatorRemovePaintDesc>벽, 건물, 바닥에서 색칠을 제거합니다.</DesignatorRemovePaintDesc>
+  <DesignatorRemoveFloorPaint>바닥 색칠 제거</DesignatorRemoveFloorPaint> 
+  <DesignatorRemoveFloorPaintDesc>바닥에서 색칠을 제거합니다.</DesignatorRemoveFloorPaintDesc> 
+  <Paint>색칠</Paint>
+  <Color>색상</Color>
+
+  <DesignatorEyedropper>색상 선택도구</DesignatorEyedropper>
+  <GrabExistingColor>기존 색상 선택</GrabExistingColor>
+  <DesignatorEyeDropperDesc_Paint>기존 건물의 색을 선택합니다.</DesignatorEyeDropperDesc_Paint>
+  <DesignatorEyeDropperDesc_Carpet>기존 양탄자의 색을 선택합니다.</DesignatorEyeDropperDesc_Carpet>
+  <SelectAPaintedBuilding>색칠한 건물을 선택합니다.</SelectAPaintedBuilding>
+  <SelectColoredFloor>색칠한 양탄자를 선택합니다.</SelectColoredFloor>
+  <Grab>선택</Grab>
+  <GrabbedColor>선택한 색상</GrabbedColor>
 
   <!-- Failure messages -->
   <UnchosenStuff>선택되지 않은 재료</UnchosenStuff>

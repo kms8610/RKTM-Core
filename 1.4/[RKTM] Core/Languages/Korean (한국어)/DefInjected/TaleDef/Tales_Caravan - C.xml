@@ -62,7 +62,7 @@
     <li>circumstance_phrase->[Quantity_adjphrase] 명의 [Enemy]들이 찾아다니자</li>
     <li>circumstance_phrase->[Quantity_adjphrase] 명의 [Enemy]들을 피하며</li>
     <li>circumstance_phrase->[Quantity_adjphrase] 마리의 [Animal]들을 피하며</li>
-    <li>circumstance_phrase->[huge] [Enemy]에게서 도주하며</li>
+    <li>circumstance_phrase->[AdjectiveLarge] [Enemy]에게서 도주하며</li>
     <li>desc_sentence->적들은 [PAWN_nameDef](을)를 쫓으며 [Weapon](을)를 휘두르고 있습니다.</li>
     <li>desc_sentence->적들은 [PAWN_nameDef](을)를 쫓으며 [Color] 연기를 일으킵니다.</li>
     <li>desc_sentence->적들은 [PAWN_nameDef](을)를 쫓으며 [AdjectiveAngsty] 표정을 짓고 있습니다.</li>

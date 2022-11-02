@@ -18,9 +18,6 @@
   <AncientGenerator.label>고대 발전기</AncientGenerator.label>
   <AncientGenerator.description>고대의 발전기입니다. 쓸만한 부품들은 이미 오래전에 망가지거나 뜯겨나갔고, 그 외의 부분들은 녹이 심하게 슬어 쓸모라곤 없어 보입니다.</AncientGenerator.description>
   
-  <AncientLamp.label>고대 전등</AncientLamp.label>
-  <AncientLamp.description>고대의 자가동력 전등입니다. 전력이 거의 고갈되었지만, 아직도 희미한 빛을 발산합니다.</AncientLamp.description>
-  
   <AncientLockerBank.label>고대 금고</AncientLockerBank.label>
   <AncientLockerBank.description>녹슨 고대의 금고입니다. 억지로 열려있으며 귀중한 물건은 남아있지 않습니다.</AncientLockerBank.description>
   

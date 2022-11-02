@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AlertMechLacksOverseer>통제를 벗어난 메카노이드</AlertMechLacksOverseer>
+  <AlertMechLacksOverseerDesc>하나 이상의 메카노이드가 통제되고있지 않습니다. 메카노이드를 충분한 대역폭을 가진 기계공학자와 연결하십시오.\n\n하루 이상 제어되지 않으면 메카노이드가 고대 통제신호와 연결될 수 있습니다. 고대 통제신호와 연결된 메카노이드는 {0}에 합류하여 당신에게 적대적이 될 것입니다. 메카노이드가 적대적이 되면 주변 메카노이드들에게도 영향을 미칩니다.\n\n적대적 메카노이드는 파괴 시 배양기에서 부활할 수 없습니다.</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerUncontrolled>다음 메카노이드가 통제되고 있지 않습니다</AlertMechLacksOverseerUncontrolled>
+  <AlertMechLacksOverseerMayGoFeral>다음 메카노이드가 통제되고 있지 않으며 언제든지 폭주할 수 있습니다</AlertMechLacksOverseerMayGoFeral>
+
+  <AlertWarqueenHasLowResources>{0} 자원 부족</AlertWarqueenHasLowResources>
+  <AlertWarqueenHasLowResourcesDesc>하나 이상의 {0}의 자원이 부족합니다. 자원이 바닥나면 메카노이드 생성 명령을 실행 할 수 없습니다.</AlertWarqueenHasLowResourcesDesc>
+
+  <AlertLowDeathrestPawn>{PAWN} 죽은안식 필요</AlertLowDeathrestPawn>
+  <AlertLowDeathrestPawns>{NUMCULPRITS} 정착민들 죽음안식 필요</AlertLowDeathrestPawns>
+  <AlertLowDeathrestDesc>정착민 하나가 오랜 시간동안 죽음안식을 취하지 않았습니다. 너무 오랜 시간동안 죽음안식을 취하지 않게되면 죽음안식 탈진에 걸리게 됩니다.\n\n죽음안식을 하려면 정착민을 선택한 뒤, 지정된 침대나 죽음안식 관을 우클릭 하세요.\n\n다음 정착민들이 죽음안식을 필요로 합니다:\n{CULPRITS}</AlertLowDeathrestDesc>
+
+  <AlertLowHemogen>혈액정수 낮음</AlertLowHemogen>
+  <AlertLowHemogenDesc>한 정착민의 혈액정수이 낮습니다. 혈액정수이 바닥나면 고통스러운 혈액정수 부족현상을 느끼게 됩니다.\n\n혈액팩을 먹여 예방 할 수 있습니다. 혈액정수이 없는 인간에게 '혈액팩 추출' 수술을 하여 혈액팩을 얻을 수 있습니다.\n\n다음 정착민들의 낮은 혈액정수을 가지고 있습니다</AlertLowHemogenDesc>
+
+  <AlertRechargerFull>충전기 가득 참</AlertRechargerFull>
+  <AlertRechargerFullDesc>일부 충전소에서 최대 수용량 만큼의 독성 폐기물을 보관하고 있습니다. 메카노이드들은 저장고가 가득 찬 충전소에서 충전하지 않을것입니다.\n\n정착민을 선택하고 충전소를 우클릭 하여 비울 수 있습니다.</AlertRechargerFullDesc>
+
+  <AlertNeedMechChargers>기계 충전기 필요</AlertNeedMechChargers>
+  <AlertNeedMechChargersDesc>메카노이드 숫자 만큼의 충전소가 없습니다. 메카노이드의 전력이 바닥나면 자가 충전 휴면상태로 들어가게 되어 매우 느린 속도로 충전할 것 입니다.\n\n다음 만큼의 충전소가 필요합니다:\n\n{0}{0}\n\n주의: 오직 소형 메카노이드만 소형 충전소를 사용할 수 있으며, 중형 혹은 대형 메카노이드는 대형 메카노이드 충전소를 필요로 합니다.</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargerBasicMechtech>충전기를 지으려면 기본 기계공학 혹은 그 이상의 기술을 연구하십시오.</AlertNeedMechChargerBasicMechtech>
+
+  <AlertReimplantationAvailable>재이식 가능</AlertReimplantationAvailable>
+  <AlertReimplantationAvailableDesc>{0_nameDef}(은)는 정착민 중 하나에게 {0_possessive} 변형이식체를 삽입하기 위해 기다리는 중입니다.</AlertReimplantationAvailableDesc>
+
+  <AlertLowBabyFood>이유식 부족</AlertLowBabyFood>
+  <AlertLowBabyFoodDesc>이유식이 위험할 정도로 부족합니다.\n\n    음식이 필요한 아기들: {0}\n    비축한 이유식: {1}일치\n\n{2}(을)를 포함한 이유식을 찾거나 사거나 만드세요.</AlertLowBabyFoodDesc>
+  <AlertNoBabyFeeder>유아 급식기 없음</AlertNoBabyFeeder>
+  <AlertNoBabyFeederDesc>No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed.</AlertNoBabyFeederDesc>
+
+  <AlertNoBabyFoodCaravan>상단 내 이유식 없음</AlertNoBabyFoodCaravan>
+  <AlertNoBabyFoodCaravanDesc>이 상단의 아이에게 먹일 이유식이 없으며, 수유할 수 있는 {FACTION_pawnsPlural}(이)가 지정되지 않았습니다.</AlertNoBabyFoodCaravanDesc>
+
+  <AlertToxicBuildup>중독</AlertToxicBuildup>
+  <AlertToxicBuildupDesc>다음 정착민들의 독성 축적이 심각한 수준에 이르렀습니다:\n\n{0}\n\n이들을 독성을 축적시키는 물건에서 떨어트리십시오. 독성 축적은 유독성 낙진, 독가스, 그리고 오염된 지형 등 으로부터 생기게 됩니다.</AlertToxicBuildupDesc>
+
+  <AlertNeedBabyCribs>아기 침대 필요</AlertNeedBabyCribs>
+  <AlertNeedBabyCribsDesc>현재 아이의 숫자가 정착지의 아기 침대 숫자보다 많습니다.\n\n아기 침대를 만들거나, 아기 잠자리를 지정하세요.</AlertNeedBabyCribsDesc>
+  <AlertNeedSlaveCribs>노예 요람 필요</AlertNeedSlaveCribs>
+  <AlertNeedSlaveCribsDesc>요람 수보다 더 많은 노예 아기가 존재합니다. \n\n 요람을 더 만들거나, 기존 요람을 노예 전용 요람으로 전환하세요. \n\n침대를 만들 재료나 시간이 없다면, 잠자리를 지정하세요.</AlertNeedSlaveCribsDesc>
+
+  <AlertPollutedTerrain>오염된 지형</AlertPollutedTerrain>
+  <AlertPollutedTerrainDesc>독성이 축적된 정착민이나 동물이 오염된 지형 위에 있습니다. 오염된 지형 위에 있는 모든 이는 독성축적을 겪으며 결국 사망에 이릅니다.\n\n영향을 받고있는 가축 및 사람들:\n\n{0}\n\n이들을 오염된 지형에서 떨어트려 놓거나 영향을 방어 할 방법을 찾으십시오. 특정 장비나 삽입물, 혹은 유전자 변형이 독성 축적으로부터 보호를 제공합니다. 오염된 지형은 바닥으로 덮을 수 없지만, 직접 치우는 등의 여러 방법으로 정화 할 수 있습니다.</AlertPollutedTerrainDesc>
+
+  <AlertMechMissingBodyPart>메카노이드 부품 부족</AlertMechMissingBodyPart>
+  <AlertMechsMissingBodyPart>메카노이드 다수 부품 부족</AlertMechsMissingBodyPart>
+  <AlertMechMissingBodyPartDesc>메카노이드중 하나의 부품이 없습니다. 기계공학자는 이 결함을 수리 할 수 있습니다.\n\n부품을 잃어버린 메카노이드들:</AlertMechMissingBodyPartDesc>
+
+  <AlertMechNeedsRepair>수리가 필요한 메카노이드</AlertMechNeedsRepair>
+  <AlertMechNeedsRepairDescPrefix>이 메카노이드들은 손상되었고, 수리가 필요합니다.</AlertMechNeedsRepairDescPrefix>
+  <AlertMechNeedsRepairDesc>기계공학자에게 수리를 명령하거나 메카노이드를 선택하고 자동수리를 켜십니오. 메카노이드 수리에는 전력이 요구됩니다. 메카노이드의 전력이 움직일 수 없을정도로 낮다면 먼저 충전소로 가져가야 합니다.</AlertMechNeedsRepairDesc>
+  
+  <AlertToxifierGeneratorStopped>{0} 중지됨</AlertToxifierGeneratorStopped>
+  <AlertToxifierGeneratorStoppedDesc>당신의 {0}(이)가 주변에 오염 시킬수 있는 깨끗한 지형이 없어 전력 생산을 멈췄습니다.\n\n오염된 지형을 오염펌프나 오염 청소구역을 지정하여 청소하세요.</AlertToxifierGeneratorStoppedDesc>
+
+  <AlertPsychicBondedPawnsSeparated>초정신적 유대 거리</AlertPsychicBondedPawnsSeparated>
+  <AlertPsychicBondedPawnsSeparatedDesc>Some colonists with psychic bonds have been separated and are feeling negative effects from the distance. To avoid this, people with a psychic bond must be in the same world tile, caravan, or vehicle. Additionally, they must not be in cryptosleep or similar suspended animation.\n\nThe following people are affected</AlertPsychicBondedPawnsSeparatedDesc>
+
+  <AlertGenebankUnpowered>유전자 저장고 전력 필요</AlertGenebankUnpowered>
+  <AlertGenebankUnpoweredDesc>유전자 저장고에 전력이 공급되지 않아 저장된 유전자묶음들이 서서히 손상되고 있습니다. 전력을 복구하여 유전자묶음의 손상을 방지하세요.\n\n유전자 저장고에 전력이 공급되면 진행된 손상을 천천히 복구합니다.</AlertGenebankUnpoweredDesc>
+
+  <AlertBossgroupIncoming>{0} incoming</AlertBossgroupIncoming><!-- text_todo -->
+  <AlertBossgroupIncomingDesc>Signaled by your mechanitor, a hostile {0} is approaching with its combat escort. Be prepared, this won't be an easy fight. The hostile mechanoids will arrive in a few hours or days.</AlertBossgroupIncomingDesc><!-- text_todo -->
+
+</LanguageData>

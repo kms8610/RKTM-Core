@@ -60,15 +60,18 @@
 
   <MessageCriticalAlert>중대한 경고: {0}</MessageCriticalAlert>
 
-  <MessageMustDesignateHarvestable>충분히 자라 수확가능한 농작물을 지정해야 합니다.</MessageMustDesignateHarvestable>
-  <MessageMustDesignateHarvestableWood>충분히 성장한 나무를 지정해야 벌목을 할 수 있습니다.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestable>충분히 자라 수확 가능한 농작물을 지정해야 합니다.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>충분히 자라 목재를 얻을 수 있는 식물을 지정해야 합니다.</MessageMustDesignateHarvestableWood>
   <MessageMustDesignatePlants>식물을 지정해야 합니다.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>운반 가능한 물건을 지정해야 합니다. 일부 물건은 언제나 운반 가능하며 지정될 수 없습니다.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>운반 가능한 물건을 지정해야 합니다. 어떤 물건은 항상 운반할 수 있으며 지정할 수 없습니다.</MessageMustDesignateHaulable>
   <MessageMustDesignateMineable>채굴 가능한 광석을 지정해야 합니다.</MessageMustDesignateMineable>
   <MessageMustDesignateHuntable>사냥 가능한 동물을 지정해야 합니다.</MessageMustDesignateHuntable>
   <MessageMustDesignateTameable>조련 가능한 동물을 지정해야 합니다.</MessageMustDesignateTameable>
-  <MessageMustDesignateClaimable>버려진 인공 구조물을 지정해야 합니다.</MessageMustDesignateClaimable>
-  <MessageMustDesignateDeconstructibleMechCluster>해체하기 전에 메카 군단을 물리쳐야 합니다.</MessageMustDesignateDeconstructibleMechCluster>
+  <MessageMustDesignateClaimable>버려지고 점거 가능한 구조물 또는 물건을 지정해야 합니다.</MessageMustDesignateClaimable>
+  <MessageMustDesignatePaintableBuildings>이미 {0_label}(이)가 아닌 색칠 가능한 건물을 지정해야 합니다.</MessageMustDesignatePaintableBuildings>
+  <MessageMustDesignatePaintableFloors>이미 {0_label}(이)가 아닌 색칠 가능한 바닥을 지정해야 합니다.</MessageMustDesignatePaintableFloors>
+  <MessageMustDesignatePainted>색칠한 건물 또는 바닥을 지정해야 합니다.</MessageMustDesignatePainted>
+  <MessageMustDesignateDeconstructibleMechCluster>해체하기 전에 메카 전초기지를 물리쳐야 합니다.</MessageMustDesignateDeconstructibleMechCluster>
   <MessageMustDesignateSmoothableSurface>거친 돌표면을 지정해야 합니다.</MessageMustDesignateSmoothableSurface>
   <MessageNothingCanRemoveThickRoofs>두꺼운 지붕은 제거할 수 없습니다.</MessageNothingCanRemoveThickRoofs>
   <MessageAlreadyInStorage>이미 저장구역 안에 놓여있으며 필요한 경우 더 높은 우선순위의 구역으로 옮겨질 것입니다.</MessageAlreadyInStorage>
@@ -77,17 +80,19 @@
   <MessageMustDesignateOpenable>가득 찬 무덤이나 저장소를 선택해야 합니다.</MessageMustDesignateOpenable>
   <MessageMustDesignateForbiddable>상호작용이 허용된 물품을 지정해야 합니다.</MessageMustDesignateForbiddable>
   <MessageMustDesignateUnforbiddable>상호작용이 금지된 물품을 지정해야 합니다.</MessageMustDesignateUnforbiddable>
+  <MessageCannotClaimWhenThreatsAreNear>근처에 전투 가능한 {THREAT_factionPawnsPlural}(이)가 있어서 {CLAIMABLE_labelShort}(을)를 점거할 수 없습니다.</MessageCannotClaimWhenThreatsAreNear>
+  <MessageCannotAdoptWhileThreatsAreNear>근처에 전투 가능한 {THREAT_factionPawnsPlural}(이)가 있어서 {CLAIMABLE_labelShort}(을)를 입양할 수 없습니다.</MessageCannotAdoptWhileThreatsAreNear>
 
-  <MessageRefusedArrest>{1_labelShort}(이)가 구속에 저항했습니다!</MessageRefusedArrest>
+  <MessageRefusedArrest>{1_labelShort}(이)가 구속을 저항했습니다!</MessageRefusedArrest>
   
-  <MessageNoMedicalBeds>이용 가능한 병원 침대가 없습니다.</MessageNoMedicalBeds>
-  <MessageNoAnimalBeds>이용 가능한 동물 침대가 없습니다.</MessageNoAnimalBeds>
-  <MessageTooLowMedCare>수술에는 {0} 또는 그 이상이 필요하지만, {PAWN_labelShort}의 허용 단계는 "{2}"입니다.</MessageTooLowMedCare>
+  <MessageNoMedicalBeds>사용 가능한 의료용 침대가 없습니다.</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>사용 가능한 동물 침대가 없습니다.</MessageNoAnimalBeds>
+  <MessageWarningNoMedicineForRestriction>경고: {PAWN_nameDef}의 약품 정책({RESTRICTIONLABEL})때문에 수술을 진행할 수 없습니다. {PAWN_labelShort}의 약품 정책 변경을 고려하세요.</MessageWarningNoMedicineForRestriction>
   
   <PawnDiedBecauseOf>{PAWN_labelShort}(이)가 {1} 때문에 사망했습니다.</PawnDiedBecauseOf>
-  <PawnDied>{1_labelShort}(은)는 사망하였습니다.</PawnDied>
+  <PawnDied>{1_labelShort}(이)가 사망했습니다.</PawnDied>
 
-  <MessageNoLongerDowned>{1_label}(은)는 이제 다시 걸을 수 있습니다.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label}(이)가 다시 걸을 수 있습니다.</MessageNoLongerDowned>
 
   <MessageInvoluntarySleep>{1_labelShort}(이)가 엄청난 피로로 인해 쓰러졌습니다.</MessageInvoluntarySleep>
 
@@ -99,11 +104,11 @@
   <MessageGaveBirth>{0}(이)가 출산했습니다.</MessageGaveBirth>
   
   <MessagePsylinkNoSensitivity>{PAWN_labelShort}(은)는 정신 감응력이 없어서 정신력 증폭기를 사용할 수 없습니다.</MessagePsylinkNoSensitivity>
-  <MessageLostImplantLevelFromHediff>{2}(으)로 인해 {PAWN_labelShort}에서 {1} 이식물 단계를 잃었습니다.</MessageLostImplantLevelFromHediff>
+  <MessageLostImplantLevelFromHediff>{2}(으)로 인해 {PAWN_labelShort}(이)가 {1} 이식물 단계를 잃었습니다.</MessageLostImplantLevelFromHediff>
   <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort}(이)가 {2}(으)로 인해 {1}의 뇌손상을 입었습니다.</MessageReceivedBrainDamageFromHediff>
   <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort}(이)가 정상적인 신경열 한도를 초과했습니다.</MessageWentOverPsychicEntropyLimit>
 
-  <MessageNoHandlerSkilledEnough>아무도 {ANIMAL_kindBase}(을)를 길들일 수 없습니다. ({2} 기술 {1} 등급필요, 최고 조련사 {HANDLER_labelShort}(은)는 {4}등급).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>아무도 {ANIMAL_kindBase}(을)를 길들일 수 없습니다. ({2} 기술 {1}등급필요, 최고 조련사 {HANDLER_labelShort}(은)는 {4}등급).</MessageNoHandlerSkilledEnough>
   
   <MessageEatenByPredator>{EATEN_labelShort}(이)가 {PREDATOR}에게 잡아먹혔습니다.</MessageEatenByPredator>
   <MessageAttackedByPredator>{PREY_labelShort}(이)가 {PREDATOR}에게 공격받는 중입니다!</MessageAttackedByPredator>
@@ -168,7 +173,7 @@
   <MessagePlantDiedOfPoison>{0}(이)가 독에 오염되어 죽었습니다.</MessagePlantDiedOfPoison>
   <MessagePlantDiedOfBlight>{1_label}(이)가 병충해로 인해 죽었습니다.</MessagePlantDiedOfBlight>
 
-  <MessagePawnBeingBurned>엄청난 화염이 {1_labelShort}(을)를 산채로 불태우고 있습니다!</MessagePawnBeingBurned>
+  <MessagePawnBeingBurned>엄청난 열기가 {1_labelShort}(을)를 산채로 불태우고 있습니다!</MessagePawnBeingBurned>
 
   <MessageAccidentalOverdose>{INGESTER}(이)가 실수로 {DRUG_labelShort}(을)를 과도하게 섭취했습니다!</MessageAccidentalOverdose>
   
@@ -205,7 +210,7 @@
   <MessageTransportPodsDestinationIsInvalid>선택한 목적지를 인식할 수 없습니다.</MessageTransportPodsDestinationIsInvalid>
   <MessageTransportPodsDestinationIsTooFar>수송 포드를 목적지까지 보내기 위해서는 각각의 발사대에 적어도 {0}개의 화학연료가 필요합니다.</MessageTransportPodsDestinationIsTooFar>
   
-  <MessageReformedCaravan>상단이 재구성되었습니다.</MessageReformedCaravan>
+  <MessageReformedCaravan>상단을 재구성했습니다.</MessageReformedCaravan>
   
   <MessageCantBanishLastColonist>마지막 정착민은 추방할 수 없습니다.</MessageCantBanishLastColonist>
 
@@ -402,14 +407,16 @@
   <MessageRitualPawnSlaveNotSecured>{0_labelShort}(은)는 현재 반란 중입니다.</MessageRitualPawnSlaveNotSecured>
   <MessageRitualPawnReleased>{0_labelShort}(은)는 석방되고 있습니다.</MessageRitualPawnReleased>
   <MessageRitualPawnInjured>{0_labelShort}(은)는 부상을 입었습니다.</MessageRitualPawnInjured>
-  <MessageRitualRoleRequired>{0_labelShort}(이)가 다음의 보직 중 하나를 맡고 있어야 합니다</MessageRitualRoleRequired>
+  <MessageRitualRoleRequired>{0_labelShort}(이)가 다음의 지위 중 하나를 맡고 있어야 합니다</MessageRitualRoleRequired>
   <MessageRitualRoleMustBePrisoner>{0}(은)는 수감자여야 합니다.</MessageRitualRoleMustBePrisoner>
   <MessageRitualRoleMustBeAnimal>{0}(은)는 동물이어야 합니다.</MessageRitualRoleMustBeAnimal>
   <MessageRitualRoleMustBeHumanlike>{0}(은)는 사람이어야 합니다.</MessageRitualRoleMustBeHumanlike>
+  <MessageRitualRoleCannotBeABaby>{0}(은)는 아기일 수 없습니다.</MessageRitualRoleCannotBeABaby>
   <MessageRitualNoRolesAvailable>{0_labelShort}(은)는 맡을 수 있는 지위가 없습니다.</MessageRitualNoRolesAvailable>
   <MessageRitualNotOfPlayerIdeo>{0_labelShort}(은)는 정착지의 어떤 사상도 믿지 않습니다.</MessageRitualNotOfPlayerIdeo>
   <MessageRitualRoleMustHaveEyes>{0}(이)가 눈을 지니고 있어야 함</MessageRitualRoleMustHaveEyes>
   <MessageRitualRoleMustRequireScarification>{0_labelShort}(은)는 상흔 문신이 추가로 필요하지 않습니다.</MessageRitualRoleMustRequireScarification>
+  <MessageRitualRoleMustRequireBlinding>{0_labelShort}(은)는 실명 의식이 필요하지 않습니다.</MessageRitualRoleMustRequireBlinding>
   <MessageRitualRoleMustBePrisonerOrSlave>{0}(은)는 수감자나 노예여야 합니다.</MessageRitualRoleMustBePrisonerOrSlave>
   <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort}(은)는 전투에 참여할 수 있어야 합니다.</MessageRitualRoleMustBeCapableOfFighting>
   <MessageRitualRoleCannotReplaceRequiredPawn>다른 사람이 이 역할을 맡을 수 없습니다.</MessageRitualRoleCannotReplaceRequiredPawn>
@@ -421,12 +428,16 @@
   <MessageRitualRoleMustHaveIdeoToSpectate>{0}만 {1}할 수 있습니다.</MessageRitualRoleMustHaveIdeoToSpectate>
   <MessageRitualRoleMustHaveIdeoToDoRole>{0}만 {1}의 역할을 맡을 수 있습니다.</MessageRitualRoleMustHaveIdeoToDoRole>
   <MessageRitualRoleMustBeColonist>{0}을 맡으려면 정착민이어야 합니다.</MessageRitualRoleMustBeColonist>
+  <MessageRitualWontAttendExtremeTemperature>의식 장소의 극심한 온도 때문에 {0_labelShort}(이)가 참석할 수 없습니다.</MessageRitualWontAttendExtremeTemperature>
+  <MessageRitualRoleMustBeFreeColonist>{0}(은)는 노예가 아닌 정착민이어야 합니다.</MessageRitualRoleMustBeFreeColonist>
   <MessageRitualRoleMustHaveLargerBodySize>{0}(은)는 최소 신체 크기 {1}의 동물이어야 합니다.</MessageRitualRoleMustHaveLargerBodySize>
   <MessageRitualPawnMentalState>{0_labelShort}(은)는 정신이상을 앓고 있어야 합니다.</MessageRitualPawnMentalState>
   <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort}(은)는 이미 {1}입니다.</MessageRitualPawnIsAlreadyBelievingIdeo>
   <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort}(은)는 관전자 외에 맡을 수 있는 역할이 없습니다.</MessageRitualCannotAssignAnyRoleFromSpectating>
   <MessageRitualRoleMustNotBeImprisonedWildMan>수감 중인 야인은 {0}(을)를 할 수 없습니다.</MessageRitualRoleMustNotBeImprisonedWildMan>
   <MessageRitualRoleMustNotBeImprisoned>{0}(은)는 석방되어야 합니다.</MessageRitualRoleMustNotBeImprisoned>
+  <MessageRitualRoleCannotBeChild>{0}(은)는 어린이일 수 없습니다.</MessageRitualRoleCannotBeChild>
+  <MessageRitualRoleCannotBeBaby>{0}(은)는 아기일 수 없습니다.</MessageRitualRoleCannotBeBaby>
 
   <MessagePlayerMustSelectTile>계속하려면 지역을 선택해야 합니다.</MessagePlayerMustSelectTile>
 
@@ -437,6 +448,17 @@
   <TooCloseToOtherPlant>{0_label}에 너무 가깝습니다.</TooCloseToOtherPlant>
   <TooCloseToOtherSeedPlantCell>{0}(을)를 심을 위치가 너무 가깝습니다.</TooCloseToOtherSeedPlantCell>
 
-  <MessageWarningCutImportantPlant>경고: {0}(이)가 벌목될 예정입니다.</MessageWarningCutImportantPlant>
+  <MessageWarningCutImportantPlant>경고: {0}에 제초 명령을 지정했습니다.</MessageWarningCutImportantPlant>
+
+  <MessageIncapableOfManipulation>{0_labelShort}(은)는 조작 능력이 없습니다.</MessageIncapableOfManipulation>
+
+  <MessageActivationCanceled>{0_labelShort} 활성화 취소됨</MessageActivationCanceled>
+
+  <NothingAvailableInCategory>현재 이 범주의 무엇도 건설할 수 없음</NothingAvailableInCategory>
+
+  <SettingsLinkedFor>{0}개 건물의 보관 설정을 연결했습니다.</SettingsLinkedFor>
+  <SettingsUnlinkedFor>{0}개 건물의 보관 설정 연결을 해제했습니다.</SettingsUnlinkedFor>
+  <StorageSettingsCopiedToClipboard>보관 설정을 클립보드로 복사했습니다.</StorageSettingsCopiedToClipboard>
+  <StorageSettingsPastedFromClipboard>보관 설정을 클립보드에서 복사했습니다.</StorageSettingsPastedFromClipboard>
 
 </LanguageData>

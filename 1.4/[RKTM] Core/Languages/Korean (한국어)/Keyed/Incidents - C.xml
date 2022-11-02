@@ -19,7 +19,8 @@
   <FriendlyRaidLeaderPresent>{LEADER_labelShort}(은)는 {LEADER_factionPawnsPlural} 세력의 지도자입니다.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>수송 포드 추락</LetterLabelRefugeePodCrash>
-  <RefugeePodCrash>{PAWN_titleIndef}, {PAWN_nameDef}(이)가 타고 있던 수송 포드가 근처 지면에 충돌했습니다. 살아남았더라도 심각한 부상을 입었을 것입니다.</RefugeePodCrash>  
+  <RefugeePodCrash>{PAWN_titleIndef}, {PAWN_nameDef}(이)가 타고 있던 수송 포드가 근처 지면에 충돌했습니다. 살아남았더라도 심각한 부상을 입었을 것입니다.</RefugeePodCrash>
+  <RefugeePodCrash_Child>{PAWN_nameDef}(은)는 {AGE}살의 아이입니다.</RefugeePodCrash_Child>
   <RefugeePodCrash_Factionless>{PAWN_nameDef}(은)는 어느 세력 소속도 아닙니다. 구조하면 정착지에 합류할 수도 있고 그저 떠날 수도 있습니다. 포획하여 동료로 만들거나 노예로 부릴 수 있습니다.</RefugeePodCrash_Factionless>
   <RefugeePodCrash_Hostile>{PAWN_nameDef}(은)는 적대 세력 {PAWN_factionName} 소속입니다. 포획해서 동료로 만들거나 노예로 부릴 수 있습니다.</RefugeePodCrash_Hostile>
   <RefugeePodCrash_NonHostile>{PAWN_nameDef}(은)는 {PAWN_factionName} 소속입니다. 구조하면 정착지에 합류할 수도 있고, 원래 세력에 돌아가 우호를 증진할 수도 있습니다.\n\n포획할 수도 있지만, 해당 세력과의 관계가 악화될 겁니다.</RefugeePodCrash_NonHostile>
@@ -104,8 +105,6 @@
   <EscapeShipFoundLabel>우주선 발견</EscapeShipFoundLabel>
   <EscapeShipFound>(*Name)샬론 화이트스톤(/Name)이 보낸 좌표에 도착하여 숨겨진 함선을 찾았습니다.\n\n우주선의 원자로는 오랫동안 가동되지 않아 바로 비행할 수 없습니다. 인공지능 핵과 접촉하여 시동을 걸 수 있습니다.\n\n샬론 화이트스톤은 시동까지 약 15일이 걸리며, 우주선의 에너지 파동이 먼 거리까지 퍼져나가 침입자와 보물사냥꾼들을 끌어들일 거라고 경고합니다. 방어체계가 구축되었는지 확인하세요.</EscapeShipFound>
   <EscapeShipFoundPeaceful>(*Name)샬론 화이트스톤(/Name)이 보낸 좌표에 도착하여 숨겨진 함선을 찾았습니다.\n\n우주선의 원자로는 오랫동안 가동되지 않아 바로 비행할 수 없습니다. 인공지능 핵과 접촉하여 시동을 걸 수 있습니다.\n\n샬론 화이트스톤은 시동까지 약 15일이 걸릴 거라고 예측하고 있습니다.</EscapeShipFoundPeaceful>
-  <EscapeShipLostLabel>우주선 파괴</EscapeShipLostLabel>
-  <EscapeShipLost>(*Name)샬론 화이트스톤(/Name)의 메시지가 도착했습니다. 악의를 품은 자들의 손에 떨어지기 전에 스스로 자폭 프로그램을 실행했다고 합니다.\n\n이 행성에서 탈출하려면 다른 방법을 찾아야 할 듯 합니다.</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <CaravanMeetingTitle>{0}(와)과 다른 상단의 만남</CaravanMeetingTitle>

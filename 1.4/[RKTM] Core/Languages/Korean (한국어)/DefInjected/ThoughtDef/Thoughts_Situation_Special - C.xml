@@ -43,6 +43,17 @@
   <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>편안한 정신파동 방출기</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
   <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>정신파동때문에 기분이 이상해. 하지만 정말 편안한걸.</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
   
+  <RotStink.stages.rot_stink.label>부패 가스</RotStink.stages.rot_stink.label>
+  <RotStink.stages.rot_stink.description>썩은내가 코를 후벼파고 살에 달라붙는다. 토할거같아.</RotStink.stages.rot_stink.description>
+  <RotStink.stages.awful_rot_stink.label>끔찍한 부패 가스</RotStink.stages.awful_rot_stink.label>
+  <RotStink.stages.awful_rot_stink.description>썩은내가 너무 짙어서 여기서 수영하는 것 같아. 숨도 못쉬겠어</RotStink.stages.awful_rot_stink.description>
+  
+  <RotStinkLingering.stages.rot_stink_lingering.label>부패 가스의 흔적</RotStinkLingering.stages.rot_stink_lingering.label>
+  <RotStinkLingering.stages.rot_stink_lingering.description>그 썩은내는 정말 끔찍했어. 나한테서 그 냄새 나는거같아</RotStinkLingering.stages.rot_stink_lingering.description>
+  
   <SharedBed.stages.sharing_bed.label>침대 공유</SharedBed.stages.sharing_bed.label>
   <SharedBed.stages.sharing_bed.description>이 사람하고 같은 침대에서 자고 싶지는 않은데.</SharedBed.stages.sharing_bed.description>
+  
+  <ToxicFallout.stages.toxic_fallout.label>독성 낙진</ToxicFallout.stages.toxic_fallout.label>
+  <ToxicFallout.stages.toxic_fallout.description>진한 노란 독성 포자들이 눈처럼 내 주위를 떠다녀. 공기가 닿을 때마다 몸, 목, 폐까지 타는거 같아.</ToxicFallout.stages.toxic_fallout.description>
 </LanguageData>

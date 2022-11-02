@@ -60,6 +60,10 @@
   
   <OperateScanner.reportString>TargetA에서 지하 자원 탐색 중.</OperateScanner.reportString>
   
+  <PaintBuilding.reportString>TargetA 색칠 중</PaintBuilding.reportString>
+  
+  <PaintFloor.reportString>TargetA 색칠 중</PaintFloor.reportString>
+  
   <PlaceNoCostFrame.reportString>TargetA 건설 중</PlaceNoCostFrame.reportString>
   
   <PrisonerAttemptRecruit.reportString>TargetA 포섭 중</PrisonerAttemptRecruit.reportString>
@@ -71,6 +75,10 @@
   <ReleasePrisoner.reportString>TargetA 석방 중</ReleasePrisoner.reportString>
   
   <RemoveFloor.reportString>바닥 제거 중</RemoveFloor.reportString>
+  
+  <RemovePaintBuilding.reportString>TargetA에서 색칠 제거 중</RemovePaintBuilding.reportString>
+  
+  <RemovePaintFloor.reportString>TargetA에서 색칠 제거 중</RemovePaintFloor.reportString>
   
   <RemoveRoof.reportString>지붕 제거 중</RemoveRoof.reportString>
   
@@ -100,7 +108,7 @@
   
   <Steal.reportString>TargetA 훔치는 중</Steal.reportString>
   
-  <StudyThing.reportString>TargetA 학습 중</StudyThing.reportString>
+  <StudyBuilding.reportString>TargetA 학습 중</StudyBuilding.reportString>
   
   <TakeDownedPawnToBedDrafted.reportString>침대로 TargetA 옮기는 중</TakeDownedPawnToBedDrafted.reportString>
   

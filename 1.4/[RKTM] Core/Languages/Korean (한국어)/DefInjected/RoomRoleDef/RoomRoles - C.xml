@@ -24,6 +24,8 @@
   
   <Room.label>방</Room.label>
   
+  <Storeroom.label>창고</Storeroom.label>
+  
   <Tomb.label>무덤</Tomb.label>
   
   <Workshop.label>작업소</Workshop.label>

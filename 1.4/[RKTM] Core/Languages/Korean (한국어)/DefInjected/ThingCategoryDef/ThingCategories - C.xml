@@ -8,6 +8,8 @@
   
   <ApparelArmor.label>갑옷</ApparelArmor.label>
   
+  <ApparelMisc.label>기타</ApparelMisc.label>
+  
   <ApparelNoble.label>귀족 의류</ApparelNoble.label>
   
   <ApparelUtility.label>다용도구</ApparelUtility.label>
@@ -84,6 +86,8 @@
   
   <Items.label>물건</Items.label>
   
+  <ItemsMisc.label>부상</ItemsMisc.label>
+  
   <Leathers.label>가죽</Leathers.label>
   
   <Manufactured.label>제작품</Manufactured.label>
@@ -113,6 +117,8 @@
   <StoneBlocks.label>벽돌</StoneBlocks.label>
   
   <StoneChunks.label>바위 덩어리</StoneChunks.label>
+  
+  <Stumps.label>그루터기</Stumps.label>
   
   <Techprints.label>기술청사진</Techprints.label>
   

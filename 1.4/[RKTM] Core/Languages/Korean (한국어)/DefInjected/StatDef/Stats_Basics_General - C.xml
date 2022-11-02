@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Beauty.label>미관</Beauty.label>
-  <Beauty.description>바라볼 때 아름답다고 느끼는 정도입니다.\n\n미관은 정착민들의 필요 욕구를 충족시켜줍니다.</Beauty.description>
+  <Beauty.description>바라볼 때 아름답다고 느끼는 정도입니다.\n\n미관은 정착민들의 환경 욕구를 충족시킵니다.</Beauty.description>
   
   <BeautyOutdoors.label>야외 미관</BeautyOutdoors.label>
   <BeautyOutdoors.description>물품이 야외에 배치되어있을 때 얼마나 아름다운지를 나타냅니다.\n\n아름다운 환경은 정착민의 미적 욕구를 충족시켜 줍니다.</BeautyOutdoors.description>
@@ -13,7 +13,7 @@
   <Comfort.description>눕거나 앉았을 때의 편안함을 나타냅니다.\n\n편안한 가구를 사용하면 정착민들의 필요 욕구를 충족시켜줍니다.</Comfort.description>
   
   <DeteriorationRate.label>손상 속도</DeteriorationRate.label>
-  <DeteriorationRate.description>밖에 방치되었을 때 매일 입는 평균 피해량입니다.\n\n우천, 지붕, 낙진, 얕은 물에 놓여짐 등 일부 상황에서는 더 빠르게 손상됩니다.</DeteriorationRate.description>
+  <DeteriorationRate.description>밖에 방치됐을 때 매일 입는 피해량의 평균입니다.\n\n우천, 지붕 여부, 낙진, 오염, 얕은 물 등 일부 상황에서는 더 빠르게 손상됩니다.</DeteriorationRate.description>
   <DeteriorationRate.formatString>{0} / 일</DeteriorationRate.formatString>
   
   <Flammability.label>가연성</Flammability.label>

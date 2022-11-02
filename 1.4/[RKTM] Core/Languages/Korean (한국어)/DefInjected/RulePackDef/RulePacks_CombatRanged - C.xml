@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Combat_ExplosionImpact.rulePack.rulesStrings>
-    <li>prefix->[INITIATOR_definite]의 [WEAPON_projectile_label] [blast]</li>
+    <li>prefix->[INITIATOR_definite]의 [projectile] [blast]</li>
     <li>prefix->[INITIATOR_definite]의 [WEAPON_label] [blast]</li>
-    <li>prefix->[INITIATOR_definite]의 [WEAPON_projectile_label] [blast]</li>
+    <li>prefix->[INITIATOR_definite]의 [projectile] [blast]</li>
     <li>prefix->[INITIATOR_definite]의 [WEAPON_label] [blast]</li>
     <li>prefix->[INITIATOR_definite]의 [blast]</li>
-    <li>prefix->[INITIATOR_definite]의 [WEAPON_projectile_label] [blast]</li>
+    <li>prefix->[INITIATOR_definite]의 [projectile] [blast]</li>
     <li>prefix->[INITIATOR_definite]의 [WEAPON_label] [blast]</li>
-    <li>prefix->[INITIATOR_definite]의 [WEAPON_projectile_label]</li>
+    <li>prefix->[INITIATOR_definite]의 [projectile]</li>
     <li>prefix->[INITIATOR_definite]의 [WEAPON_label]</li>
     <li>r_logentry->[prefix](이)가 [RECIPIENT_definite]에게 [injured].</li>
     <li>r_logentry->[prefix](으)로 인해 [RECIPIENT_definite]의 [destroyed_targets](이)가 [destroyed_past].</li>
@@ -33,25 +33,30 @@
     <li>fromof-></li>
   </Combat_ExplosionImpact.rulePack.rulesStrings>
   
+  <Combat_RangedBase.rulePack.rulesStrings>
+    <li>projectile(WEAPON_missing==True, p=3)->[PROJECTILE_label]</li>
+    <li>projectile->[WEAPON_projectile_label]</li>
+  </Combat_RangedBase.rulePack.rulesStrings>
+  
   <Combat_RangedDamage.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present].</li>
-    <li>r_logentry->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_suffix] [destroyed_present].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present].</li>
-    <li>r_logentry->[RECIPIENT_definite]의 [destroyed_targets](이)가 [INITIATOR_definite]의 [WEAPON_projectile_label]에 의해 [destroyed_past].</li>
-    <li>r_logentry->[RECIPIENT_definite]의 [destroyed_targets](이)가 [INITIATOR_definite]의 [WEAPON_projectile_label]에 의해 [destroyed_suffix] [destroyed_past].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [RECIPIENT_definite]의 [damaged_targets](을)를 [damaged_present].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite]의 [damaged_targets](을)를 [damaged_present].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite]의 [damaged_targets](을)를 [damaged_present].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite]의 [damaged_targets](이)가 [INITIATOR_definite]의 [WEAPON_projectile_label]에 의해 [damaged_past].</li>
-    <li>r_logentry(p=3)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present]. [damaged_targets]도 [damaged_present].</li>
-    <li>r_logentry(p=6)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present]. [damaged_targets]도 [damaged_present].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [RECIPIENT_definite](을)를 [WEAPON_projectile_label](으)로 맞춤.</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [WEAPON_label](으)로 [RECIPIENT_definite](을)를 맞춤.</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite](이)가 [WEAPON_projectile_label](으)로 [ORIGINALTARGET_definite](을)를 노렸으나 [RECIPIENT_definite](이)가 맞음.</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite](이)가 맞음.</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [WEAPON_projectile_label](으)로 [ORIGINALTARGET_definite](을)를 노리다가 [RECIPIENT_definite](을)를 대신 맞춤.</li>
-    <li>weapon_projectile_label(p=0.05)->사격</li>
+    <li>r_logentry->[INITIATOR_definite]의 [projectile](이)가 [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present].</li>
+    <li>r_logentry->[INITIATOR_definite]의 [projectile](이)가 [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_suffix] [destroyed_present].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]의 [projectile](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]의 [projectile](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present].</li>
+    <li>r_logentry->[RECIPIENT_definite]의 [destroyed_targets](이)가 [INITIATOR_definite]의 [projectile]에 의해 [destroyed_past].</li>
+    <li>r_logentry->[RECIPIENT_definite]의 [destroyed_targets](이)가 [INITIATOR_definite]의 [projectile]에 의해 [destroyed_suffix] [destroyed_past].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite]의 [projectile](이)가 [RECIPIENT_definite]의 [damaged_targets](을)를 [damaged_present].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]의 [projectile](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite]의 [damaged_targets](을)를 [damaged_present].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]의 [projectile](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite]의 [damaged_targets](을)를 [damaged_present].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite]의 [damaged_targets](이)가 [INITIATOR_definite]의 [projectile]에 의해 [damaged_past].</li>
+    <li>r_logentry(p=3)->[INITIATOR_definite]의 [projectile](이)가 [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present]. [damaged_targets]도 [damaged_present].</li>
+    <li>r_logentry(p=6)->[INITIATOR_definite]의 [projectile](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present]. [damaged_targets]도 [damaged_present].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [RECIPIENT_definite](을)를 [projectile](으)로 맞춤.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]의 [projectile](이)가 [RECIPIENT_definite]에 적중함.</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite](이)가 [projectile](으)로 [ORIGINALTARGET_definite](을)를 노렸으나 [RECIPIENT_definite](이)가 맞음.</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]의 [projectile](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite](이)가 맞음.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [projectile](으)로 [ORIGINALTARGET_definite](을)를 노리다가 [RECIPIENT_definite](을)를 대신 맞춤.</li>
+    <li>projectile(p=0.05)->사격</li>
     <li>destroyed_past->박살남</li>
     <li>destroyed_past->짓이겨짐</li>
     <li>destroyed_past->뭉개짐</li>
@@ -92,15 +97,15 @@
   </Combat_RangedDamage.rulePack.rulesStrings>
   
   <Combat_RangedDeflect.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [RECIPIENT_definite]의 [damaged_target](을)를 [damaged_present]. [deflected_result].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite][damaged_target_possessive_opt](을)를 [damaged_present]. [deflected_result].</li>
-    <li>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt](이)가 [INITIATOR_definite]의 [WEAPON_projectile_label]에 의해 [damaged_past]. [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [RECIPIENT_definite][damaged_target_possessive_opt](을)를 [WEAPON_projectile_label](으)로 맞춤. [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [RECIPIENT_definite][damaged_target_possessive_opt]에 적중함. [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite](이)가 [ORIGINALTARGET_definite](을)를 노렸으나 [RECIPIENT_definite][damaged_target_possessive_opt](을)를 대신 맞춤. [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite][damaged_target_possessive_opt]에 적중함. [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [ORIGINALTARGET_definite](을)를 노리고 [WEAPON_projectile_label](을)를 발사했지만 [RECIPIENT_definite][damaged_target_possessive_opt](이)가 맞음. [deflected_result].</li>
-    <li>weapon_projectile_label(p=0.05)->사격</li>
+    <li>r_logentry->[INITIATOR_definite]의 [projectile](이)가 [RECIPIENT_definite]의 [damaged_target](을)를 [damaged_present]. [deflected_result].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]의 [projectile](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite][damaged_target_possessive_opt](을)를 [damaged_present]. [deflected_result].</li>
+    <li>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt](이)가 [INITIATOR_definite]의 [projectile]에 의해 [damaged_past]. [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [RECIPIENT_definite][damaged_target_possessive_opt](을)를 [projectile](으)로 맞춤. [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]의 [projectile](이)가 [RECIPIENT_definite][damaged_target_possessive_opt]에 적중함. [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite](이)가 [projectile](으)로 [ORIGINALTARGET_definite](을)를 노렸으나 [RECIPIENT_definite][damaged_target_possessive_opt](을)를 대신 맞춤. [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]의 [projectile](이)가 [ORIGINALTARGET_definite](을)를 [missed] [RECIPIENT_definite][damaged_target_possessive_opt]에 적중함. [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [ORIGINALTARGET_definite](을)를 노리고 [projectile](을)를 발사했지만 [RECIPIENT_definite][damaged_target_possessive_opt](이)가 맞음. [deflected_result].</li>
+    <li>projectile(p=0.05)->사격</li>
     <li>damaged_target_possessive_opt-></li>
     <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->의 [recipient_part_damaged0_label]</li>
     <li>deflected_result->하지만 효과가 없었음</li>
@@ -121,8 +126,8 @@
     <li>r_logentry->[INITIATOR_definite](이)가 [WEAPON_label](으)로 [RECIPIENT_definite](을)를 향해 [shotat].</li>
     <li>r_logentry->[INITIATOR_definite](이)가 [WEAPON_label](을)를 [RECIPIENT_definite]에 조준하고 [shot].</li>
     <li>r_logentry->[INITIATOR_definite](이)가 [RECIPIENT_definite]에게 [shotat].</li>
-    <li>r_logentry->[INITIATOR_definite](이)가 [WEAPON_projectile_label](을)를 [RECIPIENT_definite]에게 [burst] [shot].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite](이)가 [WEAPON_projectile_label](을)를 [shot].</li>
+    <li>r_logentry->[INITIATOR_definite](이)가 [projectile](을)를 [RECIPIENT_definite]에게 [burst] [shot].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite](이)가 [projectile](을)를 [shot].</li>
     <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite](이)가 [WEAPON_label](을)를 [shot].</li>
     <li>shot_a(p=2)->[verb_shot]</li>
     <li>shot_a->[skillAdv] [verb_shot]</li>
@@ -148,10 +153,10 @@
   </Combat_RangedFire.rulePack.rulesStrings>
   
   <Combat_RangedFire_Thrown.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite](이)가 [WEAPON_projectile_label](을)를 [RECIPIENT_definite]에게 [threw].</li>
-    <li>r_logentry->[INITIATOR_definite](이)가 [WEAPON_projectile_label](을)를 [RECIPIENT_definite]에게 [threw].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite](이)가 [WEAPON_projectile_label](을)를 [threw].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite](이)가 [WEAPON_projectile_label](을)를 [threw].</li>
+    <li>r_logentry->[INITIATOR_definite](이)가 [projectile](을)를 [RECIPIENT_definite]에게 [threw].</li>
+    <li>r_logentry->[INITIATOR_definite](이)가 [projectile](을)를 [RECIPIENT_definite]에게 [threw].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite](이)가 [projectile](을)를 [threw].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite](이)가 [projectile](을)를 [threw].</li>
     <li>threw_a->[adverb_threw] [verb_threw]</li>
     <li>threw_a(p=2)->[verb_threw]</li>
     <li>threw(p=2)->[verb_threw]</li>
@@ -174,9 +179,9 @@
   </Combat_RangedFire_Thrown.rulePack.rulesStrings>
   
   <Combat_RangedMiss.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [missed].</li>
+    <li>r_logentry->[INITIATOR_definite]의 [projectile](이)가 [missed].</li>
     <li>r_logentry->[INITIATOR_definite](이)가 [ORIGINALTARGET_definite](을)를 빗맞춤.</li>
-    <li>r_logentry->[ORIGINALTARGET_definite](이)가 [avoidance], [INITIATOR_definite]의 [WEAPON_projectile_label](이)가 [missing].</li>
+    <li>r_logentry->[ORIGINALTARGET_definite](이)가 [avoidance], [INITIATOR_definite]의 [projectile](이)가 [missing].</li>
     <li>missed(p=4)->빗나감</li>
     <li>missed(p=2)->간발의 차이로 빗나감</li>
     <li>missed(p=2)->상당한 차이로 빗나감</li>
