@@ -229,6 +229,6 @@
   <AutocutUnenclosedPen>뚫린 우리</AutocutUnenclosedPen>
   <AutocutUnenclosedPenTip>우리가 뚫려 있습니다. 자동 제초를 하지 않습니다.</AutocutUnenclosedPenTip>
 
-  <WindTurbineAutoCut_EnabledCheckbox>풍력 발전기를 가로막는 식물 자동 제초</WindTurbineAutoCut_EnabledCheckbox>
+  <WindTurbineAutoCut_EnabledCheckbox>식물 자동 제초</WindTurbineAutoCut_EnabledCheckbox>
 
 </LanguageData>

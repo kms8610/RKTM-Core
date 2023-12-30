@@ -6,7 +6,7 @@
   
   <AllowedAreaWide.label>허가구역</AllowedAreaWide.label>
   
-  <Carry.label>운반</Carry.label>
+  <Carry.label>소지</Carry.label>
   
   <DrugPolicy.label>약물 정책</DrugPolicy.label>
   
@@ -16,7 +16,7 @@
   
   <Master.label>주인</Master.label>
   
-  <MedicalCare.headerTip>의료구역</MedicalCare.headerTip>
+  <MedicalCare.headerTip>의료 관리</MedicalCare.headerTip>
   
   <Outfit.label>현재 복장</Outfit.label>
 </LanguageData>

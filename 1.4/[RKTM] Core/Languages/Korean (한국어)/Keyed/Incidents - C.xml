@@ -26,7 +26,7 @@
   <RefugeePodCrash_NonHostile>{PAWN_nameDef}(은)는 {PAWN_factionName} 소속입니다. 구조하면 정착지에 합류할 수도 있고, 원래 세력에 돌아가 우호를 증진할 수도 있습니다.\n\n포획할 수도 있지만, 해당 세력과의 관계가 악화될 겁니다.</RefugeePodCrash_NonHostile>
 
   <LetterLabelWandererJoins>방랑자 합류: {PAWN_nameDef}</LetterLabelWandererJoins>
-  <LetterWandererJoins>{PAWN_nameDef}(이)라는 이름의 {PAWN_title}(이)가 도착하여 정착지에 합류하고자 합니다.\n\n[PAWN_pronoun]는 정착지에 이바지하고자 하지만, 갈 곳이 없다고 주장하고 있으므로 스스로 떠나지는 않을 것입니다. {PAWN_objective} 돌려보낼 수는 있지만, 도움을 필요로 하는 사람을 거절한 것으로 인해 정착민들이 불편해할 것입니다.</LetterWandererJoins>
+  <LetterWandererJoins>{PAWN_nameDef}(이)라는 이름의 {PAWN_title}(이)가 도착하여 정착지에 합류하고자 합니다.\n\n[PAWN_pronoun]는 정착지에 이바지하고자 하지만, 갈 곳이 없다고 주장하고 있으므로 스스로 떠나지는 않을 것입니다. {PAWN_objective} 돌려보낼 수는 있지만, 도움이 필요한 사람을 거절해서 정착민들이 불편해할 것입니다.</LetterWandererJoins>
 
   <LetterLabelCargoPodCrash>화물 낙하기</LetterLabelCargoPodCrash>
   <CargoPodCrash>화물 낙하기 몇 대가 근처에 추락하는걸 감지했습니다.\n\n잔해에서 유용한 물건을 찾을 수 있을지도 모릅니다.</CargoPodCrash>

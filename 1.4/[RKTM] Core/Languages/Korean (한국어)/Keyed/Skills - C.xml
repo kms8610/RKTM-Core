@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Level>기술 등급</Level>
+  <Level>수준</Level>
+  <SkillLevel>기술 등급</SkillLevel>
   <ProgressToNextLevel>다음 등급까지의 진행도</ProgressToNextLevel>
   <Experience>경험치</Experience>
   <Passion>열정</Passion>

@@ -159,13 +159,13 @@
   <QuestOutcomeInfo_Invalid>이 임무는 수락되기 전에 무효가 됐습니다.</QuestOutcomeInfo_Invalid>
   <JumpToTargetCustom>{0}(으)로 바로가기</JumpToTargetCustom>
   <SelectHiveTargets>군락 선택</SelectHiveTargets>
-  <QuestChallengeRatingTip>도전 등급. 당신이 지닌 요소들을 감안할 때 임무가 얼마나 어려울지에 대한 대략적인 평가입니다. 도전적인 임무는 더 큰 보상을 줍니다.\n\n★: 쉬움\n★★: 중간\n★★★: 어려움\n★★★★: 매우 어려움</QuestChallengeRatingTip>
-  <QuestAcceptanceRequirementsDescription>임무 조건:</QuestAcceptanceRequirementsDescription>
+  <QuestChallengeRatingTip>도전 등급입니다. 현재 상황을 감안했을 때, 이 임무가 얼마나 어려울지 나타낸 대략적인 평가입니다. 도전적인 임무일수록 더 큰 보상을 줍니다.\n\n★: 쉬움\n★★: 중간\n★★★: 어려움\n★★★★: 매우 어려움</QuestChallengeRatingTip>
+  <QuestAcceptanceRequirementsDescription>임무를 수락하려면 조건을 만족해야 합니다:</QuestAcceptanceRequirementsDescription>
   <QuestBedroomRequirementsUnsatisfied>다음 작위에 어울리는 빈 침실들:</QuestBedroomRequirementsUnsatisfied>
   <QuestBedroomRequirementsUnsatisfiedSingle>다음 작위에 어울리는 빈 침실:</QuestBedroomRequirementsUnsatisfiedSingle>
   <QuestThroneRoomRequirementsUnsatisfied>{PAWN_definite}의 {TITLE} 작위 요건을 충족하는 알현실</QuestThroneRoomRequirementsUnsatisfied>
   <QuestNoThroneRoom>{PAWN_definite}의 알현실 지정</QuestNoThroneRoom>
-  <QuestNoColonistWithTitle>다음 작위를 보유한 정착민: {0}.</QuestNoColonistWithTitle>
+  <QuestNoColonistWithTitle>다음 작위를 보유한 정착민: {0}</QuestNoColonistWithTitle>
   <QuestPawnNotOnColonyMap>{PAWN_definite}(은)는 정착지에 있어야 함</QuestPawnNotOnColonyMap>
   <QuestRequiresNoDangerOnMap>지도상에 수여자 세력의 적들이 없어야 함</QuestRequiresNoDangerOnMap>
   <QuestCanNotStartUntilBestowingCeremonyFinished>현재 진행 중인 수여식 임무 완료</QuestCanNotStartUntilBestowingCeremonyFinished>

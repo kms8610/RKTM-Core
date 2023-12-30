@@ -13,8 +13,8 @@
   <Animal_Plague.stages.extreme-0.label>극심함</Animal_Plague.stages.extreme-0.label>
   <Animal_Plague.stages.extreme-1.label>극심함</Animal_Plague.stages.extreme-1.label>
   
-  <FibrousMechanites.label>근섬유질 메카나이트</FibrousMechanites.label>
-  <FibrousMechanites.description>근육 조직에서 섬유질 구조를 형성하는 불규칙적인 메카나이트입니다. 감염자의 힘을 강화하지만 심한 통증을 유발합니다. 아마도 근육 강화 메카나이트의 변종일 것입니다.</FibrousMechanites.description>
+  <FibrousMechanites.label>근섬유질 기계입자</FibrousMechanites.label>
+  <FibrousMechanites.description>근육 조직에서 섬유질 구조를 형성하는 불안정한 기계입자입니다. 감염자의 힘을 강화하지만 심한 통증을 유발합니다. 아마도 근육 강화 기계입자의 변종일 것입니다.</FibrousMechanites.description>
   <FibrousMechanites.stages.mild_pain.label>가벼운 고통</FibrousMechanites.stages.mild_pain.label>
   <FibrousMechanites.stages.intense_pain.label>심각한 고통</FibrousMechanites.stages.intense_pain.label>
   
@@ -41,7 +41,7 @@
   <LungRotExposure.stages.serious.label>심각함</LungRotExposure.stages.serious.label>
   
   <Malaria.label>말라리아</Malaria.label>
-  <Malaria.description>모기에 기생하는 기생충에 의한 전염병입니다.</Malaria.description>
+  <Malaria.description>모기를 매개로 하는 기생충 때문에 발생하는 전염병입니다.</Malaria.description>
   <Malaria.stages.minor.label>가벼움</Malaria.stages.minor.label>
   <Malaria.stages.major.label>심각함</Malaria.stages.major.label>
   <Malaria.stages.extreme.label>극심함</Malaria.stages.extreme.label>
@@ -56,8 +56,8 @@
   <Plague.stages.extreme-0.label>극심함</Plague.stages.extreme-0.label>
   <Plague.stages.extreme-1.label>극심함</Plague.stages.extreme-1.label>
   
-  <SensoryMechanites.label>감각기 메카나이트</SensoryMechanites.label>
-  <SensoryMechanites.description>신경계에 자리를 잡는 불규칙적인 메카나이트입니다. 감염자의 감각을 강화하지만 강렬한 고통을 유발합니다. 아마도 감각기를 강화하는 메카나이트의 변종일 것입니다.</SensoryMechanites.description>
+  <SensoryMechanites.label>감각기 기계입자</SensoryMechanites.label>
+  <SensoryMechanites.description>신경계에 자리를 잡는 불안정한 기계입자입니다. 감염자의 감각을 강화하지만 강렬한 고통을 유발합니다. 아마도 감각기를 강화하는 기계입자의 변종일 것입니다.</SensoryMechanites.description>
   <SensoryMechanites.stages.mild_pain.label>가벼운 고통</SensoryMechanites.stages.mild_pain.label>
   <SensoryMechanites.stages.intense_pain.label>심각한 고통</SensoryMechanites.stages.intense_pain.label>
   

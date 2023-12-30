@@ -8,8 +8,8 @@
   <Disease_AnimalPlague.letterLabel>동물 질병 (흑사병)</Disease_AnimalPlague.letterLabel>
   <Disease_AnimalPlague.letterText>{0}마리의 동물들이 {2}(을)를 앓고 있습니다.\n\n가능한 많이 쉬도록 하고 적절한 치료를 해주세요.\n\n질병에 걸린 동물들</Disease_AnimalPlague.letterText>
   
-  <Disease_FibrousMechanites.label>근섬유질 메카나이트</Disease_FibrousMechanites.label>
-  <Disease_FibrousMechanites.letterLabel>질병 (근섬유질 메카나이트)</Disease_FibrousMechanites.letterLabel>
+  <Disease_FibrousMechanites.label>근섬유질 기계입자</Disease_FibrousMechanites.label>
+  <Disease_FibrousMechanites.letterLabel>질병 (근섬유질 기계입자)</Disease_FibrousMechanites.letterLabel>
   <Disease_FibrousMechanites.letterText>{0}명의 {1}(이)가 {2}(을)를 앓고 있습니다.\n\n의사와 의료용 침대가 있는지 확인하세요. 가능한 많은 시간을 침대에서 보내고 적절한 치료를 해주세요.\n\n질병에 걸린 {1}</Disease_FibrousMechanites.letterText>
   
   <Disease_Flu.label>독감</Disease_Flu.label>
@@ -32,8 +32,8 @@
   <Disease_Plague.letterLabel>질병 (흑사병)</Disease_Plague.letterLabel>
   <Disease_Plague.letterText>{0}명의 {1}(이)가 {2}(을)를 앓고 있습니다.\n\n의사와 의료용 침대가 있는지 확인하세요. 가능한 많은 시간을 침대에서 보내고 적절한 치료를 해주세요.\n\n질병에 걸린 {1}</Disease_Plague.letterText>
   
-  <Disease_SensoryMechanites.label>감각기 메카나이트</Disease_SensoryMechanites.label>
-  <Disease_SensoryMechanites.letterLabel>질병 (감각기 메카나이트)</Disease_SensoryMechanites.letterLabel>
+  <Disease_SensoryMechanites.label>감각기 기계입자</Disease_SensoryMechanites.label>
+  <Disease_SensoryMechanites.letterLabel>질병 (감각기 기계입자)</Disease_SensoryMechanites.letterLabel>
   <Disease_SensoryMechanites.letterText>{0}명의 {1}(이)가 {2}(을)를 앓고 있습니다.\n\n의사와 의료용 침대가 있는지 확인하세요. 가능한 많은 시간을 침대에서 보내고 적절한 치료를 해주세요.\n\n질병에 걸린 {1}</Disease_SensoryMechanites.letterText>
   
   <Disease_SleepingSickness.label>수면병</Disease_SleepingSickness.label>

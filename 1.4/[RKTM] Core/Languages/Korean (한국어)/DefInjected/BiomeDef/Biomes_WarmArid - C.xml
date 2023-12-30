@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <AridShrubland.label>건조관목림</AridShrubland.label>
-  <AridShrubland.description>건조한 지역이지만 사막으로 취급할 정도는 아닙니다. 잔디와 덤불로 덮인 평원 위에는 작은 숲이 여기저기 흩어져 있습니다. 식물들은 튼튼하며 적당한 수의 동물들이 살고 있지만 경작에 적합한 흙을 찾기는 힘듭니다.</AridShrubland.description>
+  <AridShrubland.description>건조한 지역이지만 사막으로 취급할 정도는 아닙니다. 잔디와 덤불로 덮인 평원 위에는 작은 숲이 여기저기 흩어져 있습니다. 식물들은 강인하고 적당한 수의 동물들이 살고 있지만 경작에 적합한 흙을 찾기는 힘듭니다.</AridShrubland.description>
   
   <Desert.label>사막</Desert.label>
   <Desert.description>생명체가 살기 어려울 정도로 건조한 지역입니다. 경작에 적합한 흙은 거의 찾아볼 수 없습니다. 사막은 아주 덥거나, 꽤 춥습니다.</Desert.description>

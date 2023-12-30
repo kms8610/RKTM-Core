@@ -4,7 +4,7 @@
   
   <GuiltyPrisonerDied.label>죄수 사망</GuiltyPrisonerDied.label>
   
-  <InnocentPrisonerDied.label>무고한 죄수의 죽음</InnocentPrisonerDied.label>
+  <InnocentPrisonerDied.label>무고한 수감자 사망</InnocentPrisonerDied.label>
   
   <MemberCaptured.label>구성원을 납치함</MemberCaptured.label>
   
@@ -26,5 +26,5 @@
   
   <UsedHarmfulItem.label>구성원을 해침</UsedHarmfulItem.label>
   
-  <XenogermAbsorbed.label>구성원의 변형이식체가 흡수됨</XenogermAbsorbed.label>
+  <XenogermAbsorbed.label>구성원의 변형이식체를 흡수함</XenogermAbsorbed.label>
 </LanguageData>

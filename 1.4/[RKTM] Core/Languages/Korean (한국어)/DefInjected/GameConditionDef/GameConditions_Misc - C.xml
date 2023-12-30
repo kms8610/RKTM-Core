@@ -20,7 +20,7 @@
   <Eclipse.letterText>이 행성의 위성 중 하나가 태양 앞을 지나가고 있습니다. 일식이 시작되었습니다.</Eclipse.letterText>
   
   <Flashstorm.label>섬광폭풍</Flashstorm.label>
-  <Flashstorm.description>엄청난 양의 벼락이 주변의 좁은 지역을 강타합니다.</Flashstorm.description>
+  <Flashstorm.description>엄청난 양의 벼락이 좁은 지역을 강타하고 있습니다.</Flashstorm.description>
   <Flashstorm.endMessage>섬광폭풍이 끝났습니다.</Flashstorm.endMessage>
   <Flashstorm.letterText>섬광폭풍이 좁은 지역을 강타하고 있습니다. 대형 화재가 발생할 수 있습니다.</Flashstorm.letterText>
   
@@ -34,7 +34,7 @@
   <Planetkiller.description>초대형 행성 파괴용 무기가 접근하고 있습니다. 도착하면 이 행성의 모든 생명체가 사라집니다.</Planetkiller.description>
   
   <PsychicDrone.label>괴로운 정신파동</PsychicDrone.label>
-  <PsychicDrone.description>어딘가 멀리 위치한 초월공학체가 궤도 증폭기를 통해 정신파동을 방출하고 있습니다. 사람들이 광기에 휩쌓입니다.</PsychicDrone.description>
+  <PsychicDrone.description>어딘가 멀리 위치한 초월공학체가 궤도 증폭기를 통해 정신파동을 방출하고 있습니다. 사람들이 광기에 휩싸입니다.</PsychicDrone.description>
   <PsychicDrone.descriptionFuture>[psychicDroneLevel] 수준의 정신파동이 [gameConditionDuration_duration] 동안 [map_definite] 주변에 울려 성별이 [psychicDroneGender]인 모든 사람을 광기로 빠져들게 합니다</PsychicDrone.descriptionFuture>
   <PsychicDrone.endMessage>괴로운 정신파동이 끝났습니다.</PsychicDrone.endMessage>
   <PsychicDrone.letterText>모든 {0} 정착민들이 불안과 분노의 파동을 느낍니다!\n\n어딘가 먼 곳에서 불쾌한 기운을 내뿜는 기계가 작동했습니다. {0}에만 영향을 주도록 설정된 궤도 증폭기를 통해 이 지역에 정신파동이 울립니다. 며칠 동안 사람들의 기분이 나빠질 것입니다.\n\n파동 단계 {1}.</PsychicDrone.letterText>

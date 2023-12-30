@@ -46,10 +46,10 @@
   <RoyalBed.description>금으로 장식까지 한, 높으신 분들을 위한 호화로운 침대입니다. 매우 편하고 두 명까지 누울 수 있습니다.</RoyalBed.description>
   
   <Shelf.label>선반</Shelf.label>
-  <Shelf.description>맨 땅에 비해 세 배의 물건을 적재할 수 있는 삼중 선반입니다. 선반에 보관한 물건은 절대 손상되지 않고 주변 미관에도 영향을 주지 않습니다.\n\n선반의 수납 공간은 제한돼있으므로 바위 덩어리나 건물, 식물, 대형 시체 등은 보관할 수 없습니다.</Shelf.description>
+  <Shelf.description>맨땅에 비해 세 배의 물건을 적재할 수 있는 삼중 선반입니다. 선반에 보관한 물건은 절대 손상되지 않고 주변 미관에도 영향을 주지 않습니다.\n\n선반의 수납공간은 제한돼있으므로 바위 덩어리나 건물, 식물, 대형 시체 등은 보관할 수 없습니다.</Shelf.description>
   
   <ShelfSmall.label>소형 선반</ShelfSmall.label>
-  <ShelfSmall.description>맨 땅에 비해 세 배의 물건을 적재할 수 있는 삼중 소형 선반입니다. 선반에 보관한 물건은 절대 손상되지 않고 주변 미관에도 영향을 주지 않습니다.\n\n선반의 수납 공간은 제한돼있으므로 바위 덩어리나 건물, 식물, 대형 시체 등은 보관할 수 없습니다.</ShelfSmall.description>
+  <ShelfSmall.description>맨땅에 비해 세 배의 물건을 적재할 수 있는 삼중 소형 선반입니다. 선반에 보관한 물건은 절대 손상되지 않고 주변 미관에도 영향을 주지 않습니다.\n\n선반의 수납공간은 제한돼있으므로 바위 덩어리나 건물, 식물, 대형 시체 등은 보관할 수 없습니다.</ShelfSmall.description>
   
   <SleepingSpot.label>잠자리</SleepingSpot.label>
   <SleepingSpot.description>바닥에 정착민들이 잠을 청할 위치를 정합니다. 불편합니다.</SleepingSpot.description>

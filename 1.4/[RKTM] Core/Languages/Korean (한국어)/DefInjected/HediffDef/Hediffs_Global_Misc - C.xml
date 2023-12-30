@@ -63,9 +63,9 @@
   <PsychicComa.description>초능력 과부하에서 뇌가 회복되는 동안 양성 혼수상태의 한 형태입니다.</PsychicComa.description>
   <PsychicComa.labelNoun>초능력 혼수상태</PsychicComa.labelNoun>
   
-  <PsychicHangover.label>정신적 후유증</PsychicHangover.label>
+  <PsychicHangover.label>초능력 후유증</PsychicHangover.label>
   <PsychicHangover.description>쌓여있던 신경열이 흩어지면서 발생하는 정신적 후유증입니다. 성가시지만 위험하지는 않습니다.</PsychicHangover.description>
-  <PsychicHangover.labelNoun>정신적 후유증</PsychicHangover.labelNoun>
+  <PsychicHangover.labelNoun>초능력 후유증</PsychicHangover.labelNoun>
   <PsychicHangover.stages.forming.label>몽롱함</PsychicHangover.stages.forming.label>
   <PsychicHangover.stages.buzzing.label>귀울림</PsychicHangover.stages.buzzing.label>
   

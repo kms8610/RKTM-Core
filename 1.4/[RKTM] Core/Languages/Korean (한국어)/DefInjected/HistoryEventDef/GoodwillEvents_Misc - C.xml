@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AttackedBuilding.label>건축물을 공격함</AttackedBuilding.label>
+  <AttackedBuilding.label>건물을 공격함</AttackedBuilding.label>
   
   <DebugGoodwill.label>디버그 이벤트</DebugGoodwill.label>
   
@@ -8,7 +8,7 @@
   
   <ReachNaturalGoodwill.label>시간에 따른 변화</ReachNaturalGoodwill.label>
   
-  <RitualDone.label>행사 종료</RitualDone.label>
+  <RitualDone.label>의식 완료</RitualDone.label>
   
   <ShuttleDestroyed.label>파괴된 왕복선</ShuttleDestroyed.label>
   

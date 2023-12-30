@@ -271,7 +271,7 @@
   <Difficulty_AdaptationEffectFactor_Label>피해 각색 효과</Difficulty_AdaptationEffectFactor_Label>
   <Difficulty_AdaptationEffectFactor_Info>각색이란 손실을 당하지 않은채 시간이 지날수록 이야기꾼이 게임을 더 어렵게 만드는 것을 의미합니다. 이는 재산과 인구수의 이야기 효과와는 별개입니다.\n\n실제 위협에 대한 적응값의 효과를 조정합니다.</Difficulty_AdaptationEffectFactor_Info>
   <Difficulty_FixedWealthMode_Label>재산 독립 진행방식</Difficulty_FixedWealthMode_Label>
-  <Difficulty_FixedWealthMode_Info>재산 독립 진행방식에서 플레이해보세요.\n\n일반 방식에서는 이야기꾼이 정착민 수, 재산과 기타 요인의 다양함에 따라 위협을 조정합니다. 재산 독립 진행방식에서는 재산 요인을 제거하고 시간을 기준으로 고정된 진행곡선으로 대체합니다. 시간은 각 정착지가 생성될 때부터 계산됩니다.\n\n숙련된 도전을 원하는 사람들에게만 권장됩니다. 고정 진행방식에서는 새로운 거주지를 찾지 않는 한 심각한 손실로부터 회복하기가 거의 불가능할 수도 있습니다. 또한, 진행곡선에 너무 앞서서 진행하다보면 게임을 쉽게 풀어낼 수도 있습니다.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>재산 독립 진행방식에서 플레이해보세요.\n\n일반 방식에서는 이야기꾼이 정착민 수, 재산과 기타 요인의 다양함에 따라 위협을 조정합니다. 재산 독립 진행방식에서는 재산 요인을 제거하고 시간을 기준으로 고정된 진행곡선으로 대체합니다. 시간은 각 정착지가 생성될 때부터 계산됩니다.\n\n숙련된 도전을 원하는 사람들에게만 권장됩니다. 고정 진행방식에서는 새로운 거주지를 찾지 않는 한 심각한 손실로부터 회복하기가 거의 불가능할 수도 있습니다. 또한 진행곡선에 너무 앞서서 진행하다보면 게임을 쉽게 풀어낼 수도 있습니다.</Difficulty_FixedWealthMode_Info>
   <Difficulty_FixedWealthTimeFactor_Label>최대 위협까지 (연수)</Difficulty_FixedWealthTimeFactor_Label>
   <Difficulty_FixedWealthTimeFactor_Info>재산 독립모드가 최대 위협 수준에 도달할 때까지의 게임 연수입니다.\n\n이야기꾼은 정착민 수와 기타 요인에 따라 위협 규모를 계속 확장합니다.</Difficulty_FixedWealthTimeFactor_Info>
 
@@ -297,7 +297,7 @@
   <River>강</River>
   <Elevation>고도</Elevation>
   <Fertility>토질</Fertility>
-  <FertilityLower>풍요</FertilityLower>
+  <FertilityLower>토질</FertilityLower>
   <AvgTemp>평균기온</AvgTemp>
   <Rainfall>강수량</Rainfall>
   <SpecialFeatures>특이사항</SpecialFeatures>
@@ -377,7 +377,7 @@
   <GeneratingMap>지도 생성 중</GeneratingMap>
   <GeneratingMapForNewEncounter>인카운터 지도 생성 중</GeneratingMapForNewEncounter>
 
-  <ClickForMoreInfo>더 많은 정보가 필요하면 클릭.</ClickForMoreInfo>
+  <ClickForMoreInfo>클릭해서 자세한 정보 확인</ClickForMoreInfo>
   <NoMoreInfoAvailable>더 이상 정보가 없습니다.</NoMoreInfoAvailable>
 
   <!-- Factions -->

@@ -24,6 +24,8 @@
   
   <BodyPartsBionic.label>생체공학품</BodyPartsBionic.label>
   
+  <BodyPartsMechtech.label>기계공학</BodyPartsMechtech.label>
+  
   <BodyPartsNatural.label>생체</BodyPartsNatural.label>
   
   <BodyPartsProsthetic.label>보철물</BodyPartsProsthetic.label>
@@ -86,7 +88,7 @@
   
   <Items.label>물건</Items.label>
   
-  <ItemsMisc.label>부상</ItemsMisc.label>
+  <ItemsMisc.label>기타</ItemsMisc.label>
   
   <Leathers.label>가죽</Leathers.label>
   

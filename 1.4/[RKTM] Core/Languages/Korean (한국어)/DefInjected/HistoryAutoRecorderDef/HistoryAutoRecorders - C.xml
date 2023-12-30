@@ -21,7 +21,7 @@
   <ThreatPoints.label>재미 점수 /10</ThreatPoints.label>
   <ThreatPoints.valueFormat>{0}점</ThreatPoints.valueFormat>
   
-  <Wealth_Buildings.label>재산 (건설)</Wealth_Buildings.label>
+  <Wealth_Buildings.label>재산 (건물)</Wealth_Buildings.label>
   <Wealth_Buildings.valueFormat>{0}</Wealth_Buildings.valueFormat>
   
   <Wealth_Items.label>재산 (물품)</Wealth_Items.label>

@@ -3,7 +3,7 @@
   <Burn.label>화상</Burn.label>
   <Burn.deathMessage>{0}(이)가 불에 타 사망했습니다.</Burn.deathMessage>
   
-  <Flame.label>불꽃</Flame.label>
+  <Flame.label>화염</Flame.label>
   <Flame.deathMessage>{0}(이)가 불에 타 사망했습니다.</Flame.deathMessage>
   
   <Frostbite.label>동상</Frostbite.label>

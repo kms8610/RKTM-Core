@@ -10,7 +10,7 @@
   <Heater.description>전기를 열로 바꾸는 기기입니다. 목표 온도에 도달하기 위해 스스로 켜고 끌 수 있습니다.</Heater.description>
   
   <PassiveCooler.label>자연냉방기</PassiveCooler.label>
-  <PassiveCooler.description>물의 증발을 이용해 방을 식히는 전통적인 냉방 도구입니다. 며칠 후에 물이 다 떨어지면 없어집니다.</PassiveCooler.description>
+  <PassiveCooler.description>물의 증발로 방을 식히는 전통적인 냉방 도구입니다. 주기적으로 목재를 보충해야 합니다. 음식을 냉장할만큼 충분히 효율적이지 않습니다.</PassiveCooler.description>
   
   <Vent.label>환풍구</Vent.label>
   <Vent.description>간단한 환풍구입니다. 사람들의 통행을 막으면서 두 방의 온도를 맞출 수 있습니다.</Vent.description>

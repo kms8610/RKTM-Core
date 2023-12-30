@@ -41,7 +41,7 @@
   <NoEmptyPlaceLower>적재 가능 장소 없음</NoEmptyPlaceLower>
   <NoMergeTarget>정리할 장소가 없음</NoMergeTarget>
   <AlreadyFilledLower>가득 참</AlreadyFilledLower>
-  <MissingMaterials>{0} 누락</MissingMaterials>
+  <MissingMaterials>{0} 없음</MissingMaterials>
   <NoMedicineMatchingCategory>'{CATEGORY}' 정책을 만족하는 약품 없음</NoMedicineMatchingCategory>
   <UnderRequiredSkill>요구 기술 {0} 이하</UnderRequiredSkill>
   <UnderAllowedSkill>허가 기술 {0} 이하</UnderAllowedSkill>
@@ -88,7 +88,7 @@
   <InstallImplantAlreadyInstalled>이미 설치됨</InstallImplantAlreadyInstalled>
   <InstallImplantHediffRequired>먼저 {0} 필요</InstallImplantHediffRequired>
   <InstallImplantAlreadyMaxLevel>이미 최고 단계임</InstallImplantAlreadyMaxLevel>
-  <InstallImplantMinLevel>최소 {0}레벨 필요</InstallImplantMinLevel><!-- text_todo -->
+  <InstallImplantMinLevel>최소 {0}레벨 필요</InstallImplantMinLevel>
   <InstallImplantPsychicallyDeaf>정신적 무감각</InstallImplantPsychicallyDeaf>
   <UpgradeImplant>{0}(을)를 {1}단계로 향상</UpgradeImplant>
   <SurgeryViolationFellowFactionMember>세력과의 동맹 위반</SurgeryViolationFellowFactionMember>
@@ -201,7 +201,7 @@
 
   <UseMedicalBed>완전히 치료될 때까지 휴식</UseMedicalBed>
   <NotInjured>부상 없음</NotInjured>
-  <NoDoctor>의사 없음</NoDoctor><!-- text_todo -->
+  <NoDoctor>의사 없음</NoDoctor>
   <SomeoneElseSleeping>{0}(이)가 사용 중</SomeoneElseSleeping>
   
   <TradeWith>{0}(와)과 거래</TradeWith>
@@ -232,7 +232,7 @@
   <CannotMissingHealthActivities>우선시 불가 ({0} 불가능)</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
-  <CannotGenericAlreadyAm>이미 {2_labelShort}(을)를 {0} 중</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>이미 {2_labelShort}{0} 중</CannotGenericAlreadyAm>
   <CannotGenericAlreadyAmCustom>이미 {0} 중</CannotGenericAlreadyAmCustom>
 
   <CannotPrioritizeWorkTypeDisabled>우선시 불가 ({0} 불가능)</CannotPrioritizeWorkTypeDisabled>
@@ -253,7 +253,7 @@
   <CannotPrioritizeBurying>매장 우선시 불가</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
-  <PrioritizeGeneric>우선 {1} {0}</PrioritizeGeneric>
+  <PrioritizeGeneric>우선 {1}{0}</PrioritizeGeneric>
   
   <DropAtEdge>가장자리에 낙하</DropAtEdge>
   <DropInCenter>중앙에 낙하</DropInCenter>
@@ -310,5 +310,8 @@
   <!-- Romance partner -->
   <CannotRomance>{0}(와)과 로맨스 불가</CannotRomance>
   <CanRomance>{0}(와)과 로맨스</CanRomance>
+
+  <!-- Feeding -->
+  <WarningFoodDisliked>싫어하는 음식</WarningFoodDisliked>
 
 </LanguageData>

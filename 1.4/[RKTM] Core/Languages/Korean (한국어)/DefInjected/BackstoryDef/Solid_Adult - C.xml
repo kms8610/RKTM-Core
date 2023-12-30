@@ -84,7 +84,7 @@
   <Assassin7.title>암살자</Assassin7.title>
   <Assassin7.titleShort>암살자</Assassin7.titleShort>
   
-  <BanditLeader74.baseDesc>{PAWN_nameDef}(은)는 범죄 조직의 계급을 타고 오르다가, 조직의 가장 구석진 곳이긴 하지만 하위 도적 무리의 대장까지 올랐습니다. {PAWN_possessive}의 개는 주인의 곁을 떠나지 않았습니다.</BanditLeader74.baseDesc>
+  <BanditLeader74.baseDesc>{PAWN_nameDef}(은)는 범죄 조직의 계급을 타고 오르다가, 조직의 가장 구석진 곳이긴 하지만 하위 도적 무리의 대장까지 올랐습니다. {PAWN_possessive} 개는 주인의 곁을 떠나지 않았습니다.</BanditLeader74.baseDesc>
   <BanditLeader74.title>도적 대장</BanditLeader74.title>
   <BanditLeader74.titleShort>도적</BanditLeader74.titleShort>
   
@@ -144,63 +144,63 @@
   <Brigand68.title>도적</Brigand68.title>
   <Brigand68.titleShort>도적</Brigand68.titleShort>
   
-  <BushSniper94.baseDesc>{PAWN_pronoun}의 나라가 무자비하게 침략 당했을 때, {PAWN_nameDef}의 평화로운 세상은 끝났습니다. {PAWN_pronoun}가 합법적으로 총기를 다룰 수 있는 나이가 되었을 때부터 무기를 들게 되었고, 소총에 대한 적성을 보였습니다. {PAWN_pronoun}는 수개월 동안 숲 속에서 국경을 넘는 병사들을 사살했습니다.</BushSniper94.baseDesc>
+  <BushSniper94.baseDesc>{PAWN_nameDef}의 나라가 무자비하게 침략당한 순간 {PAWN_possessive} 평화로운 삶은 끝났습니다.\n\n{PAWN_nameDef}(은)는 합법적으로 총기를 다룰 수 있는 나이가 되자마자 징병됐고, 소총에 대한 적성을 보였습니다. {PAWN_pronoun}는 수개월간 숲속에 머무르며 감히 국경을 넘는 병사들을 사살했습니다.</BushSniper94.baseDesc>
   <BushSniper94.title>숲의 저격수</BushSniper94.title>
   <BushSniper94.titleShort>저격수</BushSniper94.titleShort>
   
-  <BusinessGangster58.baseDesc>{PAWN_nameDef}(은)는 법의 구멍을 이용하여 합법적인 사업가가 되었고, 다른 사람들을 억압했습니다. 매춘업소, 밀매업소들의 소유주로써, {PAWN_pronoun}의 경쟁은 다른사람들이 불행하고 설명할 수 없는 사고를 겪었지만, {PAWN_nameDef}만은 행운이 계속되었습니다.</BusinessGangster58.baseDesc>
-  <BusinessGangster58.title>사업 조직폭력배</BusinessGangster58.title>
-  <BusinessGangster58.titleShort>조직폭력배</BusinessGangster58.titleShort>
+  <BusinessGangster58.baseDesc>{PAWN_nameDef}(은)는 법의 구멍을 이용하여 합법적인 사업가가 됐고, 적법성에 의문을 펼치려는 자는 침묵시켰습니다. {PAWN_possessive} 경쟁자들이 규명할 수 없는 불행한 사고를 겪는 동안, {PAWN_nameDef}의 매춘업소와 밀매장은 번창했습니다.</BusinessGangster58.baseDesc>
+  <BusinessGangster58.title>사업가 조폭</BusinessGangster58.title>
+  <BusinessGangster58.titleShort>조폭</BusinessGangster58.titleShort>
   
-  <Caravaneer53.baseDesc>{PAWN_nameDef}(은)는 행상의 지도자였습니다. {PAWN_pronoun}는 상단의 안전을 책임졌고 수많은 거래에서 협상을 맡았습니다. {PAWN_pronoun}와 {PAWN_possessive} 사람들은 풍요를 누릴 수 있었지만 부는 강도들을 유혹했습니다. 따라서 상단원들은 전원 무장하고 싸워서 적을 쫓아내야 했습니다.</Caravaneer53.baseDesc>
+  <Caravaneer53.baseDesc>{PAWN_nameDef}(은)는 행상의 지도자였습니다. {PAWN_pronoun}는 상단의 안전을 책임졌고 수많은 거래에서 협상을 맡았습니다.\n\n{PAWN_pronoun}와 행상 사람들은 풍요를 누릴 수 있었지만 거래의 부는 강도들을 유혹했습니다. 때문에 상단원들은 전원 무장하고 싸워서 적을 쫓아내야 했습니다.</Caravaneer53.baseDesc>
   <Caravaneer53.title>행상 지도자</Caravaneer53.title>
-  <Caravaneer53.titleShort>행상 지도자</Caravaneer53.titleShort>
+  <Caravaneer53.titleShort>행상</Caravaneer53.titleShort>
   
-  <CargoPilot58.baseDesc>{PAWN_nameDef}(은)는 장거리 광물 화물선에서 자랐습니다. {PAWN_pronoun}는 화물선에서 무기를 운용하면서, 사람들의 거래와 속임수에 대한 기술들을 완벽히 익혔습니다.</CargoPilot58.baseDesc>
+  <CargoPilot58.baseDesc>{PAWN_nameDef}(은)는 장거리 광물 화물선에서 일했습니다. {PAWN_pronoun}는 화물선에서 무기를 운용하면서, 사람들과 거래하거나 사람들을 조종하는 기법을 갈고닦았습니다.</CargoPilot58.baseDesc>
   <CargoPilot58.title>화물선 조종사</CargoPilot58.title>
   <CargoPilot58.titleShort>조종사</CargoPilot58.titleShort>
   
-  <CasketBuilder52.baseDesc>{PAWN_nameDef}(은)는 cryosleep에 매료되었고, 신비한 기술을 연구하며 일생을 보냈습니다.\n\n중간계에서 조립 기술자로 일하면서 {PAWN_pronoun}는 폐기된 부품으로 시험용 프로토타입 관을 제작했습니다. 불행히도 {PAWN_pronoun}가 마지막 부품을 찾는 동안, {PAWN_pronoun}의 집은 폭발해 잿더미가 되었습니다.</CasketBuilder52.baseDesc>
-  <CasketBuilder52.title>관을 짜는자</CasketBuilder52.title>
+  <CasketBuilder52.baseDesc>{PAWN_nameDef}(은)는 동면 기술에 매료돼 평생을 이 신비한 기술의 연구에 매달렸습니다.\n\n{PAWN_pronoun}는 중간계에서 조립 기술자로 일하면서, 폐기된 부품을 사용해 시험용 프로토타입 동면관을 제작했습니다. 불행히도 {PAWN_nameDef}(이)가 마지막 부품을 찾으러 나간 사이 {PAWN_possessive} 집에서 폭탄이 터져 모든 게 사라졌습니다.</CasketBuilder52.baseDesc>
+  <CasketBuilder52.title>동면관 제작자</CasketBuilder52.title>
   <CasketBuilder52.titleShort>제작자</CasketBuilder52.titleShort>
   
-  <Castaway81.baseDesc>{PAWN_nameDef}(은)는 평범한 행성이동 우주선에 탑승한 승객이었습니다. {PAWN_pronoun}가 타고있던 배가 파괴되었기 때문에, {PAWN_pronoun}는 몇 년동안 사람이 살지 않는 행성에서 버려진 채로 살았습니다.</Castaway81.baseDesc>
+  <Castaway81.baseDesc>{PAWN_nameDef}(은)는 평범한 항성 간 이동 함선에 탑승한 승객이었습니다. {PAWN_pronoun}가 탑승한 함선은 파괴됐고, {PAWN_nameDef}(은)는 미정착 행성에서 몇 년을 혼자 살아야 했습니다.</Castaway81.baseDesc>
   <Castaway81.title>조난자</Castaway81.title>
   <Castaway81.titleShort>조난자</Castaway81.titleShort>
   
-  <Chemist73.baseDesc>{PAWN_nameDef}(은)는 화학 연구자입니다. {PAWN_pronoun}는 새로운 물질과 치료법을 개발하기 위해 제약에서 폭발물까지 화학물질을 연구했습니다.</Chemist73.baseDesc>
+  <Chemist73.baseDesc>{PAWN_nameDef}(은)는 화학자였습니다. {PAWN_pronoun}는 새로운 물질과 치료법을 개발하기 위해 제약에서 폭발물까지 온갖 화학물질을 연구했습니다.</Chemist73.baseDesc>
   <Chemist73.title>화학자</Chemist73.title>
   <Chemist73.titleShort>화학자</Chemist73.titleShort>
   
-  <Chemist78.baseDesc>{PAWN_nameDef}(은)는 번창하는 중간계에서 유명한 화학자입니다.\n\n사람을 짐승으로 만드는 비인간적인 실험을 한 후, {PAWN_pronoun}는 체포되어 멀리 떨어진 변경계로 추방당했습니다.</Chemist78.baseDesc>
+  <Chemist78.baseDesc>{PAWN_nameDef}(은)는 번창하는 중간계에서 유명한 화학자였습니다.\n\n사람들을 짐승으로 만든 비인간적인 실험을 한 후, {PAWN_pronoun}는 체포되어 멀리 떨어진 변경계로 추방당했습니다.</Chemist78.baseDesc>
   <Chemist78.title>화학자</Chemist78.title>
   <Chemist78.titleShort>화학자</Chemist78.titleShort>
   
-  <ChiefEngineer62.baseDesc>대형 우주선에 탑승한 수석 기술자로서 {PAWN_nameDef}(은)는 성가시고 복잡한 모든 일에 전문가였습니다.\n\n{PAWN_pronoun}는 몇 가지 기본적인 생활필수품만을 다른 선원들에게 의지했습니다. 그와 {PAWN_pronoun}의 배는 결국 동면여행 항해 도중 사라졌습니다.</ChiefEngineer62.baseDesc>
+  <ChiefEngineer62.baseDesc>{PAWN_nameDef}(은)는 대형 우주선의 수석 기술자로서 모든 성가시고 복잡한 일에 전문가였습니다.\n\n{PAWN_pronoun}는 몇 가지 기본적인 생필품만 다른 선원들에게 의지했습니다. 마지막에 {PAWN_pronoun}와 {PAWN_pronoun}의 함선은 긴 동면의 탐험 항해에 접어들었습니다.</ChiefEngineer62.baseDesc>
   <ChiefEngineer62.title>수석 기술자</ChiefEngineer62.title>
-  <ChiefEngineer62.titleShort>엔지니어</ChiefEngineer62.titleShort>
+  <ChiefEngineer62.titleShort>기술자</ChiefEngineer62.titleShort>
   
-  <CivilEngineer2.baseDesc>{PAWN_nameDef}(은)는 잘 알려진 토목 기술자였습니다. {PAWN_possessive} 직업은 암석 강화 건물을 설계하고 유지하는 것과 관련되어 있습니다. {PAWN_pronoun}는 정신을 집중하려고 통계 분석을 충분히 했습니다.</CivilEngineer2.baseDesc>
+  <CivilEngineer2.baseDesc>{PAWN_nameDef}(은)는 잘 알려진 토목 기술자였고, {PAWN_possessive} 일은 암석 보강 구조물을 설계하고 유지하는 것이었습니다. {PAWN_nameDef}(은)는 날카로운 정신을 유지하기 위해 통계 분석도 하곤 했습니다.</CivilEngineer2.baseDesc>
   <CivilEngineer2.title>토목 기술자</CivilEngineer2.title>
-  <CivilEngineer2.titleShort>엔지니어</CivilEngineer2.titleShort>
+  <CivilEngineer2.titleShort>기술자</CivilEngineer2.titleShort>
   
   <CivilServant25.baseDesc>{PAWN_nameDef}(은)는 정부 관료였습니다.\n\n혈연 덕분에 {PAWN_pronoun}는 높은 위치로 올라갈 수 있었지만, 상관에게 공개적으로 반기를 든 후 {PAWN_pronoun}의 승진은 끝났습니다. 가난한 사람들을 불쌍히 여긴 것이 때문에 결국 {PAWN_nameDef}의 커리어에는 오점으로 남았습니다.</CivilServant25.baseDesc>
   <CivilServant25.title>공무원</CivilServant25.title>
   <CivilServant25.titleShort>공무원</CivilServant25.titleShort>
   
-  <ClanChief14.baseDesc>{PAWN_nameDef}(은)는 외곽 무역중심지에서 소규모 범죄 조직을 관리했습니다.</ClanChief14.baseDesc>
-  <ClanChief14.title>클랜 요리사</ClanChief14.title>
-  <ClanChief14.titleShort>족장</ClanChief14.titleShort>
+  <ClanChief14.baseDesc>{PAWN_nameDef}(은)는 은하 외곽의 무역 허브 행성에서 작은 범죄조직을 관리했습니다.</ClanChief14.baseDesc>
+  <ClanChief14.title>대장</ClanChief14.title>
+  <ClanChief14.titleShort>대장</ClanChief14.titleShort>
   
-  <CloneFarmer58.baseDesc>복제 농장에서 제품을 수확하는 일은 대개 복제된 사람들이 맡아서 하게 됩니다. 복제자들이 사회적인 감정을 가졌을 경우에 특이한 일이 발생하는데 이 복제품이 그렇습니다. 이 자는 농장에서 나와 다른 별을 향해 탈출하는 자 중 하나입니다.</CloneFarmer58.baseDesc>
-  <CloneFarmer58.title>복제 농부</CloneFarmer58.title>
-  <CloneFarmer58.titleShort>복제기</CloneFarmer58.titleShort>
+  <CloneFarmer58.baseDesc>복제인간 농장에서는 제품도 복제인간이지만, 제품을 수확해야 하는 사람도 복제인간, 그 중에서도 특히 사회성이 높은 개체들입니다. {PAWN_nameDef}(은)는 그런 복제품 중 하나였고, 농장을 탈출해 별들 사이로 떠났습니다.</CloneFarmer58.baseDesc>
+  <CloneFarmer58.title>복제인간 농부</CloneFarmer58.title>
+  <CloneFarmer58.titleShort>복제자</CloneFarmer58.titleShort>
   
-  <ColiseumFighter22.baseDesc>수년간 투사들 주변에서 얻은 지식을 이용해서, {PAWN_pronoun}는 한때 청소했던 콜로세움에서 성공적인 검투사가 됐습니다.</ColiseumFighter22.baseDesc>
-  <ColiseumFighter22.title>콜로세움 투사</ColiseumFighter22.title>
-  <ColiseumFighter22.titleShort>투기장 전사</ColiseumFighter22.titleShort>
+  <ColiseumFighter22.baseDesc>{PAWN_nameDef}(은)는 투기장의 청소부에 불과했으나, 어깨너머로 투사들에게 배운 전투 기술을 활용해 스스로 성공적인 검투사가 됐습니다.</ColiseumFighter22.baseDesc>
+  <ColiseumFighter22.title>투기장 투사</ColiseumFighter22.title>
+  <ColiseumFighter22.titleShort>투사</ColiseumFighter22.titleShort>
   
-  <ColonialGovernor78.baseDesc>만연한 정부의 부패에 환멸을 느낀 {PAWN_nameDef}(은)는 주지사로 출마하고 당선되었습니다. 하지만 지역 갱단과 그들과 엮인 부패한 관계자들은 곧 {PAWN_pronoun}를 강제로 몰아냈습니다.\n\n{PAWN_pronoun}는 보안관으로서 {PAWN_pronoun}의 삶으로 돌아가기 위해 지역사회를 떠났습니다.</ColonialGovernor78.baseDesc>
+  <ColonialGovernor78.baseDesc>만연한 정부의 부패에 환멸을 느낀 {PAWN_nameDef}(은)는 총독으로 출마해 당선됐습니다. 하지만 지역 갱단과, 유착 관계의 공직자들이 곧 {PAWN_pronoun}를 강제로 몰아냈습니다.\n\n{PAWN_pronoun}는 식민지 공동체를 떠나 과거 보안관으로서 삶으로 돌아갔습니다.</ColonialGovernor78.baseDesc>
   <ColonialGovernor78.title>식민지 총독</ColonialGovernor78.title>
   <ColonialGovernor78.titleShort>총독</ColonialGovernor78.titleShort>
   
@@ -248,9 +248,9 @@
   <CorpResearcher71.title>기업 연구원</CorpResearcher71.title>
   <CorpResearcher71.titleShort>연구자</CorpResearcher71.titleShort>
   
-  <CorpResearcher93.baseDesc>{PAWN_nameDef}(은)는 거대한 우주여행 기업의 리더 연구원이었습니다.</CorpResearcher93.baseDesc>
+  <CorpResearcher93.baseDesc>{PAWN_nameDef}(은)는 거대한 우주 탐험 기업의 수석 연구원이었습니다.</CorpResearcher93.baseDesc>
   <CorpResearcher93.title>기업 연구원</CorpResearcher93.title>
-  <CorpResearcher93.titleShort>연구자</CorpResearcher93.titleShort>
+  <CorpResearcher93.titleShort>연구원</CorpResearcher93.titleShort>
   
   <CorporateBuilder58.baseDesc>비록 재능은 적었지만, {PAWN_nameDef}(은)는 물체를 빠르게 움직이는데 재주가 있었습니다. 그것은 초대형 건설 회사에서 필요한 능력이었습니다. {PAWN_possessive} 재주는 불행히도 {PAWN_pronoun}에게 남아있던 약간의 창의력마저 뺏어갓습니다.</CorporateBuilder58.baseDesc>
   <CorporateBuilder58.title>기업 건축업자</CorporateBuilder58.title>
@@ -316,9 +316,9 @@
   <DromedaryKnight37.title>낙타기병</DromedaryKnight37.title>
   <DromedaryKnight37.titleShort>기사</DromedaryKnight37.titleShort>
   
-  <DrugLieutenant98.baseDesc>{PAWN_nameDef}(은)는 왕 Grady Loughman 밑에서 마약거래를 했습니다. 그는 마약을 팔아 돈을 벌었고, 정부 또한 마약으로 회유를 했습니다.\n\n그의 수완은 그를 정치싸움의 선두에 서게 했고, 그는 언제나 요리하고 청소할 노예들을 가지고 있었습니다.</DrugLieutenant98.baseDesc>
+  <DrugLieutenant98.baseDesc>{PAWN_nameDef}(은)는 마약조직 두목 그레이디 로우먼 밑에서 일했습니다. {PAWN_pronoun}는 마약을 팔아 돈을 벌었고, 정부 또한 마약으로 회유했습니다.\n\n{PAWN_pronoun}의 수완은 {PAWN_nameDef}(을)를 정쟁의 꼭대기에 올려놨고, 청소와 요리를 대신해주는 하인들을 부렸습니다.</DrugLieutenant98.baseDesc>
   <DrugLieutenant98.title>마약 부관</DrugLieutenant98.title>
-  <DrugLieutenant98.titleShort>마약인</DrugLieutenant98.titleShort>
+  <DrugLieutenant98.titleShort>마약상</DrugLieutenant98.titleShort>
   
   <EnergyResearcher89.baseDesc>{PAWN_nameDef}(은)는 장거리 통신을 위한 아이디어를 구상하고 있었습니다. {PAWN_pronoun}는 오류를 만들었고 {PAWN_pronoun}의 연구소와 도시 대부분의 지역이 파괴되었습니다. {PAWN_pronoun}는 정부당국으로부터 탈출하기 위해 행성에서 달아났습니다.</EnergyResearcher89.baseDesc>
   <EnergyResearcher89.title>에너지 연구원</EnergyResearcher89.title>
@@ -404,7 +404,7 @@
   <GameDeveloper95.title>게임 개발자</GameDeveloper95.title>
   <GameDeveloper95.titleShort>게임 개발자</GameDeveloper95.titleShort>
   
-  <GameTester77.baseDesc>핵전쟁 이후 아무도 살수없게 된 행성에서 새로운 삶을 시작하게 된 {PAWN_nameDef}(은)는 아버지로부터 돈을 빌려 {PAWN_possessive} 욕망을 채우게 되었습니다.\n\n{PAWN_pronoun}는 정착지 시뮬레이션 플레이 하는 것을 좋아했고, 게임하면서 가장 좋아했던 건 정성을 들여 병원을 짓는 것이었습니다. 대부분의 시간을 게임을 하면서 보냈고, 복수의 필요성이나 전쟁의 공포에 대해선 잊어버리게 되었습니다.</GameTester77.baseDesc>
+  <GameTester77.baseDesc>핵전쟁 이후의 황폐한 행성에서 새로운 삶을 살아가던 {PAWN_nameDef}(은)는 아버지에게서 빌린 돈을 사용해 {PAWN_possessive} 욕망을 채울 수 있었습니다.\n\n{PAWN_pronoun}는 어떤 정착지 시뮬레이션을 즐겨 플레이했고, 정교한 병원을 짓길 좋아했습니다. 대부분의 시간을 게임에 소비한 {PAWN_nameDef}(은)는 전쟁의 공포와 복수의 필요성을 모두 망각해버렸습니다.</GameTester77.baseDesc>
   <GameTester77.title>게임 테스터</GameTester77.title>
   <GameTester77.titleShort>테스터</GameTester77.titleShort>
   
@@ -428,7 +428,7 @@
   <Gigolo68.title>제비족</Gigolo68.title>
   <Gigolo68.titleShort>제비족</Gigolo68.titleShort>
   
-  <Gnomebiologist96.baseDesc>{PAWN_nameDef}(은)는 번화계 대학교에서 우주생물학 교수로 일했습니다. {PAWN_pronoun}는 학회에도 참여하고 미술관도 경영했습니다.\n\n그러나, 바쁜 와중에도 {PAWN_pronoun}는 마당에서 노움 조각하는 일도 멈추지 않았고 이것이 진정한 직업이라고 생각했습니다.</Gnomebiologist96.baseDesc>
+  <Gnomebiologist96.baseDesc>{PAWN_nameDef}(은)는 번화계 대학교에서 우주생물학 교수로 일했습니다. {PAWN_pronoun}는 학회에도 참여하고 미술관도 경영했습니다.\n\n그러나 바쁜 와중에도 {PAWN_pronoun}는 마당에서 노움 조각하는 일도 멈추지 않았고 이것이 진정한 직업이라고 생각했습니다.</Gnomebiologist96.baseDesc>
   <Gnomebiologist96.title>노움 생물학자</Gnomebiologist96.title>
   <Gnomebiologist96.titleShort>생물학자</Gnomebiologist96.titleShort>
   
@@ -634,11 +634,11 @@
   
   <MilitaryEngineer45.baseDesc>{PAWN_nameDef}(은)는 식민지 군대의 기술자로 일했습니다. {PAWN_pronoun}는 무기, 살생 드론, 기타 놀잇감을 가지고 놀아야 했습니다. {PAWN_pronoun}는 메카노이드 도구를 수리하고 조정하는데 전문입니다. 때때로 {PAWN_pronoun}는 그것을 자신에게 시험했습니다.</MilitaryEngineer45.baseDesc>
   <MilitaryEngineer45.title>군대 기술자</MilitaryEngineer45.title>
-  <MilitaryEngineer45.titleShort>엔지니어</MilitaryEngineer45.titleShort>
+  <MilitaryEngineer45.titleShort>기술자</MilitaryEngineer45.titleShort>
   
-  <MilitaryGunsmith27.baseDesc>{PAWN_possessive} 세계가 충돌하였고, {PAWN_nameDef}(은)는 많은 동료들과 함께 전투 로봇에 강제 투입되었습니다.\n\n {PAWN_possessive} 특정 전문 지식은 운이 좋게도, {PAWN_pronoun}를 최전방 보다는 소형 무기 수리공으로 일하는 자리에 배치될 수 있게 했습니다.</MilitaryGunsmith27.baseDesc>
-  <MilitaryGunsmith27.title>육군 대대장</MilitaryGunsmith27.title>
-  <MilitaryGunsmith27.titleShort>대대장</MilitaryGunsmith27.titleShort>
+  <MilitaryGunsmith27.baseDesc>무력 분쟁이 {PAWN_nameDef}의 행성을 집어삼키자, {PAWN_pronoun}는 많은 동료들과 함께 징집돼 전투 로봇에 탑승했습니다.\n\n{PAWN_possessive} 전문지식을 활용한 결과 {PAWN_nameDef}(은)는 최전선 투입을 면하고 대신 소형 화기를 수리하는 역할을 맡을 수 있었습니다.</MilitaryGunsmith27.baseDesc>
+  <MilitaryGunsmith27.title>총기정비병</MilitaryGunsmith27.title>
+  <MilitaryGunsmith27.titleShort>총기정비병</MilitaryGunsmith27.titleShort>
   
   <MilitaryInventor35.baseDesc>{PAWN_nameDef}(은)는 마지막 반항행위로 아버지의 연구실을 떠나 지역 제국군에 입대했습니다.\n\n{PAWN_pronoun}는 전투 기계를 설계하기 위해 {PAWN_pronoun}의 연구실의 기술을 사용했습니다. 이 곳에서 {PAWN_pronoun}는 {PAWN_pronoun}의 행성에서 가장 뛰어난 사람 중 한명이었습니다.</MilitaryInventor35.baseDesc>
   <MilitaryInventor35.title>군대 발명가</MilitaryInventor35.title>
@@ -712,8 +712,8 @@
   <ParamilitaryAgent11.title>준군사조직 요원</ParamilitaryAgent11.title>
   <ParamilitaryAgent11.titleShort>요원</ParamilitaryAgent11.titleShort>
   
-  <ParticlePhysicist44.baseDesc>{PAWN_nameDef}(은)는 최첨단 물리학 연구를 했습니다. 그녀는 더욱 아름답고 평화로운 미래를 꿈꿔왔습니다.</ParticlePhysicist44.baseDesc>
-  <ParticlePhysicist44.title>입자 물리학자</ParticlePhysicist44.title>
+  <ParticlePhysicist44.baseDesc>{PAWN_nameDef}(은)는 최첨단 물리학 연구를 하며 더 밝고 평화로운 미래를 건설하는 것을 꿈꿨습니다.</ParticlePhysicist44.baseDesc>
+  <ParticlePhysicist44.title>입자물리학자</ParticlePhysicist44.title>
   <ParticlePhysicist44.titleShort>물리학자</ParticlePhysicist44.titleShort>
   
   <Philosopher97.baseDesc>{PAWN_nameDef}의 고고학 기술지식에 대한 열망은 {PAWN_pronoun}를 버려진 데이터 센터를 조사하고, 고대 코딩 언어를 연구하는데 수년을 소비하게 했습니다.\n\n몇몇 사람들은 {PAWN_pronoun}가 과거의 비극을 종합하고 미래를 향한 길을 제시할 수 있는 몇 안 되는 사람들 중 하나라고 주장합니다.</Philosopher97.baseDesc>
@@ -968,7 +968,7 @@
   <SpaceStationCook63.title>우주 정거장 요리사</SpaceStationCook63.title>
   <SpaceStationCook63.titleShort>조리</SpaceStationCook63.titleShort>
   
-  <SpaceTechnician29.baseDesc>{PAWN_nameDef}(은)는 범죄자 생활을 청산한 뒤 우주 정거장에서 유지 보수 기술자로 일했습니다. {PAWN_pronoun}는 다양한 수리 및 건축 작업을 경험했습니다. 또한, 기초 연구 활동에 참여하고 종종 다투는 동료들을 중재하기도 했습니다. 다만 예술을 좋아하지는 않았습니다.</SpaceTechnician29.baseDesc>
+  <SpaceTechnician29.baseDesc>{PAWN_nameDef}(은)는 범죄자 생활을 청산한 뒤 우주 정거장에서 유지 보수 기술자로 일했습니다. {PAWN_pronoun}는 다양한 수리 및 건축 작업을 경험했습니다. 또한 기초 연구 활동에 참여하고 종종 다투는 동료들을 중재하기도 했습니다. 다만 예술을 좋아하지는 않았습니다.</SpaceTechnician29.baseDesc>
   <SpaceTechnician29.title>우주 기술자</SpaceTechnician29.title>
   <SpaceTechnician29.titleShort>기술자</SpaceTechnician29.titleShort>
   
@@ -1012,7 +1012,7 @@
   <StarfighterPilot79.title>우주전투기 조종사</StarfighterPilot79.title>
   <StarfighterPilot79.titleShort>조종사</StarfighterPilot79.titleShort>
   
-  <StarshipDoctor37.baseDesc>{PAWN_nameDef}(은)는 우주선의 의사로 일했습니다. {PAWN_pronoun}는 훌륭한 외과의였고 연구에 몰두했습니다. 그러나, {PAWN_pronoun}는 극히 내성적이었고 교양머리도 없었습니다.</StarshipDoctor37.baseDesc>
+  <StarshipDoctor37.baseDesc>{PAWN_nameDef}(은)는 우주선의 의사로 일했습니다. {PAWN_pronoun}는 훌륭한 외과의였고 연구에 몰두했습니다. 그러나 {PAWN_pronoun}는 극히 내성적이었고 교양머리도 없었습니다.</StarshipDoctor37.baseDesc>
   <StarshipDoctor37.title>우주선 의사</StarshipDoctor37.title>
   <StarshipDoctor37.titleShort>의사</StarshipDoctor37.titleShort>
   
@@ -1160,9 +1160,9 @@
   <Villain89.title>악당</Villain89.title>
   <Villain89.titleShort>악당</Villain89.titleShort>
   
-  <VinhoKing98.baseDesc>아라세나 VI가 금지당한 후, {PAWN_nameDef}(은)는 지하 주류 사업을 두 대륙 시장을 장악할 때까지 확장했습니다. 어떤 이들은 {PAWN_pronoun}를 와인의 왕이라고 불렀습니다.\n\n{PAWN_pronoun}는 {PAWN_pronoun}의 경쟁자를 정치적 수완으로 대부분 지배했지만, 암살이나 폭력의 선을 넘는 일은 없었습니다.</VinhoKing98.baseDesc>
+  <VinhoKing98.baseDesc>아라세나 VI의 금주령 후, {PAWN_nameDef}(은)는 지하 주류 사업을 계속 확장해 결국 두 대륙의 시장을 장악했습니다. 사람들은 {PAWN_pronoun}를 와인의 왕이라고 불렀습니다.\n\n{PAWN_pronoun}는 경쟁자 대부분을 뛰어난 정치적 수로 조종했지만, 구타와 암살은 가끔만 진행했습니다.</VinhoKing98.baseDesc>
   <VinhoKing98.title>와인의 왕</VinhoKing98.title>
-  <VinhoKing98.titleShort>술의 왕</VinhoKing98.titleShort>
+  <VinhoKing98.titleShort>주류왕</VinhoKing98.titleShort>
   
   <VoidRaider74.baseDesc>모험과 영광을 갈망하는 {PAWN_nameDef}(은)는 약탈자 무리와 {PAWN_pronoun}의 형제들에 대해 충성을 맹세했습니다. {PAWN_pronoun}의 칼과 권총의 힘으로, 별들 사이의 공허를 가로질러 그들의 영광을 퍼트렸습니다.</VoidRaider74.baseDesc>
   <VoidRaider74.title>공허 약탈자</VoidRaider74.title>
@@ -1180,15 +1180,15 @@
   <WanderingHealer52.title>방랑하는 치유사</WanderingHealer52.title>
   <WanderingHealer52.titleShort>치유사</WanderingHealer52.titleShort>
   
-  <WarChief97.baseDesc>{PAWN_nameDef}(은)는 석기시대 수준에 머무른 부족의 지도자였습니다. {PAWN_pronoun}에게 전쟁은 놀이였으며, 약탈과 방화보다 재미있는 것은 없었습니다.</WarChief97.baseDesc>
-  <WarChief97.title>대족장</WarChief97.title>
+  <WarChief97.baseDesc>{PAWN_nameDef}(은)는 변경계 부족민 무리의 지도자였습니다. {PAWN_pronoun}에게 있어 전장은 놀이나 마찬가지였고 전쟁의 화염보다 재밌는 건 없었습니다.</WarChief97.baseDesc>
+  <WarChief97.title>전쟁인도자</WarChief97.title>
   <WarChief97.titleShort>족장</WarChief97.titleShort>
   
   <Warlordess56.baseDesc>{PAWN_nameDef}(은)는 강력한 해적 세력의 리더였습니다.\n\n{PAWN_pronoun}는 아무리 불리한 상황에서도 적의 도전을 피하지 않습니다. {PAWN_pronoun}는 살인 기계입니다.</Warlordess56.baseDesc>
   <Warlordess56.title>전쟁 군주</Warlordess56.title>
   <Warlordess56.titleShort>전쟁 군주</Warlordess56.titleShort>
   
-  <Warrior73.baseDesc>{PAWN_nameDef}(은)는 {PAWN_pronoun}의 행성의 3차 세계 대전의 영웅이었습니다. {PAWN_pronoun}는 특히 긴박한 교착 상태에서 핵무기가 발사되는 것을 막는데 일조했습니다.</Warrior73.baseDesc>
+  <Warrior73.baseDesc>{PAWN_nameDef}(은)는 고향 행성에서 발생했던 3차 세계 대전, 그중에서도 특히 긴박했던 교착 상태에서 핵무기가 발사되는 것을 막음으로써 전쟁영웅이 됐습니다.</Warrior73.baseDesc>
   <Warrior73.title>전사</Warrior73.title>
   <Warrior73.titleShort>전사</Warrior73.titleShort>
   
@@ -1200,7 +1200,7 @@
   <WhiteHatHacker82.title>화이트 해커</WhiteHatHacker82.title>
   <WhiteHatHacker82.titleShort>해커</WhiteHatHacker82.titleShort>
   
-  <WildlifeRanger99.baseDesc>여러 동물을 거의 멸종에 가깝게 수렵하는 밀렵꾼들을 보고 경악한 {PAWN_nameDef}(은)는 야생동물 경비대가 되었습니다. {PAWN_pronoun}는 필요한 경우 동물을 강제로 보호하고 보살핍니다.\n\n{PAWN_pronoun}는 점점 사람들이 사치와 이익을 위해 동물을 도살하는 것을 싫어하게 되었습니다.</WildlifeRanger99.baseDesc>
+  <WildlifeRanger99.baseDesc>밀렵꾼들이 여러 동물들을 멸종에 가깝게 몰아간 것을 보고 경악한 {PAWN_nameDef}(은)는 야생동물 경비대가 됐습니다. {PAWN_pronoun}는 동물들을 보살피고 보호했으며 필요하다면 무력행사도 마다하지 않았습니다.\n\n{PAWN_nameDef}(은)는 사치와 이익을 위해 동물의 생명을 앗아가는 사람들을 증오하게 됐습니다.</WildlifeRanger99.baseDesc>
   <WildlifeRanger99.title>야생동물 경비대</WildlifeRanger99.title>
   <WildlifeRanger99.titleShort>경비대</WildlifeRanger99.titleShort>
 </LanguageData>

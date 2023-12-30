@@ -2,7 +2,7 @@
 <LanguageData>
   <BabyPlay.reportString>{TargetA}(와)과 놀아주는 중</BabyPlay.reportString>
   
-  <BabySuckle.reportString>{TargetA}에게 먹이는 중</BabySuckle.reportString>
+  <BabySuckle.reportString>{TargetA}(이)가 수유 중</BabySuckle.reportString>
   
   <BottleFeedBaby.reportString>{TargetA}에게 {TargetB} 먹이는 중</BottleFeedBaby.reportString>
   

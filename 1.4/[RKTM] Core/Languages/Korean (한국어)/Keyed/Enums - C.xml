@@ -124,12 +124,12 @@
   
   <!-- Animal name display mode -->
   <ShowAnimalNames>가축 이름 표시</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>이름붙은 가축</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameNamed>이름 붙은 가축</AnimalNameDisplayMode_TameNamed>
   <AnimalNameDisplayMode_TameAll>모든 가축</AnimalNameDisplayMode_TameAll>
   
   <!-- Mech name display mode -->
-  <ShowMechNames>플레이어 메카 이름 표시</ShowMechNames>
-  <MechNameDisplayMode_WhileDrafted>소집 중</MechNameDisplayMode_WhileDrafted>
+  <ShowMechNames>플레이어 메카노이드 이름 표시</ShowMechNames>
+  <MechNameDisplayMode_WhileDrafted>소집 중에만</MechNameDisplayMode_WhileDrafted>
   <MechNameDisplayMode_Always>항상</MechNameDisplayMode_Always>
 
   <!-- Show weapons under portrait mode -->

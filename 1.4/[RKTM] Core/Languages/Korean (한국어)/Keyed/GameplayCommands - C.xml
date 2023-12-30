@@ -276,11 +276,11 @@
   
   <!-- Load transporter (single) -->
   <CommandLoadTransporterSingle>적재</CommandLoadTransporterSingle>
-  <CommandLoadTransporterSingleDesc>적재 기록을 열어서 누가 무엇을 적재할지 경정할 수 있습니다.</CommandLoadTransporterSingleDesc>
+  <CommandLoadTransporterSingleDesc>적재 창을 열어 무엇을 적재할지 결정합니다.</CommandLoadTransporterSingleDesc>
   
   <!-- Transporters set to load -->
   <CommandSetToLoadTransporter>적재 설정</CommandSetToLoadTransporter>
-  <CommandSetToLoadTransporterDesc>적재 기록을 열어서 누가 무엇을 적재할지 경정할 수 있습니다.</CommandSetToLoadTransporterDesc>
+  <CommandSetToLoadTransporterDesc>적재 창을 열어 무엇을 적재할지 결정합니다.</CommandSetToLoadTransporterDesc>
   
   <!-- Autoload transporters -->
   <CommandAutoloadTransporters>자동 적재</CommandAutoloadTransporters>
@@ -388,5 +388,7 @@
   <StoresThings>보관됨</StoresThings>
   <SelectAllLinked>연결 선택</SelectAllLinked>
   <SelectAllLinkedDesc>연결된 모든 보관 건물을 선택합니다.</SelectAllLinkedDesc>
+
+  <CommandDisabledUnconscious>{0_labelShort}(은)는 의식이 없습니다.</CommandDisabledUnconscious>
   
 </LanguageData>
