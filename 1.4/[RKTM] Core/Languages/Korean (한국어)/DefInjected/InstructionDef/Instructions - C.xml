@@ -87,7 +87,7 @@
   
   <MakeStockpile.onMapInstruction>여기에 지정\n(구석에서 구석으로 드래그)</MakeStockpile.onMapInstruction>
   <MakeStockpile.rejectInputMessage>표시된 곳에 저장구역을 만들어주세요.</MakeStockpile.rejectInputMessage>
-  <MakeStockpile.text>좋습니다!\n\n이제 정착민들 근처에 저장구역을 지정해 아이템을 쌓아봅시다.\n\n1. 왼쪽 아래 구상 탭을 누르세요.\n2. 구역 카테고리를 선택하세요.\n3. 저장구역을 선택하세요.\n4. 클릭 후 드래그해서 지도에 표시된 곳에 구역을 만드세요.</MakeStockpile.text>
+  <MakeStockpile.text>좋습니다!\n\n이제 정착민들 근처에 저장구역을 지정해 물품을 쌓아봅시다.\n\n1. 왼쪽 아래 구상 탭을 누르세요.\n2. 구역 카테고리를 선택하세요.\n3. 저장구역을 선택하세요.\n4. 클릭 후 드래그해서 지도에 표시된 곳에 구역을 만드세요.</MakeStockpile.text>
   
   <MapCameraDolly.text>도착했습니다!\n\n이제 화면을 움직여 보세요.\n\n{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} 키나, 클릭 후 드래그를 해서 움직일 수 있습니다.\n\n지금 해 보세요!</MapCameraDolly.text>
   <MapCameraDolly.textController>도착했습니다!\n\n이제 왼쪽 조이스틱으로 화면을 움직여 보세요.\n\n지금 해 보세요!</MapCameraDolly.textController>
@@ -129,6 +129,6 @@
   <UndraftAll.text>성공입니다! 이제 같은 버튼으로 모두의 소집을 해제하세요.\n\n소집을 해제해야 정착민들이 원래 스케쥴로 돌아갈 수 있습니다.</UndraftAll.text>
   
   <UnforbidStartingResources.onMapInstruction>상호작용 허용</UnforbidStartingResources.onMapInstruction>
-  <UnforbidStartingResources.rejectInputMessage>주위 아이템의 상호작용을 모두 허용해주세요.</UnforbidStartingResources.rejectInputMessage>
-  <UnforbidStartingResources.text>정착민들이 아이템 정리하려면 우선 상호작용을 허용해야 합니다.\n\n1. 주위 아이템을 클릭해 선택하세요.\n2. 상호작용 설정 버튼으로 상호작용을 허용하세요.\n\n(프로 팁: 더블클릭으로 화면 내 같은 종류의 아이템을 모두 선택할 수 있습니다.)</UnforbidStartingResources.text>
+  <UnforbidStartingResources.rejectInputMessage>주위 물품의 상호작용을 모두 허용해주세요.</UnforbidStartingResources.rejectInputMessage>
+  <UnforbidStartingResources.text>정착민들이 물품을 정리하려면 우선 상호작용을 허용해야 합니다.\n\n1. 주위 물품을 클릭해 선택하세요.\n2. 상호작용 설정 버튼으로 상호작용을 허용하세요.\n\n(프로 팁: 더블클릭으로 화면 내 같은 종류의 물품을 모두 선택할 수 있습니다.)</UnforbidStartingResources.text>
 </LanguageData>

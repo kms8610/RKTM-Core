@@ -83,7 +83,7 @@
   <CommandAllowSowDesc>비활성화된 경우 정착민들이 식물을 더 심지 않지만 수확은 가능합니다.</CommandAllowSowDesc>
 
   <CommandAllowCut>제초 허용</CommandAllowCut>
-  <CommandAllowCutDesc>비활성화하면 정착민이 이 구역 안의 식물을 제초하지 않습니다. 빈 공간에는 계속 식물을 심고, 재배를 명령한 식물은 수확합니다.</CommandAllowCutDesc>
+  <CommandAllowCutDesc>비활성화 하면 정착민이 이 구역 안의 식물을 제초하지 않습니다. 빈 공간에는 계속 식물을 심고, 재배를 명령한 식물은 수확합니다.</CommandAllowCutDesc>
   
   <CommandSelectStoredThing>{0_label} 선택</CommandSelectStoredThing>
   <CommandSelectStoredThingDesc>여기에 보관한 물품을 선택합니다.</CommandSelectStoredThingDesc>
@@ -246,12 +246,12 @@
   
   <!-- Take off -->
   <CommandTakeOff>이륙</CommandTakeOff>
-  <CommandTakeOffDesc>우주선에 탑승하고 이 곳을 떠납니다.</CommandTakeOffDesc>
+  <CommandTakeOffDesc>우주선에 탑승하고 이곳을 떠납니다.</CommandTakeOffDesc>
   <CommandTakeOffConfirmation>정말 우주선을 발사하시겠습니까?\n\n이 지역의 모든 사람은 행성을 탈출합니다. 나머지는 남겨집니다.</CommandTakeOffConfirmation>
 
   <!-- Set target fuel level -->
-  <CommandSetTargetFuelLevel>목표 연료량 설정</CommandSetTargetFuelLevel>
-  <CommandSetTargetFuelLevelDesc>목표 연료량을 설정합니다. 정착민들은 목표량에 맞춰 연료를 채웁니다.</CommandSetTargetFuelLevelDesc>
+  <CommandSetTargetFuelLevel>연료량 설정</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>정착민들이 채워놓아야 할 연료량을 설정합니다.</CommandSetTargetFuelLevelDesc>
 
   <!-- Refueling -->
   <CommandToggleAllowAutoRefuel>자동 보급</CommandToggleAllowAutoRefuel>
@@ -308,7 +308,7 @@
 
   <!-- Pause caravan -->
   <CommandPauseCaravan>휴식</CommandPauseCaravan>
-  <CommandToggleCaravanPauseDesc>휴식을 취합니다. 다음과 같은 이점이 있습니다:\n\n  - 사교활동 가능함\n  - 식량 채집 속도 {0} 향상\n  - 식별률에 {1}를 곱한 값</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>휴식을 취합니다. 다음과 같은 이점이 있습니다:\n\n  - 사교활동 가능함\n  - 식량 채집 속도 {0} 향상\n  - 식별률에 {1}를 곱함 (식별률 저하)</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <CommandShowSellableItems>구매 물품 보기</CommandShowSellableItems>

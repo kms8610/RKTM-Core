@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ActivateArchonexusCore.reportString>초월연결체와 접속하는 중</ActivateArchonexusCore.reportString>
+  <ActivateArchonexusCore.reportString>초월 연결체와 접속하는 중</ActivateArchonexusCore.reportString>
   
   <Blind.reportString>TargetA의 눈을 뽑는 중</Blind.reportString>
   
@@ -14,7 +14,7 @@
   
   <ExtractRelic.reportString>TargetA에서 {TargetB}(을)를 꺼내는 중</ExtractRelic.reportString>
   
-  <ExtractToInventory.reportString>{TargetA}(을)를 소지품에서 꺼내는 중</ExtractToInventory.reportString>
+  <ExtractToInventory.reportString>{TargetB}(을)를 소지품에서 꺼내는 중</ExtractToInventory.reportString>
   
   <GetNeuralSupercharge.reportString>TargetA에서 신경 과충전 받는 중</GetNeuralSupercharge.reportString>
   

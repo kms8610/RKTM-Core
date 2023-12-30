@@ -10,11 +10,11 @@
   <ChildBirth.comps.3.label>실내</ChildBirth.comps.3.label>
   <ChildBirth.comps.4.label>방 청결도</ChildBirth.comps.4.label>
   <ChildBirth.comps.5.label>침대 효과</ChildBirth.comps.5.label>
-  <ChildBirth.extraOutcomeDescriptions.0.description>추가적으로, 산모는 출산 중 {0_percentage} 확률로 사망합니다.</ChildBirth.extraOutcomeDescriptions.0.description>
-  <ChildBirth.outcomeChances.0.label>사산</ChildBirth.outcomeChances.0.label>
+  <ChildBirth.extraOutcomeDescriptions.0.description>추가적으로 산모는 출산 중 {0_percentage} 확률로 사망합니다.</ChildBirth.extraOutcomeDescriptions.0.description>
+  <ChildBirth.outcomeChances.0.label>죽은 채로</ChildBirth.outcomeChances.0.label>
   <ChildBirth.outcomeChances.0.description>{MOTHER_labelShort}의 아기가 사산되었습니다.</ChildBirth.outcomeChances.0.description>
-  <ChildBirth.outcomeChances.1.label>병약</ChildBirth.outcomeChances.1.label>
+  <ChildBirth.outcomeChances.1.label>병약하게</ChildBirth.outcomeChances.1.label>
   <ChildBirth.outcomeChances.1.description>{MOTHER_labelShort}(이)가 아기를 낳았지만, 불행히도 아기가 아픕니다.</ChildBirth.outcomeChances.1.description>
-  <ChildBirth.outcomeChances.2.label>건강함</ChildBirth.outcomeChances.2.label>
+  <ChildBirth.outcomeChances.2.label>건강하게</ChildBirth.outcomeChances.2.label>
   <ChildBirth.outcomeChances.2.description>{MOTHER_labelShort}(이)가 건강한 아기를 낳았습니다!</ChildBirth.outcomeChances.2.description>
 </LanguageData>

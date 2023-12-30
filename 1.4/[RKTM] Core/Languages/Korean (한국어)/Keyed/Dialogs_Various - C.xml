@@ -103,7 +103,7 @@
   
   <!-- Pawn naming -->
   <NameInvalid>유효하지 않은 이름입니다.</NameInvalid>
-  <PawnGainsName>이 정착민의 별명은 이제 {0}입니다. {PAWN_possessive} 배경은 {PAWN_title}입니다.</PawnGainsName>
+  <PawnGainsName>이 정착민의 별명은 이제 {0}입니다. {PAWN_possessive} 직함은 {PAWN_title}입니다.</PawnGainsName>
   <AnimalGainsName>이 동물의 이름은 이제 {0}입니다.</AnimalGainsName>
   <RenamePerson>개명</RenamePerson>
   <Mother>어머니</Mother>
@@ -143,7 +143,7 @@
 
   <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>경고: 얼어붙은 환경에 착륙하게 될 것이며 생존하기 매우 힘들 수 있습니다. 만약 극도로 어려운 도전을 하고 싶은 것이 아니라면 다른 지역 또는 계절을 선택하세요.</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>이 게임은 기본적으로 중간 규모의 지도에서 플레이하도록 설계되었습니다!\n\n지나치게 큰 맵은 성능을 저하시킬 뿐 아니라 게임의 균형에 전체적으로 좋지 않은 영향을 줍니다. 특별한 이유 없이는 사용을 권장하지 않습니다.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>이 게임은 기본적으로 중형 지도에서 하도록 설계되었습니다. 해당 크기는 충분한 공간을 제공합니다!\n\n대형 지도는 성능을 저하할 뿐만 아니라 실제로 게임의 경험이 손상됩니다. AI는 바보 같은 결정을 내리게 되고, 게임의 균형은 다양한 방식으로 나쁜 영향을 받게 됩니다.\n\n관례상 그리고 실험 목적으로 대형 지도가 포함되어 있으므로 특별한 이유 없이는 사용을 권장하지 않습니다.</MapSizePerformanceWarning>
   <MapSize>지도 크기</MapSize>
   <MapSizeDesc>{0}x{0} ({1}칸)</MapSizeDesc>
   <MapSizeSmall>소형</MapSizeSmall>
@@ -167,7 +167,7 @@
   <Infinite>무한</Infinite>
   <AllowedSkillRange>허용된 {0} 기술:</AllowedSkillRange>
   <IncompatibleLower>호환 되지 않음</IncompatibleLower>
-  <AnyWorker>모든 정착민</AnyWorker>
+  <AnyWorker>모든 작업자</AnyWorker>
   <Unlimited>제한 없음</Unlimited>
   
   <RecipeCannotHaveTargetCount>(이 제조법은 여러 혹은 예측 불가능한 결과로 인해 목표 수량을 지정할 수 없습니다.)</RecipeCannotHaveTargetCount>
@@ -222,14 +222,14 @@
   <LimitedLifespan>수명 짧음</LimitedLifespan>
   <GrowingTime>성장에 필요한 기간</GrowingTime>
   <HarvestYield>수확량</HarvestYield>
-  <MinGrowthTemperature>최소 생장 온도</MinGrowthTemperature>
-  <MaxGrowthTemperature>최대 생장 온도</MaxGrowthTemperature>
+  <MinGrowthTemperature>최소 성장 온도</MinGrowthTemperature>
+  <MaxGrowthTemperature>최대 성장 온도</MaxGrowthTemperature>
   <GrowingTimeDesc>이 항목은 식물이 자라는데 필요한 순수한 시간을 나타냅니다. 식물은 빛이 충분할 때만 성장하므로, 실제로는 이것의 두 배 가량의 시간이 필요할 것입니다. 적정 온도를 벗어난다면 더욱 많은 시간이 필요합니다.</GrowingTimeDesc>
   <Days>일</Days>
   <MinGrowingSkillToSow>재배 기술 요구치</MinGrowingSkillToSow>
   <FertilityRequirement>토질 조건</FertilityRequirement>
   <FertilitySensitivity>토질 민감도</FertilitySensitivity>
-  <LightRequirement>조명 요구량</LightRequirement>
+  <LightRequirement>빛 요구량</LightRequirement>
   <Attributes>속성</Attributes>
   <LifeSpan>수명</LifeSpan>
   <Nutrition>열량</Nutrition>
@@ -271,7 +271,7 @@
   <Addictiveness>중독성</Addictiveness>
   <AddictionSeverityInitial>중독 초기 심각도</AddictionSeverityInitial>
   <AddictionSeverityPerDose>복용당 중독 심각도</AddictionSeverityPerDose>
-  <AddictionNeedOffset>복용당 중독필요량</AddictionNeedOffset>
+  <AddictionNeedOffset>복용당 중독 필요량</AddictionNeedOffset>
   <AddictionNeedFallRate>중독필요 하락률</AddictionNeedFallRate>
   <AddictionNeedDoseInterval>중독필요 복용 간격</AddictionNeedDoseInterval>
   <AddictionRecoveryTime>중독 회복 시간</AddictionRecoveryTime>
@@ -279,8 +279,8 @@
   <RandomODChance>무작위 과다복용 확률</RandomODChance>
   <AlwaysSafe>항상 안전함</AlwaysSafe>
   <NeverSafe>안전하지 않음</NeverSafe>
-  <PerDay>{0}/일</PerDay>
-  <PerHour>{0}/시간</PerHour>
+  <PerDay>{0} / 일</PerDay>
+  <PerHour>{0} / 시간</PerHour>
   <PackAnimal>짐꾼</PackAnimal>
   <PackAnimalExplanation>상단의 짐을 멀리 운송하는데 적합한지의 여부입니다.</PackAnimalExplanation>
   <Skill>기술</Skill>
@@ -293,7 +293,7 @@
   <NuzzleInterval>애교 빈도</NuzzleInterval>
   <NuzzleIntervalExplanation>동물이 우호적인 정착민들에게 얼마나 자주 애교를 부리는지 나타내는 수치입니다.\n\n대부분의 사람들은 동물의 애정어린 행동을 접하면 한동안 기분이 좋아집니다.</NuzzleIntervalExplanation>
   <HarmedRevengeChance>보복 확률</HarmedRevengeChance>
-  <HarmedRevengeChanceExplanation>이 생물이 피해를 입었을 때 반격 할 확률입니다.\n\n이 확률은 최대 3배까지 증가합니다.\n\n이 확률은 피해를 입을 때마다 적용됩니다. 즉 발사 속도가 느리고, 피해량이 높은 무기는 상대적으로 반격할 확률이 적습니다.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>이 생물이 피해를 입었을 때 반격할 확률입니다.\n\n이 확률은 공격자가 가까이 있으면 최대 3배까지 증가합니다.\n\n이 확률은 피해를 입을 때마다 적용됩니다. 즉 발사 속도가 느리고 피해량이 높은 무기는 상대적으로 반격할 확률이 적습니다.</HarmedRevengeChanceExplanation>
   <TameFailedRevengeChance>길들이기 실패시 보복 확률</TameFailedRevengeChance>
   <TerrainRequirement>지형 요구사항</TerrainRequirement>
   <Supports>지원</Supports>
@@ -329,17 +329,17 @@
   <PositiveBuysNegativeSells>양수: 구매\n음수: 판매</PositiveBuysNegativeSells>
   <BuyPriceDesc>구매하기 위해 지불해야 할 가격</BuyPriceDesc>
   <SellPriceDesc>판매하여 받는 대금</SellPriceDesc>
-  <PriceTypeDesc>해당 아이템에 대해서 이 가격은 {0}.</PriceTypeDesc>
-  <ColonyCount>정착지가 지닌 거래 가능한 수량.\n\n판매하기 위해서는 아이템이 무역 송신기 근처에 있어야 합니다.</ColonyCount>
+  <PriceTypeDesc>해당 물품의 가격은 {0}입니다.</PriceTypeDesc>
+  <ColonyCount>정착지가 지닌 거래 가능한 수량.\n\n판매하기 위해서는 물품이 무역 송신기 근처에 있어야 합니다.</ColonyCount>
   <TraderCount>상인이 보유한 수량</TraderCount>
   <AcceptButton>수락</AcceptButton>
-  <LoadSelected>선택 불러오기</LoadSelected>
+  <LoadSelected>선택한 물품 적재</LoadSelected>
   <ResetButton>초기화</ResetButton>
   <CancelButton>취소</CancelButton>
   <CloseButton>닫기</CloseButton>
   <YourTradeableSilver>거래에 사용 가능한 은: {0}</YourTradeableSilver>
-  <YourTradeableSilverTip>은을 이용하여 거래를 하려면 야외에 무역 송신기를 설치하고, 송신기의 범위 안에서 거래에 사용될 은이나 아이템들을 두어야 합니다.</YourTradeableSilverTip>
-  <TraderHasNoMore>상인이 아이템을 더 가지고 있지 않습니다.</TraderHasNoMore>
+  <YourTradeableSilverTip>은을 이용하여 거래를 하려면 야외에 무역 송신기를 설치하고, 송신기의 범위 안에서 거래에 사용될 은이나 물품들을 두어야 합니다.</YourTradeableSilverTip>
+  <TraderHasNoMore>상인이 물품을 더 가지고 있지 않습니다.</TraderHasNoMore>
   <ColonyHasNoMore>더 판매할 수 없습니다.</ColonyHasNoMore>
   <TraderWillNotTrade>상인이 거래를 원하지 않습니다.</TraderWillNotTrade>
   <Negotiator>협상가</Negotiator>
@@ -378,7 +378,7 @@
   <!-- Form caravan -->
   <FormCaravan>상단 구성</FormCaravan>
   <Send>보내기</Send>
-  <FormCaravanColonyThingCountTip>정착지가 상단에 줄 수 있는 아이템의 숫자를 보여줍니다.</FormCaravanColonyThingCountTip>
+  <FormCaravanColonyThingCountTip>정착지가 상단에 줄 수 있는 물품의 숫자를 보여줍니다.</FormCaravanColonyThingCountTip>
   <PawnsTab>사람과 동물들</PawnsTab>
   <ItemsTab>물품</ItemsTab>
   <TravelSupplies>보급품</TravelSupplies>
@@ -390,26 +390,26 @@
   <CaravanItemIsUnreachableSingle>할당된 정착민들이 {0}에 접근할 수 없습니다.</CaravanItemIsUnreachableSingle>
   <CaravanItemIsUnreachableMulti>할당된 정착민들이 {0}x {1}에 접근할 수 없습니다.</CaravanItemIsUnreachableMulti>
   <TooBigCaravanMassUsage>상단이 그렇게 많은 양을 운반할 수 없습니다.</TooBigCaravanMassUsage>
-  <CaravanMassUsageTooltip>할당된 상단의 아이템 및 정착민들의 현재 장비들을 포함합니다. 최대 적재량보다 적으면 속도 보너스가 붙습니다.</CaravanMassUsageTooltip>
-  <CaravanVisibilityTip>식별률은 얼마나 쉽게 상단을 알아챌지 보여줍니다.\n\n상단이 적들에게 습격될 확률을 증가시킵니다.\n\n원하는 것을 찾는 능력에는 영향이 없습니다.\n\n식별률 상단의 모든 사람과 동물의 전체 신체 크기에 좌우됩니다.</CaravanVisibilityTip>
+  <CaravanMassUsageTooltip>상단의 물품과 정착민들의 현재 장비들을 포함합니다. 최대 적재량보다 적으면 이동속도가 추가로 증가합니다.</CaravanMassUsageTooltip>
+  <CaravanVisibilityTip>식별률은 상단이 얼마나 눈에 잘 띄는지를 보여줍니다.\n\n상단이 적들에게 습격 될 확률을 증가시킵니다.\n\n원하는 것을 찾는 능력에는 영향이 없습니다.\n\n식별률은 상단의 모든 사람과 동물의 신체 크기 총합에 좌우됩니다.</CaravanVisibilityTip>
   <DaysWorthOfFood>식량 소진까지</DaysWorthOfFood>
   <DaysWorthOfFoodInfoRot>{0}일 후 부패</DaysWorthOfFoodInfoRot>
   <InfiniteDaysWorthOfFoodInfo>식량 떨어질 일 없음</InfiniteDaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip>적어도 한 사람이나 동물이 음식을 소진하기까지 걸리는 대략적인 시간으로 이 날짜가 지나면 인간이나 동물 중 누군가는 굶주릴 수 있습니다. 이 값은 경로를 선택한 뒤에 더 정확하게 계산됩니다.\n\n영향받는 대상:\n  - 운반되는 음식 종류와 양\n  - 상단 구성원과 식성\n  - 식량 채집비율\n  - 동물의 방목 가능성\n  - 음식 부패시간\n  - 날씨가 더울수록 빨리 상함</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>적어도 한 사람이나 동물이 음식을 모두 소진하기까지 걸리는 대략적인 시간으로, 이 날짜가 지나면 인간이나 동물 중 누군가는 굶주리게 됩니다. 인종과 동물마다 식단이 다르므로 일부 종이 먼저 음식이 부족할 수 있습니다. 이 값은 경로를 선택한 뒤에 더 정확하게 계산됩니다.\n\n영향 요소:\n  - 운반하는 음식의 종류와 양\n  - 상단 구성원과 식성\n  - 식량 채집 비율\n  - 동물의 방목 가능성\n  - 음식의 소비기한\n  - 날씨가 더울수록 빨리 상함</DaysWorthOfFoodTooltip>
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(첫번째 경유지만 고려됨)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <DaysWorthOfFoodWarningDialog>상단에 {0}일치의 식량밖에 없어서 금방 굶주릴 것입니다.</DaysWorthOfFoodWarningDialog>
-  <DaysWorthOfFoodDietWarningDialog>상단에 적재할 음식의 대부분이 몇몇 구성원의 식성과 맞지 않습니다. 굶주림으로 인해 어쩔 수 없이 먹게 되면 기분이 나빠집니다.</DaysWorthOfFoodDietWarningDialog>
+  <DaysWorthOfFoodDietWarningDialog>상단에 적재할 음식의 대부분이 몇몇 구성원의 식성과 맞지 않습니다. 굶주림으로 어쩔 수 없이 먹게 되면 기분이 나빠집니다.</DaysWorthOfFoodDietWarningDialog>
   <DaysWorthOfFoodWarningDialog_NoFood>상단에 식량이 없어서 금방 굶주릴 것입니다.</DaysWorthOfFoodWarningDialog_NoFood>
-  <ForagedFoodPerDayTip>사람들이 채집할 하루 평균 식량입니다. 이 값은 다른 지형을 가로질러 이동함에 따라 변경될 수 있습니다.</ForagedFoodPerDayTip>
+  <ForagedFoodPerDayTip>사람들이 채집하는 하루 평균 식량입니다. 이 값은 다른 지형을 가로질러 이동함에 따라 변경될 수 있습니다.</ForagedFoodPerDayTip>
   <ForagedFoodPerDay>일일 채집량</ForagedFoodPerDay>
   <CaravanFoodWillRotSoonWarningDialog>상단이 가져가는 대부분의 식량이 곧 상합니다.</CaravanFoodWillRotSoonWarningDialog>
   <CaravanIncapableOfSocial>협상이나 거래 능력을 지닌 상단원이 없습니다.</CaravanIncapableOfSocial>
   <CaravanAreYouSure>정말 이대로 상단을 구성하시겠습니까?</CaravanAreYouSure>
   <MessageMustChooseRouteFirst>먼저 상단을 위한 경로를 선택해야합니다.</MessageMustChooseRouteFirst>
   <MessageNoValidExitTile>상단이 지역을 떠날 수 없습니다. 적어도 한쪽 면에 도달할 수 있는지 확인하세요.</MessageNoValidExitTile>
-  <ItemWeightTip>이 아이템의 무게입니다.</ItemWeightTip>
+  <ItemWeightTip>이 물품의 무게입니다.</ItemWeightTip>
   <MarketValueTip>시장 가치</MarketValueTip>
-  <DaysUntilRotTip>주위의 평균 온도를 기반으로 이 아이템이 부패할 때까지 남은 시간입니다.</DaysUntilRotTip>
+  <DaysUntilRotTip>주위의 평균 온도를 기반으로 이 물품이 부패할 때까지 남은 시간입니다.</DaysUntilRotTip>
   <ItemNutritionTip>이 음식의 열량입니다.\n\n참고: 성인에게 필요한 영양분은 하루에 {0} 입니다.</ItemNutritionTip>
   <AnimalCanGrazeTip>이 동물은 운반된 음식을 먹기보단 환경에서 방목하여 음식을 먹을 수 있습니다. 방목은 일부 생물군계와 온도 범위에서만 가능합니다.</AnimalCanGrazeTip>
   <NutritionForagedPerDayTip>일일 채집량입니다. 일일 채집량은 지형의 방목가능성에 따라 영향을 받습니다.\n\n{0}</NutritionForagedPerDayTip>
@@ -422,7 +422,7 @@
   <CaravanMass>상단 중량</CaravanMass>
   <EquipmentAndApparelMass>장비 및 의류 무게</EquipmentAndApparelMass>
   <InventoryMass>적재 중량</InventoryMass>
-  <CaravanFormationProcessStarted>정착민들이 할당된 아이템들을 모아서 이 지역을 떠날 것입니다.</CaravanFormationProcessStarted>
+  <CaravanFormationProcessStarted>정착민들이 할당된 물품들을 모아서 이 지역을 떠날 것입니다.</CaravanFormationProcessStarted>
   <ReformCaravan>상단 재구성</ReformCaravan>
   <ColonistsSection>정착민들</ColonistsSection>
   <PrisonersSection>수감자들</PrisonersSection>
@@ -432,7 +432,7 @@
   <ChangeRouteButton>경로 변경</ChangeRouteButton>
   <AbandonButton>포기</AbandonButton>
   <CaravanMovementSpeed>이동 속도</CaravanMovementSpeed>
-  <TilesPerDay>타일/일</TilesPerDay>
+  <TilesPerDay>칸 / 일</TilesPerDay>
   <TilesPerDayImmobile>없음 - 너무 무거움</TilesPerDayImmobile>
   <TilesPerDayImmobileShort>없음</TilesPerDayImmobileShort>
   <CaravanMovementSpeedTip>이동속도는 모든 구성원과 동물, 운반 중량, 지형의 험악함에 따라 달라집니다.</CaravanMovementSpeedTip>
@@ -453,7 +453,7 @@
   <!-- Split caravan -->
   <SplitCaravan>상단 분할</SplitCaravan>
   <SourceCaravanMustHaveAtLeastOneColonist>쓰러지지 않은 정착민을 최소 한 명은 남겨야 합니다.</SourceCaravanMustHaveAtLeastOneColonist>
-  <SplitCaravanThingCountTip>현재 상단이 새로운 상단에 줄 수 있는 아이템의 숫자를 보여줍니다.</SplitCaravanThingCountTip>
+  <SplitCaravanThingCountTip>현재 상단이 새로운 상단에 줄 수 있는 물품의 숫자를 보여줍니다.</SplitCaravanThingCountTip>
   
   <!-- Caravan misc -->
   <ConfirmAttackFriendlyFaction>{0}(을)를 공격하시겠습니까?\n\n이후 {1} 세력은 당신을 적대하고 정착지를 공격할 것입니다.</ConfirmAttackFriendlyFaction>
@@ -492,7 +492,7 @@
   <SelectOutfit>복장 선택</SelectOutfit>
   <NewOutfit>새 복장</NewOutfit>
   <DeleteOutfit>복장 삭제</DeleteOutfit>
-  <OutfitInUse>복장이 {0}에 의해 사용 중입니다.</OutfitInUse>
+  <OutfitInUse>복장이 {0}에 의해 사용 중</OutfitInUse>
   <NoOutfitSelected>복장 선택되지 않음</NoOutfitSelected>
   
   <!-- Drug policy management -->
@@ -528,7 +528,7 @@
 
   <!-- Food restriction management -->
   <FoodRestriction>식량 정책</FoodRestriction>
-  <FoodRestrictionShort>먹이</FoodRestrictionShort>
+  <FoodRestrictionShort>음식</FoodRestrictionShort>
   <FoodRestrictionLavish>호화로운 식사</FoodRestrictionLavish>
   <FoodRestrictionFine>좋은 식사</FoodRestrictionFine>
   <FoodRestrictionSimple>간단한 식사</FoodRestrictionSimple>
@@ -569,17 +569,17 @@
   <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}(을)를 버리면 아래 정착민들이 다음 영향을 받음:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
-  <ConfirmSendNotCompletelyLoadedPods>모든 수송 포드의 적재가 끝나지 않았습니다. {1_labelShort}(이)가 빠졌습니다. 발사하시겠습니까?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>수송 포드에 대한 적재가 아직 완전히 끝나지 않았습니다. 발사하시겠습니까?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
-  <ConfirmSettleNearFactionBase>이 위치는 다른 세력 거주지의 {0} 타일 내에 있기 때문에 자신의 땅을 침범하고 있다고 느끼며, 이 세력과 {1}일마다 관계도가 감소됩니다.</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>이 위치는 다른 세력 거주지의 {0}칸 이내에 있기 때문에, 해당 세력은 자신의 땅을 침범한다고 느끼며 {1}일마다 관계도가 감소합니다.</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <ConfirmCleanupTranslationFiles>{0}의 모든 번역 파일을 정리 하시겠습니까?\n\n다음 작업을 수행합니다:\n  - 누락된 Keyed, DefInjected, Backstories 번역에 플레이스홀더 추가\n  - 원문 텍스트를 포함한 주석 추가/업데이트\n  - 모든 Keyed, DefInjected 번역을 적절한 XML파일로 이동\n  - 모든 XML 파일에 자동 서식 적용\n  - 이전 버전과 호환되는 Def 이름 업데이트\n  - 기존의 모든 XML 주석 제거 (리스트 인젝션 제외)\n\nXML 외의 파일은 제거되거나 수정되지 않습니다.\n\n언어 파일을 수정한 후에는 이 도구를 사용하기 전에 게임을 다시 시작해서 모든 데이터를 새로 불러와야 합니다.\n\n정리 전에 번역 파일을 백업하세요.</ConfirmCleanupTranslationFiles>
   <ConfirmCleanupTranslationFiles_Confirm>예, 백업되어 있습니다</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
-  <TransportersCaravanWillBeImmobile>빈 타일로 보내도 상단은 움직이지 않습니다. 그래도 계속하시겠습니까?</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>빈 칸으로 보내도 상단은 움직이지 않습니다. 그래도 계속하시겠습니까?</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <ConfirmCancelMonumentMarker>이 기념비를 정말로 제거하시겠습니까?</ConfirmCancelMonumentMarker>
@@ -623,7 +623,7 @@
   <AbilityMustBeAnimal>동물을 지정해야 합니다.</AbilityMustBeAnimal>
   <AbilityCantApplyUnconscious>{0_labelShort}(은)는 의식이 없습니다.</AbilityCantApplyUnconscious>
   <AbilityCantApplyAsleep>{0_labelShort}(은)는 잠든 상태입니다.</AbilityCantApplyAsleep>
-  <AbilityWorldTileImpassable>이 타일은 통과할 수 없습니다.</AbilityWorldTileImpassable>
+  <AbilityWorldTileImpassable>이 칸은 통과할 수 없습니다.</AbilityWorldTileImpassable>
   <AbilitySkipToRandomAlly>무작위 아군에게 도약</AbilitySkipToRandomAlly>
   <AbilitySkipToJoinCaravan>상단에 합류하기 위해 도약</AbilitySkipToJoinCaravan>
   <AbilityNeedAllyToSkip>탐색 대상을 위한 아군 필요</AbilityNeedAllyToSkip>
@@ -642,7 +642,7 @@
   <AutoSlaugtherHeaderColMax>최대</AutoSlaugtherHeaderColMax>
   <AutoSlaugtherHeaderColTotal>총합</AutoSlaugtherHeaderColTotal>
   <AutoSlaugtherHeaderColOther>기타</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
-  <AutoSlaugtherTip>우선 임신하지 않은 가장 늙은 동물을부터 도축하며, 그 후에는 가장 최근에 임신한 동물부터 도축합니다.</AutoSlaugtherTip>
+  <AutoSlaugtherTip>정착민들은 먼저 임신하지 않은 동물을 나이가 많은 순서대로 도축하고, 그 다음에 임신한 동물을 최근에 임신 횟수가 많은 순서대로 도축합니다.</AutoSlaugtherTip>
   <AnimalMaleAdult>수컷 성체</AnimalMaleAdult>
   <AnimalMaleYoung>어린 수컷</AnimalMaleYoung>
   <AnimalFemaleAdult>암컷 성체</AnimalFemaleAdult>
@@ -671,7 +671,7 @@
 
   <!-- Room requirements -->
   <RoomRequirementNoBeds>침대 없음</RoomRequirementNoBeds>
-  <RoomRequirementArea>방 면적: {0} 타일</RoomRequirementArea>
+  <RoomRequirementArea>방 면적: {0} 칸</RoomRequirementArea>
   <RoomRequirementImpressiveness>방 인상</RoomRequirementImpressiveness>
   <RoomRequirementAllFloored>모든 바닥재</RoomRequirementAllFloored>
   <RoomRequirementAllBraziersMustBeLit>모든 화로에 불이 붙어있어야 함</RoomRequirementAllBraziersMustBeLit>
@@ -696,7 +696,7 @@
   <Blue>파란색</Blue>
   <Hue>색조</Hue>
   <Saturation>채도</Saturation>
-  <Value>명도</Value>
+  <ColorValue>명도</ColorValue>
   <Darklight>암광</Darklight>
   <NotDarklight>암광 아님</NotDarklight>
   <CurrentColor>현재 색상</CurrentColor>

@@ -19,8 +19,8 @@
   <Priority3>보통 우선순위</Priority3>
   <Priority4>낮은 우선순위</Priority4>
   <PawnFactionInfo>{0}\n\n현재 {1_nameDef} 세력에 속해 있습니다.\n\n세력을 보려면 클릭하세요.</PawnFactionInfo>
-  <WorkDisabledByBackstory>{0} 성장 환경으로 인해 비활성</WorkDisabledByBackstory>
-  <WorkDisabledByTrait>{0} 특성으로 인해 비활성</WorkDisabledByTrait>
+  <WorkDisabledByBackstory>{0} 성장 환경 때문에 비활성</WorkDisabledByBackstory>
+  <WorkDisabledByTrait>{0} 특성 때문에 비활성</WorkDisabledByTrait>
   <WorkDisabledByQuest>'{0}' 임무로 인해 비활성</WorkDisabledByQuest>
   
   <!-- Assign tab -->
@@ -112,16 +112,16 @@
   <InProgress>연구 중</InProgress>
   <Locked>연구 불가</Locked>
   <ResearchPrerequisites>필요한 선행연구</ResearchPrerequisites>
-  <ResearchTechprintRequirement>기술청사진 필요 ({0}/{1})</ResearchTechprintRequirement>
-  <InsufficientTechprintsApplied>기술청사진 부족 ({0}/{1})</InsufficientTechprintsApplied>
+  <ResearchTechprintRequirement>기술청사진 필요 ({0} / {1})</ResearchTechprintRequirement>
+  <InsufficientTechprintsApplied>기술청사진 부족 ({0} / {1})</InsufficientTechprintsApplied>
   <PrerequisitesNotCompleted>요구조건이 충족되지 않음</PrerequisitesNotCompleted>
   <MissingRequiredResearchFacilities>필요한 연구시설 누락</MissingRequiredResearchFacilities>
   <RequiredResearchBench>필요한 연구시설</RequiredResearchBench>
   <RequiredResearchBenchFacilities>필요한 연구보조시설</RequiredResearchBenchFacilities>
-  <ResearchCostComparison>기술 수준때문에 연구비용 {0}(이)가 {1}(이)가 됩니다.</ResearchCostComparison>
+  <ResearchCostComparison>\n\n기술 수준 때문에 연구비용 {0} 이 {1} 으로 변경됩니다.</ResearchCostComparison>
   <ResearchTechprintsFromFactions>다음 세력과의 무역이나 임무를 통해 기술청사진을 얻을 수 있습니다.</ResearchTechprintsFromFactions>
   <TechLevelTooLow>{0}시대 수준의 기술로 {1}시대 수준의 연구를 진행할 경우 {2}의 연구 속도가 적용됩니다.</TechLevelTooLow>
-  <UnlockedWith>잠금해제</UnlockedWith>
+  <UnlockedWith>잠금 해제</UnlockedWith>
 
   <!-- Factions tab -->
   <FactionsTab>세력</FactionsTab>
@@ -129,7 +129,7 @@
 
   <!-- Quests tab -->
   <AvailableQuests>가능</AvailableQuests>
-  <ActiveQuests>진행중</ActiveQuests>
+  <ActiveQuests>진행 중</ActiveQuests>
   <HistoricalQuests>기록</HistoricalQuests>
   <NoQuestSelected>임무가 선택되지 않음</NoQuestSelected>
   <AppearedDaysAgo>{0}일 전에 나타남</AppearedDaysAgo>

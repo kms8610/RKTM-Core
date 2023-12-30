@@ -35,7 +35,7 @@
   
   <MessageBillComplete>계획 완료: {0}</MessageBillComplete>
 
-  <MessageFullyHealed>{1_label}(이)가 완치 되었습니다.</MessageFullyHealed>
+  <MessageFullyHealed>{1_label}(이)가 완치되었습니다.</MessageFullyHealed>
 
   <MessagePrisonerIsEscaping>수감자 {1_labelShort}(이)가 도망치고 있습니다.</MessagePrisonerIsEscaping>
 
@@ -99,7 +99,7 @@
   <MessageMedicalOperationWillAngerFaction>이 수술은 {0} 세력을 분노하게 할 것입니다.</MessageMedicalOperationWillAngerFaction>
 
   <MessageAnimalIsPregnant>{PAWN_nameDef}(이)가 임신했습니다!</MessageAnimalIsPregnant>
-  <MessageMiscarriedStarvation>{0}(이)가 굶주림으로 인해 유산했습니다.</MessageMiscarriedStarvation>
+  <MessageMiscarriedStarvation>{0}(이)가 굶주림으로 유산했습니다.</MessageMiscarriedStarvation>
   <MessageMiscarriedPoorHealth>{0}(이)가 건강의 문제로 인해 유산했습니다.</MessageMiscarriedPoorHealth>
   <MessageGaveBirth>{0}(이)가 출산했습니다.</MessageGaveBirth>
   
@@ -108,7 +108,7 @@
   <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort}(이)가 {2}(으)로 인해 {1}의 뇌손상을 입었습니다.</MessageReceivedBrainDamageFromHediff>
   <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort}(이)가 정상적인 신경열 한도를 초과했습니다.</MessageWentOverPsychicEntropyLimit>
 
-  <MessageNoHandlerSkilledEnough>아무도 {ANIMAL_kindBase}(을)를 길들일 수 없습니다. ({2} 기술 {1}등급필요, 최고 조련사 {HANDLER_labelShort}(은)는 {4}등급).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>아무도 {ANIMAL_kindBase}(을)를 길들일 수 없습니다. ({2} 기술 {1}등급 필요, 최고 조련사 {HANDLER_labelShort}(은)는 {4}등급).</MessageNoHandlerSkilledEnough>
   
   <MessageEatenByPredator>{EATEN_labelShort}(이)가 {PREDATOR}에게 잡아먹혔습니다.</MessageEatenByPredator>
   <MessageAttackedByPredator>{PREY_labelShort}(이)가 {PREDATOR}에게 공격받는 중입니다!</MessageAttackedByPredator>
@@ -133,15 +133,15 @@
   <MessageNewBondRelation>{HUMAN_labelShort}(와)과 {ANIMAL_labelShort}(은)는 이제 각별한 사이입니다.</MessageNewBondRelation>
   <MessageNewBondRelationNewName>{HUMAN_labelShort}(와)과 {1}(은)는 이제 각별한 사이입니다. {ANIMAL_nameFull}(이)라는 이름을 붙여주었습니다.</MessageNewBondRelationNewName>
   
-  <MessageBondedAnimalMentalBreak>{ANIMAL}의 죽음으로 인해 {HUMAN_labelShort}의 마음이 무너져 내렸습니다.</MessageBondedAnimalMentalBreak>
-  <MessageNamedBondedAnimalMentalBreak>{HUMAN_labelShort}의 죽음으로 인해 {ANIMAL_kindIndef}({ANIMAL_label})의 마음이 무너져 내렸습니다.</MessageNamedBondedAnimalMentalBreak>
-  <MessageBondedAnimalsMentalBreak>{HUMAN_labelShort}의 죽음으로 인해 {0}마리 동물들의 마음이 무너져 내렸습니다.</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalMentalBreak>{ANIMAL}의 죽음 때문에 {HUMAN_labelShort}의 마음이 무너져 내렸습니다.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{HUMAN_labelShort}의 죽음 때문에 {ANIMAL_kindIndef}({ANIMAL_label})의 마음이 무너져 내렸습니다.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{HUMAN_labelShort}의 죽음 때문에 {0}마리 동물들의 마음이 무너져 내렸습니다.</MessageBondedAnimalsMentalBreak>
   
   <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort}(이)가 {PATIENT_labelShort}의 {HEDIFF}(을)를 성공적으로 제거했습니다.</MessageSuccessfullyRemovedHediff>
   
   <MessageShipChunkDrop>우주선의 일부가 추락해 근처에 떨어졌습니다. 해체하여 자원을 얻을 수 있습니다.</MessageShipChunkDrop>
 
-  <MessageCannotSellItemsReason>다음 이유로 인해 일부 아이템을 거래할 수 없습니다: </MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>다음 이유로 인해 일부 물품을 거래할 수 없습니다: </MessageCannotSellItemsReason>
 
   <MessageConstructionFailed>{WORKER_labelShort}(이)가 {0} 건설 중 실수했습니다. 일부 자원이 낭비되었습니다.</MessageConstructionFailed>
 
@@ -205,7 +205,7 @@
   <MessageFinishedLoadingTransporters>수송 포드 적재 작업이 완료됐습니다. 출발할 준비가 되었습니다.</MessageFinishedLoadingTransporters>
   <MessageFinishedLoadingTransporterSingle>왕복선 적재 작업이 완료됐습니다. 출발할 준비가 되었습니다.</MessageFinishedLoadingTransporterSingle>
 
-  <MessageCantLoadMoreIntoTransporters>일부 아이템 또는 사용자를 사용할 수 없기 때문에 {1}에서 수송 포드 적재를 완료할 수 없습니다 ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoTransporters>일부 물품 또는 사람을 사용할 수 없기 때문에 {1}(이)가 수송 포드 적재를 완료할 수 없습니다. ({2_labelShort})</MessageCantLoadMoreIntoTransporters>
   
   <MessageTransportPodsDestinationIsInvalid>선택한 목적지를 인식할 수 없습니다.</MessageTransportPodsDestinationIsInvalid>
   <MessageTransportPodsDestinationIsTooFar>수송 포드를 목적지까지 보내기 위해서는 각각의 발사대에 적어도 {0}개의 화학연료가 필요합니다.</MessageTransportPodsDestinationIsTooFar>
@@ -214,7 +214,7 @@
   
   <MessageCantBanishLastColonist>마지막 정착민은 추방할 수 없습니다.</MessageCantBanishLastColonist>
 
-  <MessageCantEquipCustom>장착 불가: {0}.</MessageCantEquipCustom>
+  <MessageCantEquipCustom>장착 불가: {0}</MessageCantEquipCustom>
   <MessageCantEquipIncapableOfViolence>장착 불가: {1_labelShort}(은)는 폭력적인 일을 할 수 없습니다.</MessageCantEquipIncapableOfViolence>
   <MessageCantEquipIncapableOfShooting>장착 불가: {1_labelShort}(은)는 사격할 수 없습니다.</MessageCantEquipIncapableOfShooting>
   <MessageCantEquipIncapableOfManipulation>장착 불가: 조작이 불가능합니다.</MessageCantEquipIncapableOfManipulation>
@@ -235,7 +235,7 @@
   <MessageYouHaveToReformCaravanNow>지금 상단을 재구성해야 합니다. 뒤에 남은 사람들은 모두 버려집니다.</MessageYouHaveToReformCaravanNow>
   
   <MessageDefendersAttacking>{1}의 {0}(이)가 {2}(을)를 공격하고 있습니다.</MessageDefendersAttacking>
-  <MessageMechanoidsAssembled>메카노이드가 집결하여 공격합니다.</MessageMechanoidsAssembled>
+  <MessageMechanoidsAssembled>메카노이드가 조립되어 그들의 전초기지를 방어합니다.</MessageMechanoidsAssembled>
   <MessageMechanoidsLeftToAssemble>조립할 잔여 메카노이드</MessageMechanoidsLeftToAssemble>
   <MessageMechanoidsReinforcementsDrop>메카노이드 신호기가 수송 포드 증원을 요청합니다.</MessageMechanoidsReinforcementsDrop>
 
@@ -257,11 +257,11 @@
   <MessageSleepingPawnsWokenUp>{0}(이)가 깨어났습니다.</MessageSleepingPawnsWokenUp>
   <MessageMechClusterDefeated>메카 전초기지 건물이 파괴되었습니다.</MessageMechClusterDefeated>
 
-  <MessageCompSpawnerSpawnedItem>제작한 물품: {0}.</MessageCompSpawnerSpawnedItem>
+  <MessageCompSpawnerSpawnedItem>제작한 물품: {0}</MessageCompSpawnerSpawnedItem>
 
-  <MessageHediffCuredByItem>치료된 상태이상: {0}.</MessageHediffCuredByItem>
-  <MessageBodyPartCuredByItem>치료된 부위: {0}.</MessageBodyPartCuredByItem>
-  <MessageResearchProjectFinishedByItem>완료된 연구: {0}.</MessageResearchProjectFinishedByItem>
+  <MessageHediffCuredByItem>치료된 상태이상: {0}</MessageHediffCuredByItem>
+  <MessageBodyPartCuredByItem>치료된 부위: {0}</MessageBodyPartCuredByItem>
+  <MessageResearchProjectFinishedByItem>완료된 연구: {0}</MessageResearchProjectFinishedByItem>
 
   <MessagePawnResurrected>{0}(이)가 다시 살아 움직입니다!</MessagePawnResurrected>
 
@@ -319,7 +319,7 @@
   <GoodwillChangeReason_CiviliansLost>민간인 실종</GoodwillChangeReason_CiviliansLost>
   <GoodwillChangeReason_CommanderLost>지휘관 실종</GoodwillChangeReason_CommanderLost>
 
-  <MessageGiftGivenButNotAppreciated>{0} 세력은 선물을 받았지만 좋아하진 않았습니다.</MessageGiftGivenButNotAppreciated>
+  <MessageGiftGivenButNotAppreciated>{0} 세력은 선물을 받았지만 좋아하지는 않았습니다.</MessageGiftGivenButNotAppreciated>
 
   <MessageCantGiveGiftBecauseCantCarryEncumbered>상단이 이미 너무 무거운 짐을 들고 있어서 다른 것을 운반할 수 없습니다.</MessageCantGiveGiftBecauseCantCarryEncumbered>
   <MessageCantGiveGiftBecauseCantCarry>상단이 그렇게 많이 운반할 수 없습니다. 선물의 무게가 {0}이지만 상단은 {1}만 더 운반할 수 있습니다.</MessageCantGiveGiftBecauseCantCarry>
@@ -342,14 +342,14 @@
 
   <MessageCaravanArrivalActionNoLongerValid>{0}(이)가 목적지에 도달할 수 없습니다.</MessageCaravanArrivalActionNoLongerValid>
 
-  <MessageEnterCooldownBlocksEntering>{0}에 재진입하기에는 너무 위험합니다.</MessageEnterCooldownBlocksEntering>
+  <MessageEnterCooldownBlocksEntering>{0} 후에 재진입 가능합니다.</MessageEnterCooldownBlocksEntering>
 
-  <MessagePermitCooldownFinished>{0_labelShort}(은)는 이제 "{1}"을 자유롭게 사용할 수 있습니다.</MessagePermitCooldownFinished>
+  <MessagePermitCooldownFinished>{0_labelShort}(은)는 이제 "{1}"(을)를 자유롭게 사용할 수 있습니다.</MessagePermitCooldownFinished>
 
   <MessagePredatorHuntingPlayerAnimal>{PREDATOR}(은)는 먹이를 위해 {PREY_definite} ({PREY_kindBase})(을)를 사냥하고 있습니다!</MessagePredatorHuntingPlayerAnimal>
 
   <MessagePrisonerResistanceBroken>{WARDEN_labelShort}(이)가 수감자 {PRISONER_labelShort}의 저항심을 없앴습니다.</MessagePrisonerResistanceBroken>
-  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>포섭이 시작됩니다.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>포섭을 시작합니다.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
   <MessageModWithPackageIdAlreadyEnabled>패키지 ID가 {0}인 다른 모드가 이미 활성화되어 있습니다. 활성화하기 전에 {1}(을)를 비활성화하십시오.</MessageModWithPackageIdAlreadyEnabled>
   <MessageDisableModsBeforeCleaningTranslationFiles>번역 파일을 정리하기 전에 모든 모드를 비활성화하세요.</MessageDisableModsBeforeCleaningTranslationFiles>
@@ -448,7 +448,7 @@
   <TooCloseToOtherPlant>{0_label}에 너무 가깝습니다.</TooCloseToOtherPlant>
   <TooCloseToOtherSeedPlantCell>{0}(을)를 심을 위치가 너무 가깝습니다.</TooCloseToOtherSeedPlantCell>
 
-  <MessageWarningCutImportantPlant>경고: {0}에 제초 명령을 지정했습니다.</MessageWarningCutImportantPlant>
+  <MessageWarningCutImportantPlant>경고: {0}(이)가 제초될 예정입니다.</MessageWarningCutImportantPlant>
 
   <MessageIncapableOfManipulation>{0_labelShort}(은)는 조작 능력이 없습니다.</MessageIncapableOfManipulation>
 
@@ -459,6 +459,6 @@
   <SettingsLinkedFor>{0}개 건물의 보관 설정을 연결했습니다.</SettingsLinkedFor>
   <SettingsUnlinkedFor>{0}개 건물의 보관 설정 연결을 해제했습니다.</SettingsUnlinkedFor>
   <StorageSettingsCopiedToClipboard>보관 설정을 클립보드로 복사했습니다.</StorageSettingsCopiedToClipboard>
-  <StorageSettingsPastedFromClipboard>보관 설정을 클립보드에서 복사했습니다.</StorageSettingsPastedFromClipboard>
+  <StorageSettingsPastedFromClipboard>보관 설정을 클립보드에서 붙여 넣었습니다.</StorageSettingsPastedFromClipboard>
 
 </LanguageData>

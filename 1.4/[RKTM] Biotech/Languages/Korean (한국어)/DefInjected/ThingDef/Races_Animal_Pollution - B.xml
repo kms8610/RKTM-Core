@@ -7,7 +7,7 @@
   <Toxalope.tools.right_hoof.label>오른쪽 발굽</Toxalope.tools.right_hoof.label>
   
   <WasteRat.label>황폐쥐</WasteRat.label>
-  <WasteRat.description>일반 쥐의 독소 적응 변종입니다. 폐기물 쥐는 일반 쥐보다 더 크고 강하고 공격적일 뿐만 아니라 오염에 강하도록 진화했습니다. 그들에게 물린 공격자는 독성 축적물에 감염됩니다.</WasteRat.description>
+  <WasteRat.description>일반 쥐의 독소 적응 변종입니다. 황폐쥐는 일반 쥐보다 더 크고 강하며 공격적일 뿐만 아니라 오염에 강하도록 진화했습니다. 그들에게 물린 공격자는 중독됩니다.</WasteRat.description>
   <WasteRat.tools.left_claw.label>왼쪽 발톱</WasteRat.tools.left_claw.label>
   <WasteRat.tools.right_claw.label>오른쪽 발톱</WasteRat.tools.right_claw.label>
   <WasteRat.tools.head.label>둔기</WasteRat.tools.head.label>

@@ -20,9 +20,9 @@
   <InstallKneeSpike.description>무릎 송곳을 설치합니다.</InstallKneeSpike.description>
   <InstallKneeSpike.jobString>무릎 송곳 설치 중</InstallKneeSpike.jobString>
   
-  <InstallMindscrew.label>정신 압박기 이식</InstallMindscrew.label>
-  <InstallMindscrew.description>정신 압박기를 이식합니다.</InstallMindscrew.description>
-  <InstallMindscrew.jobString>정신 압박기 이식 중</InstallMindscrew.jobString>
+  <InstallMindscrew.label>정신 압박기 설치</InstallMindscrew.label>
+  <InstallMindscrew.description>정신 압박기를 설치합니다.</InstallMindscrew.description>
+  <InstallMindscrew.jobString>정신 압박기 설치 중</InstallMindscrew.jobString>
   
   <InstallVenomFangs.label>독니 설치</InstallVenomFangs.label>
   <InstallVenomFangs.description>독니를 설치합니다.</InstallVenomFangs.description>

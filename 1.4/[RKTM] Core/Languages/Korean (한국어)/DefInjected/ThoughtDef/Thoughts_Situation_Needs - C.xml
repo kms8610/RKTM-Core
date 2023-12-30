@@ -25,9 +25,9 @@
   <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>난 약물이 좋아, 방금 느껴봤는데 정말 끝내줘!</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
   
   <NeedBeauty.stages.hideous_environment.label>끔찍한 환경</NeedBeauty.stages.hideous_environment.label>
-  <NeedBeauty.stages.hideous_environment.description>정말 참을 수가 없어. 나가야 해...</NeedBeauty.stages.hideous_environment.description>
+  <NeedBeauty.stages.hideous_environment.description>정말 괴기스러운 곳이야. 난 더는 보기가 싫어!</NeedBeauty.stages.hideous_environment.description>
   <NeedBeauty.stages.ugly_environment.label>매우 나쁜 환경</NeedBeauty.stages.ugly_environment.label>
-  <NeedBeauty.stages.ugly_environment.description>너무 싫어. 나갈래.</NeedBeauty.stages.ugly_environment.description>
+  <NeedBeauty.stages.ugly_environment.description>정말 추악한 곳이야. 더는 보지 않았으면 좋겠어.</NeedBeauty.stages.ugly_environment.description>
   <NeedBeauty.stages.unsightly_environment.label>나쁜 환경</NeedBeauty.stages.unsightly_environment.label>
   <NeedBeauty.stages.unsightly_environment.description>별로 좋은 곳은 아니야.</NeedBeauty.stages.unsightly_environment.description>
   <NeedBeauty.stages.pretty_environment.label>만족스러운 환경</NeedBeauty.stages.pretty_environment.label>
@@ -38,13 +38,13 @@
   <NeedBeauty.stages.gorgeous_environment.description>아름다운 곳이야. 내 삶을 사랑해도 되겠어.</NeedBeauty.stages.gorgeous_environment.description>
   
   <NeedComfort.stages.uncomfortable.label>불편</NeedComfort.stages.uncomfortable.label>
-  <NeedComfort.stages.uncomfortable.description>아까 좀 불편했어. 앉기 좋은 푹신한걸 구해야 해.</NeedComfort.stages.uncomfortable.description>
+  <NeedComfort.stages.uncomfortable.description>아까 좀 불편했어. 앉기 좋은 푹신한 걸 구해야 해.</NeedComfort.stages.uncomfortable.description>
   <NeedComfort.stages.comfortable.label>편함</NeedComfort.stages.comfortable.label>
   <NeedComfort.stages.comfortable.description>아까 편했지.</NeedComfort.stages.comfortable.description>
   <NeedComfort.stages.quite_comfortable.label>매우 편함</NeedComfort.stages.quite_comfortable.label>
   <NeedComfort.stages.quite_comfortable.description>아까 꽤 편했어.</NeedComfort.stages.quite_comfortable.description>
-  <NeedComfort.stages.extremely_comfortable.label>엄청 편함</NeedComfort.stages.extremely_comfortable.label>
-  <NeedComfort.stages.extremely_comfortable.description>아까 엄청 편했어. 정말 푹신푹신했지!</NeedComfort.stages.extremely_comfortable.description>
+  <NeedComfort.stages.extremely_comfortable.label>엄청나게 편함</NeedComfort.stages.extremely_comfortable.label>
+  <NeedComfort.stages.extremely_comfortable.description>아까 엄청나게 편했어. 정말 푹신푹신했지!</NeedComfort.stages.extremely_comfortable.description>
   <NeedComfort.stages.luxuriantly_comfortable.label>사치스럽게 편함</NeedComfort.stages.luxuriantly_comfortable.label>
   <NeedComfort.stages.luxuriantly_comfortable.description>구름 위에 앉은 기분이야.</NeedComfort.stages.luxuriantly_comfortable.description>
   
@@ -66,7 +66,7 @@
   <NeedIndoors.stages.just_outdoors.label>그저 야외</NeedIndoors.stages.just_outdoors.label>
   <NeedIndoors.stages.just_outdoors.description>나는 밖에 나가고 싶지 않아.</NeedIndoors.stages.just_outdoors.description>
   <NeedIndoors.stages.outdoors.label>외출</NeedIndoors.stages.outdoors.label>
-  <NeedIndoors.stages.outdoors.description>너무 밖에만 있는거 같은데...</NeedIndoors.stages.outdoors.description>
+  <NeedIndoors.stages.outdoors.description>너무 밖에만 있는 거 같은데...</NeedIndoors.stages.outdoors.description>
   <NeedIndoors.stages.long_outdoors.label>긴 야외활동</NeedIndoors.stages.long_outdoors.label>
   <NeedIndoors.stages.long_outdoors.description>더 이상 밖에 있는건 기분 나빠.</NeedIndoors.stages.long_outdoors.description>
   <NeedIndoors.stages.very_long_outdoors.label>오랜 야외활동</NeedIndoors.stages.very_long_outdoors.label>
@@ -101,7 +101,7 @@
   <NeedRest.stages.tired.label>지침</NeedRest.stages.tired.label>
   <NeedRest.stages.tired.description>정말 피곤해. 잠깐 누워서 눈만 붙이면...</NeedRest.stages.tired.description>
   <NeedRest.stages.exhausted.label>탈진</NeedRest.stages.exhausted.label>
-  <NeedRest.stages.exhausted.description>이제 서있을 수가 없어. 눈이 막 감겨. 조금만...</NeedRest.stages.exhausted.description>
+  <NeedRest.stages.exhausted.description>이제 서 있을 수가 없어. 눈이 막 감겨. 조금만...</NeedRest.stages.exhausted.description>
   
   <NeedRoomSize.stages.confined_interior.label>좁아터진 공간</NeedRoomSize.stages.confined_interior.label>
   <NeedRoomSize.stages.confined_interior.description>너무 좁아. 난 쥐새끼가 아니야.</NeedRoomSize.stages.confined_interior.description>

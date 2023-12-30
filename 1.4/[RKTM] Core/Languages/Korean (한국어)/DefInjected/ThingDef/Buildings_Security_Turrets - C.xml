@@ -41,7 +41,7 @@
   <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>새 포신 필요</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
   
   <Turret_FoamTurret.label>거품 포탑</Turret_FoamTurret.label>
-  <Turret_FoamTurret.description>화재 진압용 수동 발동 포탑입니다. 누군가 다가와서 발동하면 시야 내의 모든 화염에 대량의 소방 거품을 방사합니다.</Turret_FoamTurret.description>
+  <Turret_FoamTurret.description>화재 진압용 수동 작동식 포탑입니다. 누군가 작동시키면 시야 내의 모든 화염에 대량의 소방 거품을 방사합니다.</Turret_FoamTurret.description>
   <Turret_FoamTurret.comps.CompRefuelable.fuelGizmoLabel>거품</Turret_FoamTurret.comps.CompRefuelable.fuelGizmoLabel>
   <Turret_FoamTurret.comps.CompRefuelable.fuelLabel>거품</Turret_FoamTurret.comps.CompRefuelable.fuelLabel>
   <Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>거품 고갈</Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>
@@ -55,13 +55,13 @@
   <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>새 포신 필요</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
   
   <Turret_Mortar.label>박격포</Turret_Mortar.label>
-  <Turret_Mortar.description>모든 종류의 포탄을 발사할 수 있는 유인 박격포입니다. 파괴적인 피해를 입힐 수 있지만, 고유의 부정확성으로 인해 개방된 지역의 적 집단보다는 요새화된 구조물 공격 시 더 유용합니다.</Turret_Mortar.description>
+  <Turret_Mortar.description>모든 종류의 포탄을 발사할 수 있는 유인 박격포입니다. 파괴적인 피해를 입힐 수 있지만, 고유의 부정확성 때문에 개방된 지역의 적 집단보다는 요새화된 구조물 공격 시 더 유용합니다.</Turret_Mortar.description>
   <Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>남은 포탄</Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>
   <Turret_Mortar.comps.CompRefuelable.fuelLabel>재장전까지 남은 포탄</Turret_Mortar.comps.CompRefuelable.fuelLabel>
   <Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>새 강화 포신 필</Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>
   
   <Turret_RocketswarmLauncher.label>로켓탄막 발사기</Turret_RocketswarmLauncher.label>
-  <Turret_RocketswarmLauncher.description>넓은 범위를 덮는 로켓 탄막을 1회 발사하는 비상용 방어 장치입니다. 누군가 직접 발동해야 합니다. 다수의 약한 전투원에 대해선 굉장히 효과적이지만 소수의 중무장 대상에게는 효율이 떨어집니다. 한 번 발사 후에는 다시 장전하기 전에 수 시간 동안 냉각을 기다려야 합니다.</Turret_RocketswarmLauncher.description>
+  <Turret_RocketswarmLauncher.description>넓은 범위를 덮는 로켓 탄막을 1회 발사하는 비상용 방어 장치입니다. 누군가가 직접 조작해야 합니다. 다수의 약한 전투원에 대해선 굉장히 효과적이지만 소수의 중무장 대상에게는 효율이 떨어집니다. 한 번 발사 후에는 수 시간 동안 냉각한 후 다시 장전해야 합니다.</Turret_RocketswarmLauncher.description>
   <Turret_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>로켓</Turret_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>
   <Turret_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>로켓</Turret_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>
   <Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>로켓 없음</Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>

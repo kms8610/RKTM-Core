@@ -25,7 +25,7 @@
   <!-- Royal weapons -->
   <BladelinkEquipWarning>일단 주인을 정하게 되면, 무기의 자아는 다른 사람의 손길을 거부할 것입니다.</BladelinkEquipWarning>
   <BladelinkEquipWarningTraits>무기 특성</BladelinkEquipWarningTraits>
-  <RoyalWeaponEquipConfirmation>이 아이템을 착용하시겠습니까?</RoyalWeaponEquipConfirmation>
+  <RoyalWeaponEquipConfirmation>이 물품을 착용하시겠습니까?</RoyalWeaponEquipConfirmation>
   
   <!-- Psycasts -->
   <AbilityTargetPsychicallyDeaf>대상에게는 초능력이 통하지 않습니다.</AbilityTargetPsychicallyDeaf>
@@ -37,7 +37,7 @@
   <CannotSkipTargetPsychicResistant>초능력 저항</CannotSkipTargetPsychicResistant>
 
   <!-- Warning -->
-  <QuestGivesRoyalFavor>이 임무는 {PAWN_labelShort}에 대한 왕실 작위와 {FACTION_royalFavorLabel}(을)를 보상합니다.</QuestGivesRoyalFavor>
+  <QuestGivesRoyalFavor>이 임무는 {PAWN_labelShort}에게 왕실 작위와 {FACTION_royalFavorLabel}(을)를 보상합니다.</QuestGivesRoyalFavor>
   <RoyalIncapableOfSocial>{PAWN_labelShort}(은)는 사교활동이 불가능합니다. 왕실작위를 가진 사람들은 사교기술이 필요하므로, {PAWN_labelShort}(이)가 작위를 얻게 된다면 어려움이 많을 것입니다. 사교 가능한 다른 정착민이 더 적합할 수 있습니다.</RoyalIncapableOfSocial>
   <RoyalWithConceitedTrait>{PAWN_labelShort}(은)는 {2}이므로 자신의 작위에 집착할 것입니다. {PAWN_labelShort}(은)는 저급 음식이나, 특정한 작업유형을 거부할 것입니다. 좀 더 유연한 사고를 지닌 정착민이 작위를 수여받기에 더 적합할 수 있습니다.</RoyalWithConceitedTrait>
   <RoyalWithTraitAffectingPsylinkNegatively>{PAWN_labelShort}(은)는 {2}이므로 정신력 증폭 효과를 받을 수 없습니다.</RoyalWithTraitAffectingPsylinkNegatively>

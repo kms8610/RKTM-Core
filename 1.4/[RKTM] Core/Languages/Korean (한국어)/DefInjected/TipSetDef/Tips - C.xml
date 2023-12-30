@@ -40,12 +40,12 @@
   <GameplayTips.FixedWealthMode>재산이 많을수록 더 강력한 적들이 공격합니다. 재산 대신 시간에 따라 도전을 확장하려면 이야기꾼 설정에서 '재산 독립 진행방식'을 선택하세요.</GameplayTips.FixedWealthMode>
   <GameplayTips.StoneDoors>문을 석재로 만드는 걸 피하세요. 석재 문은 매우 느리게 열려서 정착민이 시간을 허비하게 됩니다.</GameplayTips.StoneDoors>
   <GameplayTips.ChairsWorkbench>작업대 앞에 의자를 설치하면 작업자가 일하는 동안 편안함을 느낄 수 있습니다.</GameplayTips.ChairsWorkbench>
-  <GameplayTips.MechanicalBreakdown>기계적인 구조물이 망가지면 수리할 때 부품이 요구되니 필요없는 것은 짓지 마세요.</GameplayTips.MechanicalBreakdown>
+  <GameplayTips.MechanicalBreakdown>기계적인 구조물이 망가지면 수리할 때 부품이 요구되니 필요 없는 것은 짓지 마세요.</GameplayTips.MechanicalBreakdown>
   <GameplayTips.CarefulConstructionOnBridges>다리 위에 건물을 지을 땐 조심하세요. 다리는 폭발로 쉽게 파괴되며, 그 위에 건설한 건물도 다리와 함께 가라앉습니다.</GameplayTips.CarefulConstructionOnBridges>
-  <GameplayTips.CleanRooms>청결한 방은 연구 속도를 향상하고, 의료 결과를 개선하고, 식중독 확률을 낮춰줍니다. 항균 타일은 방을 더욱 청결하게 만듭니다.</GameplayTips.CleanRooms>
+  <GameplayTips.CleanRooms>청결한 방은 연구 속도를 향상하고 의료 결과를 개선하며 식중독 확률을 낮춰줍니다. 항균 바닥은 방을 더욱 청결하게 만듭니다.</GameplayTips.CleanRooms>
   <GameplayTips.ColonyOneStructure>정착지 전체를 한 건물로 만들면 자원을 아낄 수 있지만, 화재 진압에는 좋지 않습니다.</GameplayTips.ColonyOneStructure>
   <GameplayTips.TerrainMovementSpeed>이동속도는 지형에 영향을 받습니다. 정착민들이 빠르게 움직일 수 있도록 바닥을 지어주세요.</GameplayTips.TerrainMovementSpeed>
-  <GameplayTips.TerrainCleanliness>지형에 따라 청결 수준이 다릅니다. 타일은 기본적으로 깨끗하며, 흙은 기본적으로 더럽습니다.</GameplayTips.TerrainCleanliness>
+  <GameplayTips.TerrainCleanliness>지형에 따라 청결 수준이 다릅니다. 바닥은 기본적으로 깨끗하며, 흙은 기본적으로 더럽습니다.</GameplayTips.TerrainCleanliness>
   <GameplayTips.TerrainCleanSpeed>바닥의 종류에 따라 청소에 필요한 시간이 다릅니다. 강철판보다 양탄자를 치우는 데 훨씬 더 긴 시간이 듭니다.</GameplayTips.TerrainCleanSpeed>
   <GameplayTips.PrisonersAsGifts>수감자들은 선물로 보낼 수 있습니다. 원래 세력으로 보내면 크게 고마워할 것입니다.</GameplayTips.PrisonersAsGifts>
   <GameplayTips.RequestTradeCaravans>통신기를 사용해서 특정 유형의 상단을 요청할 수 있습니다.</GameplayTips.RequestTradeCaravans>
@@ -65,10 +65,10 @@
   <GameplayTips.GeysersHeatRooms>밀폐된 공간에 간헐천이 있으면 온도가 높아지니, 유용할 수도 위험할 수도 있습니다.</GameplayTips.GeysersHeatRooms>
   <GameplayTips.ExtinguishFireArtillery>포탄이 폭발하게 되면 폭발반경만큼 화재를 진압할 수 있습니다. 이는 다른 선택지가 없을 때 화재를 진압하기 위해 포탄을 발사해 사용할 수 있습니다.</GameplayTips.ExtinguishFireArtillery>
   <GameplayTips.BestStoriesFromDarkestSituations>좌절한 순간에 게임이 끝난다는 것은 아닙니다. 손실이 많은 전투를 하다보면 종종 어려움 속에서도 최고의 이야기가 진행될 수 있습니다.</GameplayTips.BestStoriesFromDarkestSituations>
-  <GameplayTips.KeepWeaponsAwayFromPrisoners>무기와 폭탄같은 물품을 감옥 근처에 두지 마세요. 탈옥이 일어나면 총과 폭탄으로 인해 훨씬 위험해 질 태니까요.</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>무기와 폭탄 같은 물품을 감옥 근처에 두지 마세요. 탈옥이 일어나면 총과 폭탄 때문에 훨씬 위험해 질 태니까요.</GameplayTips.KeepWeaponsAwayFromPrisoners>
   <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>동물을 길들일 때, 동물들이 먹을 수 있는 올바른 종류의 음식을 충분히 가지고 있는지 확인하세요.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
   <GameplayTips.DroppingChunksWillForceDoorsOpen>출입구에 석재나 암석 덩어리를 떨어뜨리면 문이 강제로 열린 채 유지되므로 적대적인 야생 동물이나 습격자의 공격에 취약해집니다.</GameplayTips.DroppingChunksWillForceDoorsOpen>
-  <GameplayTips.CleanLabs>항균 타일이 있는 청결한 연구실에서는 연구 속도가 증가합니다.</GameplayTips.CleanLabs>
+  <GameplayTips.CleanLabs>항균 바닥이 있는 청결한 연구실에서는 연구 속도가 증가합니다.</GameplayTips.CleanLabs>
   <GameplayTips.ChangeStoryteller>설정 메뉴에서 언제든지 이야기꾼과 난이도를 변경할 수 있습니다.</GameplayTips.ChangeStoryteller>
   <GameplayTips.MoreAlliesMoreTraders>동맹 세력이 많으면 더 많은 상단이 찾아오고, 군사 지원도 더 많이 받을 수 있습니다.</GameplayTips.MoreAlliesMoreTraders>
   <GameplayTips.CombatDrugsFromInventory>약물 정책에서 전투원들에게 고주스같은 전투 약물을 소지하도록 할 수 있습니다. 전투를 시작할 때 투약하면 승패를 가를 수 있습니다.</GameplayTips.CombatDrugsFromInventory>

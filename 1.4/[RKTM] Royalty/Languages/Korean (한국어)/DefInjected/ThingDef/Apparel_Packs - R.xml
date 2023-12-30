@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Apparel_PackBroadshield.label>휴대용 저각 보호막</Apparel_PackBroadshield.label>
-  <Apparel_PackBroadshield.description>휴대 가능한 1회용 방탄 보호막 투사기입니다. 배치하면 원형 저각 보호막이 짧은 시간 동안 형성되어, 발사체가 나갈 수 있지만 들어오지는 못하게 합니다.\n\n적시에 펼쳐진 보호막 덕택에 많은 첨단 전투부대들이 목숨을 건졌습니다.</Apparel_PackBroadshield.description>
+  <Apparel_PackBroadshield.description>휴대 가능한 1회용 보호막 투사기입니다. 배치하면 원형 저각 보호막이 짧은 시간 동안 형성되어, 발사체가 나갈 수 있지만 들어오지는 못하게 합니다. 배치된 투사기는 짧은 시간 지속 후 파괴됩니다.\n\n적시에 펼쳐진 보호막 덕택에 많은 첨단 전투부대들이 목숨을 건졌습니다.</Apparel_PackBroadshield.description>
   <Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>보호막</Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>
   <Apparel_PackBroadshield.comps.CompReloadable.cooldownGerund>재사용 대기 중</Apparel_PackBroadshield.comps.CompReloadable.cooldownGerund>
   <Apparel_PackBroadshield.verbs.deploy_lowshield.label>저각 보호막 배치</Apparel_PackBroadshield.verbs.deploy_lowshield.label>

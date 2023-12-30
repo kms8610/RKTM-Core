@@ -42,7 +42,7 @@
   <ShootingAccuracyOutdoorsDarkOffset.label>사격 명중률 (실외/어두움)</ShootingAccuracyOutdoorsDarkOffset.label>
   <ShootingAccuracyOutdoorsDarkOffset.description>어두운 실외에서 사격할 때의 명중률 보정치입니다.</ShootingAccuracyOutdoorsDarkOffset.description>
   
-  <ShootingAccuracyOutdoorsLitOffset.label>shooting accuracy (실외/밝음)</ShootingAccuracyOutdoorsLitOffset.label>
+  <ShootingAccuracyOutdoorsLitOffset.label>사격 명중률 (실외/밝음)</ShootingAccuracyOutdoorsLitOffset.label>
   <ShootingAccuracyOutdoorsLitOffset.description>밝은 실외에서 사격할 때의 명중률 보정치입니다.</ShootingAccuracyOutdoorsLitOffset.description>
   
   <SocialIdeoSpreadFrequencyFactor.label>사상 전파 확률</SocialIdeoSpreadFrequencyFactor.label>

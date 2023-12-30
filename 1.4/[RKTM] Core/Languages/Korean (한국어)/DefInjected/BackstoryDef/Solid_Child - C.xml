@@ -18,13 +18,13 @@
   
   <AcademyStudent58.baseDesc>{PAWN_nameDef}(은)는 사관 학교의 우수한 후보생이었습니다. {PAWN_pronoun}는 매우 키가 크고 좋은 외모로 인기가 많았습니다. {PAWN_pronoun}는 성적보다는 자신의 헤어스타일에 좀더 걱정이 많은 사람이었지만, 어찌됬건 최종 시험에 통과한 인재입니다.</AcademyStudent58.baseDesc>
   <AcademyStudent58.title>사관학교 학생</AcademyStudent58.title>
-  <AcademyStudent58.titleShort>반골</AcademyStudent58.titleShort>
+  <AcademyStudent58.titleShort>학생</AcademyStudent58.titleShort>
   
   <AccursedChild88.baseDesc>{PAWN_nameDef}(은)는 개기월식이 찾아오던 날에 태어났습니다. {PAWN_pronoun}가 어둠의 자식이라고 선언하면서 {PAWN_pronoun}를 조심스럽게 보살폈습니다. {PAWN_possessive} 어린 시절은 부름에 이끌리는 그 순간까지 {PAWN_possessive} 부족민과 부족의식을 연구하는데 바쳐졌습니다.</AccursedChild88.baseDesc>
   <AccursedChild88.title>저주받은 아이</AccursedChild88.title>
   <AccursedChild88.titleShort>저주</AccursedChild88.titleShort>
   
-  <AdventuringChild30.baseDesc>{PAWN_nameDef}(은)는 엔지니어로가 되기 위한 교육을 받고 자랐습니다. 수년 동안, {PAWN_pronoun}는 일상을 떠나 모험적인 새로운 삶을 시작하기 위해 화물선에 밀항하기 위한 계획을 세웠습니다.\n\n어느 날 밤, 부모님이 잠들었을 때, {PAWN_pronoun}는 항구를 떠나기 직전인 화물선에 잠입에 성공했습니다.</AdventuringChild30.baseDesc>
+  <AdventuringChild30.baseDesc>{PAWN_nameDef}(은)는 기술자가 되기 위한 교육을 받고 자랐습니다. 수년 동안, {PAWN_pronoun}는 일상을 떠나 모험적인 새로운 삶을 시작하기 위해 화물선에 밀항하기 위한 계획을 세웠습니다.\n\n어느 날 밤, 부모님이 잠들었을 때, {PAWN_pronoun}는 항구를 떠나기 직전인 화물선에 잠입에 성공했습니다.</AdventuringChild30.baseDesc>
   <AdventuringChild30.title>모험의 아이</AdventuringChild30.title>
   <AdventuringChild30.titleShort>모험가</AdventuringChild30.titleShort>
   
@@ -40,13 +40,13 @@
   <AmateurBotanist79.title>아마추어 식물학자</AmateurBotanist79.title>
   <AmateurBotanist79.titleShort>식물학자</AmateurBotanist79.titleShort>
   
-  <AmateurEngineer3.baseDesc>{PAWN_nameDef}(은)는 군인 및 엔지니어 내력이 있는 가정에서 자랐습니다. {PAWN_pronoun}는 군대에 가고 싶었지만, {PAWN_possessive} 아버지의 반대로, 관심은 비행기와 공학에 집중되었습니다. {PAWN_pronoun}는 언젠가 이 일이 {PAWN_pronoun}를 은하탐험의 삶으로 이끌기를 몰래 바랐습니다.</AmateurEngineer3.baseDesc>
+  <AmateurEngineer3.baseDesc>{PAWN_nameDef}(은)는 군인 및 기술자 내력이 있는 가정에서 자랐습니다. {PAWN_pronoun}는 군대에 가고 싶었지만, {PAWN_possessive} 아버지의 반대로 관심은 비행기와 공학에 집중되었습니다. {PAWN_pronoun}는 언젠가 이 일이 자신을 은하탐험의 삶으로 이끌기를 남몰래 바랐습니다.</AmateurEngineer3.baseDesc>
   <AmateurEngineer3.title>아마추어 기술자</AmateurEngineer3.title>
-  <AmateurEngineer3.titleShort>엔지니어</AmateurEngineer3.titleShort>
+  <AmateurEngineer3.titleShort>기술자</AmateurEngineer3.titleShort>
   
   <AngryStudent88.baseDesc>{PAWN_nameDef}(은)는 모행성의 지방 의원이 되어 일한다는 자신의 꿈을 위해 공부에 매진했습니다.\n\n{PAWN_pronoun}는 자신이 이해하지 못한 이유 때문에 급우들에게 끊임없이 위협당했습니다. {PAWN_pronoun}는 대항하지 않고 분노를 억누르는 것을 선택했습니다.</AngryStudent88.baseDesc>
   <AngryStudent88.title>화난 학생</AngryStudent88.title>
-  <AngryStudent88.titleShort>반골</AngryStudent88.titleShort>
+  <AngryStudent88.titleShort>학생</AngryStudent88.titleShort>
   
   <AnimalCaretaker20.baseDesc>중세 농장에서 태어난 {PAWN_nameDef}(은)는 가축을 돌보는 일을 맡았습니다. {PAWN_pronoun}는 동물들을 사랑했습니다.\n\n시간이 지나면서 {PAWN_pronoun}는 야생 동물을 길들이는 법을 배웠습니다. {PAWN_pronoun}는 언젠가 트럼보를 만나고 길들이는 것을 꿈꿨습니다.</AnimalCaretaker20.baseDesc>
   <AnimalCaretaker20.title>동물 관리인</AnimalCaretaker20.title>
@@ -98,13 +98,13 @@
   
   <AspiringPhysicist47.baseDesc>기술자와 의사의 딸인 {PAWN_nameDef}(은)는 지적으로 풍족한 유년생활을 보냈습니다. 물리학 연구소를 방문한 후, 그녀는 양자 물리학자가 되고 싶었습니다.\n\n낙타에게 물리고, 말에게 차이며, 개들에게 쫒겨 다니는 경험을 한 뒤 {PAWN_nameDef}(은)는 동물에 대해 두려움을 갖게 되었습니다.</AspiringPhysicist47.baseDesc>
   <AspiringPhysicist47.title>장래 물리학자</AspiringPhysicist47.title>
-  <AspiringPhysicist47.titleShort>반골</AspiringPhysicist47.titleShort>
+  <AspiringPhysicist47.titleShort>학생</AspiringPhysicist47.titleShort>
   
   <AspiringPopIdol28.baseDesc>{PAWN_nameDef}(은)는 회사 매니저들의 보살핌을 받으며 다음번 대세 아이돌이 되기 위한 노래와 안무 연습을 거쳤습니다. 직접 일은 해본 적이 없지만 음악과 몸가짐에 대해서는 많이 배울 수 있었습니다.</AspiringPopIdol28.baseDesc>
   <AspiringPopIdol28.title>아이돌 지망생</AspiringPopIdol28.title>
   <AspiringPopIdol28.titleShort>아이돌</AspiringPopIdol28.titleShort>
   
-  <Athlete47.baseDesc>{PAWN_nameDef}(은)는 이른 나이부터 프로 운동선수 출신이었습니다. 그러한 능력 덕에 {PAWN_pronoun}는 고향별에서 떠나 번화계에 있는 과학기술 대학교에 입학할 수 있게 되었습니다. 그러나 살인적인 스케쥴과 천성적인 내성적 성격으로 인해 {PAWN_pronoun}는 사회적으로 서투른 사람이 되었습니다.</Athlete47.baseDesc>
+  <Athlete47.baseDesc>{PAWN_nameDef}(은)는 이른 나이부터 프로 운동선수 출신이었습니다. 그러한 능력 덕에 {PAWN_pronoun}는 고향별에서 떠나 번화계에 있는 과학기술 대학교에 입학할 수 있게 되었습니다. 그러나 살인적인 스케쥴과 천성적인 내성적 성격 때문에 {PAWN_pronoun}는 사회적으로 서투른 사람이 되었습니다.</Athlete47.baseDesc>
   <Athlete47.title>운동선수</Athlete47.title>
   <Athlete47.titleShort>운동선수</Athlete47.titleShort>
   
@@ -184,7 +184,7 @@
   <ChildKnave69.title>어린 악당</ChildKnave69.title>
   <ChildKnave69.titleShort>악당</ChildKnave69.titleShort>
   
-  <ChildOfDrifters18.baseDesc>{PAWN_nameDef}(이)가 매우 어렸을 때부터 {PAWN_pronoun}의 부모님의 우주선을 넘어선 곳을 전혀 알지 못했습니다. 그들은 유랑자였고, {PAWN_pronoun}의 주변 풍경은 끊임없이 바뀌었습니다. {PAWN_pronoun}의 인생은 자주 위험하지만, 결코 지루하지는 않았습니다. 그리고 {PAWN_pronoun}는 어릴 때 부모님의 방황하는 성향을 물려받았습니다.</ChildOfDrifters18.baseDesc>
+  <ChildOfDrifters18.baseDesc>{PAWN_nameDef}(이)가 매우 어렸을 때부터 {PAWN_pronoun}의 부모님의 우주선을 넘어선 곳을 전혀 알지 못했습니다. 그들은 유랑자였고, {PAWN_pronoun}의 주변 풍경은 끊임없이 바뀌었습니다. {PAWN_pronoun}의 인생은 자주 위험하지만, 결코 지루하지는 않았습니다. 그리고 {PAWN_pronoun}는 어릴 때 부모님의 유랑하는 성향을 물려받았습니다.</ChildOfDrifters18.baseDesc>
   <ChildOfDrifters18.title>유랑자의 아이</ChildOfDrifters18.title>
   <ChildOfDrifters18.titleShort>유랑자</ChildOfDrifters18.titleShort>
   
@@ -258,15 +258,15 @@
   
   <CoreworldStudent50.baseDesc>알렉스라는 이름의 남자로 태어나, {PAWN_nameDef}(은)는 다른 남자아이들과 잘 어울리지 못했습니다. 아주 어렸을 때부터, {PAWN_pronoun}는 장신구 제작 같은, 창의적인 취미를 운동보다 더 선호했습니다. {PAWN_pronoun}는 잘못된 몸을 가지고 있다고 생각했습니다. 운이 좋게도, {PAWN_possessive} 가족들과 친구들은 성전환을 지지했고, 십대 때 {PAWN_pronoun}는 여자가 되기 위한 수술을 받았습니다.</CoreworldStudent50.baseDesc>
   <CoreworldStudent50.title>도시계 학생</CoreworldStudent50.title>
-  <CoreworldStudent50.titleShort>반골</CoreworldStudent50.titleShort>
+  <CoreworldStudent50.titleShort>학생</CoreworldStudent50.titleShort>
   
   <CorpBredStudent54.baseDesc>{PAWN_nameDef}(은)는 자신의 고향 행성을 소유한 우주 탐사 회사의 간부가 되기 위한 교육을 받으며 자랐습니다. {PAWN_possessive} 가족은 그 회사에서 4대째 일해 왔습니다. 5살이 되던 해, {PAWN_pronoun}는 그가 충성심과 냉정함을 기르기 위해 교육을 시작했습니다. {PAWN_nameDef}(은)는 외교에 있어 폭력적인 사건이 일어날 조짐에 있어, 그것에 대해 해결책을 찾는데 탁월했습니다.</CorpBredStudent54.baseDesc>
   <CorpBredStudent54.title>승계 수업생</CorpBredStudent54.title>
-  <CorpBredStudent54.titleShort>반골</CorpBredStudent54.titleShort>
+  <CorpBredStudent54.titleShort>학생</CorpBredStudent54.titleShort>
   
   <CorpStudent95.baseDesc>{PAWN_nameDef}(은)는 지구를 소유한 대형 우주 무역 회사의 경영자가 되기 위해 교육받았습니다. {PAWN_pronoun} 가족은 그 회사에서 7대째 연임해왔습니다. 6살이 되던 해에, {PAWN_pronoun}는 회사소유의 학원에서 공부를 시작했는데,\n충실한 추종자를 얻는 법과 무자비한 경영자가 되는 법을 배웠습니다.</CorpStudent95.baseDesc>
   <CorpStudent95.title>경영학 수업생</CorpStudent95.title>
-  <CorpStudent95.titleShort>반골</CorpStudent95.titleShort>
+  <CorpStudent95.titleShort>학생</CorpStudent95.titleShort>
   
   <CorporateSlave22.baseDesc>{PAWN_nameDef}(은)는 대형 번화계 회사가 소유한 식민지에서 자랐습니다. 모든 아이들은 강제로 가상현실 장치를 부착당했고, 잔혹한 디지털 세계에서 길러졌습니다.\n\n{PAWN_pronoun}는 부자들의 유흥을 위해 끊임없이 다른 사람들과 싸워야 했고, 총격전과 전술은 {PAWN_nameDef}의 우주의 중심이 되었습니다.</CorporateSlave22.baseDesc>
   <CorporateSlave22.title>기업 노예</CorporateSlave22.title>
@@ -292,9 +292,9 @@
   <DataDecoder39.title>데이터 해독가</DataDecoder39.title>
   <DataDecoder39.titleShort>해독가</DataDecoder39.titleShort>
   
-  <DedicatedStudent12.baseDesc>부유한 제조업자의 아이로 태어난 {PAWN_nameDef}(은)는, 어려서부터 교육받았습니다. {PAWN_pronoun}는 학문과 예술에 관심이 있었으나, 잡일에 대해 혐호감을 가졌습니다.\n\n혁명이 일어나 아버지의 사업은 국가에 인수되었고, 무일푼이 된 {PAWN_nameDef}(은)는 {PAWN_possessive} 교육을 완료하기 위해 열심히 노력했습니다.</DedicatedStudent12.baseDesc>
+  <DedicatedStudent12.baseDesc>부유한 제조업자의 아이로 태어난 {PAWN_nameDef}(은)는, 어려서부터 교육받았습니다. {PAWN_pronoun}는 학문과 예술에 관심이 있었으나, 잡일에 대해 혐오감을 가졌습니다.\n\n혁명이 일어나 아버지의 사업은 국가에 인수되었고, 무일푼이 된 {PAWN_nameDef}(은)는 {PAWN_possessive} 교육을 완료하기 위해 열심히 노력했습니다.</DedicatedStudent12.baseDesc>
   <DedicatedStudent12.title>엘리트 학생</DedicatedStudent12.title>
-  <DedicatedStudent12.titleShort>반골</DedicatedStudent12.titleShort>
+  <DedicatedStudent12.titleShort>학생</DedicatedStudent12.titleShort>
   
   <DesertRat47.baseDesc>{PAWN_nameDef}(은)는 온갖 쓰레기더미가 모이는 사막의 한 부족에서 태어났습니다.\n\n그들은 환각을 통해 해방될 수 있다고 믿는 신화적인 물질을 찾아내어 성간 역사의 새로운 시대를 열었습니다.</DesertRat47.baseDesc>
   <DesertRat47.title>사막 쥐</DesertRat47.title>
@@ -444,7 +444,7 @@
   <GangMember16.title>갱단원</GangMember16.title>
   <GangMember16.titleShort>갱 아이</GangMember16.titleShort>
   
-  <GangMember83.baseDesc>도시계에서 노숙자로 지낸 {PAWN_nameDef}(은)는 성년이 되기 이전부터 고단함과 무자비함으로 인해 {PAWN_pronoun}를 변하게 했고 모든 것을 걸고 싸워야만 했었습니다.\n\n{PAWN_nameDef}(은)는 길거리의 총격전에서도 부상을 입은 적이 없어서, 전세계적인 기업 중 한 곳에서 {PAWN_pronoun}를 이용하기 위해 접촉하는 일도 있었습니다.</GangMember83.baseDesc>
+  <GangMember83.baseDesc>도시계에서 노숙자로 지낸 {PAWN_nameDef}(은)는 성년이 되기 이전부터 고단함과 무자비함이 {PAWN_pronoun}를 변하게 했고, 모든 것을 걸고 싸우게 만들었습니다.\n\n{PAWN_nameDef}(은)는 길거리의 총격전에서도 부상을 입은 적이 없어서, 전세계적인 기업 중 한 곳에서 {PAWN_pronoun}를 이용하기 위해 접촉하는 일도 있었습니다.</GangMember83.baseDesc>
   <GangMember83.title>갱단원</GangMember83.title>
   <GangMember83.titleShort>조직 일원</GangMember83.titleShort>
   
@@ -498,7 +498,7 @@
   
   <HistoryStudent12.baseDesc>어릴 때 {PAWN_nameDef}(은)는 음악과 소설쓰기를 포함한 수많은 예술들을 배웠습니다. {PAWN_pronoun}가 나이가 들어감에 따라, {PAWN_pronoun}의 {PAWN_pronoun}의 문화 중심에 있는 사람들처럼 고향의 도마뱀 전설을 연구하기 시작했습니다.</HistoryStudent12.baseDesc>
   <HistoryStudent12.title>역사학 학생</HistoryStudent12.title>
-  <HistoryStudent12.titleShort>반골</HistoryStudent12.titleShort>
+  <HistoryStudent12.titleShort>학생</HistoryStudent12.titleShort>
   
   <HunterScavenger64.baseDesc>{PAWN_nameDef}(은)는 빈나 험지의 습격자의 일원으로 태어났으며 {PAWN_pronoun}의 주변 정착지를 습격하여 음식과 자원을 약탈하며 살아남았습니다.{PAWN_pronoun}는 그녀의 무리에서 특별히 사납기로 유명했습니다.</HunterScavenger64.baseDesc>
   <HunterScavenger64.title>약탈 사냥꾼</HunterScavenger64.title>
@@ -518,7 +518,7 @@
   
   <ImperialStudent49.baseDesc>{PAWN_nameDef}(은)는 총기가 금지되고 정당방위가 권장된 제국의 중간계에서 공부했습니다. 치안이 좋았기 때문에, {PAWN_pronoun}는 식물 연구에 집중할 수 있었습니다.</ImperialStudent49.baseDesc>
   <ImperialStudent49.title>제국 학생</ImperialStudent49.title>
-  <ImperialStudent49.titleShort>반골</ImperialStudent49.titleShort>
+  <ImperialStudent49.titleShort>학생</ImperialStudent49.titleShort>
   
   <IndworldUrchin73.baseDesc>{PAWN_nameDef}(은)는 산업 혁명 초기 단계 세계의 거리에서 자랐습니다. {PAWN_pronoun}는 날마다 항상 가난을 벗어날 방법을 모색하며, 도둑질하고 구걸하고 버려진 기계 파편으로 땜일하며 보냈습니다.</IndworldUrchin73.baseDesc>
   <IndworldUrchin73.title>산업계 부랑아</IndworldUrchin73.title>
@@ -568,7 +568,7 @@
   <MarineCadet73.title>해병 생도</MarineCadet73.title>
   <MarineCadet73.titleShort>사관후보생</MarineCadet73.titleShort>
   
-  <MechanoidHacker93.baseDesc>존경받는 메카노이드 발명가의 유일한 아들로써 {PAWN_nameDef}(은)는 아버지가 만든 창조물들을 수정하고 바꿔놓을 수 있었습니다. 그러나 {PAWN_pronoun}는 스스로 효율을 높이기 위해 마약을 사용했습니다. 그 부작용으로 인해 끊임없이 모든 것을 기계화하려는 망상에 빠져버리게 되었습니다. 그것은 결국 사회 생활에 영향을 끼쳤습니다.</MechanoidHacker93.baseDesc>
+  <MechanoidHacker93.baseDesc>존경받는 메카노이드 발명가의 유일한 아들로써 {PAWN_nameDef}(은)는 아버지가 만든 창조물들을 수정하고 바꿔놓을 수 있었습니다. 그러나 {PAWN_pronoun}는 스스로 효율을 높이기 위해 마약을 사용했습니다. 그 부작용으로 끊임없이 모든 것을 기계화하려는 망상에 빠져버리게 되었습니다. 그것은 결국 사회 생활에 영향을 끼쳤습니다.</MechanoidHacker93.baseDesc>
   <MechanoidHacker93.title>메카노이드 해커</MechanoidHacker93.title>
   <MechanoidHacker93.titleShort>메카해커</MechanoidHacker93.titleShort>
   
@@ -582,11 +582,11 @@
   
   <MedicalStudent38.baseDesc>의사 가문에서 태어난 {PAWN_nameDef}(은)는 생약부터 현대 합성약품에 이르기까지 모든 분야의 의료교육을 받았습니다. {PAWN_pronoun}는 또한 하층민의 일에 대해 경멸을 나타냈습니다.</MedicalStudent38.baseDesc>
   <MedicalStudent38.title>의학생</MedicalStudent38.title>
-  <MedicalStudent38.titleShort>반골</MedicalStudent38.titleShort>
+  <MedicalStudent38.titleShort>학생</MedicalStudent38.titleShort>
   
   <MedicalStudent96.baseDesc>의사 가문에서 태어난 {PAWN_nameDef}(은)는 번화계에서 자랐고 가업을 잇기로 결심했습니다.\n\n{PAWN_pronoun}의 친구는 거의 없지만, 형제들과는 잘 어울립니다.</MedicalStudent96.baseDesc>
   <MedicalStudent96.title>의학생</MedicalStudent96.title>
-  <MedicalStudent96.titleShort>반골</MedicalStudent96.titleShort>
+  <MedicalStudent96.titleShort>학생</MedicalStudent96.titleShort>
   
   <MedievalNomad12.baseDesc>중세계의 유목민 가정에서 태어난 {PAWN_nameDef}(은)는 승마와 손재주, 화법 등의 교육을 받았었습니다.\n\n        {PAWN_pronoun}는 가족을 돕기 위해 기묘한 일을 하면서 야영지 주위를 항상 뛰어 다녔습니다.</MedievalNomad12.baseDesc>
   <MedievalNomad12.title>중세 유목민</MedievalNomad12.title>
@@ -676,11 +676,11 @@
   <Nerd92.title>괴짜</Nerd92.title>
   <Nerd92.titleShort>괴짜</Nerd92.titleShort>
   
-  <NewAgeDuelist27.baseDesc>{PAWN_nameDef}(은)는 전투에 매료되었습니다. {PAWN_pronoun}는 부모들과 함께 여행을 다니면서 다양한 전투를 보고, 다양한 전투 스타일을 표본으로 추출할 수 있었습니다.\n\n예의 바른 전사들은 {PAWN_possessive} 훈련 요청을 받아드렸으나, {PAWN_pronoun}는 지도교습이 끝나기 전에 버티지 못하고 도망가기도 했습니다.</NewAgeDuelist27.baseDesc>
-  <NewAgeDuelist27.title>뉴에이지 격투가</NewAgeDuelist27.title>
-  <NewAgeDuelist27.titleShort>격투가</NewAgeDuelist27.titleShort>
+  <NewAgeDuelist27.baseDesc>{PAWN_nameDef}(은)는 전투에 매료되었습니다. {PAWN_pronoun}는 부모들과 함께 여행을 다니면서 여러 전투를 보고, 다양한 전투 방식을 익힐 수 있었습니다.\n\n예의 바른 전사들은 {PAWN_possessive} 훈련 요청을 받아들여 주었으나, {PAWN_pronoun}는 지도 교습을 마치기 전에 여행으로 떠나버리는 일이 잦아지자, 그만 게을러져 버렸습니다.</NewAgeDuelist27.baseDesc>
+  <NewAgeDuelist27.title>신세기 결투가</NewAgeDuelist27.title>
+  <NewAgeDuelist27.titleShort>결투가</NewAgeDuelist27.titleShort>
   
-  <NobleWard61.baseDesc>{PAWN_nameDef}(은)는 {PAWN_pronoun}의 어머니로부터 저명한 귀족 가문의 문턱에 버려진 후, 그 가문에 거둬졌습니다.\n\n{PAWN_pronoun}는 자신의 세계, 언어, 문화 및 현대와 과거의 기술과 같이 귀족들 사이를 떠돌던 비밀을 빠르게 습득했습니다.</NobleWard61.baseDesc>
+  <NobleWard61.baseDesc>{PAWN_nameDef}(은)는 어렸을 때 어머니가 저명한 귀족 가문의 문턱에 그를 버렸고, 운 좋게 귀족 가문에 거둬졌습니다.\n\n{PAWN_pronoun}는 자신의 세계와 언어, 문화 및 현대와 과거의 기술 등 귀족들 사이를 떠돌던 비밀을 빠르게 습득했습니다.</NobleWard61.baseDesc>
   <NobleWard61.title>귀족의 양자</NobleWard61.title>
   <NobleWard61.titleShort>양자</NobleWard61.titleShort>
   
@@ -748,7 +748,7 @@
   <PitGladiator19.title>투기장 검투사</PitGladiator19.title>
   <PitGladiator19.titleShort>검투사</PitGladiator19.titleShort>
   
-  <PizzaLover94.baseDesc>{PAWN_nameDef}(은)는 폭탄쥐 피자를 매우 좋아했습니다. 그 외에 다른 것들은 거의 먹으려 하지 않았기 때문에 {PAWN_pronoun}는 건강이 좋지 않았고, 호흡이 좋지 않습니다.\n\n{PAWN_pronoun}는 생물의 두개골 안에 무엇이 들어있는지 보기 위해 두개골을 후려치는 것을 좋아했습니다.</PizzaLover94.baseDesc>
+  <PizzaLover94.baseDesc>{PAWN_nameDef}(은)는 폭탄쥐 피자를 매우 좋아했습니다. 그 외에 다른 것들은 거의 먹으려 하지 않았기 때문에 {PAWN_pronoun}는 건강과 호흡이 좋지 않습니다.\n\n{PAWN_pronoun}는 생물의 두개골 안에 무엇이 들어있는지 보기 위해 두개골을 후려치는 것을 좋아했습니다.</PizzaLover94.baseDesc>
   <PizzaLover94.title>피자 애호가</PizzaLover94.title>
   <PizzaLover94.titleShort>피자 아이</PizzaLover94.titleShort>
   
@@ -760,7 +760,7 @@
   <PlagueProdigy12.title>전염병 영재</PlagueProdigy12.title>
   <PlagueProdigy12.titleShort>신동</PlagueProdigy12.titleShort>
   
-  <PlagueSurvivor39.baseDesc>{PAWN_nameDef}(은)는 불가사의한 전염병이 {PAWN_pronoun}의 마을이 퍼지면서 {PAWN_pronoun}의 가족과 친구들이 죽는 것을 보았습니다.\n\n{PAWN_pronoun}는 역병 치료에 나선 의사를 보면서 약간의 의약 지식을 얻었지만, 그 시련으로 인해 정신적 상처를 얻었습니다.</PlagueSurvivor39.baseDesc>
+  <PlagueSurvivor39.baseDesc>{PAWN_nameDef}(은)는 불가사의한 전염병이 {PAWN_pronoun}의 마을이 퍼지면서 {PAWN_pronoun}의 가족과 친구들이 죽는 것을 보았습니다.\n\n{PAWN_pronoun}는 역병 치료에 나선 의사를 보면서 약간의 의약 지식을 얻었지만, 그 시련으로 정신적 상처를 얻었습니다.</PlagueSurvivor39.baseDesc>
   <PlagueSurvivor39.title>역병 생존자</PlagueSurvivor39.title>
   <PlagueSurvivor39.titleShort>생존자</PlagueSurvivor39.titleShort>
   
@@ -782,7 +782,7 @@
   
   <ProdigalStudent67.baseDesc>{PAWN_nameDef}(은)는 성실한 학생이었으며, 인류와 인류가 만들어낸 모든 것을 배우기 위해 노력했습니다. 남들은 {PAWN_pronoun}를 괴짜 취급했지만 {PAWN_pronoun}는 전혀 신경쓰지 않았습니다. {PAWN_pronoun}는 더 밝은 미래를 희망합니다.</ProdigalStudent67.baseDesc>
   <ProdigalStudent67.title>외톨이 학생</ProdigalStudent67.title>
-  <ProdigalStudent67.titleShort>반골</ProdigalStudent67.titleShort>
+  <ProdigalStudent67.titleShort>학생</ProdigalStudent67.titleShort>
   
   <ProfessionalGamer76.baseDesc>{PAWN_nameDef}(은)는 간신히 조이스틱을 쥘 수 있을만큼 어렸을 때부터 비디오 게임의 매력에 사로잡혔습니다. {PAWN_pronoun}는 16비트 게임기가 존재하던 시절 몇몇 지역에서 열리는 토너먼트에서 중위권을 달성했습니다. 그러나 십대 초반의 나이에 일찍 은퇴하게 되면서, {PAWN_pronoun}의 유년기는 모두로부터 잊혀졌습니다.</ProfessionalGamer76.baseDesc>
   <ProfessionalGamer76.title>프로게이머</ProfessionalGamer76.title>
@@ -794,7 +794,7 @@
   
   <PsychologyStudent15.baseDesc>{PAWN_nameDef}(은)는 주로 종교와 전통에 대한 지식을 익혔지만, 종종 먼 별에 대해 상상하곤 했습니다.\n\n{PAWN_pronoun}는 별들 너머에 무엇이 있는지 궁금했습니다.</PsychologyStudent15.baseDesc>
   <PsychologyStudent15.title>사회학 전공자</PsychologyStudent15.title>
-  <PsychologyStudent15.titleShort>반골</PsychologyStudent15.titleShort>
+  <PsychologyStudent15.titleShort>학생</PsychologyStudent15.titleShort>
   
   <Punk30.baseDesc>{PAWN_nameDef}(은)는 동급생들에게 싸구려 사제담배를 팔며 유년기를 보냈습니다. 담배에는 보통 잡초가 많이 섞여있었습니다.</Punk30.baseDesc>
   <Punk30.title>불량배</Punk30.title>
@@ -826,7 +826,7 @@
   
   <RebelStudent14.baseDesc>{PAWN_nameDef}(은)는 평판 좋은 고위층 가정에서 자랐습니다. 어린 시절엔 체스나 클레이 사격을 즐겼지만, 이후로는 반항적인 학생으로써 행성이 가지는 실제 가치와 정부 정책과의 모순점에 대한 질문으로 교사를 곤혹스럽게 하는 데서 새로운 재미를 찾았습니다.</RebelStudent14.baseDesc>
   <RebelStudent14.title>반항적인 학생</RebelStudent14.title>
-  <RebelStudent14.titleShort>반골</RebelStudent14.titleShort>
+  <RebelStudent14.titleShort>학생</RebelStudent14.titleShort>
   
   <RebelWriter82.baseDesc>어렸을 때부터 {PAWN_nameDef}(은)는 글쓰는 재주를 익혔습니다. {PAWN_pronoun}는 나이를 숨기기 위해 온라인에서 신상을 숨긴 채 생명 윤리, 정치 이론, 외계사회학에 이르기까지 다양한 인기 저널을 작성했습니다.</RebelWriter82.baseDesc>
   <RebelWriter82.title>반항적인 작가</RebelWriter82.title>
@@ -834,7 +834,7 @@
   
   <RebelliousStudent74.baseDesc>{PAWN_nameDef}(은)는 교육을 받고자 했었습니다. 하지만 {PAWN_pronoun}는 마주친 불의에 맞서 저항했고, 결국 세 곳의 학교에서 모두 제적되었습니다. 이는 {PAWN_pronoun}에게 청렴을 남겼지만, 사회적 소통 기술을 결여시키고 말았습니다.\n\n{PAWN_nameDef}(은)는 자아 실현을 추구했습니다. {PAWN_pronoun}는 {PAWN_pronoun}의 시간을 명상을 하거나 칼, 지팡이를 통해 싸움의 기술을 연습하였습니다.</RebelliousStudent74.baseDesc>
   <RebelliousStudent74.title>반항적인 학생</RebelliousStudent74.title>
-  <RebelliousStudent74.titleShort>반골</RebelliousStudent74.titleShort>
+  <RebelliousStudent74.titleShort>학생</RebelliousStudent74.titleShort>
   
   <ReclusiveProdigy96.baseDesc>번화계에서 자란 {PAWN_nameDef}(은)는 학업에 전념할 충분한 기회를 얻었습니다. 그러나 {PAWN_pronoun}는 유전자 변형과 신경계 증대에만 열렬한 관심을 보였을 뿐 다른 분야에 대해서는 무관심했습니다.</ReclusiveProdigy96.baseDesc>
   <ReclusiveProdigy96.title>숨은 영재</ReclusiveProdigy96.title>
@@ -848,7 +848,7 @@
   <RitualChild20.title>바쳐진 아이</RitualChild20.title>
   <RitualChild20.titleShort>산제물</RitualChild20.titleShort>
   
-  <Scavenger62.baseDesc>{PAWN_nameDef}(은)는 핵전쟁으로 인해 황폐해진 세계의 도시에서 자랐습니다.\n\n{PAWN_pronoun}는 멸망한 황무지에서도 남아있는 기술과 물자를 긁어모아 생존해 왔습니다.</Scavenger62.baseDesc>
+  <Scavenger62.baseDesc>{PAWN_nameDef}(은)는 핵전쟁으로 황폐해진 세계의 도시에서 자랐습니다.\n\n{PAWN_pronoun}는 멸망한 황무지에서도 남아있는 기술과 물자를 긁어모아 생존해 왔습니다.</Scavenger62.baseDesc>
   <Scavenger62.title>약탈자</Scavenger62.title>
   <Scavenger62.titleShort>약탈자</Scavenger62.titleShort>
   
@@ -864,7 +864,7 @@
   <Scout6.title>스카우트</Scout6.title>
   <Scout6.titleShort>스카우트</Scout6.titleShort>
   
-  <Scrounger25.baseDesc>{PAWN_nameDef}(은)는 귀중하거나 흥미로운 아이템을 찾기 위해서라면 쓰레기 구덩이로 뛰어드는 것도 마다하지 않습니다.\n\n{PAWN_pronoun}는 악취 따위에 물러서지 않으며, 때로는 몇 주 이상 남을 상처를 입는 위험도 무릅쓰곤 합니다.</Scrounger25.baseDesc>
+  <Scrounger25.baseDesc>{PAWN_nameDef}(은)는 귀중하거나 흥미로운 물품을 찾기 위해서라면 쓰레기 구덩이로 뛰어드는 것도 마다하지 않습니다.\n\n{PAWN_pronoun}는 악취 따위에 물러서지 않으며, 때로는 몇 주 이상 남을 상처를 입는 위험도 무릅쓰곤 합니다.</Scrounger25.baseDesc>
   <Scrounger25.title>모험가</Scrounger25.title>
   <Scrounger25.titleShort>모험가</Scrounger25.titleShort>
   
@@ -1009,12 +1009,12 @@
   <StreetUrchin74.titleShort>사기꾼</StreetUrchin74.titleShort>
   
   <Student65.baseDesc>{PAWN_nameDef}(은)는 화학 및 양자역학을 흥미롭게 배웠습니다.\n\n{PAWN_pronoun}는 다른 사람들이 {PAWN_pronoun}의 육체 노동을 대신하도록 설득하는데 매우 뛰어났으며, 육체 노동을 피하는 것을 인생의 목표로 세웠습니다.</Student65.baseDesc>
-  <Student65.title>반골</Student65.title>
-  <Student65.titleShort>반골</Student65.titleShort>
+  <Student65.title>학생</Student65.title>
+  <Student65.titleShort>학생</Student65.titleShort>
   
   <StudentEngineer34.baseDesc>천재였던 {PAWN_nameDef}(은)는 어렸을 때 항공 우주전쟁과 공학에 대한 특별 훈련 프로그램에 투입되었습니다.\n\n어느 날, {PAWN_pronoun}는 다람쥐에게 팔찌를 주면서 다람쥐와 친해지려고 노력했습니다. 하지만 다람쥐는 {PAWN_pronoun}를 물었고, {PAWN_pronoun}에게 "다람쥐 소년"이라는 별명이 붙여졌습니다. {PAWN_pronoun}는 육체 노동과 관련된 일이 그보다 하찮다고 믿고 있습니다.</StudentEngineer34.baseDesc>
   <StudentEngineer34.title>공학 전공자</StudentEngineer34.title>
-  <StudentEngineer34.titleShort>엔지니어</StudentEngineer34.titleShort>
+  <StudentEngineer34.titleShort>기술자</StudentEngineer34.titleShort>
   
   <StudentSocialite89.baseDesc>{PAWN_nameDef}(은)는 칼사스 IV에 있는 사회적으로 재능있는 학생들을 위한 엘리트 학교에서 정치를 배웠습니다.\n\n자연스레 사람의 마음을 읽고 조종하는데 능숙해졌지만, {PAWN_pronoun}는 그 속에서는 즐거움을 찾을 수 없었습니다. {PAWN_pronoun}는 졸업하기 몇 년 전에 학원을 떠났습니다.</StudentSocialite89.baseDesc>
   <StudentSocialite89.title>사교적인 학생</StudentSocialite89.title>
@@ -1032,9 +1032,9 @@
   <TechHead8.title>책임자</TechHead8.title>
   <TechHead8.titleShort>책임자</TechHead8.titleShort>
   
-  <TechScholar75.baseDesc>{PAWN_nameDef}(은)는 온갖 과학기술을 섭렵한 젊은 학자였습니다. {PAWN_pronoun}는 매일 자신의 지식을 갈고 닦기 위해 노력했습니다.</TechScholar75.baseDesc>
-  <TechScholar75.title>기술 학자</TechScholar75.title>
-  <TechScholar75.titleShort>학자</TechScholar75.titleShort>
+  <TechScholar75.baseDesc>[PAWN_nameDef](은)는 중간계에서 지역 반기술주의 농부 단체와 어울렸습니다. 그들은 [PAWN_pronoun]가 매일 사격 연습을 할 수 있도록 도와줬고, 기본적인 농사 기술을 가르쳐 주었습니다. 또한 [PAWN_nameDef](이)가 허황된 주장과  편리한 기계에 한눈을 팔지 않고, 직접 손으로 열심히 일하는 데 집중하도록 가르쳤습니다.</TechScholar75.baseDesc>
+  <TechScholar75.title>농가 꼬마</TechScholar75.title>
+  <TechScholar75.titleShort>농가 꼬마</TechScholar75.titleShort>
   
   <TechnicalKid1.baseDesc>{PAWN_nameDef}(은)는 주변의 세계를 잊고 자신의 과제에 집중하는 것을 좋아했습니다.</TechnicalKid1.baseDesc>
   <TechnicalKid1.title>어린 기술자</TechnicalKid1.title>
@@ -1060,7 +1060,7 @@
   <TradersChild62.title>상인 자제</TradersChild62.title>
   <TradersChild62.titleShort>상인</TradersChild62.titleShort>
   
-  <TragicLoner87.baseDesc>{PAWN_nameDef}(은)는 정신적 외상으로 의도치않게 자신의 가족을 죽였습니다.\n\n사회에서 버림받은 {PAWN_pronoun}의 주변에는 {PAWN_pronoun}의 동물과 엔지니어링 책들만 남겨졌습니다.</TragicLoner87.baseDesc>
+  <TragicLoner87.baseDesc>{PAWN_nameDef}(은)는 정신적 외상으로 의도치않게 자신의 가족을 죽였습니다.\n\n사회에서 버림받은 {PAWN_pronoun}의 주변에는 {PAWN_pronoun}의 동물과 기술 관련 책들만 남겨졌습니다.</TragicLoner87.baseDesc>
   <TragicLoner87.title>비극의 주인공</TragicLoner87.title>
   <TragicLoner87.titleShort>방황자</TragicLoner87.titleShort>
   
@@ -1070,7 +1070,7 @@
   
   <TransferStudent10.baseDesc>{PAWN_nameDef}(은)는 중간계의 부유한 가정에서 태어났습니다. {PAWN_pronoun}의 부모님은 더 좋은 교육을 시키기 위해 {PAWN_pronoun}를 근처의 번화계로 유학보냈습니다.\n\n{PAWN_pronoun}는 재능있는 학생이었습니다. 하지만 {PAWN_pronoun}의 가족은 부유했기 때문에, {PAWN_pronoun}는 바보같이 노력을 할 필요가 없었습니다.</TransferStudent10.baseDesc>
   <TransferStudent10.title>교환학생</TransferStudent10.title>
-  <TransferStudent10.titleShort>반골</TransferStudent10.titleShort>
+  <TransferStudent10.titleShort>학생</TransferStudent10.titleShort>
   
   <TraumatizedYouth87.baseDesc>{PAWN_nameDef}(은)는 도시계에서 꽤나 풍요롭게 살았습니다. 어머니는 심장 질환을 앓고 있었고, {PAWN_nameDef}의 아버지는 어머니를 살리기 위해 죄 없는 사람을 납치해서 심장을 적출하였습니다. 아버지는 결국 체포되었고, 이 사실을 모두 알게 된 {PAWN_pronoun}는 씻을 수 없는 상처를 받게 되었습니다.</TraumatizedYouth87.baseDesc>
   <TraumatizedYouth87.title>충격받은 청소년</TraumatizedYouth87.title>
@@ -1092,7 +1092,7 @@
   <UrbworldArmyBrat84.title>도시계 군인 자녀</UrbworldArmyBrat84.title>
   <UrbworldArmyBrat84.titleShort>군인 꼬마</UrbworldArmyBrat84.titleShort>
   
-  <UrbworldChild56.baseDesc>{PAWN_nameDef}(은)는 도시계에서 격리된 어린 시절을 보냈습니다. {PAWN_pronoun}는 고소공포증으로 인해 주로 실내에서 생활하였고, 내성적인 아이가 되었습니다.\n\n{PAWN_pronoun}가 도시의 좁은 통로로 조심스레 나갔을 때, {PAWN_pronoun}는 전쟁 게임을 즐기면서, 다양한 모의시험 무기에 능숙해졌습니다.</UrbworldChild56.baseDesc>
+  <UrbworldChild56.baseDesc>{PAWN_nameDef}(은)는 도시계에서 격리된 어린 시절을 보냈습니다. {PAWN_pronoun}는 고소공포증 때문에 주로 실내에서 생활하였고, 내성적인 아이가 되었습니다.\n\n{PAWN_pronoun}가 도시의 좁은 통로로 조심스레 나갔을 때, {PAWN_pronoun}는 전쟁 게임을 즐기면서, 다양한 모의시험 무기에 능숙해졌습니다.</UrbworldChild56.baseDesc>
   <UrbworldChild56.title>도시계 아이</UrbworldChild56.title>
   <UrbworldChild56.titleShort>도시계 아이</UrbworldChild56.titleShort>
   
@@ -1162,7 +1162,7 @@
   
   <WealthyStudent59.baseDesc>{PAWN_nameDef}(은)는 부유한 번화계에서 태어났습니다. {PAWN_pronoun}는 카스피 공학학교에서 공부했으며, 수학과 컴퓨터 프로그래밍에 뛰어났습니다.\n\n{PAWN_pronoun}는 깨끗하고 멸균된 환경에서 자랐으며, {PAWN_pronoun}는 농장이나 가축은 본 적이 없습니다.</WealthyStudent59.baseDesc>
   <WealthyStudent59.title>부유한 학생</WealthyStudent59.title>
-  <WealthyStudent59.titleShort>반골</WealthyStudent59.titleShort>
+  <WealthyStudent59.titleShort>학생</WealthyStudent59.titleShort>
   
   <WildChild5.baseDesc>{PAWN_nameDef}(은)는 식인 생물로 넘쳐나는 독성계에 버려졌습니다. {PAWN_pronoun}는 일찍부터 외로움에 익숙해져야 했습니다.\n\n{PAWN_pronoun}는 싸우는 법을 배웠지만 음식을 날것으로 먹는것에 더 익숙했습니다.</WildChild5.baseDesc>
   <WildChild5.title>야생아</WildChild5.title>

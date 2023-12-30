@@ -8,7 +8,7 @@
   <Banished68.title>추방자</Banished68.title>
   <Banished68.titleShort>추방자</Banished68.titleShort>
   
-  <Brave88.baseDesc>{PAWN_nameDef}(은)는 단창, 도끼, 몽둥이 따위의 근접 무기를 활용해서 부족의 전투에 참여했습니다.</Brave88.baseDesc>
+  <Brave88.baseDesc>{PAWN_nameDef}(은)는 단창과 도끼, 몽둥이 등의 근접 무기를 활용해서 부족의 전투에 참여했습니다.</Brave88.baseDesc>
   <Brave88.title>용사</Brave88.title>
   <Brave88.titleShort>용사</Brave88.titleShort>
   
@@ -92,7 +92,7 @@
   <StewKeeper95.title>스튜 지킴이</StewKeeper95.title>
   <StewKeeper95.titleShort>스튜 지킴이</StewKeeper95.titleShort>
   
-  <Tamer79.baseDesc>{PAWN_nameDef}(이)가 부족에서 맡은 역할은 주변의 자연과 교감하는 것이었고, 특히 동물 세계와의 교감이 중요했습니다. 영적인 일 외에도, {PAWN_pronouon}는 야생 짐승들을 길들이고 보살펴 부족을 위해 일하도록 했습니다.</Tamer79.baseDesc>
+  <Tamer79.baseDesc>{PAWN_nameDef}(이)가 부족에서 맡은 역할은 주변의 자연과 교감하는 것이었고, 특히 동물 세계와의 교감이 중요했습니다. 영적인 일 외에도, {PAWN_pronoun}는 야생 짐승들을 길들이고 보살펴 부족을 위해 일하도록 했습니다.</Tamer79.baseDesc>
   <Tamer79.title>조련사</Tamer79.title>
   <Tamer79.titleShort>조련사</Tamer79.titleShort>
   

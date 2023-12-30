@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <CureAbasia.label>운동마비 치료</CureAbasia.label>
-  <CureAbasia.description>대량의 메카나이트를 사용하여 뇌를 손상시키지 않고 신경활동을 조정합니다. 이는 운동마비를 영구적으로 치료하지만 많은 번화계 약품을 소모합니다.</CureAbasia.description>
+  <CureAbasia.description>대량의 기계입자를 사용하여 뇌를 손상시키지 않고 신경활동을 조정합니다. 이는 운동마비를 영구적으로 치료하지만 많은 번화계 약품을 소모합니다.</CureAbasia.description>
   <CureAbasia.jobString>운동마비 치료 중</CureAbasia.jobString>
   <CureAbasia.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 운동마비를 치료했습니다.</CureAbasia.successfullyRemovedHediffMessage>
   

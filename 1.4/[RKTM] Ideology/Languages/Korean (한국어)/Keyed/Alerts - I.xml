@@ -20,7 +20,7 @@
   <RitualUnfilledRoles>{0}(을)를 진행하려면 다음 지위가 필요함</RitualUnfilledRoles>
 
   <IdeoBuildingMissing>{0} 희망</IdeoBuildingMissing>
-  <IdeoBuildingMissingDesc>{IDEO_name}(을)를 사용하려면 {2} 이상 동안 정착지에 {0}(이)가 있어야 합니다.\n\n{0}(은)는 {BASEBUILDING_label}의 변형입니다.{BUILDINGINFO}\n\n이 요구 사항은 다음과 같은 경우에만 활성화됩니다. {IDEO_name}(은)는 당신 세력의 주요 이념이거나 세력에 {MINBELIEVERS}명의 믿는 사람이 있는 경우에만 활성화됩니다.{4}\n\n요건이 충족되지 않으면 해당 인원은 불행해질 것입니다.\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingMissingDesc>{IDEO_name}(을)를 사용하려면 {2} 또는 그 이상일 때 정착지에 {0}(이)가 있어야 합니다.\n\n{0}(은)는 {BASEBUILDING_label}의 변형입니다. {BUILDINGINFO}\n\n이 요구 사항은 다음과 같은 경우에만 활성화됩니다. {IDEO_name}(이)가 당신 세력의 주요 이념이거나 세력에서 {MINBELIEVERS}명 이상의 정착민이 믿고 있어야 합니다.{4}\n\n요건이 충족되지 않으면 해당 인원은 불행해질 것입니다.\n{3}</IdeoBuildingMissingDesc>
   <IdeoBuildingArchitectTabDesc>건설 메뉴의 '{TABNAME}' 항목을 열어 찾을 수 있습니다.</IdeoBuildingArchitectTabDesc>
   <IdeoBuildingCanBeCraftedAt> 다음 위치에 생성할 수 있습니다.\n{0}.</IdeoBuildingCanBeCraftedAt>
   <IdeoBuildingRoomRequirementsDesc>{0}의 존엄성을 존중하려면 아래의 방 요구사항을 충족해야 합니다</IdeoBuildingRoomRequirementsDesc>
@@ -34,7 +34,7 @@
 
   <IdeoRoleEmpty>{0} 지위가 비어있음</IdeoRoleEmpty>
   <IdeoRolesEmpty>{0} 지위가 비어있음</IdeoRolesEmpty>
-  <IdeoRolesEmptyDesc>다음 지위가 공석입니다.\n{0}\n\n사교 탭에서 정착민에게 지위를 할당하거나 제단이나 행사 장소를 우클릭하여 취임식을 시작하세요.\n\n해당 지위가 계속 공석으로 남아있을 경우 다음 정착민이 실망합니다.</IdeoRolesEmptyDesc>
+  <IdeoRolesEmptyDesc>다음 지위가 공석입니다.\n{0}\n\n관계 탭에서 정착민에게 지위를 할당하거나 제단이나 행사 장소를 우클릭하여 취임식을 시작하세요.\n\n해당 지위가 계속 공석으로 남아있을 경우 다음 정착민이 실망합니다.</IdeoRolesEmptyDesc>
 
   <AncientAltarThreatsWaking>{0} 후 보안 시스템 활성화</AncientAltarThreatsWaking>
   <AncientAltarThreatsWakingDesc>보안 시스템이 {0} 후 발동합니다. 유물을 위협하는 자가 누구든 공격할 것입니다.</AncientAltarThreatsWakingDesc>
@@ -42,7 +42,7 @@
   <AlertRitualComing>행사 시기가 다가옴</AlertRitualComing>
   <AlertRitualComingDesc>아래 행사를 진행할 시기가 다가옴</AlertRitualComingDesc>
   <AlertRitualComingExtra>이 기회는 {0}일 후 만료되며, 매년 같은 시기에 다시 발생합니다.</AlertRitualComingExtra>
-  <AlertRitualComingEntry>{1} 후 {2}에 {0} 기회</AlertRitualComingEntry>
+  <AlertRitualComingEntry>{1} ({2} 후)에 {0} 기회</AlertRitualComingEntry>
 
   <AlertAgeReversalDemandNear>노화 역전 요구</AlertAgeReversalDemandNear>
   <AlertAgeReversalDemandDesc>노화 역전 시술을 원하는 정착민들이 있습니다. 들어주지 않으면 불만이 생길 것입니다.\n\n시술을 원하는 정착민의 목록은 다음과 같습니다.</AlertAgeReversalDemandDesc>

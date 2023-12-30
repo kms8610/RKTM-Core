@@ -181,8 +181,8 @@
   <Stat_Thing_Biocoded_Name>생체인증</Stat_Thing_Biocoded_Name>
   <Stat_Thing_Biocoded_Desc>이 장비가 작동하려면 특정 인물의 생체인증이 필요합니다.</Stat_Thing_Biocoded_Desc>
   <Stat_Pawn_RequiredApparel_Name>의복 종류 요구사항</Stat_Pawn_RequiredApparel_Name>
-  <Stat_Thing_Plant_GrowthRate>생장 속도</Stat_Thing_Plant_GrowthRate>
-  <Stat_Thing_Plant_GrowthRate_Desc>식물이 자라나는 속도입니다.\n\n생장률은 토질, 기온, 광량, 환경 등 여러 요인의 영향을 받습니다.</Stat_Thing_Plant_GrowthRate_Desc>
+  <Stat_Thing_Plant_GrowthRate>성장 속도</Stat_Thing_Plant_GrowthRate>
+  <Stat_Thing_Plant_GrowthRate_Desc>식물이 자라나는 속도입니다.\n\n성장률은 토질, 기온, 광량, 환경 등 여러 요인의 영향을 받습니다.</Stat_Thing_Plant_GrowthRate_Desc>
   <Stat_Thing_Plant_Age>나이</Stat_Thing_Plant_Age>
   <Stat_Thing_Plant_AgeDesc>얼마나 오래 살았는지 알 수 있습니다.</Stat_Thing_Plant_AgeDesc>
   <Stat_Thing_Plant_Lifespan>수명</Stat_Thing_Plant_Lifespan>
@@ -202,17 +202,17 @@
   <Stat_Thing_Drug_MinToleranceForAddiction_Desc>이 약물에 중독되는 데 필요한 최소 내성입니다.\n\n사용자가 이 내성보다 낮다면 약물 복용으로 말미암은 중독은 없습니다.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
   <Stat_Thing_Drug_SafeDoseInterval_Desc>성인은 약물을 이보다 자주 복용해야 중독됩니다.\n\n이 값은 약물의 중독성 최소 내성, 복용당 내성량, 내성 하락률로부터 계산됩니다. 일부 약물에는 복용 적절 간격이 없으며, 매 복용마다 중독의 위험이 있습니다.\n\n복용자의 신체 크기에 따라 복용 적절 간격이 다를 수 있습니다.</Stat_Thing_Drug_SafeDoseInterval_Desc>
   <Stat_Thing_Drug_RandomODChance_Desc>약물을 무작위로 과다 복용할 확률입니다. 무작위 과다 복용은 첫 복용자와 경험 많은 중독자 모두에게 발생할 수 있습니다.</Stat_Thing_Drug_RandomODChance_Desc>
-  <Stat_Thing_Drug_Addictiveness_Desc>이 약의 복용당 중독확률입니다.\n\n약물 중독에 대한 최소 내성이 있다면, 내성이 이 수준을 초과해야 적용됩니다. 최소 내성이 없다면, 복용할 때마다 중독될 수 있습니다.</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>이 약의 복용당 중독확률입니다.\n\n약물 중독에 대한 최소 내성이 있다면, 내성이 이 수준을 초과해야 적용됩니다. 최소 내성이 없다면 복용할 때마다 중독될 수 있습니다.</Stat_Thing_Drug_Addictiveness_Desc>
   <Stat_Thing_Drug_AddictionSeverityInitial_Desc>이 약물 중독의 심각도 단계입니다.\n\n많은 약물을 복용하면 중독의 심각도가 증가하지만, 시간이 지나면 감소합니다.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
   <Stat_Thing_Drug_AddictionRecoveryTime_Desc>초기 중독에서 회복되는 시간을 나타냅니다.\n\n중독 심각도를 중독 회복률로 나눈 값으로 계산됩니다. 다시 먹게 된다면 중독이 더 오래 걸립니다.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
   <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>약물 복용당 기존 중독성에 얼마나 많은 심각도가 추가되는지 나타냅니다.\n\n중독 심각도는 100%를 초과할 수 없습니다.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
-  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>중독자가 금단증상을 예방하기 위해 얼마나 자주 이 약을 복용해야 하는지 나타냅니다.\n\n이는 중독필요 하락률과 복용당 중독필요량으로부터 계산됩니다.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>중독자가 금단증상을 예방하기 위해 얼마나 자주 이 약을 복용해야 하는지 나타냅니다.\n\n이는 중독필요 하락률과 복용당 중독 필요량으로부터 계산됩니다.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
   <Stat_Thing_Drug_AddictionNeedOffset_Desc>복용당 화학물질에 대한 중독자의 필요량을 얼마나 채워주는지 나타냅니다.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
   <Stat_Thing_Drug_AddictionNeedFallRate_Desc>중독자의 화학물질에 대한 필요량이 얼마나 떨어지는지 나타냅니다.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
-  <Stat_Thing_Drug_AddictionCost_Desc>금단현상 없이 이 약물의 중독을 지원하기 위해 하루에 소비해야 하는 시장가치입니다.\n\n이 값은 중독자의 복용당 중독필요량, 중독필요 하락률, 약물의 시장가치로부터 계산됩니다.\n\n참고로 다른 비용으로 같은 화학물질을 얻는 방법이 있을 수도 있습니다.</Stat_Thing_Drug_AddictionCost_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>금단현상 없이 이 약물의 중독을 지원하기 위해 하루에 소비해야 하는 시장가치입니다.\n\n이 값은 중독자의 복용당 중독 필요량, 중독필요 하락률, 약물의 시장가치로부터 계산됩니다.\n\n참고로 다른 비용으로 같은 화학물질을 얻는 방법이 있을 수도 있습니다.</Stat_Thing_Drug_AddictionCost_Desc>
 
   <Stat_Thing_StyleLabel>양식</Stat_Thing_StyleLabel>
-  <Stat_Thing_StyleDesc>양식은 물체의 외형을 결정하며 게임 플레이에는 영향을 주지 않습니다. 스타일은 서로 다른 믿음과 문화를 가진 사람들이 사용하는 각자의 건설 방식을 구성하곤 합니다.</Stat_Thing_StyleDesc>
+  <Stat_Thing_StyleDesc>양식은 물체의 외형을 결정하며 게임 플레이에는 영향을 주지 않습니다. 양식은 서로 다른 믿음과 문화를 가진 사람들이 사용하는 각자의 건설 방식을 구성하곤 합니다.</Stat_Thing_StyleDesc>
 
   <Stat_Animal_GestationTime>생식 주기</Stat_Animal_GestationTime>
   <Stat_Animal_GestationTimeDesc>새끼나 알을 낳을 때까지 걸리는 시간입니다.</Stat_Animal_GestationTimeDesc>

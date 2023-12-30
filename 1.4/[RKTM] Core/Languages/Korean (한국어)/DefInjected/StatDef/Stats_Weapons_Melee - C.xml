@@ -7,7 +7,7 @@
   <MeleeWeapon_AverageArmorPenetration.description>근접전에서 적의 방어력을 무시할 확률입니다.</MeleeWeapon_AverageArmorPenetration.description>
   
   <MeleeWeapon_AverageDPS.label>근접 초당 피해량</MeleeWeapon_AverageDPS.label>
-  <MeleeWeapon_AverageDPS.description>근접전에서 모든 공격을 성공할 경우 매 초당 입히는 피해의 양입니다.</MeleeWeapon_AverageDPS.description>
+  <MeleeWeapon_AverageDPS.description>근접전에서 모든 공격에 성공할 경우 초당 입히는 피해량입니다.</MeleeWeapon_AverageDPS.description>
   
   <MeleeWeapon_CooldownMultiplier.label>근접 재사용 대기시간</MeleeWeapon_CooldownMultiplier.label>
   <MeleeWeapon_CooldownMultiplier.description>이 재료로 만든 무기의 재사용 대기시간에 곱해집니다.</MeleeWeapon_CooldownMultiplier.description>

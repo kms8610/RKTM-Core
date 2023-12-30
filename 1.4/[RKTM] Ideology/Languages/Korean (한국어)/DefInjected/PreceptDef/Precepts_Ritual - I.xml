@@ -23,7 +23,7 @@
   <Festival.description>즐기기 위한 축하 모임입니다. 지도자의 격려가 끝나면 모두가 한 데 어울려 즐거운 시간을 보냅니다.</Festival.description>
   
   <Funeral.label>장례식</Funeral.label>
-  <Funeral.description>이 사상을 믿는 사람이 죽어 묻힐 때 치러지는 행사입니다. 육체가 파괴됐다면 빈 무덤도 사용될 수 있습니다. 노예는 장례식을 치러주지 않습니다.</Funeral.description>
+  <Funeral.description>이 사상을 믿는 사람이 죽어 묻힐 때 치러지는 행사입니다. 육체가 파괴됐다면 빈 무덤도 사용할 수 있습니다. 노예는 장례식을 치러주지 않습니다.</Funeral.description>
   <Funeral.extraTextPawnDeathLetter>{PAWN_nameDef}(을)를 매장한 뒤 장례식을 치러주면 {PAWN_possessive} 가족과 친구들을 다소 위로할 수 있습니다.</Funeral.extraTextPawnDeathLetter>
   
   <FuneralNoCorpse.label>장례식 (시신 없음)</FuneralNoCorpse.label>

@@ -5,7 +5,7 @@
   <ChooseYourIdeoligion>사상 선택</ChooseYourIdeoligion>
   <RandomStructureTip>사상의 구조를 무작위로 선택합니다.</RandomStructureTip>
   <RandomStyleTip>사상의 양식을 무작위로 선택합니다.</RandomStyleTip>
-  <PlayClassic>이념 시스템 비활성</PlayClassic>
+  <PlayClassic>사상 시스템 비활성화</PlayClassic>
   <CreateCustomFluid>맞춤 생성\n(유동적)</CreateCustomFluid>
   <CreateCustomFixed>맞춤 생성\n(고정)</CreateCustomFixed>
   <CustomIdeoligions>맞춤 사상</CustomIdeoligions>
@@ -39,10 +39,6 @@
   <AnimalsBodySizePerColonist>정착민 한 명당 동물의 신체 크기 총합</AnimalsBodySizePerColonist>
   <VeneratedAnimalsBodySizePerColonist>정착민 한 명당 주변 동물의 신체 크기 총합</VeneratedAnimalsBodySizePerColonist>
   <MinAnimalBodySizePerColonist>정착민 한 명당 {0} 신체 크기 기대</MinAnimalBodySizePerColonist>
-  <PlantThing>{0_label} 심기</PlantThing>
-  <PlantThingDesc>{0_label}(을)를 선택한 자리에 심습니다.</PlantThingDesc>
-  <CancelPlantThing>{0_label} 심기 취소</CancelPlantThing>
-  <CancelPlantThingDesc>{0_label}(을)를 심지 않도록 명령을 취소합니다.</CancelPlantThingDesc>
   <Disables>비활성</Disables>
   <RequiresOnePrecept>다음 규율 중 하나 필요</RequiresOnePrecept>
   <RequiredPrecepts>필요한 규율</RequiredPrecepts>
@@ -77,7 +73,7 @@
   <MealKindVegetarian>채식주의자</MealKindVegetarian>
   <MealKindMeat>육류 함유</MealKindMeat>
   <MealKindAny>모두에게 적합</MealKindAny>
-  <WearingDesiredApparelMulti>이 복장</WearingDesiredApparelMulti>
+  <WearingDesiredApparelMulti>격식 있는 복장</WearingDesiredApparelMulti>
 
   <UnableToLoadIdeoTitle>사상을 불러올 수 없음</UnableToLoadIdeoTitle>
   <UnableToLoadIdeoDescription>세력 요구 사항을 충족시킬 수 없기  때문에 선택한 사상을 불러올 수 없습니다. 문제가 되는 부분은 다음과 같습니다.</UnableToLoadIdeoDescription>
@@ -251,7 +247,7 @@
   <ConnectionTorn>교감 끊어짐. {0} 후 다시 교감할 수 있습니다.</ConnectionTorn>
   <ConnectedPawnAway>{PAWN_nameDef}(이)가 너무 멂</ConnectedPawnAway>
   <TreeBlockedByNearbyBuildingsDesc>{PLANT_definite}(을)를 인공 구조물 옆에 심으면 교감 수준이 빠르게 떨어집니다. 교감 수준은 {PLANT_definite}(이)가 수용할 수 있는 나무지기의 최대 수를 결정합니다.\n\n정말 여기에 심으시겠습니까?</TreeBlockedByNearbyBuildingsDesc>
-  <GauranlenModeChangeDescFull>{TREE_definite}의 계급을 바꾸는 데에는 시간과 에너지가 필요합니다.\n\n상호작용이 끝나면, 모든 나무지기는 {DURATION}일간 고치 속에 들어가 선택된 계급으로 변이합니다.\n\n이미 변이 중인 고치 또한 선택된 계급으로 변이하기 위해 과정을 처음부터 다시 시작합니다.</GauranlenModeChangeDescFull>
+  <GauranlenModeChangeDescFull>{TREE_definite}의 계급을 바꾸는 데에는 시간과 에너지가 필요합니다.\n\n상호작용이 끝나면 모든 나무지기는 {DURATION}일간 고치에 들어가 선택한 계급으로 변이합니다.\n\n이미 변이 중인 고치 또한 선택한 계급으로 변이하기 위해, 과정을 처음부터 다시 시작합니다.</GauranlenModeChangeDescFull>
   <ChangeModeDesc>{TREE_definite}(이)가 생성한 나무지기의 유형을 바꿉니다.</ChangeModeDesc>
   <ConnectionStrengthFall>교감 수준 감소율</ConnectionStrengthFall>
   <ConnectionStrength>교감 수준</ConnectionStrength>
@@ -263,7 +259,7 @@
   <PruningConnectionStrength>관리를 통한 교감 수준 상승률</PruningConnectionStrength>
   <PruningHoursToMaintain>매일 관리에 필요한 시간</PruningHoursToMaintain>
   <DesiredConnectionStrength>희망</DesiredConnectionStrength>
-  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef}(이)가 이 교감 수준 유지에 충분할 때까지 {TREE_definite}(을)를 다듬을 것입니다.\n\n높은 교감 수준에서는 더 많은 나무지기를 수용할 수 있지만 그만큼 더 자주 다듬어줘야 합니다.\n\n교감 수준 게이지를 클릭해서 희망 강도를 설정할 수 있습니다.\n\n일간 교감 수준 감소량: {FALL}\n\n교감 수준은 주변 건물의 영향을 받습니다.</DesiredConnectionStrengthDesc>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef}(이)가 설정된 교감 수준이 충분히 유지될 때까지 {TREE_definite}(을)를 다듬을 것입니다.\n\n높은 교감 수준에서는 더 많은 나무지기를 수용할 수 있지만 그만큼 더 자주 다듬어줘야 합니다.\n\n막대기를 클릭해서 원하는 교감 수준을 설정할 수 있습니다.\n\n일간 교감 수준 감소량: {FALL}\n\n교감 수준은 주변 건물에 영향을 받습니다.</DesiredConnectionStrengthDesc>
   <WaitingForConnectorToChangeCaste>{CONNECTEDPAWN_nameDef}(이)가 나무지기 계급을 바꾸길 기다리는 중</WaitingForConnectorToChangeCaste>
   <GauranlenTreeMode>나무지기 계급</GauranlenTreeMode>
   <NoCaste>계급 없음</NoCaste>
@@ -303,11 +299,11 @@
   <MakeIdeoligionPrimary>주 사상으로 설정</MakeIdeoligionPrimary>
 
   <!-- Archonexus -->
-  <GameOverArchotechInvokedIntro>초월연결체가 움직이기 시작합니다. 온 세상이 밝은 빛으로 가득 차고, 시간이 느려지는 듯 합니다...\n\n</GameOverArchotechInvokedIntro>
-  <GameOverArchotechInvokedEnding>기계 신이 당신의 존재를 알아차렸습니다. 이제 아무도 무슨 일이 일어날지 예상할 수 없습니다. 기계 신은 당신을 파괴할 수도, 당신과 직접 소통할 수도, 당신의 의식을 현실의 다른 차원으로 옮길 수도 있습니다.\n\n당신의 머릿속에 무한한 기하학적 인공 구조가 흘러 들어오는 것이 느껴집니다. 시간과 공간의 개념이 점차 사라집니다. 두렵지만, 아름답습니다...</GameOverArchotechInvokedEnding>
+  <GameOverArchotechInvokedIntro>초월 연결체가 움직이기 시작합니다. 온 세상이 밝은 빛으로 가득 차고, 시간이 느려지는 듯 합니다...\n\n</GameOverArchotechInvokedIntro>
+  <GameOverArchotechInvokedEnding>기계 신이 당신의 존재를 알아차렸습니다. 이제 아무도 무슨 일이 일어날지 예상할 수 없습니다. 기계 신은 당신을 파괴할 수도, 당신과 직접 소통할 수도, 당신의 의식을 현실의 다른 차원으로 옮길 수도 있습니다.\n\n당신의 머릿속에 무한한 기하학적 인공 구조가 흘러 들어오는 것이 느껴집니다. 시간과 공간의 개념이 점차 사라집니다. 두렵지만 아름답습니다...</GameOverArchotechInvokedEnding>
   <GameOverColonistsTranscended>초월한 정착민\n\n{0}</GameOverColonistsTranscended>
-  <Reward_ArchonexusMapPart>초월연결체 지도 조각</Reward_ArchonexusMapPart>
-  <Reward_ArchonexusMapPartLabel>초월연결체 지도 조각 {0}/{1}</Reward_ArchonexusMapPartLabel>
+  <Reward_ArchonexusMapPart>초월 연결체 지도 조각</Reward_ArchonexusMapPart>
+  <Reward_ArchonexusMapPartLabel>초월 연결체 지도 조각 {0} / {1}</Reward_ArchonexusMapPartLabel>
 
   <RelicsLower>유물</RelicsLower>
   <RelicLower>유물</RelicLower>
@@ -341,7 +337,7 @@
   <BiosculpterLoadingStartedMessage>{PAWN_labelShort}(이)가 {INGREDIENTS}(을)를 모은 후 {CYCLE} 절차를 시작할 것입니다.</BiosculpterLoadingStartedMessage>
   <BiosculpterCarryStartedMessage>{PAWN_labelShort}(이)가 {INGREDIENTS}(을)를 모은 후, {DOWNED_labelShort}(을)를 생체 재구축기로 이송해서 {CYCLE} 절차를 시작할 것입니다.</BiosculpterCarryStartedMessage>
   <NumNutrition>{0} 열량</NumNutrition>
-  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort}(이)가 전력 부족으로 인해 생체 조율을 완전히 마치지 못하고 나왔습니다.</BiosculpterNoPowerEjectedMessage>
+  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort}(이)가 전력 부족으로 생체 조율을 완전히 마치지 못하고 나왔습니다.</BiosculpterNoPowerEjectedMessage>
   <BiosculpterHealCompletedMessage>{PAWN_labelShort}(이)가 신체 치유 절차를 마쳤습니다.</BiosculpterHealCompletedMessage>
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort}의 신체 치유 절차를 완료하여, {HEDIFF_label}(이)가 회복되었습니다.</BiosculpterHealCompletedWithCureMessage>
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}의 노화 역전 절차가 완료됐습니다.</BiosculpterAgeReversalCompletedMessage>

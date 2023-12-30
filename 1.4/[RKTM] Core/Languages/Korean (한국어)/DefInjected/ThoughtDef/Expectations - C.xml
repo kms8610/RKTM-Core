@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Expectations.stages.skyhigh_expectations.label>매우 높은 기대감</Expectations.stages.skyhigh_expectations.label>
-  <Expectations.stages.skyhigh_expectations.description>우리가 가진 물자는 굉장해! 이정도면 모든걸 할 수 있어!</Expectations.stages.skyhigh_expectations.description>
+  <Expectations.stages.skyhigh_expectations.description>우리가 가진 물자는 굉장해! 이 정도면 모든 걸 할 수 있어!</Expectations.stages.skyhigh_expectations.description>
   <Expectations.stages.high_expectations.label>높은 기대감</Expectations.stages.high_expectations.label>
   <Expectations.stages.high_expectations.description>우린 충분한 물자를 가지고 있어. 가지고 싶은걸 가지지 않을 이유가 없어.</Expectations.stages.high_expectations.description>
   <Expectations.stages.moderate_expectations.label>평범한 기대감</Expectations.stages.moderate_expectations.label>
@@ -9,7 +9,7 @@
   <Expectations.stages.low_expectations.label>낮은 기대감</Expectations.stages.low_expectations.label>
   <Expectations.stages.low_expectations.description>사치를 기대할 수 없어.</Expectations.stages.low_expectations.description>
   <Expectations.stages.very_low_expectations.label>매우 낮은 기대감</Expectations.stages.very_low_expectations.label>
-  <Expectations.stages.very_low_expectations.description>도저히 미래가 보이지 않아. 생존을 위해서라도 스스로 단련하는게 좋겠어.</Expectations.stages.very_low_expectations.description>
+  <Expectations.stages.very_low_expectations.description>도저히 미래가 보이지 않아. 생존을 위해서라도 스스로 단련하는 게 좋겠어.</Expectations.stages.very_low_expectations.description>
   <Expectations.stages.extremely_low_expectations.label>극도로 낮은 기대감</Expectations.stages.extremely_low_expectations.label>
   <Expectations.stages.extremely_low_expectations.description>죽을 정도로 힘든 상황이야. 살아남기 위해 무엇이든지 해야 해.</Expectations.stages.extremely_low_expectations.description>
   <Expectations.stages.noble_expectations.label>귀족의 기대감</Expectations.stages.noble_expectations.label>
@@ -17,7 +17,7 @@
   <Expectations.stages.royal_expectations.label>왕족의 기대감</Expectations.stages.royal_expectations.label>
   <Expectations.stages.royal_expectations.description>폐하... 제가 이런 불편한 환경에 있다는 것이 믿을 수가 없습니다.</Expectations.stages.royal_expectations.description>
   <Expectations.stages.elite_expectations.label>상류층의 기대감</Expectations.stages.elite_expectations.label>
-  <Expectations.stages.elite_expectations.description>아니 내가... 이런 수모를 참아야 해? 그건 말도 안돼.</Expectations.stages.elite_expectations.description>
+  <Expectations.stages.elite_expectations.description>아니, 나처럼 중요한 사람이... 이런 대우를 참아야 돼?</Expectations.stages.elite_expectations.description>
   <Expectations.stages.supreme_expectations.label>권력자의 기대감</Expectations.stages.supreme_expectations.label>
   <Expectations.stages.supreme_expectations.description>이곳의 중심은 나야. 내게 도전할 사람은 아무도 없어.</Expectations.stages.supreme_expectations.description>
 </LanguageData>

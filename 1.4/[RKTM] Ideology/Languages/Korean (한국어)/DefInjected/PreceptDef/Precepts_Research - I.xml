@@ -15,9 +15,9 @@
   <Research_Slow.label>느림</Research_Slow.label>
   <Research_Slow.description>연구 작업은 특별히 의미가 없다. 노력한다 한들 무엇을 하겠나?</Research_Slow.description>
   
-  <Research_VeryFast.label>매우빠름</Research_VeryFast.label>
+  <Research_VeryFast.label>매우 빠름</Research_VeryFast.label>
   <Research_VeryFast.description>연구는 사람으로서 할 수 있는 제일 뜻깊은 행위다.</Research_VeryFast.description>
   
-  <Research_VerySlow.label>매우느림</Research_VerySlow.label>
+  <Research_VerySlow.label>매우 느림</Research_VerySlow.label>
   <Research_VerySlow.description>연구는 진지한 존경을 받을 가치가 없다. 노력하는 모습을 보이지 않는 것이 좋을 것이다.</Research_VerySlow.description>
 </LanguageData>

@@ -26,8 +26,8 @@
   <CoverAndShooting.label>엄폐 및 사격</CoverAndShooting.label>
   <CoverAndShooting.helpText>원거리 전투에서는 엄폐물을 활용하는 게 제일 중요합니다.\n\n엄폐물이 정착민의 바로 옆에 있을 때, 그리고 적과 정착민의 사이에 있어야만 엄폐 보너스를 받을 수 있습니다.\n\n정착민이 벽의 모퉁이 뒤에 숨게 할 수도 있으며, 적이 보이면 몸을 살짝 빼서 공격합니다.\n\n대부분의 물건은 엄폐물로 사용할 수 있지만 엄폐 성능에는 종류에 따라 차이가 있습니다. 허허벌판보단 나무 뒤에 숨는 게 좋지만, 나무 뒤보단 모래주머니 뒤에 웅크리는 게 효과적입니다.</CoverAndShooting.helpText>
   
-  <Deterioration.label>아이템 손상</Deterioration.label>
-  <Deterioration.helpText>밖에 방치된 아이템은 서서히 손상됩니다.\n\n오래 보관하고 싶다면 지붕이 있는 실내에 두세요.</Deterioration.helpText>
+  <Deterioration.label>물품 손상</Deterioration.label>
+  <Deterioration.helpText>밖에 방치된 물품은 서서히 손상됩니다.\n\n오래 보관하고 싶다면 지붕이 있는 실내에 두세요.</Deterioration.helpText>
   
   <EquippingWeapons.label>무기 장착</EquippingWeapons.label>
   <EquippingWeapons.helpText>정착민들이 무기 몇 자루와 도착했습니다. 장착하세요!\n\n각 정착민을 선택한 후 원하는 무기를 오른쪽 클릭하세요.</EquippingWeapons.helpText>
@@ -37,7 +37,7 @@
   <FirePreparation.helpText>화재는 정착지를 쉽게 무너뜨릴 수 있습니다. 불을 효과적으로 이기려면 선행 준비가 필수입니다.\n\n다음 목록을 명심하면 화재로 인한 피해를 줄일 수 있습니다.\n\n1. 하나의 거대한 건물을 만드는 대신 여러개로 나눠서 만들고, 사이사이에 빈 공간을 두세요.\n\n2. 불이 잘 안붙는 자재를 사용하세요. 목재는 싸고 건설도 쉽지만 불이 잘 붙습니다.\n\n3. 방화대를 만들어 산불이 접근하지 못하게 하세요. 보통 서너칸 너비의 콘크리트 바닥으로 충분합니다.</FirePreparation.helpText>
   
   <Forbidding.label>상호작용 여부</Forbidding.label>
-  <Forbidding.helpText>정착민들은 상호작용이 금지된 아이템을 만지지 않습니다.\n\n금지된 아이템은 작은 X 표시가 붙습니다. X 표시된 아이템을 선택한 후 하단 명령 버튼으로 상호작용을 허용하세요.</Forbidding.helpText>
+  <Forbidding.helpText>정착민들은 상호작용이 금지된 물품을 만지지 않습니다.\n\n금지된 물품은 작은 X 표시가 붙습니다. X 표시된 물품을 선택한 후 하단 명령 버튼으로 상호작용을 허용하세요.</Forbidding.helpText>
   
   <ForbiddingDoors.label>문 상호작용</ForbiddingDoors.label>
   <ForbiddingDoors.helpText>정착민과 동물들이 특정 문을 사용하지 않도록 상호작용을 금지할 수 있습니다.\n\n따로 문을 잠그는게 아님을 기억하세요. 문은 언제나 잠겨있기 때문에 적들은 맘대로 드나들 수 없습니다. 상호작용 금지는 정착민들에게 따로 명령하는 것 뿐입니다. 따라서 제정신이 아닌 정착민은 맘대로 사용할 수도 있습니다.</ForbiddingDoors.helpText>
@@ -64,7 +64,7 @@
   <HostilityResponse.helpText>정착민들이 야수나 습격자같은 적에게 공격받을 때 어떻게 반응해야 할지 정할 수 있습니다.\n\n정책 창에서 회피, 반격, 무시 중 하나를 선택하세요.</HostilityResponse.helpText>
   
   <InfoCard.label>상세 정보</InfoCard.label>
-  <InfoCard.helpText>상세 정보에서 아이템, 사람, 건물의 자세한 능력치와 통계를 확인할 수 있습니다.\n\n사람이나 아이템을 선택한 후 왼쪽 아래 'i' 버튼을 누르세요.</InfoCard.helpText>
+  <InfoCard.helpText>상세 정보에서 물품, 사람, 건물의 자세한 능력치와 통계를 확인할 수 있습니다.\n\n사람이나 물품을 선택한 후 왼쪽 아래 'i' 버튼을 누르세요.</InfoCard.helpText>
   
   <ManualWorkPriorities.label>작업 우선순위 수동 설정</ManualWorkPriorities.label>
   <ManualWorkPriorities.helpText>림월드에서 가장 중요한 일 중 하나는 정착민들의 작업 설정을 효과적으로 하는 것입니다.\n\n나쁜 설정은 사소한 작업때문에 중요한 일이 오랜 시간 방치되게 만듭니다.\n\n더 섬세한 작업 설정을 위해 작업 창에서 수동 우선순위를 활성화할 수 있습니다.\n\n여기서는 각 정착민의 작업 우선순위가 숫자로 표시됩니다. 모든 작업은 왼쪽부터 오른쪽으로 우선순위 1의 작업을 제일 먼저 처리하고, 다음으로 왼쪽부터 오른쪽으로 우선순위 2의 작업을 처리합니다. 3과 4도 마찬가지입니다.\n\n거대하고 자동화된 정착지를 만들려면 현명한 우선순위 설정은 필수입니다.</ManualWorkPriorities.helpText>
@@ -88,13 +88,13 @@
   <SpoilageAndFreezers.helpText>대부분의 식료품은 꽤 빠르게 상합니다.\n\n부패를 방지하려는 냉동창고를 건설해야 합니다.\n\n우선 방을 하나 만든 후 한두개의 냉방기를 설치하고 목표 온도를 영하로 설정하세요.\n\n냉동 식품은 상하지 않습니다.</SpoilageAndFreezers.helpText>
   
   <Stockpiles.label>저장구역</Stockpiles.label>
-  <Stockpiles.helpText>정착민들이 아이템을 보관할 공간이 필요합니다. 저장구역을 지정해주세요.\n\n왼쪽 아래 구상-구역에서 저장구역을 찾으세요.</Stockpiles.helpText>
+  <Stockpiles.helpText>정착민들이 물품을 보관할 공간이 필요합니다. 저장구역을 지정해주세요.\n\n왼쪽 아래 구상-구역에서 저장구역을 찾으세요.</Stockpiles.helpText>
   
   <StorageTab.label>저장 설정</StorageTab.label>
-  <StorageTab.helpText>저장구역이나 수납용 건물을 선택한 후 왼쪽 아래 '저장' 버튼을 눌러 상세설정을 할 수 있습니다.\n\n저장 설정에서 카테고리를 펼쳐 특정 아이템의 보관을 허용하거나 금지할 수 있습니다. 각 카테고리 이름 왼쪽의 삼각형을 누르세요.\n\n저장 공간의 우선순위를 바꿀 수도 있습니다. 정착민들은 높은 우선순위의 장소부터 채우며, 낮은 우선순위에서 높은 우선순위의 저장 공간으로 아이템을 옮깁니다.</StorageTab.helpText>
+  <StorageTab.helpText>저장구역이나 수납용 건물을 선택한 후 왼쪽 아래 '저장' 버튼을 눌러 상세설정을 할 수 있습니다.\n\n저장 설정에서 카테고리를 펼쳐 특정 물품의 보관을 허용하거나 금지할 수 있습니다. 각 카테고리 이름 왼쪽의 삼각형을 누르세요.\n\n저장 공간의 우선순위를 바꿀 수도 있습니다. 정착민들은 높은 우선순위의 장소부터 채우며, 낮은 우선순위에서 높은 우선순위의 저장 공간으로 물품을 옮깁니다.</StorageTab.helpText>
   
   <TileInspector.label>칸 검사기</TileInspector.label>
-  <TileInspector.helpText>{Key:ShowCellInspector}(을)를 누르고 있으면  칸의 상세정보를 검사할 수 있습니다. 검사기에서는 타일의 내용물과 방 정보, 미관 정보 등을 볼 수 있습니다.</TileInspector.helpText>
+  <TileInspector.helpText>{Key:ShowCellInspector}(을)를 누르고 있으면  칸의 상세정보를 검사할 수 있습니다. 검사기에서는 해당 칸의 내용물과 방 정보, 미관 정보 등을 볼 수 있습니다.</TileInspector.helpText>
   
   <TimeAssignments.label>시간표</TimeAssignments.label>
   <TimeAssignments.helpText>시간/구역 창에서 각 정착민의 시간별 일과를 설정할 수 있습니다.</TimeAssignments.helpText>

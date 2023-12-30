@@ -8,7 +8,7 @@
   <Beauty.scoreStages.beautiful.label>아름다움 (5/8)</Beauty.scoreStages.beautiful.label>
   <Beauty.scoreStages.very_beautiful.label>상당히 아름다움 (6/8)</Beauty.scoreStages.very_beautiful.label>
   <Beauty.scoreStages.extremely_beautiful.label>매우 아름다움 (7/8)</Beauty.scoreStages.extremely_beautiful.label>
-  <Beauty.scoreStages.unbelievably_beautiful.label>어마하게 아름다움 (8/8)</Beauty.scoreStages.unbelievably_beautiful.label>
+  <Beauty.scoreStages.unbelievably_beautiful.label>굉장히 아름다움 (8/8)</Beauty.scoreStages.unbelievably_beautiful.label>
   
   <Cleanliness.label>청결</Cleanliness.label>
   <Cleanliness.scoreStages.very_dirty.label>매우 더러움 (1/5)</Cleanliness.scoreStages.very_dirty.label>
@@ -30,7 +30,7 @@
   <Impressiveness.scoreStages.somewhat_impressive.label>꽤나 인상적 (6/10)</Impressiveness.scoreStages.somewhat_impressive.label>
   <Impressiveness.scoreStages.very_impressive.label>상당히 인상적 (7/10)</Impressiveness.scoreStages.very_impressive.label>
   <Impressiveness.scoreStages.extremely_impressive.label>매우 인상적 (8/10)</Impressiveness.scoreStages.extremely_impressive.label>
-  <Impressiveness.scoreStages.unbelievably_impressive.label>어마하게 인상적 (9/10)</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <Impressiveness.scoreStages.unbelievably_impressive.label>굉장히 인상적 (9/10)</Impressiveness.scoreStages.unbelievably_impressive.label>
   <Impressiveness.scoreStages.wondrously_impressive.label>극도록 인상적 (10/10)</Impressiveness.scoreStages.wondrously_impressive.label>
   
   <InfectionChanceFactor.label>감염 확률</InfectionChanceFactor.label>
@@ -57,5 +57,5 @@
   <Wealth.scoreStages.luxurious.label>사치스러움 (6/9)</Wealth.scoreStages.luxurious.label>
   <Wealth.scoreStages.very_luxurious.label>상당히 사치스러움 (7/9)</Wealth.scoreStages.very_luxurious.label>
   <Wealth.scoreStages.extremely_luxurious.label>매우 사치스러움 (8/9)</Wealth.scoreStages.extremely_luxurious.label>
-  <Wealth.scoreStages.unbelievably_luxurious.label>어마하게 사치스러움 (9/9)</Wealth.scoreStages.unbelievably_luxurious.label>
+  <Wealth.scoreStages.unbelievably_luxurious.label>굉장히 사치스러움 (9/9)</Wealth.scoreStages.unbelievably_luxurious.label>
 </LanguageData>

@@ -30,11 +30,11 @@
   <Cooking.pawnLabel>조리</Cooking.pawnLabel>
   <Cooking.verb>조리</Cooking.verb>
   
-  <Crafting.description>석재 가공이나 금속 용해와 같이 기술을 필요로 하지 않는 작업대에서 일을 합니다.</Crafting.description>
-  <Crafting.gerundLabel>제작</Crafting.gerundLabel>
-  <Crafting.labelShort>제작</Crafting.labelShort>
-  <Crafting.pawnLabel>제작</Crafting.pawnLabel>
-  <Crafting.verb>제작</Crafting.verb>
+  <Crafting.description>높은 기술이 요구되지 않는 가벼운 작업입니다. 석재 가공이나 금속 용해 등이 여기에 속합니다.</Crafting.description>
+  <Crafting.gerundLabel>가공</Crafting.gerundLabel>
+  <Crafting.labelShort>가공</Crafting.labelShort>
+  <Crafting.pawnLabel>가공</Crafting.pawnLabel>
+  <Crafting.verb>가공</Crafting.verb>
   
   <Doctor.description>환자를 간호하고, 음식을 먹여주고, 기운을 북돋아주기도 하며 수술을 집도합니다. 정착민과 수감자 모두 보살핍니다.</Doctor.description>
   <Doctor.gerundLabel>치료</Doctor.gerundLabel>
@@ -102,13 +102,13 @@
   <Research.pawnLabel>연구</Research.pawnLabel>
   <Research.verb>연구</Research.verb>
   
-  <Smithing.description>단조와 가공으로 무기와 도구를 제작합니다. 메카나이터라면 메카노이드를 수리합니다.</Smithing.description>
-  <Smithing.gerundLabel>제련</Smithing.gerundLabel>
-  <Smithing.labelShort>제련</Smithing.labelShort>
-  <Smithing.pawnLabel>제련</Smithing.pawnLabel>
-  <Smithing.verb>제련</Smithing.verb>
+  <Smithing.description>원자재로 각종 무기와 도구를 제작합니다. 메카나이터라면 메카노이드를 수리합니다.</Smithing.description>
+  <Smithing.gerundLabel>제작</Smithing.gerundLabel>
+  <Smithing.labelShort>제작</Smithing.labelShort>
+  <Smithing.pawnLabel>제작</Smithing.pawnLabel>
+  <Smithing.verb>제작</Smithing.verb>
   
-  <Tailoring.description>원자재를 옷으로 가공합니다.</Tailoring.description>
+  <Tailoring.description>원자재로 의복을 만듭니다.</Tailoring.description>
   <Tailoring.gerundLabel>재봉</Tailoring.gerundLabel>
   <Tailoring.labelShort>재봉</Tailoring.labelShort>
   <Tailoring.pawnLabel>재봉</Tailoring.pawnLabel>

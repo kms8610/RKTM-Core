@@ -19,14 +19,13 @@
   <IdeoBuildings>건물</IdeoBuildings>
   <IdeoRelics>유물</IdeoRelics>
   <IdeoApparel>선호 의복</IdeoApparel>
-  <IdeoApparelDesire>의복 희망</IdeoApparelDesire>
+  <IdeoApparelDesire>선호 의복</IdeoApparelDesire>
   <UnwillingToDoIdeoAction>거절</UnwillingToDoIdeoAction>
   <PreceptStats>통계</PreceptStats>
   <Prohibitions>금지</Prohibitions>
   <Opinions>의견</Opinions>
   <RandomizeName>무작위 이름</RandomizeName>
   <RandomizePrecepts>무작위 규율</RandomizePrecepts>
-  <AddPrecept>규율 추가</AddPrecept>
   <RandomizeDeities>무작위 신적 존재</RandomizeDeities>
   <AddDeity>신적 존재 추가</AddDeity>
   <ChooseMemes>가르침 선택</ChooseMemes>
@@ -59,18 +58,18 @@
   <Name>이름</Name>
   <Icon>아이콘</Icon>
   <RelatedToMeme>관련된 가르침</RelatedToMeme>
-  <IdeoCharityQuestInfo>이것은 이타적 임무입니다. 이타적 사상인 {0}(을)를 믿는 다음 정착민들은 임무가 성공하면 기뻐하고, 실패하면 실망할 것입니다. ({1})</IdeoCharityQuestInfo>
+  <IdeoCharityQuestInfo>이타적 임무입니다. 이타적 사상인 {0}(을)를 믿는 정착민들은 임무를 완수했을 때 기뻐하고, 완수하지 못하면 실망합니다. ({1})</IdeoCharityQuestInfo>
   <WorkDisabledSlave>노예가 할 수 없음</WorkDisabledSlave>
   <WorkDisabledRole>{0} 지위로 인해 비활성</WorkDisabledRole>
   <AffectedByTraits>특성의 영향</AffectedByTraits>
-  <CharityQuestTip>이것은 이타적 임무입니다. 이타적 믿음을 가진 사람들은 임무 결과에 영향을 받게 됩니다</CharityQuestTip>
+  <CharityQuestTip>이타적 임무입니다. 이타적 믿음을 가진 사람들은 임무 결과에 영향을 받게 됩니다.</CharityQuestTip>
   <Formerly>이전</Formerly>
   <All>모두</All>
   <RelicTip>유물은 영적으로, 또는 사상적으로 중요한 물체로서 길고 위험한 임무를 통해 찾아낼 수 있습니다. 유물을 유물함에 설치하면 순례자가 찾아오고, 의식의 효과가 증가하며, 외부인이 유물의 사상으로 전향할 확률이 높아집니다.</RelicTip>
   <RelicTipClassic>유물은 영적으로, 또는 사상적으로 중요한 물체로서 길고 위험한 임무를 통해 찾아낼 수 있습니다. 유물을 유물함에 설치하면 순례자가 찾아오고, 의식의 효과가 증가합니다.</RelicTipClassic>
   <Animal>동물</Animal>
   <VeneratedAnimals>성스러운 동물</VeneratedAnimals>
-  <IdeoWeapon>무기 속성별 호불호 추가</IdeoWeapon>
+  <IdeoWeapon>무기 선호도</IdeoWeapon>
   <IdeoWeapons>무기</IdeoWeapons>
   <SwapNobleAndDespised>교체</SwapNobleAndDespised>
   <Noble>고결함</Noble>

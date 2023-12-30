@@ -34,7 +34,7 @@
   
   <GiveUpExit.label>탈주</GiveUpExit.label>
   <GiveUpExit.baseInspectLine>상태: 탈주</GiveUpExit.baseInspectLine>
-  <GiveUpExit.beginLetter>{0}(이)가 모든 걸 포기하고 정착지를 떠나고 있습니다.\n\n[PAWN_pronoun]는 더 나은 곳을 찾아 이 곳을 떠나려고 합니다. [PAWN_pronoun]가 떠나기 전에 체포할 수 있습니다. 그렇지 않다면 언젠가 이 곳을 떠나려 할 것입니다.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetter>{0}(이)가 모든 걸 포기하고 정착지를 떠나고 있습니다.\n\n[PAWN_pronoun]는 더 나은 곳을 찾아 이곳을 떠나려고 합니다. [PAWN_pronoun]가 떠나기 전에 체포할 수 있습니다. 그렇지 않다면 언젠가 이곳을 떠나려 할 것입니다.</GiveUpExit.beginLetter>
   <GiveUpExit.beginLetterLabel>탈주</GiveUpExit.beginLetterLabel>
   <GiveUpExit.recoveryMessage>{0}의 마음이 바뀌어 정착지로 돌아오고 있습니다.</GiveUpExit.recoveryMessage>
   
@@ -66,7 +66,7 @@
   
   <Tantrum.label>울화통</Tantrum.label>
   <Tantrum.baseInspectLine>상태: 울화통</Tantrum.baseInspectLine>
-  <Tantrum.beginLetter>{0}(이)가 분노로 울부짖고 있습니다.\n\n[PAWN_pronoun]는 여기저기 돌아 다니며 아이템이나 가구를 부수려할 것입니다.</Tantrum.beginLetter>
+  <Tantrum.beginLetter>{0}(이)가 분노로 울부짖고 있습니다.\n\n[PAWN_pronoun]는 여기저기 돌아 다니며 물품이나 가구를 부수려할 것입니다.</Tantrum.beginLetter>
   <Tantrum.recoveryMessage>{0}(은)는 더 이상 울부짖지 않습니다.</Tantrum.recoveryMessage>
   
   <TargetedInsultingSpree.label>분노 (시기)</TargetedInsultingSpree.label>
@@ -85,14 +85,14 @@
   <Wander_OwnRoom.recoveryMessage>{0}(은)는 정신을 차려 더 이상 [PAWN_possessive] 방에 숨지 않습니다.</Wander_OwnRoom.recoveryMessage>
   
   <Wander_Psychotic.label>방황 (정신병)</Wander_Psychotic.label>
-  <Wander_Psychotic.baseInspectLine>상태: 방황(정신병)</Wander_Psychotic.baseInspectLine>
-  <Wander_Psychotic.beginLetter>{0}(이)가 정신병으로 인해 방황하고 있습니다.</Wander_Psychotic.beginLetter>
+  <Wander_Psychotic.baseInspectLine>상태: 방황 (정신병)</Wander_Psychotic.baseInspectLine>
+  <Wander_Psychotic.beginLetter>{0}(이)가 정신병으로 방황하고 있습니다.</Wander_Psychotic.beginLetter>
   <Wander_Psychotic.beginLetterLabel>방황 (정신병)</Wander_Psychotic.beginLetterLabel>
   <Wander_Psychotic.recoveryMessage>{0}의 정신이 제자리를 찾았습니다.</Wander_Psychotic.recoveryMessage>
   
   <Wander_Psychotic_Short.label>방황 (정신병)</Wander_Psychotic_Short.label>
-  <Wander_Psychotic_Short.baseInspectLine>상태: 방황(정신병)</Wander_Psychotic_Short.baseInspectLine>
-  <Wander_Psychotic_Short.beginLetter>{0}(이)가 정신병으로 인해 방황하고 있습니다.</Wander_Psychotic_Short.beginLetter>
+  <Wander_Psychotic_Short.baseInspectLine>상태: 방황 (정신병)</Wander_Psychotic_Short.baseInspectLine>
+  <Wander_Psychotic_Short.beginLetter>{0}(이)가 정신병으로 방황하고 있습니다.</Wander_Psychotic_Short.beginLetter>
   <Wander_Psychotic_Short.beginLetterLabel>방황 (정신병)</Wander_Psychotic_Short.beginLetterLabel>
   <Wander_Psychotic_Short.recoveryMessage>{0}의 정신이 제자리를 찾았습니다.</Wander_Psychotic_Short.recoveryMessage>
   

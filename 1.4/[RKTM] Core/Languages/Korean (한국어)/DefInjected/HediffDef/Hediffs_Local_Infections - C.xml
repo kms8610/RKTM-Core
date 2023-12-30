@@ -25,7 +25,7 @@
   <Flu.stages.extreme.label>극심함</Flu.stages.extreme.label>
   
   <GutWorms.label>내장 기생충</GutWorms.label>
-  <GutWorms.description>장에 기생하는 기생충입니다. 구토를 유발하며, 감염자가 섭취한 음식을 먼저 소비하기 때문에 허기를 유발합니다.</GutWorms.description>
+  <GutWorms.description>장에 기생하는 기생충입니다. 구토를 유발하며, 숙주가 섭취한 영양분을 먼저 소비하기 때문에 허기를 유발합니다.</GutWorms.description>
   
   <LungRot.label>폐렴</LungRot.label>
   <LungRot.description>대상의 폐를 공격하는 세균에 의한 질병입니다. 경증일 땐 짜증나는 정도지만, 세균 번식을 억제하지 못하면 폐에 점점 물이 차서 결국 사망으로 이어집니다.\n\n적절한 치료를 받으면 신체의 면역체계가 스스로 폐렴을 제거할 수 있습니다.</LungRot.description>
@@ -35,7 +35,7 @@
   <LungRot.stages.extreme.label>위험</LungRot.stages.extreme.label>
   
   <LungRotExposure.label>부패 가스 노출</LungRotExposure.label>
-  <LungRotExposure.description>부패 가스에 장시간 노출됐습니다. 부패 가스 자체로는 건강에 직접적인 영향이 없지만, 계속 흡입하면 세균 감염으로 인해 고통스러운 폐렴에 걸릴 수 있습니다. 부패 가스에 더 노출되지 않으면 서서히 감소합니다.</LungRotExposure.description>
+  <LungRotExposure.description>부패 가스에 장시간 노출됐습니다. 부패 가스 자체로는 건강에 직접적인 영향이 없지만, 계속 흡입하면 세균 감염으로 고통스러운 폐렴에 걸릴 수 있습니다. 부패 가스에 더 노출되지 않으면 서서히 감소합니다.</LungRotExposure.description>
   <LungRotExposure.stages.minor.label>가벼움</LungRotExposure.stages.minor.label>
   <LungRotExposure.stages.major.label>심각함</LungRotExposure.stages.major.label>
   <LungRotExposure.stages.serious.label>심각함</LungRotExposure.stages.serious.label>

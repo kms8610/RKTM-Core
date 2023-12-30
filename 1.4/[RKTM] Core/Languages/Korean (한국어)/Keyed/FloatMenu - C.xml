@@ -112,7 +112,7 @@
 
   <Rescue>{1_label} 구조</Rescue>
   <PutSomewhereSafe>{1_label}(을)를 안전한 곳으로 이송</PutSomewhereSafe>
-  <TakingToBed>{0_labelShort}(을)를 침대로 이송 중.</TakingToBed>
+  <TakingToBed>{0_labelShort}(을)를 침대로 이송 중</TakingToBed>
   <CannotRescue>구조 불가</CannotRescue>
 
   <CarryToCryptosleepCasket>{1_label}(을)를 동면장치로 운반</CarryToCryptosleepCasket>
@@ -177,7 +177,7 @@
   <LoadIntoCaravanAll>상단에 {1_label}(모두)를 적재함</LoadIntoCaravanAll>
   <LoadIntoCaravanSome>상단에 {1_labelShort}(을)를 적재함</LoadIntoCaravanSome>
   <LoadIntoCaravanCount>적재 {1_labelShort} x{{0}}</LoadIntoCaravanCount>
-  <OverweightLower>무게초과</OverweightLower>
+  <OverweightLower>무게 초과</OverweightLower>
 
   <CannotCarryToExit>{1_label}(을)를 데리고 떠날 수 없음</CannotCarryToExit>
   <CarryToExit>{1_label}(을)를 들쳐 메고 지역 떠나기</CarryToExit>
@@ -202,6 +202,7 @@
   <UseMedicalBed>완전히 치료될 때까지 휴식</UseMedicalBed>
   <NotInjured>부상 없음</NotInjured>
   <NoDoctor>의사 없음</NoDoctor>
+  <NotForSlaves>노예 의료용 침대가 없음</NotForSlaves><!-- text_todo -->
   <SomeoneElseSleeping>{0}(이)가 사용 중</SomeoneElseSleeping>
   
   <TradeWith>{0}(와)과 거래</TradeWith>
@@ -229,27 +230,27 @@
   <CannotGenericWork>{1} {0} 불가</CannotGenericWork>
   <CannotGenericWorkCustom>{0} 불가</CannotGenericWorkCustom>
 
-  <CannotMissingHealthActivities>우선시 불가 ({0} 불가능)</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>우선시 불가: {0} 불가능</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <CannotGenericAlreadyAm>이미 {2_labelShort}{0} 중</CannotGenericAlreadyAm>
   <CannotGenericAlreadyAmCustom>이미 {0} 중</CannotGenericAlreadyAmCustom>
 
-  <CannotPrioritizeWorkTypeDisabled>우선시 불가 ({0} 불가능)</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>우선시 불가: 절대 {0} 작업하지 않음</CannotPrioritizeWorkTypeDisabled>
   <MissingTitleAbility>필요 작위 부족</MissingTitleAbility>
 
-  <CannotPrioritizeWorkGiverDisabled>우선시 불가 (절대 {0} 하지 않음)</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>우선시 불가: 절대 {0} 하지 않음</CannotPrioritizeWorkGiverDisabled>
   <WillNever>{0} 불가</WillNever>
 
-  <CannotPrioritizeNotAssignedToWorkType>우선시 불가 ({0} 할당되지 않음)</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>우선시 불가: {0} 할당되지 않음</CannotPrioritizeNotAssignedToWorkType>
   <NotAssigned>할당되지 않음</NotAssigned>
   <NotAssignedToWorkType>{0}에 할당되지 않음</NotAssignedToWorkType>
 
-  <CannotPrioritizeResearch>우선시 불가 (연구 프로젝트)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>우선시 불가: 연구는 장기적인 작업임</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>우선시 불가 ({1_label}의 상호작용 금지됨)</CannotPrioritizeForbidden>
-  <CannotPrioritizeCellForbidden>우선시 불가 (상호작용 금지됨)</CannotPrioritizeCellForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>우선시 불가 (허가구역 외부)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbidden>우선시 불가: {1_label}의 상호작용 금지됨</CannotPrioritizeForbidden>
+  <CannotPrioritizeCellForbidden>우선시 불가: 상호작용 금지됨</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>우선시 불가: 허가구역 외부</CannotPrioritizeForbiddenOutsideAllowedArea>
   <CannotPrioritizeBurying>매장 우선시 불가</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->

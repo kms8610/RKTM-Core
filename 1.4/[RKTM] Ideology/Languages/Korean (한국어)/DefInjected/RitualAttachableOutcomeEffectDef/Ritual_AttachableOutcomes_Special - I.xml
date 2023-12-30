@@ -17,7 +17,7 @@
   <InsectJellyTunnels.letterInfoText>지하의 곤충 군락이 젤리 더미를 남겼습니다.</InsectJellyTunnels.letterInfoText>
   
   <NearbyFactionGoodwill.label>주변 세력 우호도</NearbyFactionGoodwill.label>
-  <NearbyFactionGoodwill.effectDesc>가장 가까운 기지의 세력의 우호도가 올라갑니다.</NearbyFactionGoodwill.effectDesc>
+  <NearbyFactionGoodwill.effectDesc>가장 가까운 기지의 세력 우호도가 올라갑니다.</NearbyFactionGoodwill.effectDesc>
   <NearbyFactionGoodwill.letterInfoText>{FACTION_name}(와)과의 {AMOUNT} 우호도를 얻었습니다.</NearbyFactionGoodwill.letterInfoText>
   
   <RandomRecruit.label>무작위 포섭</RandomRecruit.label>

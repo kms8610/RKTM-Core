@@ -12,6 +12,8 @@
   
   <BringBabyToSafety.reportString>{TargetA}(을)를 안전한 곳으로 옮기는 중</BringBabyToSafety.reportString>
   
+  <BringBabyToSafetyUnforced.reportString>{TargetA}(을)를 안전한 곳으로 옮기는 중</BringBabyToSafetyUnforced.reportString>
+  
   <CarryToMomAfterBirth.reportString>{TargetA}(을)를 {TargetB}(으)로 옮기는 중</CarryToMomAfterBirth.reportString>
   
   <FertilizeOvum.reportString>{TargetA} 수정 중</FertilizeOvum.reportString>

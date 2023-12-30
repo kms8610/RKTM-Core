@@ -16,7 +16,7 @@
   <SwitchFlickingDesignation.helpText>전원 설정 예약 버튼을 눌러도 정착민이 실제로 와서 꺼야 합니다.\n\n전원 작업이 할당된 정착민이 직접 조작하기 전까진 아무 일도 일어나지 않습니다.</SwitchFlickingDesignation.helpText>
   
   <TradeGoodsMustBeNearBeacon.label>물품 거래와 무역 송신기</TradeGoodsMustBeNearBeacon.label>
-  <TradeGoodsMustBeNearBeacon.helpText>은 광석이나 물품을 궤도 무역상에게 보내려면 우선 무역 송신기를 지어야 합니다. 그 뒤에, 송신기 주변에 저장구역을 설정하고 보낼 아이템을 놓으세요.</TradeGoodsMustBeNearBeacon.helpText>
+  <TradeGoodsMustBeNearBeacon.helpText>은 광석이나 물품을 궤도 무역상에게 보내려면 우선 무역 송신기를 지어야 합니다. 그 뒤에, 송신기 주변에 저장구역을 설정하고 보낼 물품을 놓으세요.</TradeGoodsMustBeNearBeacon.helpText>
   
   <TradingRequiresPermit.label>거래 허가 조건</TradingRequiresPermit.label>
   <TradingRequiresPermit.helpText>이곳에서 거래하기 위해서는 {0}(이)가 필요합니다.\n\n 보내는 모든 캐러밴에 {0}(이)가 있는지 확인하십시오.</TradingRequiresPermit.helpText>

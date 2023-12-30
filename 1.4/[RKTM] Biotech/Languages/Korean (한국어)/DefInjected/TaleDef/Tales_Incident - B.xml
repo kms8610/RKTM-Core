@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NoxiousHaze.label>산성안개</NoxiousHaze.label>
+  <NoxiousHaze.label>산성 안개</NoxiousHaze.label>
   <NoxiousHaze.rulePack.rulesStrings>
-    <li>[PAWN_nameDef]의 [Community](을)를 휩쓸고 있는 산성안개</li>
+    <li>[PAWN_nameDef]의 [Community](을)를 휩쓸고 있는 산성 안개</li>
     <li>tale_noun->[PAWN_nameDef](이)가 속해있는 [Community]의 대기가 유독해지는 모습</li>
     <li>image->[circumstance_group] 불길한 하늘</li>
     <li>image->세찬 바람 속 [circumstance_group] 모습</li>

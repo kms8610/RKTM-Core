@@ -7,13 +7,13 @@
   <Chicken.tools.head.label>머리</Chicken.tools.head.label>
   
   <Duck.label>오리</Duck.label>
-  <Duck.description>매우 흔한 종류의 농장 새로, 맛있는 고기 때문에 길러지며, 야생에도 나타납니다. 오리는 빨리 자라며, 알을 꽤 많이 낳습니다.</Duck.description>
+  <Duck.description>매우 흔한 종류의 농장 새로, 맛있는 고기 때문에 길러지며 야생에도 나타납니다. 빨리 자라고 알을 꽤 많이 낳습니다.</Duck.description>
   <Duck.tools.claws.label>발톱</Duck.tools.claws.label>
   <Duck.tools.beak.label>부리</Duck.tools.beak.label>
   <Duck.tools.head.label>머리</Duck.tools.head.label>
   
   <Goose.label>거위</Goose.label>
-  <Goose.description>인간이 알과 고기를 얻기 위해 가금류로서 사육하는 길들여진 새입니다. 알을 매우 자주 낳지만, 부화하는데 오랜 시간이 걸립니다.</Goose.description>
+  <Goose.description>인간이 알과 고기를 얻기 위해 가금류로서 사육하는 길들여진 새입니다. 알을 매우 자주 낳지만, 부화하는데 시간이 오래 걸립니다.</Goose.description>
   <Goose.tools.claws.label>발톱</Goose.tools.claws.label>
   <Goose.tools.beak.label>부리</Goose.tools.beak.label>
   <Goose.tools.head.label>머리</Goose.tools.head.label>

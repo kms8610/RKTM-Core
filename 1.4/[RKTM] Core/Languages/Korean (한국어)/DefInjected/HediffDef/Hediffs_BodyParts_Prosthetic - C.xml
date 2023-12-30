@@ -8,9 +8,9 @@
   <Joywire.description>쾌락회로가 설치되어 있습니다.</Joywire.description>
   <Joywire.labelNoun>쾌락회로</Joywire.labelNoun>
   
-  <Painstopper.label>통각차단장치</Painstopper.label>
-  <Painstopper.description>통각차단장치가 설치되어 있습니다.</Painstopper.description>
-  <Painstopper.labelNoun>통각차단장치</Painstopper.labelNoun>
+  <Painstopper.label>통각 차단장치</Painstopper.label>
+  <Painstopper.description>통각 차단장치가 설치되어 있습니다.</Painstopper.description>
+  <Painstopper.labelNoun>통각 차단장치</Painstopper.labelNoun>
   
   <PowerClaw.label>강화 발톱</PowerClaw.label>
   <PowerClaw.description>강화 발톱이 설치되어 있습니다.</PowerClaw.description>
@@ -18,15 +18,15 @@
   <PowerClaw.labelNoun>강화 발톱</PowerClaw.labelNoun>
   
   <SimpleProstheticArm.label>의수</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>간단한 강철 의수가 설치되어 있습니다.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.description>의수가 설치되어 있습니다.</SimpleProstheticArm.description>
   <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>주먹</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
-  <SimpleProstheticArm.labelNoun>간단한 강철 의수</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.labelNoun>의수</SimpleProstheticArm.labelNoun>
   
   <SimpleProstheticHeart.label>인공심장</SimpleProstheticHeart.label>
   <SimpleProstheticHeart.description>인공심장이 설치되어 있습니다.</SimpleProstheticHeart.description>
   <SimpleProstheticHeart.labelNoun>인공심장</SimpleProstheticHeart.labelNoun>
   
   <SimpleProstheticLeg.label>의족</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>간단한 강철 의족이 설치되어 있습니다.</SimpleProstheticLeg.description>
-  <SimpleProstheticLeg.labelNoun>간단한 강철 의족</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.description>의족이 설치되어 있습니다.</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.labelNoun>의족</SimpleProstheticLeg.labelNoun>
 </LanguageData>

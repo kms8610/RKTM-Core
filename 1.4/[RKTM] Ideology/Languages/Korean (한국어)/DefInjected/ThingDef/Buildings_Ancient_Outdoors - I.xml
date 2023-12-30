@@ -40,7 +40,7 @@
   <AncientLongCrate.description>아주 오래 전에 버려진 기다란 텅 빈 상자입니다. 녹이 너무 슬어 무언가를 보관하기엔 부적합해 보입니다.</AncientLongCrate.description>
   
   <AncientMechDetritus.label>메카노이드 잔해</AncientMechDetritus.label>
-  <AncientMechDetritus.description>메카노이드의 박살난 잔해. 쓸만한 부품은 전부 파괴되거나 사라졌습니다.</AncientMechDetritus.description>
+  <AncientMechDetritus.description>메카노이드의 박살이 난 잔해입니다. 쓸만한 부품은 전부 파괴되거나 사라졌습니다.</AncientMechDetritus.description>
   
   <AncientMechDropBeacon.label>고대 메카노이드 낙하신호기</AncientMechDropBeacon.label>
   <AncientMechDropBeacon.description>메카노이드 낙하신호기의 부서진 외피입니다. 쓸만한 부품은 남아있지 않으며 외피도 오랜 세월에 의해 대부분 훼손됐습니다.</AncientMechDropBeacon.description>
@@ -61,13 +61,13 @@
   <AncientOven.description>고대의 오븐입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientOven.description>
   
   <AncientPipelineSection.label>고대 송유관</AncientPipelineSection.label>
-  <AncientPipelineSection.description>고대 송유관의 일부입니다. 한때  귀중한 액체를 운반했을 테지만 지금은 아무 쓸모도 없습니다.</AncientPipelineSection.description>
+  <AncientPipelineSection.description>고대 송유관의 일부입니다. 한때 귀중한 액체를 운반했을 테지만 지금은 아무 쓸모도 없습니다.</AncientPipelineSection.description>
   
   <AncientPipes.label>고대 배관</AncientPipes.label>
   <AncientPipes.description>고대의 녹슨 배관입니다. 어떻게 여기까지 왔는지는 의문입니다.</AncientPipes.description>
   
   <AncientPodCar.label>고대 포드 차량</AncientPodCar.label>
-  <AncientPodCar.description>한때 자동 비행이 가능했던 고대의 포드 차량 입니다. 귀중한 부분은 오래 전에 약탈되었고 나머지는 심하게 훼손되었습니다.</AncientPodCar.description>
+  <AncientPodCar.description>한때 자동 비행이 가능했던 고대의 포드 차량입니다. 귀중한 부분은 오래전에 약탈당하였고 나머지는 심하게 훼손되었습니다.</AncientPodCar.description>
   
   <AncientPostbox.label>고대 우체통</AncientPostbox.label>
   <AncientPostbox.description>박살나고 훼손되어 더 이상 쓸모가 없는 고대의 우체통입니다. 알 수 없는 이유로 여기까지 오게 된 것 같습니다.</AncientPostbox.description>
@@ -97,7 +97,7 @@
   <AncientRustedTruck.description>고대의 부서진 트럭입니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientRustedTruck.description>
   
   <AncientSecurityTurret.label>고대 보안 포탑</AncientSecurityTurret.label>
-  <AncientSecurityTurret.description>낡고 부서진 보안 포탑. 귀중한 부품은 모두 약탈당하거나 부서졌습니다.</AncientSecurityTurret.description>
+  <AncientSecurityTurret.description>낡고 부서진 보안 포탑입니다. 귀중한 부품은 모두 약탈당하거나 부서졌습니다.</AncientSecurityTurret.description>
   
   <AncientShipBeacon.label>고대 항해 신호기</AncientShipBeacon.label>
   <AncientShipBeacon.description>이미 고장난 고대 항해 신호기입니다. 쓸만한 부품들은 도난당한 지 오래입니다.</AncientShipBeacon.description>

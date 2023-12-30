@@ -10,10 +10,10 @@
   <RequirementPersonalBedroom>개인 침실 (배우자는 허용됨)</RequirementPersonalBedroom>
   
   <!-- Generated neurotrainers -->
-  <PsycastNeurotrainerLabel>초월교육혈청 ({0})</PsycastNeurotrainerLabel>
-  <PsycastNeurotrainerUseLabel>혈청을 사용하여 {0} 초능력 습득</PsycastNeurotrainerUseLabel>
-  <PsycastNeurotrainerDescription>특정한 초능력 기술을 강제로 훈련시키는 일회성의 메카나이트 혈청.\n\n안와를 통해 뇌로 직접 투여됩니다. 메카나이트는 뇌의 특정 영역으로 파고들어 신경 조직의 형태를 변형시킴으로써 피시술자가 초능력 기술을 사용할 수 있게 합니다.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
-  <AbilityNeurotrainerUsed>{USER_labelShort}(은)는 초월교육혈청을 사용하여 {1} 초능력을 습득했습니다.</AbilityNeurotrainerUsed>
+  <PsycastNeurotrainerLabel>초월교육 혈청 ({0})</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerUseLabel>초월교육 혈청을 사용해 {0} 초능력 습득</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerDescription>특정한 초능력을 훈련시키는 고농도의 일회용 기계입자 혈청입니다.\n\n안와를 통해 뇌에 투여하면 기계입자가 스스로 신경 조직을 구성해 대상자에게 초능력 사용법을 주입합니다.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
+  <AbilityNeurotrainerUsed>{USER_labelShort}(이)가 초월교육 혈청을 사용해 {1} 초능력을 습득했습니다.</AbilityNeurotrainerUsed>
   <PsycastNeurotrainerNoPsylink>정신력 증폭 필요</PsycastNeurotrainerNoPsylink>
   <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort}(은)는 이미 {1}(을)를 알고 있습니다.</PsycastNeurotrainerAbilityAlreadyLearned>
 
@@ -21,10 +21,10 @@
   <Reward_RoyalFavor_ChoosePawn>{2} 참여자 중 한 명을 선택하여 {0_name}에게 {0_royalFavorLabel} {1}장을 수여받습니다</Reward_RoyalFavor_ChoosePawn>
   
   <!-- Ship landing beacons -->
-  <NotUsable>사용불가</NotUsable>
-  <Unpowered>전력없음</Unpowered>
+  <NotUsable>사용 불가</NotUsable>
+  <Unpowered>전력 없음</Unpowered>
   <BlockedByRoof>지붕에 의해 막힘</BlockedByRoof>
-  <TooCloseToOtherBeacon>매우 가까운 다른 신호기</TooCloseToOtherBeacon>
+  <TooCloseToOtherBeacon>다른 신호기와 너무 가까움</TooCloseToOtherBeacon>
   
   <!-- Meditation -->
   <Psyfocus>초집중</Psyfocus>
@@ -45,7 +45,7 @@
   <MeditationFocusPerGrave>근처 무덤당 비어있는 경우 {2}, 인간 시체의 경우 {3} ({0} / {1})</MeditationFocusPerGrave>
   <MeditationFocusPerFlameAbstract>근처에 있는 불꽃당 {1} (최대 {0})</MeditationFocusPerFlameAbstract>
   <MeditationFocusPerFlame>근처에 있는 불꽃당 {2} ({0} / {1})</MeditationFocusPerFlame>
-  <PsyfocusPerDayOfMeditation>초집중 획득률: {0}/일</PsyfocusPerDayOfMeditation>
+  <PsyfocusPerDayOfMeditation>초집중 획득률: {0} / 일</PsyfocusPerDayOfMeditation>
   <DesiredPsyfocus>초집중 목표치</DesiredPsyfocus>
   <DesiredPsyfocusDesc>클릭하여 초집중 목표치를 설정하세요.</DesiredPsyfocusDesc>
 
@@ -53,11 +53,8 @@
   <AbilitySpeechDisabledNoThroneIsNotAccessible>왕좌에 접근할 수 없습니다.</AbilitySpeechDisabledNoThroneIsNotAccessible>
   <AbilitySpeechDisabledNoThroneUndignified>왕좌의 수준이 낮아서 사용할 수 없습니다.</AbilitySpeechDisabledNoThroneUndignified>
   <AbilitySpeechDisabledAlreadyGivingSpeech>이미 연설이 진행 중입니다.</AbilitySpeechDisabledAlreadyGivingSpeech>
-  <AbilitySpeechDisabledAnotherGatheringInProgress>다른 모임이 진행 중입니다.</AbilitySpeechDisabledAnotherGatheringInProgress>
-  <AbilitySpeechCooldown>다음 연설 준비</AbilitySpeechCooldown>
   <AbilitySpeechPossibleOutcomes>결과</AbilitySpeechPossibleOutcomes>
   <AbilitySpeechStatInfo>{ORGANIZER_labelShort}의 {1} 통계</AbilitySpeechStatInfo>
-  <AbilitySpeechTargetsLabel>시작</AbilitySpeechTargetsLabel>
   <AbilitySpeechTargetDescThrone>위엄있는 왕좌</AbilitySpeechTargetDescThrone>
   
   <RitualDisabledNoAltar>접근 가능한 제단이 없습니다.</RitualDisabledNoAltar>
@@ -95,6 +92,6 @@
 
   <AbilityNoEntropyToDump>버릴 신경열이 없습니다.</AbilityNoEntropyToDump>
 
-  <LevelNum>{0} 등급</LevelNum> <!-- Psylink level as reported in health tab-->
+  <LevelNum>{0}등급</LevelNum> <!-- Psylink level as reported in health tab-->
 
 </LanguageData>

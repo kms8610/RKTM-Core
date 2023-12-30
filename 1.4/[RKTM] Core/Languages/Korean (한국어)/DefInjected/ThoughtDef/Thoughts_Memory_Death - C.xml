@@ -44,7 +44,7 @@
   <MyDaughterDied.stages.my_daughter_died.description>내 딸이 죽었어. 내 혈육이...</MyDaughterDied.stages.my_daughter_died.description>
   
   <MyFatherDied.stages.my_father_died.label>아버지 {0} 사망</MyFatherDied.stages.my_father_died.label>
-  <MyFatherDied.stages.my_father_died.description>아버지가 죽었어. 영원히 못 보는거야.</MyFatherDied.stages.my_father_died.description>
+  <MyFatherDied.stages.my_father_died.description>아버지가 죽었어. 앞으로 영원히 못 보는 거야.</MyFatherDied.stages.my_father_died.description>
   
   <MyFianceDied.stages.my_fiance_died.label>약혼자 {0} 사망</MyFianceDied.stages.my_fiance_died.label>
   <MyFianceDied.stages.my_fiance_died.description>내 약혼자가 죽었어. 내 미래도 사라졌어.</MyFianceDied.stages.my_fiance_died.description>
@@ -71,7 +71,7 @@
   <MyLoverDied.stages.my_lover_died.description>내 사랑이 죽었어. 너무 외로워.</MyLoverDied.stages.my_lover_died.description>
   
   <MyMotherDied.stages.my_mother_died.label>엄마 {0} 사망</MyMotherDied.stages.my_mother_died.label>
-  <MyMotherDied.stages.my_mother_died.description>엄마가 죽었어. 영원히 못 보는거야.</MyMotherDied.stages.my_mother_died.description>
+  <MyMotherDied.stages.my_mother_died.description>엄마가 죽었어. 앞으로 영원히 못 보는 거야.</MyMotherDied.stages.my_mother_died.description>
   
   <MyNephewDied.stages.my_nephew_died.label>조카 {0} 사망</MyNephewDied.stages.my_nephew_died.label>
   <MyNephewDied.stages.my_nephew_died.description>조카가 죽었어. 정말 좋은 아이였는데.</MyNephewDied.stages.my_nephew_died.description>

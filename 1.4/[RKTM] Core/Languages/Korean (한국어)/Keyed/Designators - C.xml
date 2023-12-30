@@ -23,11 +23,11 @@
   <DesignatorHarvestWoodDesc>벌목할 수 있는 나무에 표시를 남깁니다.</DesignatorHarvestWoodDesc>
 
   <DesignatorHaulThings>운반</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>바위 덩어리나 기타 아이템 등에 표시를 남겨 처리 지역으로 옮기도록 지시합니다. 항상 운반이 가능한 음식이나 시체에는 필요하지 않습니다.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>바위 덩어리나 기타 물품 등에 표시를 남겨 처리 지역으로 옮기도록 지시합니다. 항상 운반이 가능한 음식이나 시체에는 필요하지 않습니다.</DesignatorHaulThingsDesc>
   <MustHaulHaulables>바위 덩어리처럼 자동으로 운반하지 않는 것들만 지정할 수 있습니다.</MustHaulHaulables>
 
   <DesignatorHunt>사냥</DesignatorHunt>
-  <DesignatorHuntDesc>동물에 표시를 남겨 사냥 하도록 지시합니다.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>동물에 표시를 남겨 사냥하도록 지시합니다.</DesignatorHuntDesc>
 
   <DesignatorMine>채굴</DesignatorMine>
   <DesignatorMineDesc>암석 지대를 지정하여 채굴합니다.</DesignatorMineDesc>
@@ -48,9 +48,9 @@
   <DesignatorUnforbidDesc>물품의 상호작용을 허용합니다.</DesignatorUnforbidDesc>
 
   <DesignatorAreaHomeExpand>주거구역 설정</DesignatorAreaHomeExpand>
-  <DesignatorAreaHomeExpandDesc>정착민들 스스로 건물을 수리하고, 바닥을 청소하고, 화재를 진압할 수 있는 구역을 지정합니다.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>정착민들 스스로 건물을 수리하고 바닥을 청소하며, 화재를 진압하는 구역을 지정합니다.</DesignatorAreaHomeExpandDesc>
   <DesignatorAreaHomeClear>주거구역 제거</DesignatorAreaHomeClear>
-  <DesignatorAreaHomeClearDesc>주거구역을 지웁니다. 정착민들은 주거구역 바깥에서는 스스로 수리, 청소, 진화작업을 하지 않습니다.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>주거구역을 지웁니다. 정착민들은 주거구역 바깥에서는 스스로 수리 및 청소, 진화 작업을 하지 않습니다.</DesignatorAreaHomeClearDesc>
 
   <DesignatorAreaBuildRoofExpand>지붕 건설 구역</DesignatorAreaBuildRoofExpand>
   <DesignatorAreaBuildRoofExpandDesc>정착민들이 지붕을 건설할 곳을 정합니다.</DesignatorAreaBuildRoofExpandDesc>
@@ -112,9 +112,9 @@
   <DesignatorStudy>연구</DesignatorStudy>
   <DesignatorStudyDesc>이 물체를 연구해서 더 많은 것을 알아냅니다.</DesignatorStudyDesc>
 
-  <DesignatorPaintBuilding>건물 색칠...</DesignatorPaintBuilding>
+  <DesignatorPaintBuilding>건물 색칠</DesignatorPaintBuilding>
   <DesignatorPaintBuildingDesc>재배한 염색풀에서 추출한 염료로 벽과 건물을 색칠합니다. 특정한 건물 종류만 색칠할 수 있습니다.</DesignatorPaintBuildingDesc>
-  <DesignatorPaintFloor>바닥 색칠...</DesignatorPaintFloor>
+  <DesignatorPaintFloor>바닥 색칠</DesignatorPaintFloor>
   <DesignatorPaintFloorDesc>재배한 염색풀에서 추출한 염료로 바닥을 색칠합니다. 특정한 바닥 종류만 색칠할 수 있습니다.</DesignatorPaintFloorDesc>
 
   <DesignatorRemovePaint>색칠 제거</DesignatorRemovePaint>

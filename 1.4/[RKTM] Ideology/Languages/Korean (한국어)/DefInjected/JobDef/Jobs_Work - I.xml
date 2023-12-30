@@ -12,8 +12,6 @@
   
   <MergeIntoGaumakerPod.reportString>{TargetB}(으)로 융합 중</MergeIntoGaumakerPod.reportString>
   
-  <PlantSeed.reportString>{TargetA} 심는 중</PlantSeed.reportString>
-  
   <PrisonerConvert.reportString>{TargetA} 교화 중</PrisonerConvert.reportString>
   
   <PrisonerEnslave.reportString>{TargetA}(을)를 노예로 삼는 중</PrisonerEnslave.reportString>

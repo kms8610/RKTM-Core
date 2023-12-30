@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Animals.label>조련</Animals.label>
-  <Animals.description>동물을 길들이고, 훈련시키고, 관리하고, 지시하는 모든 기술</Animals.description>
+  <Animals.description>동물을 길들이거나 훈련시키고, 관리 및 지시하는 모든 기술</Animals.description>
   <Animals.skillLabel>조련</Animals.skillLabel>
   
   <Artistic.label>예술</Artistic.label>
@@ -13,7 +13,7 @@
   <Construction.skillLabel>건설</Construction.skillLabel>
   
   <Cooking.label>조리</Cooking.label>
-  <Cooking.description>재료를 이용해 음식을 만드는 기술</Cooking.description>
+  <Cooking.description>식중독 위험 없이 식재료로 빠르게 음식을 만드는 기술</Cooking.description>
   <Cooking.skillLabel>조리</Cooking.skillLabel>
   
   <Crafting.label>제작</Crafting.label>
@@ -21,7 +21,7 @@
   <Crafting.skillLabel>제작</Crafting.skillLabel>
   
   <Intellectual.label>연구</Intellectual.label>
-  <Intellectual.description>단서를 조사하고, 연관성을 찾고, 계산과 논리를 사용하는 기술</Intellectual.description>
+  <Intellectual.description>연구와 약물 합성 기술</Intellectual.description>
   <Intellectual.skillLabel>연구</Intellectual.skillLabel>
   
   <Medicine.label>의학</Medicine.label>
@@ -29,7 +29,7 @@
   <Medicine.skillLabel>의학</Medicine.skillLabel>
   
   <Melee.label>격투</Melee.label>
-  <Melee.description>맨손 격투를 포함한 모든 종류의 근접무기 사용기술</Melee.description>
+  <Melee.description>맨손 격투를 포함한 모든 종류의 근접 무기 사용 기술</Melee.description>
   <Melee.skillLabel>격투</Melee.skillLabel>
   
   <Mining.label>채굴</Mining.label>
@@ -37,14 +37,14 @@
   <Mining.skillLabel>채굴</Mining.skillLabel>
   
   <Plants.label>원예</Plants.label>
-  <Plants.description>식물을 재배하고, 관리하고, 수확하는 기술</Plants.description>
+  <Plants.description>식물을 재배 및 관리하고 수확하며, 여행 중 식량을 채집하는 기술</Plants.description>
   <Plants.skillLabel>원예</Plants.skillLabel>
   
   <Shooting.label>사격</Shooting.label>
-  <Shooting.description>모든 종류의 원거리 무기 사용기술</Shooting.description>
+  <Shooting.description>모든 종류의 원거리 무기 사용 기술</Shooting.description>
   <Shooting.skillLabel>사격</Shooting.skillLabel>
   
   <Social.label>사교</Social.label>
-  <Social.description>협상, 설득, 조종, 지시와 응원기술</Social.description>
+  <Social.description>협상과 설득, 조종 및 지시와 응원 기술</Social.description>
   <Social.skillLabel>사교</Social.skillLabel>
 </LanguageData>

@@ -13,11 +13,11 @@
   <MechSerumHealer.comps.CompUsable.useLabel>{0_label} 사용</MechSerumHealer.comps.CompUsable.useLabel>
   
   <MechSerumResurrector.label>부활 혈청</MechSerumResurrector.label>
-  <MechSerumResurrector.description>죽은 자를 살리기 위해 조정된 일회용 고농축 기계입자 혈청입니다. 시체에 투여하면 기계입자가 손상된 조직을 수복하고 신체에 생명을 되돌립니다. 하지만 간혹 뇌손상, 실명, 진행성 정신증을 앓게 되는 경우도 있습니다. 신체가 신선할수록 결과가 좋은 편이며, 사망 후 오랜 시간이 지나도 신체가 남아있으면 부활할 수 있습니다.\n\n또한 부활한 사람은 제한적인 역행성 건망증으로 인해 최근 기억 일부를 잃게 됩니다.</MechSerumResurrector.description>
+  <MechSerumResurrector.description>죽은 자를 살리기 위해 조정된 일회용 고농축 기계입자 혈청입니다. 시체에 투여하면 기계입자가 손상된 조직을 수복하고 신체에 생명을 되돌립니다. 하지만 간혹 뇌손상, 실명, 진행성 정신증을 앓게 되는 경우도 있습니다. 신체가 온전할수록 결과가 좋은 편이며, 사망 후 오랜 시간이 지나도 신체가 남아있으면 부활할 수 있습니다.\n\n또한 부활한 사람은 제한적인 역행성 건망증으로 최근 기억의 일부를 잃게 됩니다.</MechSerumResurrector.description>
   <MechSerumResurrector.comps.CompUsable.useLabel>{0_label} 사용</MechSerumResurrector.comps.CompUsable.useLabel>
   
-  <TechprofSubpersonaCore.label>기술 교육용 인공자아 핵</TechprofSubpersonaCore.label>
-  <TechprofSubpersonaCore.description>교육기능을 가진 저급의 인공자아 핵입니다. 사용하면 모르는 기술을 즉시 가르쳐줍니다. 한 번만 사용할 수 있습니다.</TechprofSubpersonaCore.description>
+  <TechprofSubpersonaCore.label>기술검증 보조자아 핵</TechprofSubpersonaCore.label>
+  <TechprofSubpersonaCore.description>기술 검증에 특화된 소형 인공지능 핵입니다. AI를 사용하면 현재 연구 중인 기술을 즉시 무료로 가르쳐 줍니다. 한 번만 사용할 수 있습니다.</TechprofSubpersonaCore.description>
   <TechprofSubpersonaCore.comps.CompUsable.useLabel>{0_label} 사용</TechprofSubpersonaCore.comps.CompUsable.useLabel>
   
   <ThrumboHorn.label>트럼보 뿔</ThrumboHorn.label>

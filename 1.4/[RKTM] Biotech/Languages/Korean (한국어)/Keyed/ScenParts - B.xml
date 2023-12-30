@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <ScenarioTitle>배경</ScenarioTitle>
   <ScenPart_StartingMech>메카노이드와 함께 시작</ScenPart_StartingMech>
   <Mechanoid>메카노이드</Mechanoid>
   <RandomMech>무작위 메카노이드</RandomMech>

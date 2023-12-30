@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RecipeRequiresMechanitor>{0}에는 기계공학자가 필요합니다. 정착민중 기계공학자가 없어서 아무도 이 작업을 실행하지 않을 것 입니다.</RecipeRequiresMechanitor>
+  <RecipeRequiresMechanitor>{0}에는 메카나이터가 필요합니다. 정착민 중 메카나이터가 없어서 아무도 이 작업을 수행하지 않을 것입니다.</RecipeRequiresMechanitor>
 
   <GenepackPlural>유전자 팩</GenepackPlural>
   <TraitsDevelopLaterBaby>특성은 유년기 후반에 개발됩니다.</TraitsDevelopLaterBaby>
@@ -19,8 +19,8 @@
   <AutofeedModeUrgent>긴급</AutofeedModeUrgent>
   <AutofeedNone>아무도 이 아기를 먹일 수 없습니다.</AutofeedNone>
   <AutofeedModeTooltipNever>{FEEDER_nameDef}(은)는 {BABY_nameDef}에게 자동으로 음식을 먹이지 않습니다.</AutofeedModeTooltipNever>
-  <AutofeedModeTooltipChildcare>{FEEDER_nameDef}(은)는 보육 업무로 {BABY_nameDef}를 먹일 것입니다.</AutofeedModeTooltipChildcare>
-  <AutofeedModeTooltipUrgent>{FEEDER_nameDef}(이)가 보육에 배정되지 않았거나 보육이 불가능하더라도 {FEEDER_nameDef}(은)는 밤낮으로 {BABY_nameDef}을 먹일 것입니다.</AutofeedModeTooltipUrgent>
+  <AutofeedModeTooltipChildcare>{FEEDER_nameDef}(은)는 육아 업무로 {BABY_nameDef}(을)를 먹일 것입니다.</AutofeedModeTooltipChildcare>
+  <AutofeedModeTooltipUrgent>{FEEDER_nameDef}(이)가 육아에 배정되지 않았거나 육아가 불가능하더라도, {FEEDER_nameDef}(은)는 항상 {BABY_nameDef}(을)를 먹일 것입니다.</AutofeedModeTooltipUrgent>
   <BabyFoodConsumables>섭취가능 음식</BabyFoodConsumables>
 
   <!-- Social tab (human babies) -->

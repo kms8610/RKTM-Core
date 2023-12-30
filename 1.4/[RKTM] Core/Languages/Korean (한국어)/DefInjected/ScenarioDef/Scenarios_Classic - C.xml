@@ -14,10 +14,10 @@
   <LostTribe.scenario.summary>다섯 부족원이 재건을 꿈꿉니다. 고난이도 시나리오입니다.</LostTribe.scenario.summary>
   
   <NakedBrutality.label>알몸으로 내던져짐</NakedBrutality.label>
-  <NakedBrutality.description>당신은 사소한 시술을 받기 위해 마취된 상태였습니다. 하지만 이제는 변방 행성에 충돌하는 탈출 포드 안에 있습니다. 당신은 벌거벗었고, 전혀 살아남을 준비가 되어있지 않습니다. 살아남을 수 있겠습니까?\n\n주의: 이것은 매우 어려운 시나리오입니다.</NakedBrutality.description>
-  <NakedBrutality.scenario.description>당신은 사소한 시술을 받기 위해 마취된 상태였습니다. 하지만 이제는 변방 행성에 충돌하는 탈출 포드 안에 있습니다. 당신은 벌거벗었고, 전혀 살아남을 준비가 되어있지 않습니다. 살아남을 수 있겠습니까?\n\n주의: 이것은 매우 어려운 시나리오입니다.</NakedBrutality.scenario.description>
+  <NakedBrutality.description>당신은 사소한 시술을 받기 위해 마취된 상태였습니다. 하지만 이제는 변방 행성에 충돌하는 탈출 포드 안에 있습니다. 당신은 벌거벗었고 전혀 살아남을 준비가 되어있지 않습니다. 살아남을 수 있겠습니까?\n\n주의: 이것은 매우 어려운 시나리오입니다.</NakedBrutality.description>
+  <NakedBrutality.scenario.description>당신은 사소한 시술을 받기 위해 마취된 상태였습니다. 하지만 이제는 변방 행성에 충돌하는 탈출 포드 안에 있습니다. 당신은 벌거벗었고 전혀 살아남을 준비가 되어있지 않습니다. 살아남을 수 있겠습니까?\n\n주의: 이것은 매우 어려운 시나리오입니다.</NakedBrutality.scenario.description>
   <NakedBrutality.scenario.name>알몸으로 내던져짐</NakedBrutality.scenario.name>
-  <NakedBrutality.scenario.parts.GameStartDialog.text>당신은 겨우 한 시간 정도 소요되는 사소한 시술을 받기 위해 마취된 상태였습니다. 문제될 것은 전혀 없어 보였습니다.\n\n하지만 잠시 후, 당신은 변경계에 불시착하고 있는 탈출 포드 안에서 깨어났습니다.\n\n당신은 벌거벗었고, 어떠한 도구도 없습니다. 살아남을 준비라고는 전혀 되어있지 않습니다. 살아남을 수 있겠습니까?</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <NakedBrutality.scenario.parts.GameStartDialog.text>당신은 겨우 한 시간 정도 소요되는 사소한 시술을 받기 위해 마취된 상태였습니다. 문제가 될 것은 전혀 없어 보였습니다.\n\n하지만 잠시 후 당신은 변경계에 불시착하고 있는 탈출 포드 안에서 깨어났습니다.\n\n당신은 벌거벗었고 어떠한 도구도 없습니다. 살아남을 준비라고는 전혀 되어있지 않습니다. 살아남을 수 있겠습니까?</NakedBrutality.scenario.parts.GameStartDialog.text>
   <NakedBrutality.scenario.summary>당신은 무방비상태에서 알몸으로 내던져졌습니다.</NakedBrutality.scenario.summary>
   
   <TheRichExplorer.label>부유한 탐험가</TheRichExplorer.label>

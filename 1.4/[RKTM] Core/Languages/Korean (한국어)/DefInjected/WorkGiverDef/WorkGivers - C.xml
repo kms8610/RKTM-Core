@@ -140,13 +140,13 @@
   <DoExecution.gerund> 처형</DoExecution.gerund>
   <DoExecution.verb>처형</DoExecution.verb>
   
-  <DoctorFeedAnimals.label>동물 먹이 주기</DoctorFeedAnimals.label>
-  <DoctorFeedAnimals.gerund> 먹이 주기</DoctorFeedAnimals.gerund>
-  <DoctorFeedAnimals.verb>먹이 주기</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.label>동물 먹이 먹여주기</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.gerund>에게 먹이 먹여주기</DoctorFeedAnimals.gerund>
+  <DoctorFeedAnimals.verb>먹이 먹여주기</DoctorFeedAnimals.verb>
   
-  <DoctorFeedHumanlikes.label>환자에게 식사 전달</DoctorFeedHumanlikes.label>
-  <DoctorFeedHumanlikes.gerund>에게 식사 전달</DoctorFeedHumanlikes.gerund>
-  <DoctorFeedHumanlikes.verb>식사 전달</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.label>환자에게 밥 먹여주기</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.gerund>에게 밥 먹여주기</DoctorFeedHumanlikes.gerund>
+  <DoctorFeedHumanlikes.verb>밥 먹여주기</DoctorFeedHumanlikes.verb>
   
   <DoctorRescue.label>쓰러진 아군 구조</DoctorRescue.label>
   <DoctorRescue.gerund> 구조</DoctorRescue.gerund>
@@ -188,9 +188,9 @@
   <ExtractTree.gerund> 뽑기</ExtractTree.gerund>
   <ExtractTree.verb>뽑기</ExtractTree.verb>
   
-  <FeedPrisoner.label>수감자에게 식사 전달</FeedPrisoner.label>
-  <FeedPrisoner.gerund>식사 전달</FeedPrisoner.gerund>
-  <FeedPrisoner.verb>식사 전달</FeedPrisoner.verb>
+  <FeedPrisoner.label>수감자에게 밥 먹여주기</FeedPrisoner.label>
+  <FeedPrisoner.gerund>에게 밥 먹여주기</FeedPrisoner.gerund>
+  <FeedPrisoner.verb>밥 먹여주기</FeedPrisoner.verb>
   
   <FightFires.label>화재 진압</FightFires.label>
   <FightFires.gerund> 진압</FightFires.gerund>
@@ -283,6 +283,10 @@
   <PatientGoToBedTreatment.label>치료를 위해 침대로 가기</PatientGoToBedTreatment.label>
   <PatientGoToBedTreatment.gerund> 요양</PatientGoToBedTreatment.gerund>
   <PatientGoToBedTreatment.verb>요양</PatientGoToBedTreatment.verb>
+  
+  <PlantSeed.label>작물 씨를 뿌림</PlantSeed.label>
+  <PlantSeed.gerund> 심기</PlantSeed.gerund>
+  <PlantSeed.verb>심기</PlantSeed.verb>
   
   <PlantsCut.label>제초</PlantsCut.label>
   <PlantsCut.gerund> 제초/벌목</PlantsCut.gerund>

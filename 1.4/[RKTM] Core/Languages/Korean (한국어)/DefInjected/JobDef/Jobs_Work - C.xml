@@ -58,13 +58,15 @@
   
   <OperateDeepDrill.reportString>TargetA 채굴 중</OperateDeepDrill.reportString>
   
-  <OperateScanner.reportString>TargetA에서 지하 자원 탐색 중.</OperateScanner.reportString>
+  <OperateScanner.reportString>TargetA에서 지하 자원 탐색 중</OperateScanner.reportString>
   
   <PaintBuilding.reportString>TargetA 색칠 중</PaintBuilding.reportString>
   
   <PaintFloor.reportString>TargetA 색칠 중</PaintFloor.reportString>
   
   <PlaceNoCostFrame.reportString>TargetA 건설 중</PlaceNoCostFrame.reportString>
+  
+  <PlantSeed.reportString>{TargetA} 심는 중</PlantSeed.reportString>
   
   <PrisonerAttemptRecruit.reportString>TargetA 포섭 중</PrisonerAttemptRecruit.reportString>
   

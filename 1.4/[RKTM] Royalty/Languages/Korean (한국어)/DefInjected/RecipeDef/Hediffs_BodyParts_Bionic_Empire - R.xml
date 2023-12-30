@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InstallAestheticNose.label>인상 교정기 이식</InstallAestheticNose.label>
-  <InstallAestheticNose.description>인상 교정기를 이식합니다.</InstallAestheticNose.description>
-  <InstallAestheticNose.jobString>인상 교정기 이식 중</InstallAestheticNose.jobString>
+  <InstallAestheticNose.label>인상 교정기 설치</InstallAestheticNose.label>
+  <InstallAestheticNose.description>인상 교정기를 설치합니다.</InstallAestheticNose.description>
+  <InstallAestheticNose.jobString>인상 교정기 설치 중</InstallAestheticNose.jobString>
   
-  <InstallAestheticShaper.label>외형 교정기 이식</InstallAestheticShaper.label>
-  <InstallAestheticShaper.description>외형 교정기를 이식합니다.</InstallAestheticShaper.description>
-  <InstallAestheticShaper.jobString>외형 교정기 이식 중</InstallAestheticShaper.jobString>
+  <InstallAestheticShaper.label>외형 교정기 설치</InstallAestheticShaper.label>
+  <InstallAestheticShaper.description>외형 교정기를 설치합니다.</InstallAestheticShaper.description>
+  <InstallAestheticShaper.jobString>외형 교정기 설치 중</InstallAestheticShaper.jobString>
   
   <InstallArmorskinGland.label>갑옷 피부 이식</InstallArmorskinGland.label>
   <InstallArmorskinGland.description>갑옷 피부를 이식합니다.</InstallArmorskinGland.description>
   <InstallArmorskinGland.jobString>갑옷 피부 이식 중</InstallArmorskinGland.jobString>
   
-  <InstallCircadianAssistant.label>생체리듬 보조기 이식</InstallCircadianAssistant.label>
-  <InstallCircadianAssistant.description>생체리듬 보조기를 이식합니다.</InstallCircadianAssistant.description>
-  <InstallCircadianAssistant.jobString>생체리듬 보조기 이식 중</InstallCircadianAssistant.jobString>
+  <InstallCircadianAssistant.label>생체리듬 보조기 설치</InstallCircadianAssistant.label>
+  <InstallCircadianAssistant.description>생체리듬 보조기를 설치합니다.</InstallCircadianAssistant.description>
+  <InstallCircadianAssistant.jobString>생체리듬 보조기 설치 중</InstallCircadianAssistant.jobString>
   
-  <InstallCircadianHalfCycler.label>생체리듬 반감기 이식</InstallCircadianHalfCycler.label>
-  <InstallCircadianHalfCycler.description>생체리듬 반감기를 이식합니다.</InstallCircadianHalfCycler.description>
-  <InstallCircadianHalfCycler.jobString>생체리듬 반감기 이식 중</InstallCircadianHalfCycler.jobString>
+  <InstallCircadianHalfCycler.label>생체리듬 반감기 설치</InstallCircadianHalfCycler.label>
+  <InstallCircadianHalfCycler.description>생체리듬 반감기를 설치합니다.</InstallCircadianHalfCycler.description>
+  <InstallCircadianHalfCycler.jobString>생체리듬 반감기 설치 중</InstallCircadianHalfCycler.jobString>
   
-  <InstallCoagulator.label>항출혈기 이식</InstallCoagulator.label>
-  <InstallCoagulator.description>항출혈기를 이식합니다.</InstallCoagulator.description>
-  <InstallCoagulator.jobString>항출혈기 이식 중</InstallCoagulator.jobString>
+  <InstallCoagulator.label>항출혈기 설치</InstallCoagulator.label>
+  <InstallCoagulator.description>항출혈기를 설치합니다.</InstallCoagulator.description>
+  <InstallCoagulator.jobString>항출혈기 설치 중</InstallCoagulator.jobString>
   
   <InstallDetoxifierStomach.label>해독강화 위 이식</InstallDetoxifierStomach.label>
   <InstallDetoxifierStomach.description>해독강화 위를 이식합니다.</InstallDetoxifierStomach.description>
   <InstallDetoxifierStomach.jobString>해독강화 위 이식 중</InstallDetoxifierStomach.jobString>
   
-  <InstallGastroAnalyzer.label>후각 증폭기 이식</InstallGastroAnalyzer.label>
-  <InstallGastroAnalyzer.description>후각 증폭기를 이식합니다.</InstallGastroAnalyzer.description>
-  <InstallGastroAnalyzer.jobString>후각 증폭기 이식 중</InstallGastroAnalyzer.jobString>
+  <InstallGastroAnalyzer.label>후각 증폭기 설치</InstallGastroAnalyzer.label>
+  <InstallGastroAnalyzer.description>후각 증폭기를 설치합니다.</InstallGastroAnalyzer.description>
+  <InstallGastroAnalyzer.jobString>후각 증폭기 설치 중</InstallGastroAnalyzer.jobString>
   
-  <InstallHealingEnhancer.label>재생력 증진기 이식</InstallHealingEnhancer.label>
-  <InstallHealingEnhancer.description>재생력 증진기를 이식합니다.</InstallHealingEnhancer.description>
-  <InstallHealingEnhancer.jobString>재생력 증진기 이식 중</InstallHealingEnhancer.jobString>
+  <InstallHealingEnhancer.label>재생력 증진기 설치</InstallHealingEnhancer.label>
+  <InstallHealingEnhancer.description>재생력 증진기를 설치합니다.</InstallHealingEnhancer.description>
+  <InstallHealingEnhancer.jobString>재생력 증진기 설치 중</InstallHealingEnhancer.jobString>
   
-  <InstallImmunoenhancer.label>면역 증진기 이식</InstallImmunoenhancer.label>
-  <InstallImmunoenhancer.description>면역 증진기를 이식합니다.</InstallImmunoenhancer.description>
-  <InstallImmunoenhancer.jobString>면역 증진기 이식 중</InstallImmunoenhancer.jobString>
+  <InstallImmunoenhancer.label>면역 증진기 설치</InstallImmunoenhancer.label>
+  <InstallImmunoenhancer.description>면역 증진기를 설치합니다.</InstallImmunoenhancer.description>
+  <InstallImmunoenhancer.jobString>면역 증진기 설치 중</InstallImmunoenhancer.jobString>
   
-  <InstallLearningAssistant.label>학습 보조기 이식</InstallLearningAssistant.label>
-  <InstallLearningAssistant.description>학습 보조기를 이식합니다.</InstallLearningAssistant.description>
-  <InstallLearningAssistant.jobString>학습 보조기 이식 중</InstallLearningAssistant.jobString>
+  <InstallLearningAssistant.label>학습 보조기 설치</InstallLearningAssistant.label>
+  <InstallLearningAssistant.description>학습 보조기를 설치합니다.</InstallLearningAssistant.description>
+  <InstallLearningAssistant.jobString>학습 보조기 설치 중</InstallLearningAssistant.jobString>
   
-  <InstallLoveEnhancer.label>애정 증진기 이식</InstallLoveEnhancer.label>
-  <InstallLoveEnhancer.description>애정 증진기를 이식합니다.</InstallLoveEnhancer.description>
-  <InstallLoveEnhancer.jobString>애정 증진기 이식 중</InstallLoveEnhancer.jobString>
+  <InstallLoveEnhancer.label>애정 증진기 설치</InstallLoveEnhancer.label>
+  <InstallLoveEnhancer.description>애정 증진기를 설치합니다.</InstallLoveEnhancer.description>
+  <InstallLoveEnhancer.jobString>애정 증진기 설치 중</InstallLoveEnhancer.jobString>
   
-  <InstallNeurocalculator.label>연산 보조기 이식</InstallNeurocalculator.label>
-  <InstallNeurocalculator.description>연산 보조기를 이식합니다.</InstallNeurocalculator.description>
-  <InstallNeurocalculator.jobString>연산 보조기 이식 중</InstallNeurocalculator.jobString>
+  <InstallNeurocalculator.label>연산 보조기 설치</InstallNeurocalculator.label>
+  <InstallNeurocalculator.description>연산 보조기를 설치합니다.</InstallNeurocalculator.description>
+  <InstallNeurocalculator.jobString>연산 보조기 설치 중</InstallNeurocalculator.jobString>
   
   <InstallNuclearStomach.label>핵분열 위 이식</InstallNuclearStomach.label>
   <InstallNuclearStomach.description>핵분열 위를 이식합니다.</InstallNuclearStomach.description>

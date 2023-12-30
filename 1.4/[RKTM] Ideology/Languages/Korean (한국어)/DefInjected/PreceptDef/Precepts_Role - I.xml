@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <IdeoRole_AnimalsSpecialist.label>조련 전문가</IdeoRole_AnimalsSpecialist.label>
-  <IdeoRole_AnimalsSpecialist.description>동물 관리에 특화된 고유 지위입니다. 이 지위는 조련과 훈련 효율을 높여주며, 주변 동료들의 동물 관련 기술을 향상시키는 능력을 부여합니다. 이 지위를 소유한 자는 동물과 관련되지 않은 작업 일부를 거부할 것입니다.</IdeoRole_AnimalsSpecialist.description>
+  <IdeoRole_AnimalsSpecialist.description>다른 것을 배제하고 동물에 초점을 맞춘 특별한 이념적 직위입니다. 이러한 전문화된 직위는 길들이기 및 조련 효율성을 향상시킵니다. 이 직위에 임명된 사람은 동물과 관련되지 않은 일부 작업을 거부합니다.</IdeoRole_AnimalsSpecialist.description>
   
   <IdeoRole_Leader.label>지도자</IdeoRole_Leader.label>
-  <IdeoRole_Leader.description>정착지의 구심점이자 외교를 대표합니다.</IdeoRole_Leader.description>
+  <IdeoRole_Leader.description>정착지의 구심점이자 외교에서 세력을 대표합니다.</IdeoRole_Leader.description>
   
   <IdeoRole_MedicalSpecialist.label>의학 전문가</IdeoRole_MedicalSpecialist.label>
   <IdeoRole_MedicalSpecialist.description>의학에 특화된 고유 지위입니다. 이 지위는 수술과 치료 효율을 높여주며, 주변 동료들의 의학 기술을 개선하는 능력을 부여합니다. 이 지위를 가진 사람이 같은 사상의 구성원을 치료하면 그 구성원의 기분이 개선됩니다. 이 지위를 소유한 자는 의학과 관련되지 않은 일부 작업 및 모든 폭력 행위를 거부할 것입니다.</IdeoRole_MedicalSpecialist.description>

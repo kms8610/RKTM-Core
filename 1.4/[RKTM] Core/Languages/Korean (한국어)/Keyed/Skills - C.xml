@@ -10,7 +10,7 @@
   <PassionMinor>관심</PassionMinor>
   <PassionMajor>열정적</PassionMajor>
   <LearningSpeed>학습 속도</LearningSpeed>
-  <LearnedMaxToday>오늘 최대로 학습함 ({0}/{1}, 이후 학습 속도 x{2})</LearnedMaxToday>
+  <LearnedMaxToday>오늘 최대로 학습함 ({0} / {1}, 이후 학습 속도 x{2})</LearnedMaxToday>
   <ChildrenLearn>아이들은 어른들이 일하는 모습을 관찰하거나 책상에서 수업을 듣는 것으로 기술을 배웁니다.</ChildrenLearn>
   <EffectsAtLevel>등급 {0}에서 발휘하는 효과</EffectsAtLevel>
   <SkillMax>최대</SkillMax>

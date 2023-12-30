@@ -6,11 +6,14 @@
   <StatsReport_Clothed>옷 입음</StatsReport_Clothed>
   <StatsReport_Unclothed>옷 없음</StatsReport_Unclothed>
 
+  <StatsReport_AgeRateMultiplier>나이 비율 계수</StatsReport_AgeRateMultiplier><!-- text_todo -->
+  <StatsReport_AgeRateMultiplier_Desc>이 사람이 현재 나이 기준, 생물학적으로 얼마나 빨리 노화되는지에 대한 계수입니다.</StatsReport_AgeRateMultiplier_Desc><!-- text_todo -->
+
   <StatsReport_RechargerWeightClass>요구 크기</StatsReport_RechargerWeightClass>
   <StatsReport_RechargerWeightClass_Desc>이 충전기를 사용할 수 있는 메카노이드 크기입니다. 다음과 같은 메카노이드가 사용할 수 있습니다</StatsReport_RechargerWeightClass_Desc>
 
   <StatsReport_RechargerNeeded>사용 충전기</StatsReport_RechargerNeeded>
-  <StatsReport_RechargerNeeded_Desc>이 메카노이드가 에너지를 충전하는 데 사용할 수 있는 충전기 유형입니다. 메카노이드의 크기에 기반합니다.</StatsReport_RechargerNeeded_Desc>
+  <StatsReport_RechargerNeeded_Desc>이 메카노이드가 전력을 충전하는 데 사용할 수 있는 충전기 유형입니다. 메카노이드의 크기에 기반합니다.</StatsReport_RechargerNeeded_Desc>
 
   <StatsReport_DeathrestEffectiveness>죽음안식 효율</StatsReport_DeathrestEffectiveness>
   <StatsReport_DeathrestEffectiveness_Desc>죽음안식을 할 때 얼마나 효과적인지에 대한 계수입니다. 이 값이 높을수록 사용자가 죽음안식을 해야 하는 시간이 줄어듭니다.</StatsReport_DeathrestEffectiveness_Desc>
@@ -19,7 +22,7 @@
   <StatsReport_DeathrestConnectionLimit_Desc>이 장치 중 얼마나 많은 장치가 죽음안식 중인 사람에게 연결될 수 있을까요? 그 갯수는 해당 사람의 죽음안식 수용량에 의해 제한됩니다.</StatsReport_DeathrestConnectionLimit_Desc>
 
   <StatsReport_GrowthTier>성장 등급</StatsReport_GrowthTier>
-  <StatsReport_GrowthTierDesc>아이들은 시간이 지남에 따라 성장 등급을 거쳐갑니다. 학습 욕구가 높을 수록 성장 등급 진행 속도도 빨라집니다. 성장의 순간(7세, 10세, 13세)이 왔을 때 아이의 성장 등급이 높으면 선택 가능한 특성과 열정의 종류가 많아집니다. 성장의 순간이 지나면 성장 등급은 다시 초기화됩니다.</StatsReport_GrowthTierDesc>
+  <StatsReport_GrowthTierDesc>아이들은 시간이 지남에 따라 성장 등급을 거쳐 갑니다. 학습 욕구가 높을수록 성장 등급 진행 속도도 빨라집니다. 성장의 순간(7세, 10세, 13세)이 왔을 때 아이의 성장 등급이 높으면 선택 가능한 특성과 열정의 종류가 많아집니다. 성장의 순간이 지나면 성장 등급은 다시 초기화됩니다.</StatsReport_GrowthTierDesc>
 
   <StatsReport_DevelopmentStage>성장 단계</StatsReport_DevelopmentStage>
   <StatsReport_DevelopmentStageDesc_Baby>아기입니다. 아기는 스스로 움직일 수 없습니다. 아기들의 생활은 음식, 수면, 놀이 등 단순한 욕구를 중심으로 이루어집니다. 웃으면 주변 어른들의 기분이 좋아지지만 울면 짜증을 냅니다.\n\n인간의 아기는 3살이 되면 어린이가 됩니다.</StatsReport_DevelopmentStageDesc_Baby>
@@ -48,6 +51,8 @@
   <AlwaysAggroMentalBreak>정신이상이 항상 폭력적입니다.</AlwaysAggroMentalBreak>
   <NeverAggroMentalBreak>폭력적인 정신이상을 겪지 않습니다.</NeverAggroMentalBreak>
   <AddictionChanceFactor>{0_label} 중독 확률 계수</AddictionChanceFactor>
+  <OverdoseChanceFactor>{0_label} 과다복용 확률 계수</OverdoseChanceFactor><!-- text_todo -->
+  <ToleranceBuildupFactor>{0_label} 내성 생성 계수</ToleranceBuildupFactor><!-- text_todo -->
   <AddictionImmune>{0_label} 중독에 면역입니다.</AddictionImmune>
   <FoodPoisoningImmune>식중독에 면역입니다.</FoodPoisoningImmune>
   <WillNeverSocialFight>절대 사교적 다툼을 시작하지 않습니다.</WillNeverSocialFight>
@@ -65,5 +70,12 @@
   <DevelopmentStage_Baby>아기</DevelopmentStage_Baby>
   <DevelopmentStage_Child>어린이</DevelopmentStage_Child>
   <DevelopmentStage_Adult>성인</DevelopmentStage_Adult>
+
+  <StatsReport_GrowthVatSpeedFactor>성장 배양기 속도</StatsReport_GrowthVatSpeedFactor>
+
+  <GeneToleranceBuildupImmune>보유자가 {0_label}에 대한 내성을 생성할 수 없습니다.</GeneToleranceBuildupImmune><!-- text_todo -->
+  <GeneToleranceBuildupFactor>보유자가 {1} {0_label}에 대한 내성을 빠르게 생성합니다.</GeneToleranceBuildupFactor><!-- text_todo -->
+  <GeneOverdoseImmune>보유자는 {0_label}(을)를 과다 복용할 수 없습니다.</GeneOverdoseImmune><!-- text_todo -->
+  <GeneOverdoseFactor>보유자는 {0_label}(을)를 과다 복용할 가능성이 {1}입니다.</GeneOverdoseFactor><!-- text_todo -->
 
 </LanguageData>

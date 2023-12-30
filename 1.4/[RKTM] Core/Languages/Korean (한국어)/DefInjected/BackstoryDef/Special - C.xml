@@ -4,6 +4,10 @@
   <Child27.title>어린이</Child27.title>
   <Child27.titleShort>어린이</Child27.titleShort>
   
+  <ChildTribal.baseDesc>{PAWN_nameDef}(은)는 어린이입니다. {PAWN_pronoun}의 어린 시절 이야기는 아직 완성되지 않았습니다.</ChildTribal.baseDesc>
+  <ChildTribal.title>어린이</ChildTribal.title>
+  <ChildTribal.titleShort>어린이</ChildTribal.titleShort>
+  
   <Colonist97.baseDesc>{PAWN_nameDef}(은)는 우리 정착지에서 성인이 됐습니다. {PAWN_pronoun}의 이야기는 아직 완성되지 않았습니다.</Colonist97.baseDesc>
   <Colonist97.title>정착민</Colonist97.title>
   <Colonist97.titleShort>정착민</Colonist97.titleShort>

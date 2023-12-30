@@ -14,7 +14,7 @@
   <Hospitality_Util_Worker.LabelLabelPrisonerEnslaved.slateRef>수감자 노예화: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerEnslaved.slateRef>
   <Hospitality_Util_Worker.LabelTextPrisonerEnslaved.slateRef>보호하기로 한 {SUBJECT_definite}(을)를 노예로 삼았습니다. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LabelTextPrisonerEnslaved.slateRef>
   <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>동의받지 않은 시술: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>
-  <Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef> [letterSubject](이)가 승인되지 않은 수술을 받았습니다. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>
+  <Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>[letterSubject](이)가 승인되지 않은 수술을 받았습니다. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>
   <Hospitality_Util_Worker.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>변형이식체 흡수됨: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>
   <Hospitality_Util_Worker.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>당신이 보호해야 하는 {SUBJECT_definite}(이)가 {SUBJECT_possessive} 변형이식체를 강제로 흡수했습니다. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>
   <Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>방문객 실종: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>

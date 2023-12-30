@@ -10,7 +10,7 @@
   <ComponentSpacer.description>극한 상황을 견딜 수 있도록 방호처리하고 소형화한 고품질 전자장비입니다.</ComponentSpacer.description>
   
   <MedicineHerbal.label>생약</MedicineHerbal.label>
-  <MedicineHerbal.description>약초 혼합물로, 주로 약뿌리에서 추출합니다. 공장에서 조정된 약품들보다 효과는 떨어지지만 없는 것보단 훨씬 낫습니다.</MedicineHerbal.description>
+  <MedicineHerbal.description>약초 혼합물로 주로 약 뿌리에서 추출합니다. 공장에서 조정된 약품들보다 효과는 떨어지지만, 없는 것보단 훨씬 낫습니다.</MedicineHerbal.description>
   
   <MedicineIndustrial.label>약품</MedicineIndustrial.label>
   <MedicineIndustrial.description>산업계에서 대량 생산되는 평범한 약품 키트입니다. 기본적인 약물, 봉합 및 뼈 조정을 위한 도구, 진단 장치, 다양한 붕대와 체액을 포함합니다.</MedicineIndustrial.description>

@@ -4,19 +4,19 @@
   <Autobong.description>주위에 증기 구름을 생성하는 자동 연초 연소 기계입니다. 연초의 구름 속에서 사람들은 서서히 취해 갈 것입니다.</Autobong.description>
   
   <Drum.label>북</Drum.label>
-  <Drum.description>부족의 의식이나 파티의 음악을 담당하기 위해 사용되는 커다란 나무 북입니다.</Drum.description>
+  <Drum.description>부족의 의식이나 파티의 음악을 담당하기 위해 사용하는 커다란 나무 북입니다.</Drum.description>
   
   <DryadCocoon.label>나무지기 고치</DryadCocoon.label>
-  <DryadCocoon.description>변이 중인 나무지기를 지키기 위하여 요정 나무가 만들어내는 섬유질의 구체. 안에서는 나무지기 한 마리가 새로운 형태로 서서히 성장하고 있습니다.</DryadCocoon.description>
+  <DryadCocoon.description>변이 중인 나무지기를 지키기 위하여 요정 나무가 만들어내는 섬유질의 구체입니다. 안에서는 나무지기 한 마리가 새로운 형태로 서서히 성장하고 있습니다.</DryadCocoon.description>
   
   <DryadHealingPod.label>재생 고치</DryadHealingPod.label>
-  <DryadHealingPod.description>섬유질의 녹색 구체. 내부에서는 나무지기가 천천히 상처를 치유하고 있습니다.</DryadHealingPod.description>
+  <DryadHealingPod.description>섬유질의 녹색 구체입니다. 내부에서는 나무지기가 천천히 상처를 치유하고 있습니다.</DryadHealingPod.description>
   
   <GaumakerCocoon.label>요정단지 고치</GaumakerCocoon.label>
   <GaumakerCocoon.description>여러 요정단지 나무지기의 융합체. 이 고치는 요정들의 생명 주기에서 가장 중요한 부분입니다. 시간이 지나면 이곳에 돋아난 요정 열매를 수확하여 새로운 요정나무를 키워낼 수 있을 겁니다.</GaumakerCocoon.description>
   
   <GibbetCage.label>시체 우리</GibbetCage.label>
-  <GibbetCage.description>시체를 넣어두거나 전시하기 위해 만든 철제 우리입니다. 이 끔찍한 물건은 보는 이들로 하여금 공포와 혐오감을 불러일으킵니다. 노예들에게 공포를 심어주기에 특히 강력하고 효과적입니다.</GibbetCage.description>
+  <GibbetCage.description>시체를 넣어두거나 전시하기 위해 만든 금속 우리입니다. 이 끔찍한 물건은 보는 이들로 하여금 공포와 혐오감을 불러일으킵니다. 노예들에게 공포를 심어주기에 특히 강력하고 효과적입니다.</GibbetCage.description>
   
   <KneelPillow.label>방석</KneelPillow.label>
   <KneelPillow.description>신자들이 기도할 때나 대화할 때 무릎을 편히 받쳐줍니다.</KneelPillow.description>
@@ -40,7 +40,7 @@
   <PlantPot_Bonsai.description>분재목을 심기에 적절한 화분입니다. 주변 사람들의 기분을 환기해주고 일부 사상의 요구 조건을 충족시킵니다.</PlantPot_Bonsai.description>
   
   <Reliquary.label>성물함</Reliquary.label>
-  <Reliquary.description>성스러운 유물을 전시하고 보호하는 의식 건출물입니다. 유물은 많은 사람들과 문화, 그리고 신앙에서 숭배하는 고대의 물품입니다.</Reliquary.description>
+  <Reliquary.description>성스러운 유물을 전시하고 보호하는 의식 건축물입니다. 유물은 많은 사람들과 문화 그리고 신앙에서 숭배하는 고대의 물품입니다.</Reliquary.description>
   
   <Skullspike.label>효수대</Skullspike.label>
   <Skullspike.description>사람의 두개골을 꿰뚫어 높이 치켜 든 장대입니다. 어떤 이들에게는 힘의 상징이지만, 다른 이들에겐 야만적인 장식물로 보일 것입니다. 노예들에게 공포를 심어주는 대에는 탁월한 효과를 발휘합니다.</Skullspike.description>

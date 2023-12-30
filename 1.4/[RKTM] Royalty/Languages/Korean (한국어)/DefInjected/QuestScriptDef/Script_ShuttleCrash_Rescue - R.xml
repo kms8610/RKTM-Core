@@ -4,7 +4,7 @@
     <li>failLetterEndingCommon->'[resolvedQuestName]' 임무에 실패했습니다.</li>
     <li>successLetterEndingCommon->'[resolvedQuestName]' 임무를 성공적으로 완수했습니다.</li>
     <li>goodwillSomeCiviliansLost->모든 [asker_faction_pawnSingular](와)과 [pawnLabel](을)를 구할 수는 없었습니다. [goodwillNegativelyAffected]</li>
-    <li>goodwillAllCiviliansLost->[asker_faction_pawnSingular](와)과 [pawnLabelPlural] 중 아무도 구할 수 없었습니다. [goodwillNegativelyAffected]</li>
+    <li>goodwillAllCiviliansLost->[asker_faction_pawnSingular](와)과 [pawnLabelPlural](을)를 아무도 구할 수 없었습니다. [goodwillNegativelyAffected]</li>
     <li>goodwillNegativelyAffected->[asker_faction_name](와)과의 관계는 [pawnLabel](이)가 떠날 때까지 매일 부정적인 영향이 생깁니다.</li>
     <li>commanderLandingDesc->[map_definite]에 착륙을 요청한 지휘관 [asker_nameDef]</li>
     <li>raidArrivedLetterLabel->습격: [enemyFaction_name]</li>
@@ -18,7 +18,7 @@
     <li>askerLostLetterLabel->임무 실패: [resolvedQuestName]</li>
     <li>askerLostLetterText->왕복선이 출발할 때 [commanderLandingDesc](은)는 탑승하지 못했습니다.\n\n[goodwillSomeCiviliansLost]\n\n[failLetterEndingCommon]</li>
     <li>allLostLetterLabel->임무 실패: [resolvedQuestName]</li>
-    <li>allLostLetterText->추락했던 [asker_faction_pawnsPlural]들 중 아무도 구조선에 탑승하지 못했습니다.\n\n[goodwillAllCiviliansLost]\n\n[failLetterEndingCommon]</li>
+    <li>allLostLetterText->추락했던 [asker_faction_pawnsPlural] 중 아무도 구조선에 탑승하지 못했습니다.\n\n[goodwillAllCiviliansLost]\n\n[failLetterEndingCommon]</li>
     <li>askerDiedLetterLabel->임무 실패: [resolvedQuestName]</li>
     <li>askerDiedLetterText->[commanderLandingDesc](이)가 죽었습니다.\n\n[failLetterEndingCommon]</li>
     <li>shuttleDestroyedLetterLabel->임무 실패: [resolvedQuestName]</li>
@@ -31,7 +31,7 @@
   <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
     <li>pawnLabelSingleOrPlural(civilians_count==1)->[pawnLabel]</li>
     <li>pawnLabelSingleOrPlural(civilians_count>=2)->[pawnLabelPlural]</li>
-    <li>questDescription->[asker_faction_name]의 왕복선이 피해를 입고 비상착륙할 장소를 찾고 있습니다. 왕복선의 사령관, [asker_nameDef](은)는 [map_definite]에 착륙하려고 합니다.\n\n탑승객을 사살하기 위한 [enemyFaction_pawnsPlural](이)가 [enemyFaction_name]에서 출발했습니다. 왕복선을 방어하세요.\n\n왕복선에는 [asker_nameDef][andOtherCivilians], [soldierCountKinds](이)가 탑승하고 있습니다. 사령관[andCivilians](은)는 반드시 구조해야 하지만 [soldiers0_kind](은)는 희생할 수 있습니다.\n\n[rescueDelay_duration] 후, 구조 왕복선이 도착해 생존자들을 이송할 것입니다. 구조 왕복선이 착륙한 후 [leaveDelay_duration] 내에 모든 생존자가 탑승해야 합니다.</li>
+    <li>questDescription->[asker_faction_name]의 수송선이 피해를 입고 착륙할 장소를 찾고 있습니다. 지휘관 [asker_nameDef](이)가 [map_definite]에 착륙하기를 원합니다.\n\n[enemyFaction_name]의 [enemyFaction_pawnsPlural]이 탑승자를 죽이기 위해 추락한 수송선이 있는 정착지를 공격할 것입니다. 당신은 그들을 방어해야 합니다.\n\n수송선에는 [asker_nameDef][andOtherCivilians](와)과 [soldierCountKinds](이)가 포함되어 있습니다. 사령관[andCivilians](은)는 구출되어야 하지만 [soldiers0_kindPlural](은)는 희생되어도 괜찮습니다.\n\n[rescueDelay_duration] 후에 구조용 수송선이 생존자를 데리러 올 것입니다. [leaveDelay_duration] 내에 모두 탑승해야 합니다.</li>
     <li>andOtherCivilians(civilians_count==1)-></li>
     <li>andOtherCivilians(civilians_count==2)->(와)과 한 명의 [pawnLabel]</li>
     <li>andOtherCivilians(civilians_count>=3)->(와)과 [pawnLabelSingleOrPlural] [civilianCountMinusOne]명</li>
@@ -39,7 +39,7 @@
     <li>andCivilians(civilians_count==2)->(와)과 [pawnLabel]</li>
     <li>andCivilians(civilians_count>=3)->(와)과 [pawnLabelPlural]</li>
     <li>soldierCountKinds(soldiers_count==1)->[soldiers0_kind] 한 명</li>
-    <li>soldierCountKinds(soldiers_count==1)->[soldiers0_kind] [soldiers_count]명</li>
+    <li>soldierCountKinds(soldiers_count>1)->[soldiers_count] [soldiers0_kindPlural]</li>
   </ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
   <ShuttleCrash_Rescue.questNameRules.rulesStrings>
     <li>questName->[shuttle] [crash]</li>
@@ -49,17 +49,17 @@
     <li>questName->[emergency] [landing]</li>
     <li>questName->[asker_nameDef]의 [emergency] [landing]</li>
     <li>shuttle->왕복선</li>
-    <li>shuttle->수송</li>
+    <li>shuttle->수송선</li>
     <li>shuttle->함선</li>
     <li>crash->충돌</li>
     <li>crash->추락</li>
     <li>damaged->손상된</li>
     <li>damaged->부서진</li>
-    <li>damaged->결함있는</li>
+    <li>damaged->망가진</li>
     <li>emergency->비상</li>
     <li>emergency->강제</li>
     <li>landing->착륙</li>
     <li>landing->하강</li>
-    <li>landing->진입</li>
+    <li>landing->접근</li>
   </ShuttleCrash_Rescue.questNameRules.rulesStrings>
 </LanguageData>

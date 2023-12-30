@@ -118,14 +118,14 @@
   <Hands_Pig.symbolPack.wholeNameSymbols.0.symbol>돼지손</Hands_Pig.symbolPack.wholeNameSymbols.0.symbol>
   
   <Head_Gaunt.label>홀쭉한 머리</Head_Gaunt.label>
-  <Head_Gaunt.description>이 유전자의 소유자는, 얼굴과 머리가 가늘고 홀쭉한 모습을 보입니다.</Head_Gaunt.description>
+  <Head_Gaunt.description>이 유전자의 보유자는 얼굴과 머리가 가늘고 홀쭉한 모습을 보입니다.</Head_Gaunt.description>
   <Head_Gaunt.symbolPack.prefixSymbols.0.symbol>홀쭉</Head_Gaunt.symbolPack.prefixSymbols.0.symbol>
   <Head_Gaunt.symbolPack.prefixSymbols.1.symbol>해골</Head_Gaunt.symbolPack.prefixSymbols.1.symbol>
   <Head_Gaunt.symbolPack.prefixSymbols.2.symbol>기아</Head_Gaunt.symbolPack.prefixSymbols.2.symbol>
   <Head_Gaunt.symbolPack.prefixSymbols.3.symbol>뼈</Head_Gaunt.symbolPack.prefixSymbols.3.symbol>
   
   <Headbone_CenterHorn.label>뿔</Headbone_CenterHorn.label>
-  <Headbone_CenterHorn.description>이 유전자의 소유자는, 이마 중앙에서 돌출된 단일 뿔을 자랍니다.</Headbone_CenterHorn.description>
+  <Headbone_CenterHorn.description>이 유전자의 보유자는 이마 중앙에서 돌출된 단일 뿔을 자랍니다.</Headbone_CenterHorn.description>
   <Headbone_CenterHorn.symbolPack.prefixSymbols.0.symbol>뿔</Headbone_CenterHorn.symbolPack.prefixSymbols.0.symbol>
   <Headbone_CenterHorn.symbolPack.prefixSymbols.1.symbol>뿔</Headbone_CenterHorn.symbolPack.prefixSymbols.1.symbol>
   <Headbone_CenterHorn.symbolPack.prefixSymbols.2.symbol>뾰족</Headbone_CenterHorn.symbolPack.prefixSymbols.2.symbol>
@@ -134,10 +134,10 @@
   <Headbone_CenterHorn.symbolPack.suffixSymbols.1.symbol>가시</Headbone_CenterHorn.symbolPack.suffixSymbols.1.symbol>
   
   <Headbone_Human.label>인간 머리뼈</Headbone_Human.label>
-  <Headbone_Human.description>이 유전자의 소유자는, 일반적인 인간의 두개골을 가지고 있습니다.</Headbone_Human.description>
+  <Headbone_Human.description>이 유전자의 보유자는 일반적인 인간의 두개골을 가지고 있습니다.</Headbone_Human.description>
   
   <Headbone_MiniHorns.label>작은 뿔</Headbone_MiniHorns.label>
-  <Headbone_MiniHorns.description>이 유전자의 소유자는, 이마에서 튀어 나온 두 개의 작은 뿔이 자랍니다.</Headbone_MiniHorns.description>
+  <Headbone_MiniHorns.description>이 유전자의 보유자는 이마에서 튀어 나온 두 개의 작은 뿔이 자랍니다.</Headbone_MiniHorns.description>
   <Headbone_MiniHorns.symbolPack.prefixSymbols.0.symbol>뿔</Headbone_MiniHorns.symbolPack.prefixSymbols.0.symbol>
   <Headbone_MiniHorns.symbolPack.prefixSymbols.1.symbol>뾰족</Headbone_MiniHorns.symbolPack.prefixSymbols.1.symbol>
   <Headbone_MiniHorns.symbolPack.prefixSymbols.2.symbol>가시</Headbone_MiniHorns.symbolPack.prefixSymbols.2.symbol>
@@ -151,10 +151,10 @@
   <Headbone_MiniHorns.symbolPack.suffixSymbols.2.symbol>도깨비</Headbone_MiniHorns.symbolPack.suffixSymbols.2.symbol>
   
   <Jaw_Baseline.label>인간 턱</Jaw_Baseline.label>
-  <Jaw_Baseline.description>이 유전자의 소유자는, 일반적인 모양의 턱을 가지고 있습니다.</Jaw_Baseline.description>
+  <Jaw_Baseline.description>이 유전자의 보유자는 일반적인 모양의 턱을 가지고 있습니다.</Jaw_Baseline.description>
   
   <Jaw_Heavy.label>무거운 턱</Jaw_Heavy.label>
-  <Jaw_Heavy.description>이 유전자의 소유자는, 큰 턱을 가지고 있습니다.</Jaw_Heavy.description>
+  <Jaw_Heavy.description>이 유전자의 보유자는 큰 턱을 가지고 있습니다.</Jaw_Heavy.description>
   <Jaw_Heavy.symbolPack.prefixSymbols.0.symbol>툴툴</Jaw_Heavy.symbolPack.prefixSymbols.0.symbol>
   <Jaw_Heavy.symbolPack.prefixSymbols.1.symbol>물어뜯는</Jaw_Heavy.symbolPack.prefixSymbols.1.symbol>
   <Jaw_Heavy.symbolPack.prefixSymbols.2.symbol>큰</Jaw_Heavy.symbolPack.prefixSymbols.2.symbol>
@@ -164,10 +164,10 @@
   <Jaw_Heavy.symbolPack.suffixSymbols.3.symbol>턱</Jaw_Heavy.symbolPack.suffixSymbols.3.symbol>
   
   <Nose_Human.label>인간 코</Nose_Human.label>
-  <Nose_Human.description>이 유전자의 소유자는, 일반 인간의 코를 가지고 있습니다.</Nose_Human.description>
+  <Nose_Human.description>이 유전자의 보유자는 일반 인간의 코를 가지고 있습니다.</Nose_Human.description>
   
   <Nose_Pig.label>돼지 코</Nose_Pig.label>
-  <Nose_Pig.description>이 유전자의 소유자는, 돼지 같은 주둥이를 가지고 있습니다.</Nose_Pig.description>
+  <Nose_Pig.description>이 유전자의 보유자는 돼지 같은 주둥이를 가지고 있습니다.</Nose_Pig.description>
   <Nose_Pig.symbolPack.prefixSymbols.0.symbol>돼지</Nose_Pig.symbolPack.prefixSymbols.0.symbol>
   <Nose_Pig.symbolPack.prefixSymbols.1.symbol>돼지</Nose_Pig.symbolPack.prefixSymbols.1.symbol>
   <Nose_Pig.symbolPack.prefixSymbols.2.symbol>주둥아리</Nose_Pig.symbolPack.prefixSymbols.2.symbol>
@@ -195,7 +195,7 @@
   <VoicePig.symbolPack.wholeNameSymbols.2.symbol>킁킁</VoicePig.symbolPack.wholeNameSymbols.2.symbol>
   
   <VoiceRoar.label>포효</VoiceRoar.label>
-  <VoiceRoar.description>이 유전자의 소유자는, 동물처럼 포효하는 목소리를 가지고 있습니다.</VoiceRoar.description>
+  <VoiceRoar.description>이 유전자의 보유자는 동물처럼 포효하는 목소리를 가지고 있습니다.</VoiceRoar.description>
   <VoiceRoar.symbolPack.prefixSymbols.0.symbol>고함</VoiceRoar.symbolPack.prefixSymbols.0.symbol>
   <VoiceRoar.symbolPack.prefixSymbols.1.symbol>으으렁</VoiceRoar.symbolPack.prefixSymbols.1.symbol>
   <VoiceRoar.symbolPack.prefixSymbols.2.symbol>그르렁</VoiceRoar.symbolPack.prefixSymbols.2.symbol>
@@ -208,5 +208,5 @@
   <VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>뀌액뀌액</VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>
   
   <Voice_Human.label>인간 목소리</Voice_Human.label>
-  <Voice_Human.description>이 유전자의 소유자는, 규칙적인 인간 성대를 가지고 있습니다.</Voice_Human.description>
+  <Voice_Human.description>이 유전자의 보유자는 규칙적인 인간 성대를 가지고 있습니다.</Voice_Human.description>
 </LanguageData>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NoxiousHaze.label>산성안개</NoxiousHaze.label>
-  <NoxiousHaze.description>인근 타일의 오염으로 인해 발생한 산성안개입니다. 식물은 느리게 성장할 것이고, 바깥에 노출된 물품들은 빠르게 산화할 것이며, 정착민의 기분은 안좋아질 것입니다.\n\n현재 타일의 오염 정도는 {NEARBYPOLLUTION}이며, 주변 타일의 오염을 합산하여 계산됩니다. 이는 산성안개가 평균적으로 매 {MTB}일마다 발생한다는 것을 의미합니다.</NoxiousHaze.description>
-  <NoxiousHaze.endMessage>산성안개가 날아갑니다.</NoxiousHaze.endMessage>
-  <NoxiousHaze.startMessage>오염으로 인해 산성안개가 끼기 시작했습니다.</NoxiousHaze.startMessage>
+  <NoxiousHaze.label>산성 안개</NoxiousHaze.label>
+  <NoxiousHaze.description>인근 세계지도 칸의 오염으로 발생한 산성 안개입니다. 식물 성장 속도가 느려지고, 바깥에 노출된 물품이 빠르게 손상되며 사람들의 기분이 나빠집니다.\n\n현재 지역의 인근 칸 오염도를 더한 수치는 {NEARBYPOLLUTION}입니다. 이 오염도에서는 산성 안개가 매 {MTB}일마다 발생합니다.</NoxiousHaze.description>
+  <NoxiousHaze.endMessage>산성 안개가 걷혔습니다.</NoxiousHaze.endMessage>
+  <NoxiousHaze.startMessage>주변 지역의 오염으로 산성 안개가 끼기 시작했습니다.</NoxiousHaze.startMessage>
 </LanguageData>

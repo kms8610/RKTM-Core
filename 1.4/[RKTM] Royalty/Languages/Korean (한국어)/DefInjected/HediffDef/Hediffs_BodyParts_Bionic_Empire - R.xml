@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <AestheticNose.label>인상 교정기</AestheticNose.label>
-  <AestheticNose.description>인상 교정기를 이식했습니다.</AestheticNose.description>
+  <AestheticNose.description>인상 교정기를 설치했습니다.</AestheticNose.description>
   <AestheticNose.labelNoun>인상 교정기</AestheticNose.labelNoun>
   
   <AestheticShaper.label>외형 교정기</AestheticShaper.label>
-  <AestheticShaper.description>외형 교정기를 이식했습니다.</AestheticShaper.description>
+  <AestheticShaper.description>외형 교정기를 설치했습니다.</AestheticShaper.description>
   <AestheticShaper.labelNoun>외형 교정기</AestheticShaper.labelNoun>
   
   <ArmorskinGland.label>갑옷 피부</ArmorskinGland.label>
@@ -17,11 +17,11 @@
   <CircadianAssistant.labelNoun>생체리듬 보조기</CircadianAssistant.labelNoun>
   
   <CircadianHalfCycler.label>생체리듬 반감기</CircadianHalfCycler.label>
-  <CircadianHalfCycler.description>생체리듬 반감기를 이식했습니다.</CircadianHalfCycler.description>
+  <CircadianHalfCycler.description>생체리듬 반감기를 설치했습니다.</CircadianHalfCycler.description>
   <CircadianHalfCycler.labelNoun>생체리듬 반감기</CircadianHalfCycler.labelNoun>
   
   <Coagulator.label>항출혈기</Coagulator.label>
-  <Coagulator.description>항출혈기를 이식했습니다.</Coagulator.description>
+  <Coagulator.description>항출혈기를 설치했습니다.</Coagulator.description>
   <Coagulator.labelNoun>항출혈기</Coagulator.labelNoun>
   
   <DetoxifierStomach.label>해독강화 위</DetoxifierStomach.label>
@@ -29,7 +29,7 @@
   <DetoxifierStomach.labelNoun>해독강화 위</DetoxifierStomach.labelNoun>
   
   <GastroAnalyzer.label>후각 증폭기</GastroAnalyzer.label>
-  <GastroAnalyzer.description>후각 증폭기를 이식했습니다.</GastroAnalyzer.description>
+  <GastroAnalyzer.description>후각 증폭기를 설치했습니다.</GastroAnalyzer.description>
   <GastroAnalyzer.labelNoun>후각 증폭기</GastroAnalyzer.labelNoun>
   
   <HealingEnhancer.label>재생력 증진기</HealingEnhancer.label>
@@ -37,11 +37,11 @@
   <HealingEnhancer.labelNoun>재생력 증진기</HealingEnhancer.labelNoun>
   
   <Immunoenhancer.label>면역 증진기</Immunoenhancer.label>
-  <Immunoenhancer.description>면역 증진기를 이식했습니다.</Immunoenhancer.description>
+  <Immunoenhancer.description>면역 증진기를 설치했습니다.</Immunoenhancer.description>
   <Immunoenhancer.labelNoun>면역 증진기</Immunoenhancer.labelNoun>
   
   <LearningAssistant.label>학습 보조기</LearningAssistant.label>
-  <LearningAssistant.description>학습 보조기를 이식했습니다.</LearningAssistant.description>
+  <LearningAssistant.description>학습 보조기를 설치했습니다.</LearningAssistant.description>
   <LearningAssistant.labelNoun>학습 보조기</LearningAssistant.labelNoun>
   
   <LoveEnhancer.label>애정 증진기</LoveEnhancer.label>
@@ -49,7 +49,7 @@
   <LoveEnhancer.labelNoun>애정 증진기</LoveEnhancer.labelNoun>
   
   <Neurocalculator.label>연산 보조기</Neurocalculator.label>
-  <Neurocalculator.description>연산 보조기를 이식했습니다.</Neurocalculator.description>
+  <Neurocalculator.description>연산 보조기를 설치했습니다.</Neurocalculator.description>
   <Neurocalculator.labelNoun>연산 보조기</Neurocalculator.labelNoun>
   
   <NuclearStomach.label>핵분열 위</NuclearStomach.label>

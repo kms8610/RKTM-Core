@@ -13,5 +13,5 @@
   <Gun_ChargeRifle.description>충전 발사체 돌격 소총입니다. 펄스 충전 기술은 매 투사체가 총열에서 발사되기 직전에 불안정한 에너지를 주입합니다. 이 에너지는 탄환 명중 시 발산하여 피해량을 크게 증가시킵니다.</Gun_ChargeRifle.description>
   <Gun_ChargeRifle.tools.stock.label>개머리판</Gun_ChargeRifle.tools.stock.label>
   <Gun_ChargeRifle.tools.barrel.label>총열</Gun_ChargeRifle.tools.barrel.label>
-  <Gun_ChargeRifle.verbs.Verb_Shoot.label>전자기 소총</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>차지 라이플</Gun_ChargeRifle.verbs.Verb_Shoot.label>
 </LanguageData>

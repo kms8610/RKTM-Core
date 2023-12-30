@@ -7,7 +7,7 @@
   <BabySleepingSpot.description>바닥에 아기를 둬야 하는 위치를 정합니다. 불편합니다.</BabySleepingSpot.description>
   
   <Blackboard.label>칠판</Blackboard.label>
-  <Blackboard.description>돌같은 질감의, 분필로 글을 쓰기 위한 평평한 표면입니다. 교실 책상 근처에 배치하면 수업 중 아이들의 학습 속도를 향상합니다. 한 번에 세 개의 칠판 효과를 받을 수 있습니다.</Blackboard.description>
+  <Blackboard.description>분필로 글을 쓰기 위한 돌 같은 질감의 평평한 판입니다. 교실 책상 근처에 배치하면 수업 중 아이들의 학습 속도를 향상합니다. 한 번에 세 개의 칠판 효과를 받을 수 있습니다.</Blackboard.description>
   <Blackboard.comps.CompStatEntry.reportText>수업이 진행되는 책상 근처에 배치되면 학생의 학습률을 증가시킵니다. 최대 3개의 칠판이 중첩됩니다.</Blackboard.comps.CompStatEntry.reportText>
   <Blackboard.comps.CompStatEntry.statLabel>학습 속도 보너스</Blackboard.comps.CompStatEntry.statLabel>
   

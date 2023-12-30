@@ -7,7 +7,7 @@
   <AnimalInsanityMultiple>기괴한 정신파동이 대지를 쓸고 지나갑니다. 정착민들은 괜찮았지만...\n\n{0}(은)는 모두 광란에 빠졌습니다.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>병충해: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
-  <LetterCropBlight>마름병에 걸린 {PLANTDEF_labelPlural}(을)를 발견했습니다!\n\n병이 퍼지기 전에 오염된 식물을 모두 잘라내거나 불태워야 합니다.</LetterCropBlight>
+  <LetterCropBlight>마름병에 걸린 {PLANTDEF_labelPlural}(을)를 발견했습니다!\n\n병이 퍼지기 전에 해당 작물을 모두 잘라내거나 불태워야 합니다.</LetterCropBlight>
 
   <LetterLabelMiracleHeal>기적</LetterLabelMiracleHeal>
   <MiracleHeal>{0}(이)가 기적적으로 회복했습니다!</MiracleHeal>
@@ -20,13 +20,13 @@
 
   <LetterLabelRefugeePodCrash>수송 포드 추락</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>{PAWN_titleIndef}, {PAWN_nameDef}(이)가 타고 있던 수송 포드가 근처 지면에 충돌했습니다. 살아남았더라도 심각한 부상을 입었을 것입니다.</RefugeePodCrash>
-  <RefugeePodCrash_Child>{PAWN_nameDef}(은)는 {AGE}살의 아이입니다.</RefugeePodCrash_Child>
+  <RefugeePodCrash_Child>{PAWN_nameDef}(은)는 &lt;color=#87f6f6&gt;{replace:{AGE};"년"-""}살&lt;/color&gt;의 아이입니다.</RefugeePodCrash_Child>
   <RefugeePodCrash_Factionless>{PAWN_nameDef}(은)는 어느 세력 소속도 아닙니다. 구조하면 정착지에 합류할 수도 있고 그저 떠날 수도 있습니다. 포획하여 동료로 만들거나 노예로 부릴 수 있습니다.</RefugeePodCrash_Factionless>
   <RefugeePodCrash_Hostile>{PAWN_nameDef}(은)는 적대 세력 {PAWN_factionName} 소속입니다. 포획해서 동료로 만들거나 노예로 부릴 수 있습니다.</RefugeePodCrash_Hostile>
   <RefugeePodCrash_NonHostile>{PAWN_nameDef}(은)는 {PAWN_factionName} 소속입니다. 구조하면 정착지에 합류할 수도 있고, 원래 세력에 돌아가 우호를 증진할 수도 있습니다.\n\n포획할 수도 있지만, 해당 세력과의 관계가 악화될 겁니다.</RefugeePodCrash_NonHostile>
 
   <LetterLabelWandererJoins>방랑자 합류: {PAWN_nameDef}</LetterLabelWandererJoins>
-  <LetterWandererJoins>{PAWN_nameDef}(이)라는 이름의 {PAWN_title}(이)가 도착하여 정착지에 합류하고자 합니다.\n\n[PAWN_pronoun]는 정착지에 이바지하고자 하지만, 갈 곳이 없다고 주장하고 있으므로 스스로 떠나지는 않을 것입니다. {PAWN_objective} 돌려보낼 수는 있지만, 도움이 필요한 사람을 거절해서 정착민들이 불편해할 것입니다.</LetterWandererJoins>
+  <LetterWandererJoins>{PAWN_nameDef}(이)라는 이름의 {PAWN_title}(이)가 도착하여 정착지에 합류하고자 합니다.\n\n[PAWN_pronoun]는 정착지에 이바지하고자 하며, 갈 곳이 없다고 주장하고 있으므로 스스로 떠나지는 않을 것입니다. {PAWN_objective} 돌려보낼 수는 있지만, 도움이 필요한 사람을 거절해서 정착민들이 불편해할 것입니다.</LetterWandererJoins>
 
   <LetterLabelCargoPodCrash>화물 낙하기</LetterLabelCargoPodCrash>
   <CargoPodCrash>화물 낙하기 몇 대가 근처에 추락하는걸 감지했습니다.\n\n잔해에서 유용한 물건을 찾을 수 있을지도 모릅니다.</CargoPodCrash>
@@ -56,7 +56,7 @@
   <VisitorsLeaving>{0} 방문객이 정착지를 떠납니다.</VisitorsLeaving>
 
   <LetterLabelManhunterPackArrived>식인동물 무리</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>식인 {0} 무리가 정착지에 도착했습니다. 스카리아로 알려진 질병에 걸려 정신이 나간 놈들은 지역을 돌아다니며 눈에 띄는 모든 인간을 공격할 것입니다.\n\n누군가 문을 통과하는 것을 못 봤다면 문을 공격하지 않으니, 실내에 있으면 안전합니다. 전원이 꺼진 포탑은 공격하지 않으니 전원을 꺼 포탑을 지키세요.\n\n{0}(은)는 하루나 이틀 후 지역을 떠납니다. 숨어서 기다리거나, 당당히 물리친다는 선택지도 있습니다.</ManhunterPackArrived>
+  <ManhunterPackArrived>식인 {0} 무리가 정착지에 도착했습니다. 스카리아로 알려진 질병에 걸려 정신이 나간 그 녀석들은 지역을 돌아다니며 눈에 띄는 모든 인간을 공격할 것입니다.\n\n누군가 문을 통과하는 것을 못 봤다면 문을 공격하지 않으니 실내에 있으면 안전합니다. 작동하지 않는 포탑도 공격하지 않으므로 전원을 꺼서 포탑을 지키세요.\n\n{0}(은)는 하루나 이틀 후 지역을 떠납니다. 숨어서 기다리거나, 당당히 물리친다는 선택지도 있습니다.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <MessageAnimalInsanityPulse>{SOURCE_label}(이)가 정신파동을 방출해 주변 동물들을 날뛰게 만들었습니다.</MessageAnimalInsanityPulse>
@@ -88,7 +88,7 @@
   
   <!-- Thrumbo passes -->
   <LetterLabelThrumboPasses>희귀 트럼보</LetterLabelThrumboPasses>
-  <LetterThrumboPasses>작은 무리의 트럼보가 이 지역으로 들어왔습니다.\n\n트럼보들은 희귀한 동물들로, 천성은 순하나 맞설 경우 매우 위험합니다. 일부 상인은 트럼보의 뿔과 가죽을 매우 높게 쳐줄 것입니다.\n\n트럼보들은 며칠 안에 떠날 것입니다.</LetterThrumboPasses>
+  <LetterThrumboPasses>작은 무리의 트럼보들이 다가옵니다.\n\n트럼보는 희귀한 동물로, 천성은 순하나 맞설 경우 매우 위험합니다. 트럼보의 뿔과 가죽은 상인들 사이에서 아주 귀중한 재료로 여겨집니다.\n\n트럼보들은 며칠 머무른 뒤 이곳을 떠날 것입니다.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <LetterLabelTraderCaravanArrival>{0}에서 온 {1}</LetterLabelTraderCaravanArrival>

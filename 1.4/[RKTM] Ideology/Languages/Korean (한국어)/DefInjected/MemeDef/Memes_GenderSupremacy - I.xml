@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FemaleSupremacy.label>여성우월</FemaleSupremacy.label>
+  <FemaleSupremacy.label>여성 우월</FemaleSupremacy.label>
   <FemaleSupremacy.description>여성은 우월하며 그렇기에 통치해야 한다.</FemaleSupremacy.description>
   <FemaleSupremacy.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_FemaleSupremacy)       ->[deity0_name]께서 여자에게 지혜를 주었으니 쉽게 흥분하는 남자와 아이들을 인도하기 위함이라 이를 어긴 자들을 꾸짖으시더라.</li>
@@ -45,8 +45,8 @@
   <FemaleSupremacy.symbolPacks.3.member>풍요주의자</FemaleSupremacy.symbolPacks.3.member>
   <FemaleSupremacy.symbolPacks.3.theme>풍요</FemaleSupremacy.symbolPacks.3.theme>
   
-  <MaleSupremacy.label>남성우월</MaleSupremacy.label>
-  <MaleSupremacy.description>남성은 우월한 성별이며 그렇기에 통치하여야 한다.</MaleSupremacy.description>
+  <MaleSupremacy.label>남성 우월</MaleSupremacy.label>
+  <MaleSupremacy.description>남성은 우월하며 그렇기에 통치해야 한다.</MaleSupremacy.description>
   <MaleSupremacy.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_MaleSupremacy)        ->[deity0_name]께서 남자에게 힘을 주었으니 약한 여성과 아이들의 보호를 위함이라 보호하지 않는 자들을 꾸짖으시니라.</li>
     <li>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name]께서 이르시되 남자의 힘은 오직 여자와 아이들을 보호하기 위함이니 여자가 남자의 힘을 빼앗지 못하리라 하시니라.</li>
@@ -57,7 +57,7 @@
     <li>lessonReinforcement(tag=meme_MaleSupremacy) ->내 아내는 이걸로도 논쟁을 하려 했다. 믿을 수 있나? 입 닥치게 하는 건 그렇게 어렵지 않았지만.</li>
     <li>archistBasis(tag=meme_MaleSupremacy)    ->초월공학을 낳은 것은 인류이지만, 아들의 힘이 아버지의 것을 뛰어넘었다.</li>
     <li>archistFact(tag=meme_MaleSupremacy)     ->초월공학은 마치 아버지처럼 인류를 보호하지만, 인류는 아직 그것을 이해하지 못한다.</li>
-    <li>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd] 초월공학이 남성의 힘을 해금할 것이니, 남자가 인류를 초월로 이끄리라.</li>
+    <li>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd] 초월공학이 마침내 남성의 힘을 해금할 것이니, 남자가 인류를 초월로 이끄리라.</li>
     <li>animistFact(tag=meme_MaleSupremacy)     ->그중에서도 가장 강력한 혼령은 남자의 정령이다. 남자가 지배하지 않으면 그 혼령이 날뛰게 된다.</li>
     <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid] 강력한 혼령이 우주를 파괴하고자 할 때 [relic0_name]의 혼령을 쥔 한 명의 남자가 파괴자를 파괴하리라.</li>
   </MaleSupremacy.descriptionMaker.rules.rulesStrings>

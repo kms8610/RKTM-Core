@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NotAMechanitor>기계공학자 아님</NotAMechanitor>
+  <NotAMechanitor>메카나이터 아님</NotAMechanitor>
   <NotEnoughBandwidth>대역폭 부족</NotEnoughBandwidth>
   <ControlMech>{0} 제어</ControlMech>
   <CannotControlMech>{0} 제어 불가</CannotControlMech>
-  <CannotControlMechAlreadyControlled>이미 {0}(이)가 제어</CannotControlMechAlreadyControlled>
+  <CannotControlMechAlreadyControlled>이미 {0}(이)가 제어 중</CannotControlMechAlreadyControlled>
   <CannotControlMechNotEnoughBandwidth>대역폭 부족</CannotControlMechNotEnoughBandwidth>
   <CannotControlMechNeverControllable>절대 통제 불가능</CannotControlMechNeverControllable>
   <CannotDisconnectMech>{0} 연결 해제 불가능</CannotDisconnectMech>
@@ -46,7 +46,7 @@
   <SubcoreScannerNotInit>스캐너가 초기화되지 않음</SubcoreScannerNotInit>
   <SubcoreScannerRequiresIngredients>재료 대기 중</SubcoreScannerRequiresIngredients>
   <SubcoreScannerOccupied>가득 참</SubcoreScannerOccupied>
-  <EnterSubcoreScanner>{0} 진입</EnterSubcoreScanner>
+  <EnterSubcoreScanner>{0} 탑승</EnterSubcoreScanner>
 
   <BabyCareBreastfeed>{BABY_labelShort}에게 모유 수유</BabyCareBreastfeed>
   <BabyCareBreastfeedUnable>{BABY_labelShort}에게 모유 수유 불가</BabyCareBreastfeedUnable>
@@ -69,7 +69,9 @@
   <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort}(은)는 {BABY_labelShort}에서 {MOM_labelShort}(으)로 이동할 수 없습니다.</BreastfeedFailReason_HaulerCannotReachMom>
   <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort}(은)는 {BABY_labelShort}에게 도달할 수 없습니다.</BreastfeedFailReason_HaulerCannotReachBaby>
   <BreastfeedFailReason_NoMomsAssignedToBaby>수유 중인 {BABY_factionPawnsPlural}(이)가 {BABY_labelShort}에 할당되지 않았습니다.</BreastfeedFailReason_NoMomsAssignedToBaby>
-  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort}(은)는 보육에 할당되지 않았습니다.</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort}(은)는 육아에 할당되지 않았습니다.</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort}(은)는 수용되어 있음</BreastfeedFailReason_MomInsideContainer> <!-- text_todo -->
+  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort}(은)는 이송되고 있음</BreastfeedFailReason_MomBeingCarried> <!-- text_todo -->
 
   <OrderImplantationIntoPawn>{PAWN_nameDef}에 이식 명령</OrderImplantationIntoPawn>
   <AcceptXenogerm>{0_xenotype} 변형이식체 수용</AcceptXenogerm>
@@ -82,10 +84,12 @@
   <AlreadyStudied>이미 연구함</AlreadyStudied>
   <NoResearchBench>도달 가능하고 사용 중이지 않은 연구 작업대 없음</NoResearchBench>
 
-  <NotAllowedHemogen>식량 정책으로 인해 혈액팩이 금지되었습니다.</NotAllowedHemogen>
+  <NotAllowedHemogen>식량 정책으로 혈액팩이 금지되었습니다.</NotAllowedHemogen>
 
   <EjectGenepackFromGeneBank>유전자 저장고에서 유전자묶음 꺼내기</EjectGenepackFromGeneBank>
 
   <ResultingMetTooLow>결과의 대사 효율이 너무 낮음</ResultingMetTooLow>
+
+  <RomanceOnCooldown>너무 최근에 로맨스를 시도함</RomanceOnCooldown><!-- text_todo -->
 
 </LanguageData>

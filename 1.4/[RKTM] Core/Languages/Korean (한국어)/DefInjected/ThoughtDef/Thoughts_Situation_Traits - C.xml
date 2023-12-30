@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Ascetic.stages.ascetic_has_awful_bedroom.label>끔찍한 침실 (검소)</Ascetic.stages.ascetic_has_awful_bedroom.label>
-  <Ascetic.stages.ascetic_has_awful_bedroom.description>내가 딱 원하는 정도의 방이야. 간단하고, 겸손하고.</Ascetic.stages.ascetic_has_awful_bedroom.description>
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>내가 딱 원하는 정도의 방이야. 정말 겸손하고 단순해.</Ascetic.stages.ascetic_has_awful_bedroom.description>
   <Ascetic.stages.ascetic_has_dull_bedroom.label>형편없는 침실 (검소)</Ascetic.stages.ascetic_has_dull_bedroom.label>
-  <Ascetic.stages.ascetic_has_dull_bedroom.description>내가 딱 원하는 정도의 방이야. 간단하고, 겸손하고.</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <Ascetic.stages.ascetic_has_dull_bedroom.description>내가 딱 원하는 정도의 방이야. 정말 겸손하고 단순해.</Ascetic.stages.ascetic_has_dull_bedroom.description>
   <Ascetic.stages.ascetic_has_mediocre_bedroom.label>썰렁한 침실 (검소)</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
   <Ascetic.stages.ascetic_has_mediocre_bedroom.description>방이 검소한게 내 취향에 맞네.</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
   <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>인상적인 침실 (검소)</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
@@ -47,9 +47,9 @@
   <MasochistPain.stages.masochist_in_minor_pain.label>가벼운 고통 (피학적)</MasochistPain.stages.masochist_in_minor_pain.label>
   <MasochistPain.stages.masochist_in_minor_pain.description>아야... 헤헤헤... 익숙해질 수도 있겠어!</MasochistPain.stages.masochist_in_minor_pain.description>
   <MasochistPain.stages.masochist_in_serious_pain.label>심각한 고통 (피학적)</MasochistPain.stages.masochist_in_serious_pain.label>
-  <MasochistPain.stages.masochist_in_serious_pain.description>아파... 그렇지만 좋아! 계속 해!</MasochistPain.stages.masochist_in_serious_pain.description>
+  <MasochistPain.stages.masochist_in_serious_pain.description>아파... 그렇지만 좋아! 계속해!</MasochistPain.stages.masochist_in_serious_pain.description>
   <MasochistPain.stages.masochist_in_intense_pain.label>극심한 고통 (피학적)</MasochistPain.stages.masochist_in_intense_pain.label>
-  <MasochistPain.stages.masochist_in_intense_pain.description>아윽... 부러지는 소리를 들은 것 같은데... 이 얼마나 강렬한 경험이람!</MasochistPain.stages.masochist_in_intense_pain.description>
+  <MasochistPain.stages.masochist_in_intense_pain.description>아윽... 뭔가 부러지는 소리를 들은 것 같은데... 하지만 정말로 짜릿한 느낌이야!</MasochistPain.stages.masochist_in_intense_pain.description>
   <MasochistPain.stages.masochist_in_mindshattering_pain.label>정신이 찢어지는 고통 (피학적)</MasochistPain.stages.masochist_in_mindshattering_pain.label>
   <MasochistPain.stages.masochist_in_mindshattering_pain.description>아아아아... 여기가 천국인가?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
   
@@ -60,15 +60,15 @@
   <NightOwlDuringTheNight.stages.night_owl_at_night.description>역시 밤이 훨씬 편해.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
   
   <ProsthophileHappy.stages.body_modder_pleased.label>신체 개조 됨</ProsthophileHappy.stages.body_modder_pleased.label>
-  <ProsthophileHappy.stages.body_modder_pleased.description>이 인공 강화품은 정말 멋져. 난 좀 더 원해.</ProsthophileHappy.stages.body_modder_pleased.description>
+  <ProsthophileHappy.stages.body_modder_pleased.description>이 인공 강화물은 정말 멋져. 난 좀 더 원해.</ProsthophileHappy.stages.body_modder_pleased.description>
   <ProsthophileHappy.stages.body_modder_quite_pleased.label>기뻐하는 개조주의자</ProsthophileHappy.stages.body_modder_quite_pleased.label>
-  <ProsthophileHappy.stages.body_modder_quite_pleased.description>인공 강화품 두 개가 한 개보다는 낫지. 난 좀 더 원해.</ProsthophileHappy.stages.body_modder_quite_pleased.description>
+  <ProsthophileHappy.stages.body_modder_quite_pleased.description>인공 강화물 두 개가 한 개보다는 낫지. 난 좀 더 원해.</ProsthophileHappy.stages.body_modder_quite_pleased.description>
   <ProsthophileHappy.stages.body_modder_delighted.label>행복한 개조주의자</ProsthophileHappy.stages.body_modder_delighted.label>
-  <ProsthophileHappy.stages.body_modder_delighted.description>인공 강화품이 3개야, 나약한 인간의 몸이 사라지고 있어. 하지만 난 여전히 더 많은 기계 능력을 원해.</ProsthophileHappy.stages.body_modder_delighted.description>
+  <ProsthophileHappy.stages.body_modder_delighted.description>인공 강화물이 3개야, 나약한 인간의 몸이 사라지고 있어. 하지만 난 여전히 더 많은 기계 능력을 원해.</ProsthophileHappy.stages.body_modder_delighted.description>
   <ProsthophileHappy.stages.body_modder_enchanted.label>개조 중독자</ProsthophileHappy.stages.body_modder_enchanted.label>
-  <ProsthophileHappy.stages.body_modder_enchanted.description>4개의 인공 강화품과 함께 난 인간을 초월하고 있지. 하지만 아직 교체해야 할 살이 남아있어.</ProsthophileHappy.stages.body_modder_enchanted.description>
+  <ProsthophileHappy.stages.body_modder_enchanted.description>4개의 인공 강화물과 함께 난 인간을 초월하고 있지. 하지만 아직 교체해야 할 살이 남아있어.</ProsthophileHappy.stages.body_modder_enchanted.description>
   <ProsthophileHappy.stages.body_modder_overjoyed.label>신체 초월</ProsthophileHappy.stages.body_modder_overjoyed.label>
-  <ProsthophileHappy.stages.body_modder_overjoyed.description>5개의 인공 강화품이야! 나처럼 대단한 존재가 어떻게 슬플 수가 있겠어?</ProsthophileHappy.stages.body_modder_overjoyed.description>
+  <ProsthophileHappy.stages.body_modder_overjoyed.description>인공 강화물이 5개야! 나처럼 대단한 존재가 어떻게 슬플 수가 있겠어?</ProsthophileHappy.stages.body_modder_overjoyed.description>
   <ProsthophileHappy.stages.machine_body_is_complete.label>승천</ProsthophileHappy.stages.machine_body_is_complete.label>
   <ProsthophileHappy.stages.machine_body_is_complete.description>이걸 원했지.</ProsthophileHappy.stages.machine_body_is_complete.description>
   
@@ -78,13 +78,13 @@
   <ProsthophobeUnhappy.stages.body_purist_squeamish.label>인공신체를 가진 순수주의자</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
   <ProsthophobeUnhappy.stages.body_purist_squeamish.description>난 이 부자연스러운 강화를 싫어해. 기분이 더러워!</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
   <ProsthophobeUnhappy.stages.body_purist_disgusted.label>역겨워하는 순수주의자</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
-  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>2개의 인공 강화품이 자연스럽고 순수한 내 몸을 더럽히고 있어. 생각만 해도 마음이 아파.</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>2개의 인공 강화물이 자연스럽고 순수한 내 몸을 더럽히고 있어. 생각만 해도 마음이 아파.</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
   <ProsthophobeUnhappy.stages.body_purist_violated.label>실의에 빠진 순수주의자</ProsthophobeUnhappy.stages.body_purist_violated.label>
-  <ProsthophobeUnhappy.stages.body_purist_violated.description>3개의 인공 강화품이 내 순수한 육체를 침범하고 있어. 난 그것만 생각하면 몸서리치게 돼... 그리고 이 장치들도 나처럼 몸서리쳐.</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>3개의 인공 강화물이 내 순수한 육체를 침범하고 있어. 그것만 생각하면 난 몸서리치게 돼... 그리고 이 장치들도 나처럼 몸서리쳐.</ProsthophobeUnhappy.stages.body_purist_violated.description>
   <ProsthophobeUnhappy.stages.body_purist_horrified.label>공포에 질린 순수주의자</ProsthophobeUnhappy.stages.body_purist_horrified.label>
-  <ProsthophobeUnhappy.stages.body_purist_horrified.description>난 4개의 인공 강화품을 갖고 있어. 마치 로봇이 되어가는 것 같아. 이 얼마나 무서운 감각인가.</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>난 4개의 인공 강화물을 갖고 있어. 마치 로봇이 되어가는 것 같아. 이 얼마나 무서운 감각인가.</ProsthophobeUnhappy.stages.body_purist_horrified.description>
   <ProsthophobeUnhappy.stages.body_purist_nightmare.label>정체성을 상실한 순수주의자</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
-  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>5개의 인공 강화품이야... 나한테 남은 게 있나? 아니면 난 그냥 인간이라고 생각하는 로봇일까?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>인공 강화물이 5개야... 나한테 남은 게 있나? 아니면 난 그냥 인간이라고 생각하는 로봇일까?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
   <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>로봇화된 순수주의자</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
   <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>이런 결말은 바라지 않았어.</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
   

@@ -5,9 +5,9 @@
   <LetterLabelMechsFeral>메카노이드 제어 불가</LetterLabelMechsFeral>
   <LetterMechsFeral>통제관 없이 배회하던 일부 메카노이드가 이 행성에 존재하는 고대의 메카노이드 제어 신호와 연결됐습니다. 이 메카노이드들은 {0}에 합류해서 적대적으로 변했고, 지역 밖으로 나가기 위해 싸움도 마다하지 않을 것입니다.\n\n제어 불가 메카노이드는 파괴돼도 배양기에서 소생할 수 없습니다.\n\n제어 불가 메카노이드들은 다음과 같습니다.\n\n{1}</LetterMechsFeral>
   <LetterLabelMechlinkInstalled>메크링크 설치됨</LetterLabelMechlinkInstalled>
-  <LetterMechlinkInstalled>{PAWN_labelShort}(이)가 메크링크를 설치했습니다! {PAWN_pronoun}는 이제 메카나이터가 됐으며 메카노이드를 생산하고 제어할 수 있습니다.\n\n기본 메카노이드 기술을 연구해서 시작하세요.\n\n(*SectionTitle)메카노이스 생산:(/SectionTitle) 메카나이터는 메카노이드 배양기라고 불리는 생산 건물에서 메카노이드를 만들 수 있습니다.\n\n(*SectionTitle)대역폭에 대해:(/SectionTitle) 메카나이터가 제어할 수 있는 최대 메카노이드 수는 자신의 제어 대역폭이 결정합니다. {PAWN_labelShort}(을)를 선택 후 화면 아래 '대역폭'에서 사용 가능한 대역폭을 확인할 수 있습니다. 특정 의류를 입거나 대역 증폭기를 건설해서 대역폭을 확장할 수 있습니다.\n\n(*SectionTitle)제어 그룹에 대해:(/SectionTitle) 메카나이터는 메카노이드를 그룹 단위로 제어합니다. 각각의 제어 그룹에는 다음 세 모드를 명령할 수 있습니다.\n\n- 작업\n- 호위\n- 충전\n- 자가충전 휴면상태\n\n각 모드의 자세한 행동은 {PAWN_labelShort}의 제어 그룹 위쪽 모드 아이콘을 클릭한 후 선택지 위에 커서를 올려두면 알 수 있습니다. 최대 제어 그룹 수는 특정 의류와 이식물로 높일 수 있습니다.\n\n(*SectionTitle)위협 호출에 대해:(/SectionTitle) 메카나이터는 고대의 메카노이드 지휘관을 호출 후 공격해서 희귀한 물품을 획득할 수 있습니다. 메카나이터의 한계를 뛰어넘으려면 반드시 필요하지만, 위험에 대비하세요.</LetterMechlinkInstalled>
+  <LetterMechlinkInstalled>{PAWN_labelShort}(이)가 메크링크를 설치했습니다! {PAWN_pronoun}는 이제 메카나이터가 됐으며 메카노이드를 생산하고 제어할 수 있습니다.\n\n기본 메카노이드 기술을 연구해서 시작하세요.\n\n(*SectionTitle)메카노이드 생산:(/SectionTitle) 메카나이터는 메카노이드 배양기라고 불리는 생산 건물에서 메카노이드를 만들 수 있습니다.\n\n(*SectionTitle)대역폭에 대해:(/SectionTitle) 메카나이터가 제어할 수 있는 최대 메카노이드 수는 자신의 제어 대역폭이 결정합니다. {PAWN_labelShort}(을)를 선택 후 화면 아래 '대역폭'에서 사용 가능한 대역폭을 확인할 수 있습니다. 특정 의류를 입거나 대역 증폭기를 건설해서 대역폭을 확장할 수 있습니다.\n\n(*SectionTitle)제어 그룹에 대해:(/SectionTitle) 메카나이터는 메카노이드를 그룹 단위로 제어합니다. 각각의 제어 그룹은 다음 모드 중 하나로 설정할 수 있습니다.\n\n- 작업\n- 호위\n- 재충전\n- 자가충전 휴면상태\n\n각 모드의 자세한 행동은 {PAWN_labelShort}의 제어 그룹 위쪽 모드 아이콘을 클릭한 후 선택지 위에 커서를 올려두면 알 수 있습니다. 최대 제어 그룹 수는 특정 의류와 삽입물로 높일 수 있습니다.\n\n(*SectionTitle)위협 호출에 대해:(/SectionTitle) 메카나이터는 고대의 메카노이드 지휘관을 호출 후 공격해서 희귀한 물품을 획득할 수 있습니다. 메카나이터의 한계를 뛰어넘으려면 반드시 필요하므로 위험에 대비하세요.</LetterMechlinkInstalled>
 
-  <MentalStateReason_Gene>이는 다음으로 인해 발생했습니다.</MentalStateReason_Gene>
+  <MentalStateReason_Gene>이는 다음 때문에 발생했습니다.</MentalStateReason_Gene>
 
   <LetterLabelBossgroupSummoned>{0} 호출됨</LetterLabelBossgroupSummoned>
   <LetterBossgroupSummoned>당신이 송신한 메카노이드 대역 신호에 이끌린 {0}의 초대형 메카노이드가 곧 도착합니다. 준비하세요.</LetterBossgroupSummoned>
@@ -16,26 +16,26 @@
   <LetterBossgroupArrived>{0}의 초대형 메카노이드가 당신을 멸하기 위해 호위와 함께 찾아왔습니다.\n\n{1}\n\n공격 그룹은 다음 {3}(으)로 구성됩니다.\n\n{4}\n\n이들은 잠시 준비한 후 공격할 것입니다.</LetterBossgroupArrived>
 
   <LetterLabelCommsConsoleSpawned>{LEADER_label} 호출 가능</LetterLabelCommsConsoleSpawned>
-  <LetterCommsConsoleSpawned>기계공학자는 {PARENT_label}(을)를 사용하여 위험하고 적대적인 {LEADER_label} 메카노이드를 호출할 수 있습니다. 준비하세요. {LEADER_label} 메카노이드는 매우 강력합니다.\n\n{LEADER_label}(을)를 물리치면 다음 물품을 떨어뜨립니다.\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
+  <LetterCommsConsoleSpawned>메카나이터는 {PARENT_label}(을)를 사용하여 위험하고 적대적인 {LEADER_label} 메카노이드를 호출할 수 있습니다. 준비하세요. {LEADER_label} 메카노이드는 매우 강력합니다.\n\n{LEADER_label}(을)를 물리치면 다음 물품을 떨어뜨립니다:\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
 
   <LetterLabelBossgroupCallerUnlocked>{LEADER_label} 호출 가능</LetterLabelBossgroupCallerUnlocked>
-  <LetterBossgroupCallerUnlocked>이제 기계공학자가 사용하여 {LEADER_label}(을)를 소환할 수 있는 {PARENT_label}(을)를 건축할 수 있습니다. {LEADER_label}(을)를 쓰러트리면 다음 물품을 떨어트립니다:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
+  <LetterBossgroupCallerUnlocked>이제 메카나이터가 {LEADER_label}(을)를 호출할 수 있는 {PARENT_label}(을)를 건설할 수 있습니다. {LEADER_label}(을)를 물리치면 다음 물품을 떨어트립니다:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
 
-  <LetterLabelMechanitorCasketOpened>{0_nameDef}의 메카링크 사용가능</LetterLabelMechanitorCasketOpened>
-  <LetterMechanitorCasketOpened>당신은 고대 기계공학자의 시체를 찾았습니다!\n\n정착민을 선택한뒤 {0_possessive} 시체를 우클릭하여 메카링크를 추출할 수  있습니다.</LetterMechanitorCasketOpened>
-  <LetterLabelMechanitorCasketFound>기계공학자 동면관 발견</LetterLabelMechanitorCasketFound>
-  <LetterMechanitorCasketFound>기계공학자의 동면관을 발견했습니다.\n\n열어서 내부를 확인하세요.</LetterMechanitorCasketFound>
+  <LetterLabelMechanitorCasketOpened>{0_nameDef}의 메크링크 사용 가능</LetterLabelMechanitorCasketOpened>
+  <LetterMechanitorCasketOpened>고대 메카나이터의 시체를 찾았습니다!\n\n정착민을 선택한 후 메카나이터의 시체에 오른쪽 클릭을 해서 메크링크를 추출하세요.</LetterMechanitorCasketOpened>
+  <LetterLabelMechanitorCasketFound>메카나이터 동면관 발견</LetterLabelMechanitorCasketFound>
+  <LetterMechanitorCasketFound>메카나이터의 동면관을 발견했습니다!\n\n개방해서 내부를 확인하세요.</LetterMechanitorCasketFound>
   
   <!-- Pawns lost because map closed (including mechs) -->
-  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>상단을 잃었습니다. 잃어버린 정착민들과 동물, 그리고 메카노이드들</LetterPawnsLostIncMechsBecauseMapClosed_Caravan><!-- text_todo -->
-  <LetterPawnsLostIncMechsBecauseMapClosed_Home>다음 정착민, 동물들, 그리고 메카노이드들이 버려졌습니다.</LetterPawnsLostIncMechsBecauseMapClosed_Home><!-- text_todo -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>상단을 잃었습니다. 다음 사람, 동물 및 메카노이드를 함께 잃어버렸습니다.</LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
+  <LetterPawnsLostIncMechsBecauseMapClosed_Home>다음 사람, 동물 및 메카노이드가 버려졌습니다.</LetterPawnsLostIncMechsBecauseMapClosed_Home>
   
 
   <!-- Children -->
-  <LetterLabelBecameChild>{0_nameDef} 어린이가 됨.</LetterLabelBecameChild>
-  <LetterLabelBecameAdult>{0_nameDef} 성인이 됨</LetterLabelBecameAdult>
+  <LetterLabelBecameChild>{0_nameDef}(이)가 어린이로 자라남</LetterLabelBecameChild>
+  <LetterLabelBecameAdult>{0_nameDef}(이)가 성인으로 자라남</LetterLabelBecameAdult>
   <LetterBecameChild>아기였던 {0_nameDef}(이)가 자라나서 어린이가 되었습니다! {0_pronoun}는 이제 다음 작업을 할수 있게 되었습니다</LetterBecameChild>
-  <LetterBecameChildChanges>어린이들은 여러 작업을 할 수 있습니다. 나이가 들어갈수록 더 많은 작업을 할 수 있게됩니다.\n\n또한 어린이들은 어린이 전용 유흥활동을 할 수 있습니다.\n\n어린이들은 어린이 크기의 옷을 입어야 합니다.</LetterBecameChildChanges>
+  <LetterBecameChildChanges>어린이들은 여러 작업을 할 수 있습니다. 나이가 들수록 더 많은 작업을 할 수 있게 됩니다.\n\n또한 어린이 전용 놀이 활동을 할 수 있습니다.\n\n어린이들은 아동용 옷을 입어야 합니다.</LetterBecameChildChanges>
   <LetterChildLegalStatus>전통적으로 {0_parentage}인 {0_nameDef}(은)는 {0_legalStatus}입니다만, 예외도 있을 수 있습니다... {0_nameDef}(을)를 {0_legalStatus}(으)로 유지할까요?</LetterChildLegalStatus>
   <LetterChildFollowIdeo>{0_labelShort}(은)는 {1_name} 사상을 따르기로 결정했습니다.</LetterChildFollowIdeo>
   <CannotChangeChildStatusReason>{0_nameDef}의 노예 상태는 이미 {0_possessive} 생일 이후 변경됐습니다.</CannotChangeChildStatusReason>
@@ -43,20 +43,20 @@
   <Emancipate>해방</Emancipate>
   <RemainX>{0}(으)로 유지</RemainX>
   <LetterLabelAdopted>{BABY_nameDef} 입양함</LetterLabelAdopted>
-  <LetterTextAdopted>아기 {BABY_nameDef}(이)가 당신의 정착지에 입양되었습니다. 정착민에게 보육 작업을 할당해 {BABY_objective} 챙겨줄 수 있습니다.</LetterTextAdopted>
+  <LetterTextAdopted>아기 {BABY_nameDef}(이)가 당신의 정착지에 입양되었습니다. 정착민을 육아 작업에 할당해 {BABY_objective} 챙겨줄 수 있습니다.</LetterTextAdopted>
 
   <LetterLabelThirdTrimester>{0_nameDef}의 아기 준비</LetterLabelThirdTrimester>
-  <LetterTextThirdTrimester>{0_nameDef}(이)가 6일 이내에 출산할 예정입니다. 다음과 같은 방법으로 태어날 때를 준비할 수 있습니다.\n\n- 깨끗한 바닥과 좋은 침대가 있는 분만실을 만드세요.\n- 숙련된 의사를 준비하세요.\n- 작업 탭에서 적어도 한 사람을 보육에 지정하세요.\n - 아기를 위한 음식을 준비하세요. {0_nameDef}(이)가 아기에게 모유 수유를 하거나 이유식, 우유 또는 곤충 젤리를 먹일 수 있습니다.\n- 유아용 침대를 만드세요. 고품질 유아용 침대는 아기를 행복하게 합니다.\n\n스토브나 모닥불에서 이유식을 만들 수 있습니다.</LetterTextThirdTrimester>
+  <LetterTextThirdTrimester>{0_nameDef}(이)가 6일 이내에 출산할 예정입니다. 다음과 같은 방법으로 태어날 때를 준비할 수 있습니다.\n\n- 깨끗한 바닥과 좋은 침대가 있는 분만실을 만드세요.\n- 숙련된 의사를 준비하세요.\n- 작업 탭에서 적어도 한 사람을 육아에 할당하세요.\n- 아기를 위한 음식을 준비하세요. {0_nameDef}(이)가 아기에게 모유 수유를 하거나 이유식, 우유 또는 곤충 젤리를 먹일 수 있습니다.\n- 아기 침대를 만드세요. 고품질 아기 침대는 아기를 행복하게 합니다.\n\n스토브나 모닥불에서 이유식을 만들 수 있습니다.</LetterTextThirdTrimester>
 
-  <LetterVatBirth>{0}(이)가 성장촉진기에서 태어남</LetterVatBirth>
-  <LetterVatHealthyBaby>{0_nameDef}(와)과 {1_nameDef}의 배아가 성장촉진기 안에서 성장을 마치고 건강한 아기가 되었습니다!</LetterVatHealthyBaby>
-  <LetterVatHealthyBabyNoParents>배아가 성장촉진기에서 성장을 마치고 건강한 아기가 되었습니다!</LetterVatHealthyBabyNoParents>
-  <LetterVatInfantIllness>{0_nameDef}(와)과 {1_nameDef}의 배아가 성장촉진기 안에서 성장을 마치고 아기가 되었습니다. 아쉽게도 건강한 아기가 아닙니다.</LetterVatInfantIllness>
-  <LetterVatInfantIllnessNoParents>배아가 성장촉진기 안에서 성장을 마치고 아기가 되었습니다. 아쉽게도 건강한 아기가 아닙니다.</LetterVatInfantIllnessNoParents>
-  <LetterVatStillborn>성장촉진기에서 성장하던 {0_nameDef}(와)과 {1_nameDef}의 아기가 사산되었습니다.</LetterVatStillborn>
-  <LetterVatSillbornNoParents>성장촉진기에서 자라던 아기가 사산되었습니다.</LetterVatSillbornNoParents>
-  <LetterColonistPregnancyLaborLabel>{0_labelShort}(이)가 분만중!</LetterColonistPregnancyLaborLabel>
-  <LetterColonistPregnancyLabor>{0_labelShort}(이)가 아이를 낳으려 하고 있습니다! 아이를 낳기 전 몇시간동안 진통이 있을것입니다. 분만에는 여러 단계의 어려움과 위험이 있습니다.\n\n성공적인 출산의 확률을 높이기 위해 의사를 포함한 다른 사람들을 불러 그녀를 도울 수 있습니다. {0_labelShort}(을)를 선택한뒤, 출산을 위해 모임 을 선택하여 모을 수 있습니다.</LetterColonistPregnancyLabor>
+  <LetterVatBirth>{0} 성장 배양기에서 태어남</LetterVatBirth>
+  <LetterVatHealthyBaby>{0_nameDef}(와)과 {1_nameDef}의 배아가 성장 배양기 안에서 성장을 마치고 건강한 아기가 되었습니다!</LetterVatHealthyBaby>
+  <LetterVatHealthyBabyNoParents>배아가 성장 배양기에서 성장을 마치고 건강한 아기가 되었습니다!</LetterVatHealthyBabyNoParents>
+  <LetterVatInfantIllness>{0_nameDef}(와)과 {1_nameDef}의 배아가 성장 배양기 안에서 성장을 마치고 아기가 되었습니다. 아쉽게도 건강한 아기가 아닙니다.</LetterVatInfantIllness>
+  <LetterVatInfantIllnessNoParents>배아가 성장 배양기 안에서 성장을 마치고 아기가 되었습니다. 아쉽게도 건강한 아기가 아닙니다.</LetterVatInfantIllnessNoParents>
+  <LetterVatStillborn>성장 배양기에서 성장하던 {0_nameDef}(와)과 {1_nameDef}의 아기가 사산되었습니다.</LetterVatStillborn>
+  <LetterVatSillbornNoParents>성장 배양기에서 자라던 아기가 사산되었습니다.</LetterVatSillbornNoParents>
+  <LetterColonistPregnancyLaborLabel>{0_labelShort}(이)가 분만 중!</LetterColonistPregnancyLaborLabel>
+  <LetterColonistPregnancyLabor>{0_labelShort}(이)가 아이를 낳으려 하고 있습니다! 아이를 낳기 전 몇 시간 동안 진통이 있을 것입니다. 분만에는 여러 단계의 어려움과 위험이 있습니다.\n\n성공적인 출산의 확률을 높이기 위해 의사를 포함한 다른 사람들을 불러 그녀를 도울 수 있습니다. {0_labelShort}(을)를 선택한 뒤, 모임을 눌러 출산을 돕기 위해 정착민을 모을 수 있습니다.</LetterColonistPregnancyLabor>
   <LetterPartColonistDiedAfterChildbirth>{0_labelShort}(은)는 출산 휴우증으로 사망했습니다.</LetterPartColonistDiedAfterChildbirth>
   <LetterPartSurrogacy>아기는 체외 수정으로 만들어졌으며 {0_labelShort} 및 {1_labelShort} 유전자 구성을 가지고 있습니다.</LetterPartSurrogacy>
   <InbredBabyBorn>아기가 근친 교배로 인한 유전적 기형의 징후를 보입니다.</InbredBabyBorn>
@@ -64,9 +64,11 @@
   <BabyAlreadyNamed>{0_nameDef}(은)는 이미 이름이 있습니다.</BabyAlreadyNamed>
   <NameBaby>아기 이름짓기</NameBaby>
   <Immediately>즉시</Immediately>
-  <Within>이내</Within>
-  <LetterPartNameBaby>아기의 이름을 임시로 {0_nameFull}(으)로 지어줬습니다. 출생 후 {1} 이내로 변경할 수 있습니다.</LetterPartNameBaby>
-  <LetterPartNameBabyAdopt>아기의 이름을 임시로 {0_nameFull}(으)로 지어줬습니다. {1} 전까지 변경할 수 있습니다.</LetterPartNameBabyAdopt> 
+  <Within>한 번만</Within>
+  <LetterPartTempBabyName>아기의 임시 이름은 {0_nameFull}입니다.</LetterPartTempBabyName>
+  <LetterPartLiveBirthNameDeadline>출생 후 {0} 이내로 변경할 수 있습니다.</LetterPartLiveBirthNameDeadline>
+  <LetterPartStillbirthNameDeadline>아기에게 다른 이름을 지어 주시겠습니까?</LetterPartStillbirthNameDeadline>
+  <LetterPartNameBabyAdopt>아기의 이름을 임시로 {0_nameFull}(으)로 지어줬습니다. {1} 이내로 변경할 수 있습니다.</LetterPartNameBabyAdopt>
 
   <BirthdayGrowthMoment>{PAWNNAME}의 성장 순간</BirthdayGrowthMoment>
   <BirthdayBiologicalGrowthMoment>{0_nameFull}의 생물학적 나이가 {1}(이)가 되었고 특별한 성장의 순간을 경험했습니다.</BirthdayBiologicalGrowthMoment>
@@ -79,7 +81,9 @@
 
   <BirthdayPassionArchive>{0}에 대한 열정이 증가했습니다.</BirthdayPassionArchive>
   <BirthdayTraitArchive>{0} 특성을 얻었습니다.</BirthdayTraitArchive>
-  
+  <BirthdayNoTraitChoice>특성 없음</BirthdayNoTraitChoice>
+  <BirthdayNoTraitChoiceTooltip>{0}(은)는 특성을 얻지 못했습니다.</BirthdayNoTraitChoiceTooltip>
+
   <BirthdayMakeChoices>닫으려면 먼저 선택을 하세요.</BirthdayMakeChoices>
   <BirthdayNickname>{0}(은)는 {1}(이)라는 별명을 얻었습니다.</BirthdayNickname>
   <SelectATrait>특성을 선택하세요.</SelectATrait>
@@ -88,15 +92,19 @@
   <Later>나중에</Later>
   
   <LetterLabelMechlinkAvailable>메크링크 획득 기회</LetterLabelMechlinkAvailable>
-  <LetterMechlinkAvailable>임무 '{0}'(을)를 통해 메크링크 이식물을 획득할 수 있습니다.\n\n정착민이 메크링크를 설치하면 메카나이터가 됩니다. 메카나이터는 메카노이드를 생산, 제어, 조작해서 작업과 전투에 활용합니다.</LetterMechlinkAvailable>
+  <LetterMechlinkAvailable>임무 '{0}'(을)를 통해 메크링크 삽입물을 획득할 수 있습니다.\n\n정착민이 메크링크를 설치하면 메카나이터가 됩니다. 메카나이터는 메카노이드를 생산, 제어, 조작해서 작업과 전투에 활용합니다.</LetterMechlinkAvailable>
 
   <!-- Genes -->
   <LetterLabelXenogermOrderedImplanted>변형이식체 이식 명령함</LetterLabelXenogermOrderedImplanted>
-  <LetterXenogermOrderedImplanted>{PAWN_nameDef}에 이식할 변형이식체를 주문했습니다. 이 절차는 의료용 침대와 {MEDICINENEEDED} 약이 필요합니다.{BEDINFO}{MEDICINEINFO}\n\n이 절차는 {PAWN_nameDef}의 건강 -> 수술 탭으로 이동하여 취소할 수 있습니다.</LetterXenogermOrderedImplanted>
+  <LetterXenogermOrderedImplanted>{PAWN_nameDef}에게 변형이식체 이식을 지시했습니다. 이 절차는 의료용 침대와 {MEDICINENEEDED}개의 약품이 필요합니다.{BEDINFO}{MEDICINEINFO}\n\n이 절차는 {PAWN_nameDef}의 건강 -> 수술 탭으로 이동하여 취소할 수 있습니다.</LetterXenogermOrderedImplanted>
   <XenogermOrderedImplantedBedNeeded>\n\n{PAWN_nameDef}에 사용할 수 있는 의료용 침대가 없습니다. 침대를 의료용으로 변경하는 것을 고려하세요.</XenogermOrderedImplantedBedNeeded>
   <XenogermOrderedImplantedMedicineNeeded>\n\n변형이식체를 이식할 약품이 부족합니다. {MEDICINENEEDED} 약품을 받을 때까지 이식을 시작할 수 없습니다.</XenogermOrderedImplantedMedicineNeeded>
   <LetterLabelInvoluntaryDeathrest>비 자발적 죽음안식</LetterLabelInvoluntaryDeathrest>
-  <LetterTextInvoluntaryDeathrest>{PAWN_nameDef}(은)는 죽음안식에 빠졌습니다.</LetterTextInvoluntaryDeathrest>
+  <LetterLabelRegenerationComa>재생성 혼수상태</LetterLabelRegenerationComa>
+  <LetterTextInvoluntaryDeathrestOrComa>{PAWN_nameDef}의 불사 유전자가 {PAWN_objective} 죽음에서 구했습니다. {HEDIFFINFO}</LetterTextInvoluntaryDeathrestOrComa>
+  <LetterTextDeathrest>대신 {PAWN_pronoun}는 죽음안식에 빠졌습니다.</LetterTextDeathrest>
+  <LetterTextRegenerationComa>대신 {PAWN_pronoun}는 재생성 혼수상태에 빠졌습니다.</LetterTextRegenerationComa>
+  <DeathrestLostSkill>죽음안식의 외부 신경 충격으로 {PAWN_nameDef}(은)는 {PAWN_possessive} {SKILL} 기술에서 {XPLOSS} 경험치를 잃었습니다.</DeathrestLostSkill>
   <DeathrestLethalDamage>치명상을 입었습니다.</DeathrestLethalDamage>
 
   <LetterLabelSanguophageWaitingToReimplant>변형이식체 이식</LetterLabelSanguophageWaitingToReimplant>
@@ -108,6 +116,9 @@
   <RefugeePodCrashBaby>{PAWN_factionName}의 {PAWN_nameDef}(이)라는 이름의 아기가 탄 수송 포드가 근처에 추락했습니다.\n\n'입양' 명령으로 {PAWN_objective}를 입양하거나 {PAWN_objective} 무시하도록 선택할 수 있습니다.</RefugeePodCrashBaby>
   <RefugeePodCrashBabyHasParent>{PAWN_nameDef}의 돌아가신 부모의 시체도 수송 포드에 같이 있습니다.</RefugeePodCrashBabyHasParent>
 
-  <LetterPsychicBondCreated>본능적으로 짝을 찾고 있는 {BONDPAWN_nameDef}(은)는 {OTHERPAWN_nameDef}(와)과 정신적으로 결속된 낭만적인 관계를 형성했습니다. {OTHERPAWN_nameDef}(은)는 {BONDPAWN_nameDef}(와)과 정신적 연결을 통해 심리적으로 도움이 되지만 서로 다른 세계 타일로 분리되면 둘 다 정신적 스트레스를 받게 됩니다. 하나가 죽으면 다른 하나는 광기에 휩싸일 것입니다.</LetterPsychicBondCreated>
+  <LetterPsychicBondCreated>본능적으로 짝을 찾고 있는 {BONDPAWN_nameDef}(은)는 {OTHERPAWN_nameDef}(와)과 정신적으로 결속된 낭만적인 관계를 형성했습니다. {OTHERPAWN_nameDef}(은)는 {BONDPAWN_nameDef}(와)과 정신적 연결을 통해 심리적으로 도움이 되지만, 다른 세계 지점으로 서로 떨어지게 되면 둘 다 정신적 스트레스를 받게 됩니다. 하나가 죽으면 다른 하나는 광기에 휩싸일 것입니다.</LetterPsychicBondCreated>
+
+  <LetterPsychicBondCreatedLovinLabel>정신결속</LetterPsychicBondCreatedLovinLabel>
+  <LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef}(은)는 {OTHERPAWN_nameDef}(와)과 유대감 있는 낭만적인 정신 관계를 형성했습니다. {OTHERPAWN_nameDef}(은)는 {BONDPAWN_nameDef}(와)과의 정신결속을 통해 심리적으로 도움이 되지만, 서로 다른 세계 지점으로 떨어지게 되면 둘 다 정신적 스트레스를 받게 됩니다. 하나가 죽으면 다른 하나는 광기에 휩싸일 것입니다.</LetterPsychicBondCreatedLovinText>
 
 </LanguageData>

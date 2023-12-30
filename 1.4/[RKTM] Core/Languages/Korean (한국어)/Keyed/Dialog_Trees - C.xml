@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FactionGreetingHostile>{0}의 대표자는 거친 욕설을 퍼부으며 통신을 종료합니다.</FactionGreetingHostile>
-  <FactionGreetingHostileAppreciative>{0}의 대표자는 당신이 먼저 자신들의 거주지 중 한 곳에 선물을 가져오거나 수감자를 석방하여 호의를 보여줄 것을 원합니다. 그러기 전에는 대화하려 하지 않을 것입니다.\n\n{0_pronoun}는 모욕적인 말을 중얼거리며 통신을 종료합니다.</FactionGreetingHostileAppreciative>
-  <FactionGreetingWary>{0}의 대표자는 {NEGOTIATOR_labelShort}에게 조심스럽게 인사를 건네며 용건을 묻습니다.</FactionGreetingWary>
-  <FactionGreetingWarm>{0}의 대표자는 {NEGOTIATOR_labelShort}에게 따뜻한 목소리로 인사하며 {LEADER_pronoun} 정착지의 안부를 묻습니다.</FactionGreetingWarm>
+  <FactionGreetingHostile>{0} 대표는 거친 욕설을 퍼부으며 통신을 종료합니다.</FactionGreetingHostile>
+  <FactionGreetingHostileAppreciative>{0} 대표는 당신이 먼저 자신들의 정착지 중 한 곳에 선물을 가져오거나 수감자를 석방하여 호의를 보여줄 것을 원합니다. 그러기 전에는 대화하려 하지 않을 것입니다.\n\n{0_pronoun}는 모욕적인 말을 중얼거리며 통신을 종료합니다.</FactionGreetingHostileAppreciative>
+  <FactionGreetingWary>{0} 대표는 {NEGOTIATOR_labelShort}에게 조심스럽게 인사를 건네며 용건을 묻습니다.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} 대표는 {NEGOTIATOR_labelShort}에게 따뜻한 목소리로 인사하며, {LEADER_pronoun}가 무엇을 도와줄지 물었습니다.</FactionGreetingWarm>
 
   <WorkTypeDisablesOption>{0} 거절</WorkTypeDisablesOption>
   <Disconnect>통신 종료</Disconnect>
@@ -20,7 +20,7 @@
 
   <!-- Trade caravan request -->
   <RequestTrader>상단 요청 (비용: {0} 우호도)</RequestTrader>
-  <ChooseTraderKind>{0}에서 어느 상단을 보낼지 물어보고 있습니다.</ChooseTraderKind>
+  <ChooseTraderKind>{0}(이)가 어느 상단을 보낼지 물어보고 있습니다.</ChooseTraderKind>
   <TraderSent>{0}에서 상단을 보내는 데 동의했습니다. 며칠 내로 도착할 것입니다.</TraderSent>
   <WaitTime>{0} 대기</WaitTime>
   

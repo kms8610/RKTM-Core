@@ -22,7 +22,7 @@
   <CannotImprison>수감 불가</CannotImprison>
   <CurrentSuppression>현재 복종심</CurrentSuppression>
   <Terror>공포</Terror>
-  <TerrorDescription>공포는 노예를 억압하는 수단입니다. 노예가 공포 조각상처럼 끔찍한 물품의 주위에 머물면 공포 수치가 상승합니다. 한 번에 최대 세 개의 공포 요인에만 영향을 받습니다.\n\n공포가 높으면 아래 수치만큼 억압이 느리게 하락합니다</TerrorDescription>
+  <TerrorDescription>공포는 노예를 억압하는 수단입니다. 노예가 공포 조각상처럼 끔찍한 대상의 주위에 머물면 공포 수치가 상승합니다. 한 번에 최대 세 개의 공포 요인에만 영향을 받습니다.\n\n공포가 높으면 아래 수치만큼 억압이 느리게 하락합니다</TerrorDescription>
   <TerrorCurrentThoughts>최근 끔찍한 광경을 목도함</TerrorCurrentThoughts>
 
   <SuppressionBaseInterval>기본 주기</SuppressionBaseInterval>

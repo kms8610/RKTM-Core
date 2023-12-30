@@ -51,7 +51,7 @@
   <PrisonerReleasePotentialRelationGains>석방 시 얻는 우호도</PrisonerReleasePotentialRelationGains>
   <PrisonerReleaseRelationGainsDesc>수감자를 석방하면 수감자의 소속 세력과 관계가 개선됩니다. 개선되는 수치는 수감자의 지위, 건강, 정신 상태에 영향을 받습니다.</PrisonerReleaseRelationGainsDesc>
   <PrisonBreakMTBDays>탈옥 주기</PrisonBreakMTBDays>
-  <PrisonBreakMTBDaysDescription>평균적으로 탈옥을 시도할 간격입니다. 기분, 이동 속도, 출입문의 개수, 마지막 탈옥 시도와의 간격에 영향을 받습니다.\n\n이 수치는 깨어있는 시간만 고려한 것입니다.</PrisonBreakMTBDaysDescription>
+  <PrisonBreakMTBDaysDescription>평균적으로 탈옥을 시도하는 간격입니다. 기분, 이동 속도, 출입문의 개수, 마지막 탈옥 시도와의 간격에 영향을 받습니다.\n\n이 수치는 깨어있는 시간만 고려한 것입니다.</PrisonBreakMTBDaysDescription>
   <Never>없음</Never>
   <NotWhileAsleep>잠든 동안에는 없음</NotWhileAsleep>
   <CurrentlyPrisonBreaking>지금 탈옥 중</CurrentlyPrisonBreaking>
@@ -205,7 +205,7 @@
   <PenFoodTab_Count>수</PenFoodTab_Count>
   <PenFoodTab_CurrentDay>오늘</PenFoodTab_CurrentDay>
   <PenFoodTab_Nutrition_Unit>열량</PenFoodTab_Nutrition_Unit>
-  <PenFoodTab_NutritionPerDay_Unit>/일</PenFoodTab_NutritionPerDay_Unit>
+  <PenFoodTab_NutritionPerDay_Unit>/ 일</PenFoodTab_NutritionPerDay_Unit>
   <PenFoodTab_AddAnimal>동물 강제 표시...</PenFoodTab_AddAnimal>
 
   <PenFoodTab_NaturalNutritionGrowthRate>열량 성장률</PenFoodTab_NaturalNutritionGrowthRate>

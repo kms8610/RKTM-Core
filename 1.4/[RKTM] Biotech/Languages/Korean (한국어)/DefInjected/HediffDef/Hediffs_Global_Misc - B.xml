@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <InfantIllness.label>신생아 질환</InfantIllness.label>
-  <InfantIllness.description>출생 합병증으로 인한 영향입니다. 아기가 생후 10일동안 생존하면 스스로 회복 할 수 있을만큼 건강해질 것 입니다.\n\n아기의 상태는 시간이 지남에 따라 악화되거나 호전될 것이며 이는 다양한 수준의 약품과 치료를 필요로 합니다.</InfantIllness.description>
+  <InfantIllness.description>출생 합병증의 영향입니다. 아기가 생후 10일 동안 생존하면 스스로 회복할 수 있을 만큼 건강해질 것입니다.\n\n아기의 상태는 시간이 지남에 따라 나빠지거나 좋아질 것이며, 다양한 수준의 약품과 치료가 필요합니다.</InfantIllness.description>
   <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>{PAWN_labelShort}의 유아 질병이 {1}에서 {2}(으)로 변경되었습니다.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
   <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>번화계 약품과 뛰어난 치료 없이는 위험합니다.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>
   <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>심각한</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>
@@ -18,7 +18,7 @@
   <InfantIllness.stages.extreme-1.label>위험</InfantIllness.stages.extreme-1.label>
   
   <Lactating.label>수유 가능</Lactating.label>
-  <Lactating.description>아기에게 모유를 먹일 수 있는 상태입니다. 유방은 계속해서 우유를 생산하고 저장합니다. 수유 상태는 산모가 출산할 때부터 시작되고, 10일에 한 번 이상 아기에게 모유 수유를 하면 무기한 지속됩니다.</Lactating.description>
+  <Lactating.description>아기에게 모유 수유를 할 수 있는 상태입니다. 유방은 활발하게 우유를 생산하고 저장합니다. 수유 상태는 산모가 출산할 때 시작되며, 10일에 한 번 이상 아기에게 모유 수유를 하는 한 무한정 지속됩니다.\n\n수유 중인 사람은 임신하기가 더 어렵습니다.</Lactating.description>
   <Lactating.comps.HediffComp_MessageOnRemoval.message>{0}(은)는 10일 동안 모유 수유를 하지 않아 더 이상 수유하지 않습니다.</Lactating.comps.HediffComp_MessageOnRemoval.message>
   <Lactating.comps.HediffComp_Lactating.labelInBrackets>모유 양: {CHARGEFACTOR_percentage}</Lactating.comps.HediffComp_Lactating.labelInBrackets>
   <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>{0}(은)는 영양실조로 인해 더 이상 수유할 수 없습니다.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
@@ -53,13 +53,13 @@
   <PregnancyMood.description>임신의 흔한 부작용입니다. 호르몬 균형이 무너져 발생하는 기분의 상승과 하락을 통칭합니다.</PregnancyMood.description>
   
   <PregnantHuman.label>임신</PregnantHuman.label>
-  <PregnantHuman.description>배아가 산모 안에서 자라나고 있습니다. 임신기간은 18일이며, 이는 3분기로 나뉩니다. 임신이 진행됨에 따라 산모의 움직임이 제한됩니다. 일부 산모의 경우, 임신은 견디기 힘들 수 있는 메스꺼움이나 기분변화를 겪게 됩니다.</PregnantHuman.description>
+  <PregnantHuman.description>배아가 산모 안에서 자라나고 있습니다. 인간의 경우 임신기간은 18일이며, 이는 3분기로 나뉩니다. 임신이 진행됨에 따라 산모의 움직임이 제한됩니다. 일부 산모의 경우 임신은 견디기 힘들 수 있는 메스꺼움이나 기분변화를 겪게 됩니다.</PregnantHuman.description>
   <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>{0_labelShort} 임신</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>
   <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>{0_labelShort}(이)가 임신했습니다!</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>
   <PregnantHuman.labelNoun>임신</PregnantHuman.labelNoun>
-  <PregnantHuman.stages.first_trimester.label>제1삼분기</PregnantHuman.stages.first_trimester.label>
-  <PregnantHuman.stages.second_trimester.label>제2삼분기</PregnantHuman.stages.second_trimester.label>
-  <PregnantHuman.stages.third_trimester.label>제3삼분기</PregnantHuman.stages.third_trimester.label>
+  <PregnantHuman.stages.first_trimester.label>제1 삼분기</PregnantHuman.stages.first_trimester.label>
+  <PregnantHuman.stages.second_trimester.label>제2 삼분기</PregnantHuman.stages.second_trimester.label>
+  <PregnantHuman.stages.third_trimester.label>제3 삼분기</PregnantHuman.stages.third_trimester.label>
   
   <Stillborn.label>사산</Stillborn.label>
   <Stillborn.description>이 아기는 임신 중 불특정 합병증으로 사망했습니다.</Stillborn.description>

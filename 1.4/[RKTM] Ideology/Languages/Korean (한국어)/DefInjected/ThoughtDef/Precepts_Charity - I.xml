@@ -76,10 +76,10 @@
   <CharityRefused_Essential_IntroWimp.stages.noble_not_helped.description>우린 도움이 절실한 귀족을 도와주지 않았어. 그건 정말로 냉혈한 짓이었어.</CharityRefused_Essential_IntroWimp.stages.noble_not_helped.description>
   
   <CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.label>도움을 받지 못한 순례자들</CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.label>
-  <CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.description>그들은 우리의 신성한 유물을 보여달라고 요청했지만 거절했다. 어떻게 이렇게 이기적일 수 있지?</CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.description>
+  <CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.description>그들은 우리의 신성한 유물을 보여달라고 요청했지만 거절했어. 어떻게 이렇게 이기적일 수 있지?</CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.description>
   
   <CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>배신당한 순례자들</CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>
-  <CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>그들은 우리의 신성한 유물을 보러 왔지만, 우리는 그들을 배신했다. 어쩌다 이렇게 타락한 거지?</CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
+  <CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>우리의 신성한 유물을 보러 온 그들을 배신했어. 어쩌다 이렇게 타락한 거지?</CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
   
   <CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.label>피난민 거부</CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
   <CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.description>다치고 도움이 필요한 사람들을 외면했어. 이런 상태로 얼마나 살 수 있을까?</CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
@@ -106,10 +106,10 @@
   <CharityRefused_Important_IntroWimp.stages.noble_not_helped.description>우린 도움이 절실한 귀족을 도와주지 않았어. 우리는 더 노력해야 해.</CharityRefused_Important_IntroWimp.stages.noble_not_helped.description>
   
   <CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.label>도움을 받지 못한 순례자들</CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.label>
-  <CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.description>그들은 우리의 신성한 유물을 보여달라고 요청했지만 우리는 거절했다. 우리의 방식을 바꿀 필요가 있어.</CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.description>
+  <CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.description>그들은 우리의 신성한 유물을 보여달라고 요청했지만 거절했어. 우리는 방식을 바꿀 필요가 있어.</CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.description>
   
   <CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>배신당한 순례자들</CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>
-  <CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>그들은 우리의 신성한 유물을 보러 왔고 우리는 그들을 배신했다. 이 얼마나 끔찍한 행동인가.</CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
+  <CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>우리의 신성한 유물을 보러 온 그들을 배신했어. 이 얼마나 끔찍한 행동인가.</CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
   
   <CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.label>피난민을 돕지 않음</CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
   <CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.description>다치고 도움이 필요한 사람들을 외면했어. 내가 착한 사람이 맞긴 한가?</CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
@@ -136,10 +136,10 @@
   <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.description>우린 도움이 절실한 귀족을 도와주지 않았어. 나는 생각보다 자비롭지 않은가 봐.</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.description>
   
   <CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.label>도움을 받지 못한 순례자들</CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.label>
-  <CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.description>그들은 우리의 신성한 유물을 보길 요청했지만 우리는 거부했습니다. 우리는 좀 더 노력해야 합니다.</CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.description>
+  <CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.description>그들은 우리의 신성한 유물을 보여달라고 요청했지만 거부했어. 우리는 좀 더 관대해야 해.</CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.description>
   
   <CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>배신당한 순례자들</CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>
-  <CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>그들은 우리의 신성한 유물을 보러 왔지만 우리는 그들을 배신했습니다. 우리는 좀 더 잘해야만 합니다.</CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
+  <CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>우리의 신성한 유물을 보러 온 그들을 배신했어. 이래서는 안 돼.</CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
   
   <CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.label>피난민을 돕지 않음</CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
   <CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.description>다치고 도움이 필요한 사람들을 외면했어. 최선의 선택은 아니었지.</CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.description>

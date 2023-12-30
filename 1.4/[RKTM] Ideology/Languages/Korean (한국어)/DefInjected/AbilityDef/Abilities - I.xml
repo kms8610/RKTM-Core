@@ -15,7 +15,7 @@
   
   <Convert.label>교화</Convert.label>
   <Convert.description>대상을 전도사의 사상으로 교화하도록 시도합니다. 대상의 사상에 대한 믿음을 감소시킵니다. 믿음의 감소는 전도사의 협상 능력에 따릅니다.</Convert.description>
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort} 교화에 실패했습니다. {RECIPIENT_labelShort}(은)는 분노했지만, {RECIPIENT_possessive} 믿음은 감소했습니다. ({CERTAINTYBEFORE} ▶ {CERTAINTYAFTER})</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}의 교화에 실패했습니다. {RECIPIENT_labelShort}(은)는 분노했지만, {RECIPIENT_possessive} 믿음은 {CERTAINTYBEFORE}에서 {CERTAINTYAFTER}로 감소했습니다.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(을)를 {IDEO}(으)로 교화시켰습니다.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   
   <Counsel.label>심리 상담</Counsel.label>
@@ -47,7 +47,7 @@
   
   <Reassure.label>사상 교육</Reassure.label>
   <Reassure.description>대상자의 사상에 대한 믿음을 강화합니다. 회복되는 믿음의 수치는 전도사의 협상 능력에 따릅니다.</Reassure.description>
-  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}에게 다시 확신을 심어주었습니다. {RECIPIENT_labelShort}의 {IDEO}에 대한 믿음이 {BEFORECERTAINTY}에서 {AFTERCERTAINTY}(으)로 회복되었습니다.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}에게 다시 확신을 심어주었습니다. {RECIPIENT_labelShort}의 {IDEO}에 대한 믿음이 {BEFORECERTAINTY}에서 {AFTERCERTAINTY}로 회복되었습니다.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
   
   <ResearchCommand.label>연구 감독</ResearchCommand.label>
   <ResearchCommand.description>주위 모든 아군에게 적절한 조언과 정신적인 지원을 통해 연구 속도를 증가시킵니다. 이 효과는 24시간 동안 지도자를 중심으로 지속하며, 영향 범위에서 멀어지면 효과가 사라집니다.</ResearchCommand.description>

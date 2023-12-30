@@ -5,7 +5,7 @@
     <li>firstSentence(tierSection==4)->[PAWN_pronoun](은)는 뛰어난 [nounGrowth](을)를 보여줬으며, [nounFuture]에 대해 [adjGood] [nounAttitudeGood](을)를 느낍니다.</li>
     <li>firstSentence(tierSection==4)->[PAWN_pronoun]는 [situationLearning](을)를 통해 새로운 열정을 발견했습니다.</li>
     <li>firstSentence(tierSection==4)->[situationLearning](으)로 인해, [PAWN_pronoun]는 새 열정을 찾았습니다.</li>
-    <li>firstSentence(tierSection==4)->지난 한해동안 [PAWN_pronoun]는 뛰어난 [nounGrowth](을)를 보여줬습니다..</li>
+    <li>firstSentence(tierSection==4)->지난 한해동안 [PAWN_pronoun]는 뛰어난 [nounGrowth](을)를 보여줬습니다.</li>
     <li>secondSentence(tierSection==4)->[PAWN_nameDef](은)는 [situationLearning](와)과 [situationFun]에 더 많은 시간을 보내고 싶어합니다.</li>
     <li>secondSentence(tierSection==4)->[PAWN_nameDef](은)는 [situationLearning](을)를 즐겼지만, 그중에서도 특히 [situationFun](을)를 좋아했습니다.</li>
     <li>secondSentence(tierSection==4)->[PAWN_nameDef](은)는 [situationLearning](을)를 즐겼고, [situationAspirational](을)를 꿈꿉니다.</li>
@@ -26,7 +26,7 @@
     <li>secondSentence(tierSection==2)->[PAWN_nameDef](은)는 [situationFun](을)를 더 하고싶어합니다.</li>
     <li>secondSentence(tierSection==2)->[PAWN_nameDef](은)는 [taskWork](이)가 지루하다고 생각합니다.</li>
     <li>secondSentence(tierSection==2)->특히, [PAWN_nameDef](은)는 [situationLearning]에 집중하고 싶어 합니다.</li>
-    <li>firstSentence(tierSection==1)->[PAWN_pronoun]는 적은 [nounGrowth](을)를 보여줬으며, [nounFuture]에 대해 별 기대를 하지 않고있습니다.</li>
+    <li>firstSentence(tierSection==1)->[PAWN_pronoun]는 적은 [nounGrowth](을)를 보여줬으며, [nounFuture]에 대해 별 기대를 하지 않고 있습니다.</li>
     <li>firstSentence(tierSection==1)->[nounFuture]에는 다를거라고 생각하지만, [PAWN_pronoun]는 [nounGrowth](을)를 거의 하지 않았습니다.</li>
     <li>firstSentence(tierSection==1)->[PAWN_pronoun]는 [nounFuture]에는 더 나아지기를 바랍니다.</li>
     <li>firstSentence(tierSection==1)->[PAWN_pronoun]는 [situationLearning]가 지루하다고 불평하면서 정말 적은 [nounGrowth]을 보여주었습니다.</li>
@@ -109,7 +109,7 @@
     <li>situationBad->흑사병에 걸리</li>
     <li>situationBad->식중독에 걸리</li>
     <li>situationBad->사랑하는 이의 죽음을 보</li>
-    <li>situationBad->식탁 없이 식사하</li>
+    <li>situationBad->식탁 없이 식사하기</li>
     <li>topicLearning->우주</li>
     <li>topicLearning->과학</li>
     <li>topicLearning->여러 문화</li>

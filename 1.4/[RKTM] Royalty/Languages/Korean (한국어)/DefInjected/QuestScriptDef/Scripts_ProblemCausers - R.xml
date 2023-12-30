@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <ProblemCauser.questDescriptionRules.rulesStrings>
-    <li>questDescription(siteFaction==Pirate)->해적이 당신을 괴롭히기 위해 [map_definite] 근처에 전초기지를 세웠습니다. [allSitePartsDescriptions]\n\n전초기지는 팀을 보내 파괴할 때까지 계속 남아있게 됩니다.</li>
-    <li>questDescription(siteFaction==Mechanoids)->메카 전초기지가 [map_definite]에서 멀지 않은 곳에 착륙했습니다. [allSitePartsDescriptions]\n\n메카 전초기지는 팀을 보내 파괴할 때까지 계속 남아있게 됩니다.</li>
+    <li>questDescription(siteFaction==Pirate)->해적이 당신을 괴롭히기 위해 [map_definite] 근처에 전초기지를 세웠습니다.\n[allSitePartsDescriptions]\n\n전초기지는 정착민을 보내 파괴할 때까지 계속 남아있게 됩니다.</li>
+    <li>questDescription(siteFaction==Mechanoids)->메카 전초기지가 [map_definite]에서 멀지 않은 곳에 착륙했습니다.\n[allSitePartsDescriptions]\n\n메카 전초기지는 정착민을 보내 파괴할 때까지 계속 남아있게 됩니다.</li>
   </ProblemCauser.questDescriptionRules.rulesStrings>
   <ProblemCauser.questNameRules.rulesStrings>
     <li>questName(siteFaction==Pirate)->[problemCauserLabel](을)를 가진 해적</li>

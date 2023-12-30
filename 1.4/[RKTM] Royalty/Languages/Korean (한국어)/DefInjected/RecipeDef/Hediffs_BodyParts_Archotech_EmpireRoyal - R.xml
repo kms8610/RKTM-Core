@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InstallPsychicHarmonizer.label>감정 송출기 이식</InstallPsychicHarmonizer.label>
-  <InstallPsychicHarmonizer.description>감정 송출기를 이식합니다.</InstallPsychicHarmonizer.description>
-  <InstallPsychicHarmonizer.jobString>감정 송출기 이식 중</InstallPsychicHarmonizer.jobString>
+  <InstallPsychicHarmonizer.label>감정 송출기 설치</InstallPsychicHarmonizer.label>
+  <InstallPsychicHarmonizer.description>감정 송출기를 설치합니다.</InstallPsychicHarmonizer.description>
+  <InstallPsychicHarmonizer.jobString>감정 송출기 설치 중</InstallPsychicHarmonizer.jobString>
   
-  <InstallPsychicReader.label>감정 판독기 이식</InstallPsychicReader.label>
-  <InstallPsychicReader.description>감정 판독기를 이식합니다.</InstallPsychicReader.description>
-  <InstallPsychicReader.jobString>감정 판독기 이식 중</InstallPsychicReader.jobString>
+  <InstallPsychicReader.label>감정 판독기 설치</InstallPsychicReader.label>
+  <InstallPsychicReader.description>감정 판독기를 설치합니다.</InstallPsychicReader.description>
+  <InstallPsychicReader.jobString>감정 판독기 설치 중</InstallPsychicReader.jobString>
   
-  <InstallPsychicSensitizer.label>초능력 증진기 이식</InstallPsychicSensitizer.label>
-  <InstallPsychicSensitizer.description>초능력 증진기를 이식합니다.</InstallPsychicSensitizer.description>
-  <InstallPsychicSensitizer.jobString>초능력 증진기 이식 중</InstallPsychicSensitizer.jobString>
+  <InstallPsychicSensitizer.label>초능력 증진기 설치</InstallPsychicSensitizer.label>
+  <InstallPsychicSensitizer.description>초능력 증진기를 설치합니다.</InstallPsychicSensitizer.description>
+  <InstallPsychicSensitizer.jobString>초능력 증진기 설치 중</InstallPsychicSensitizer.jobString>
   
   <RemovePsychicHarmonizer.label>감정 송출기 제거</RemovePsychicHarmonizer.label>
   <RemovePsychicHarmonizer.description>감정 송출기를 제거합니다.</RemovePsychicHarmonizer.description>

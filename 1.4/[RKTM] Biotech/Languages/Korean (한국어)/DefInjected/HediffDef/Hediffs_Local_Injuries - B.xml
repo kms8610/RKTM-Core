@@ -2,6 +2,9 @@
 <LanguageData>
   <BeamWound.label>광선 화상</BeamWound.label>
   <BeamWound.description>광선에 입은 화상입니다.</BeamWound.description>
+  <BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>치유됨</BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <BeamWound.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</BeamWound.comps.HediffComp_TendDuration.labelTendedWell>
+  <BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>
   <BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>영구적 광선 화상</BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
   <BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>오래된 광선 상처</BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>
   <BeamWound.injuryProps.destroyedLabel>불에 타버림</BeamWound.injuryProps.destroyedLabel>

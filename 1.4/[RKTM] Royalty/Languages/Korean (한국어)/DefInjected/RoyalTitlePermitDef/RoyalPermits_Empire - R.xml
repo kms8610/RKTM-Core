@@ -22,7 +22,7 @@
   <CallOrbitalStrike.description>무인항공기를 호출하여 목표 지점을 타격합니다.</CallOrbitalStrike.description>
   
   <CallTransportShuttle.label>왕복선 호출</CallTransportShuttle.label>
-  <CallTransportShuttle.description>왕복선을 호출하여 정착민, 동물, 물품을 세계 지도 70타일 내 원하는 곳으로 즉시 수송합니다.</CallTransportShuttle.description>
+  <CallTransportShuttle.description>왕복선을 호출하여 정착민, 동물, 물품을 세계 지도 70칸 내 원하는 곳으로 즉시 수송합니다.</CallTransportShuttle.description>
   
   <FoodDrop.label>식량 투하</FoodDrop.label>
   <FoodDrop.description>보존식량 20개를 요청합니다.</FoodDrop.description>

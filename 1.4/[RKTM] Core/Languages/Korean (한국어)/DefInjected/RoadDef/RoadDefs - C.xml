@@ -6,7 +6,7 @@
   
   <DirtPath.label>흙길</DirtPath.label>
   
-  <DirtRoad.label>비포장로</DirtRoad.label>
+  <DirtRoad.label>비포장 도로</DirtRoad.label>
   
   <StoneRoad.label>돌길</StoneRoad.label>
 </LanguageData>

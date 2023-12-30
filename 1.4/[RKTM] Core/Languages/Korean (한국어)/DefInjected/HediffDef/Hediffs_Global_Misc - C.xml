@@ -7,7 +7,7 @@
   <Anesthetic.stages.sedated.label>안정됨</Anesthetic.stages.sedated.label>
   
   <BloodLoss.label>혈액 손실</BloodLoss.label>
-  <BloodLoss.description>혈액량이 정상 범위보다 적습니다. 경미한 혈액 손실은 비교적 가벼운 영향만 주지만, 손실량이 커지면 산소 공급력이 심각하게 저하되고 이동능력을 상실합니다. 극심한 혈액 손실은 사망으로 이어집니다.\n\n혈액 손실은 시간에 지나면서 점차 회복됩니다.</BloodLoss.description>
+  <BloodLoss.description>혈액량이 정상 수준보다 적습니다. 경미한 혈액 손실은 비교적 가벼운 영향만 주지만, 손실량이 커지면 산소 공급력이 심각하게 저하되고 이동능력을 상실합니다. 극심한 혈액 손실은 사망으로 이어집니다.\n\n혈액 손실은 시간에 지나면서 점차 회복됩니다.</BloodLoss.description>
   <BloodLoss.stages.minor-0.label>가벼움</BloodLoss.stages.minor-0.label>
   <BloodLoss.stages.minor-1.label>가벼움</BloodLoss.stages.minor-1.label>
   <BloodLoss.stages.moderate.label>진행됨</BloodLoss.stages.moderate.label>
@@ -39,7 +39,7 @@
   <DrugOverdose.stages.major.label>심각함</DrugOverdose.stages.major.label>
   
   <FoodPoisoning.label>식중독</FoodPoisoning.label>
-  <FoodPoisoning.description>상한 음식이나 불결한 음식으로 인해 발생하는 소화기 질환입니다. 부패했거나, 능력이 부족한 요리사가 조리 과정에서 실수했거나, 안전하지 않은 날것을 먹으면 발생할 수 있습니다. 환자는 한동안 구토 증세를 느끼며 고통받습니다.</FoodPoisoning.description>
+  <FoodPoisoning.description>상한 음식이나 불결한 음식 때문에 발생하는 소화기 질환입니다. 능력이 부족한 요리사가 조리 과정에서 실수했거나, 부패한 음식 또는 안전하지 않은 날것을 먹으면 발생할 수 있습니다. 환자는 한동안 구토 증세를 느끼며 고통받습니다.</FoodPoisoning.description>
   <FoodPoisoning.stages.recovering.label>회복기</FoodPoisoning.stages.recovering.label>
   <FoodPoisoning.stages.major.label>심각함</FoodPoisoning.stages.major.label>
   <FoodPoisoning.stages.initial.label>초기</FoodPoisoning.stages.initial.label>
